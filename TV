@@ -11,6 +11,10 @@ https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Россия К
 https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",Euronews
+http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",Время
+http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Мир24
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",РБК
@@ -37,6 +41,12 @@ https://flussonic.mkpnet.ru/tv-b9f0884f9a81b8c6/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-5f6d3cfda1af8989/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Че!
 https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",Перец
+http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",Звезда
+http://vod.tuva.ru/zvezda/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",Звезда Плюс
+http://185.234.59.200:8080/zvezda_plyus/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Ю
 https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",ОТР
@@ -89,7 +99,6 @@ http://185.234.59.200:8080/hollywood_hd/video.m3u8?token=test
 http://185.234.59.200:8080/bollywood_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",НСТ
 http://185.234.59.200:8080/nst/video.m3u8
-
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Amedia 2
@@ -109,7 +118,7 @@ https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8?token=test
 #EXTINF:-1 tvg-id="249" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00249.png" tvg-name="VIP Comedy HD" group-title="🎥 Фильмы и Сериалы",Viasat Kino Comedy
 https://iptv.prosto.tv/id249/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00599.png?1700729510" group-title="🎥 Фильмы и Сериалы",Viasat Serial HD
-https://iptv.prosto.tv/id599/video.m3u8?secret=0h67fdob&21yo=0
+http://188.225.31.197/bpk-tv/000004375/tve/index.m3u8?token=test
 #EXTINF:-1 tvg-id="104" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00104.png" tvg-name="TV 1000" group-title="🎥 Фильмы и Сериалы",Viasat Kino
 https://iptv.prosto.tv/id104/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-id="105" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00105.png" tvg-name="TV 1000 Action" group-title="🎥 Фильмы и Сериалы",Viasat Kino Action
@@ -128,6 +137,10 @@ https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Русский Роман
 https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Победа
+http://188.225.31.197/bpk-tv/000004534/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Мосфильм. Золотая коллекция
+http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",.Black
 https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Sci Fi
