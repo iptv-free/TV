@@ -67,6 +67,29 @@ http://185.234.59.200:8080/romance_hd/video.m3u8?token=test
 http://185.234.59.200:8080/suspense_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Sumiko HD
 http://185.234.59.200:8080/sumiko_hd/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Остросюжетное HD
+http://185.234.59.200:8080/ostrosyuzhetnoe_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Премиальное HD
+http://185.234.59.200:8080/premialnoe_hd/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Блокбастер HD
+http://185.234.59.200:8080/blokbaster_hd/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы", Душевное HD
+http://185.234.59.200:8080/dushevnoe_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы", Романтичное HD
+http://185.234.59.200:8080/romantichnoe_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Epic HD
+http://185.234.59.200:8080/epic_hd/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",DetectiveJam HD
+http://185.234.59.200:8080/detectivejam_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Криминальное HD
+http://185.234.59.200:8080/kriminalnoe_hd/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Hollywood
+http://185.234.59.200:8080/hollywood_hd/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Bollywood
+http://185.234.59.200:8080/bollywood_hd/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы", Страшное Телевидение
+http://185.234.59.200:8080/nst/video.m3u8
+
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Amedia 2
@@ -83,6 +106,16 @@ https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ premiere
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8?token=test
+#EXTINF:-1 tvg-id="249" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00249.png" tvg-name="VIP Comedy HD" group-title="🎥 Фильмы и Сериалы",Viasat Kino Comedy
+https://iptv.prosto.tv/id249/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00599.png?1700729510" group-title="🎥 Фильмы и Сериалы",Viasat Serial HD
+https://iptv.prosto.tv/id599/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-id="104" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00104.png" tvg-name="TV 1000" group-title="🎥 Фильмы и Сериалы",Viasat Kino
+https://iptv.prosto.tv/id104/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-id="105" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00105.png" tvg-name="TV 1000 Action" group-title="🎥 Фильмы и Сериалы",Viasat Kino Action
+https://iptv.prosto.tv/id105/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-id="103" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00103.png" tvg-name="TV 1000 World Kino" group-title="🎥 Фильмы и Сериалы",Viasat Kino World
+https://iptv.prosto.tv/id103/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Киносвидание
@@ -99,6 +132,30 @@ https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Sci Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00578.png?1712838085" group-title="🎥 Фильмы и Сериалы",Cinema Megahit HD
+https://iptv.prosto.tv/id578/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00579.png?1712837780" group-title="🎥 Фильмы и Сериалы",Cinema Comedy HD
+https://iptv.prosto.tv/id579/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00589.png?1712837819" group-title="🎥 Фильмы и Сериалы",Cinema Family HD
+https://iptv.prosto.tv/id589/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00726.png?1712838166" group-title="🎥 Фильмы и Сериалы",Cinema Prime
+https://iptv.prosto.tv/id726/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00727.png?1712838027" group-title="🎥 Фильмы и Сериалы",Cinema Legend HD
+https://iptv.prosto.tv/id727/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00728.png?1712837987" group-title="🎥 Фильмы и Сериалы",Сinema kinohit HD
+https://iptv.prosto.tv/id728/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00865.png?1716881658" group-title="🎥 Фильмы и Сериалы",ICTV серіали HD
+https://iptv.prosto.tv/id865/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00567.png" group-title="🎥 Фильмы и Сериалы",Cine+ HD
+https://iptv.prosto.tv/id567/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00568.png" group-title="🎥 Фильмы и Сериалы",Cine+ Legend
+https://iptv.prosto.tv/id568/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00560.png" group-title="🎥 Фильмы и Сериалы",Kinoliving HD
+https://iptv.prosto.tv/id560/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00558.png" group-title="🎥 Фильмы и Сериалы",4ever Theater HD
+https://iptv.prosto.tv/id558/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00566.png" group-title="🎥 Фильмы и Сериалы",NOW series HD
+https://iptv.prosto.tv/id566/video.m3u8?secret=0h67fdob&21yo=0
 
 #EXTINF:-1 group-title="⚽️ Спортивные",Okko Спорт HD
 http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
