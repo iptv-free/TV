@@ -91,6 +91,8 @@ https://flussonic.mkpnet.ru/tv-c90a71c34cc779ac/video.m3u8
 https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Sci Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="⚽️ Спортивные",Окко Прайм спорт
+http://185.221.213.254:8080/Okko/index.m3u8
 #EXTINF:-1 group-title="⚽️ Спортивные",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="⚽️ Спортивные",КХЛ
