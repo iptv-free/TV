@@ -94,11 +94,11 @@ http://185.234.59.200:8080/nst/video.m3u8
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Amedia 2
 https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8?token=test
-#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju TV1000
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ TV1000
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8?token=test
-#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju TV1000 Action
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ TV1000 Action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8?token=test
-#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju TV1000 Русское
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ TV1000 Русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ Comedy
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8?token=test
