@@ -103,15 +103,15 @@ http://185.234.59.200:8080/nst/video.m3u8
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Amedia 2
 https://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8?token=test
-#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ TV1000
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju TV1000
 https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8?token=test
-#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ TV1000 Action
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju TV1000 Action
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8?token=test
-#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ TV1000 Русское
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju TV1000 Русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8?token=test
-#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ Comedy
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju Comedy
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8?token=test
-#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ megahit
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju megahit
 https://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju+ premiere
 https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8?token=test
@@ -170,24 +170,22 @@ https://iptv.prosto.tv/id558/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00566.png" group-title="🎥 Фильмы и Сериалы",NOW series HD
 https://iptv.prosto.tv/id566/video.m3u8?secret=0h67fdob&21yo=0
 
-#EXTINF:-1 group-title="⚽️ Спортивные",Okko Спорт HD
+#EXTINF:-1 group-title="⚽️ Спортивные",Окко Спорт HD
 http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-logo="" group-title="⚽️ Спортивные",Окко Прайм спорт
 http://185.221.213.254:8080/Okko/index.m3u8?token=test
-#EXTINF:-1 group-title="⚽️ Спортивные",Okko Футбол HD
+#EXTINF:-1 group-title="⚽️ Спортивные",Окко Футбол HD
 http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="⚽️ Спортивные",Setanta Sports 1HD
 http://185.234.59.200:8080/setanta_sports_1_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="⚽️ Спортивные",Setanta Sports 2HD
 http://185.234.59.200:8080/setanta_sports_2_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="⚽️ Спортивные",KHL
-http://185.234.59.200:8080/khl_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="⚽️ Спортивные",Extreme Sports
-https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8?token=test
-#EXTINF:-1 group-title="⚽️ Спортивные",КХЛ
-https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8?token=test
-#EXTINF:-1 group-title="⚽️ Спортивные",Конный мир
-https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Матч! Футбол 1 HD
+http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Матч! Футбол 2 HD
+http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Матч! Футбол 3 HD
+http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",МАТЧ! Боец
 https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",МАТЧ! Арена
@@ -200,6 +198,14 @@ https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",МАТЧ! Страна
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",KHL
+http://185.234.59.200:8080/khl_hd/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="⚽️ Спортивные",Extreme Sports
+https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",КХЛ
+https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Конный мир
+https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8?token=test
 
 #EXTINF:-1 group-title="🌿 Познавательные",Viasat Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8?token=test
