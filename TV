@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",Инфоканал
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Россия 1
