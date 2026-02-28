@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/Info.svg.png" group-title="Info TV",Info TV
-#EXTINF:-1 tvg-logo="https://m3u.usite.pro/reklama.jpg" group-title="Info TV",Info TV
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Россия 1
