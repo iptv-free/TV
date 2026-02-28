@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Инфоканал
+https://iptv.prosto.tv/id307/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Россия 1
