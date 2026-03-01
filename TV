@@ -567,6 +567,8 @@ http://185.234.59.200:8080/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
 http://185.234.59.200:8080/setanta_sports_1_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="⚽️ Спортивные",Setanta Sports 2HD
 http://185.234.59.200:8080/setanta_sports_2_hd/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="⚽️ Спортивные",Setanta Казахстан HD
+http://185.234.59.200:8080/setanta_sports_qazaqstan_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="⚽️ Спортивные",Матч! Футбол 1 HD
 http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",Матч! Футбол 2 HD
@@ -593,6 +595,12 @@ https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-e3d23fc7511b5fcd/video.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",Конный мир
 https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Футболᴴᴰ (TJ)
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные",Варзиш Sportᴴᴰ (TJ)
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 group-title="⚽️ Спортивные",MMA-TV
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
 #EXTINF:-1 group-title="🌿 Познавательные",Viasat Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8?token=test
@@ -643,6 +651,16 @@ https://flussonic.mkpnet.ru/tv-ac43800065b9b1b7/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8?token=test
 #EXTINF:-1 group-title="👶 Детский",2x2
 https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8?token=test
+#EXTINF:-1 group-title="👶 Детский",Чип и Дейлᴴᴰ
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="👶 Детский",CHD TVᴴᴰ
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="👶 Детский",ТООКУᴴᴰ
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 group-title="👶 Детский",Пингвин Лоло
+http://85.192.10.131/hls/pingvinru/playlist.m3u8
+#EXTINF:-1 group-title="👶 Детский",Мамонтёнок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="🎵 Музыка",MCM Top
 http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
