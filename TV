@@ -197,6 +197,24 @@ http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="🎥 Фильмы и Сериалы",Кино Боевикᴴᴰ
 http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/10851.png" group-title="🎥 Фильмы и Сериалы",IPTVPLAY Великая Отечественнаяᴴᴰ
+http://5.188.158.65:4040/IPTVPLAYVOV.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/3d/26621b89b1f6365733d3b5021b259f3d.png" group-title="🎥 Фильмы и Сериалы",IPTVPLAY ПАМЯТЬᴴᴰ
+http://5.188.158.65:4040/IPTVPLAYPAMYAT.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/3d/2ff96b10804c50a986a4e57a5c571f3d.png" group-title="🎥 Фильмы и Сериалы",IPTVPLAY УЖАСТИКᴴᴰ
+http://5.188.158.65:4040/IPTVPLAYUZHASTIK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/c2/eb38990c55ea051e02c8815ab7fd58c2.png" group-title="🎥 Фильмы и Сериалы",IPTVPLAY ФАНТАСТИКАᴴᴰ
+http://5.188.158.65:4040/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/af/5fc8449eef075c1ac3e44cd3af1bcfaf.png" group-title="🎥 Фильмы и Сериалы",IPTVPLAY ДЕСЯТОЕ КОРОЛЕВСТВОᴴᴰ
+http://5.188.158.65:4040/IPTVPLAY10KOROLEVSTVO.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="http://i124.fastpic.org/big/2025/0331/c1/f39de4e6992ba6d1b57cd064921a43c1.png" group-title="🎥 Фильмы и Сериалы",IPTVPLAY ВЕДЬМАКᴴᴰ
+http://5.188.158.65:4040/IPTVPLAYVEDMAK.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i123.fastpic.org/big/2024/0826/ee/6d269a3701fd505b42ad593a52cd9eee.png" group-title="🎥 Фильмы и Сериалы",IPTVPLAY ИНТЕРНЫ SD
+http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="https://i122.fastpic.org/big/2024/0112/65/b20ebb09af08ef55dbdffa919a047c65.png?md5=j6J6Ll7lDMFzkm2ymFC1LQ&expires=1735808400" group-title="🎥 Фильмы и Сериалы",IPTVPLAY МультСказкиᴴᴰ
+http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 tvg-logo="http://1lot.tv/ch/9415.png" group-title="🎥 Фильмы и Сериалы",TVPLAY MORTAL KOMBATᴴᴰ
+http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 
 #EXTINF:-1 group-title="🎥 Кинозал (server-1)",BCU Кинозал Premiere 1 HD
