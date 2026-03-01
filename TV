@@ -1,30 +1,38 @@
 #EXTM3U
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Инфоканал
+#EXTINF:-1 group-title="🇷🇺 Новости",Инфоканал
 https://iptv.prosto.tv/id307/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Первый канал
+#EXTINF:-1 group-title="🇷🇺 Новости",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Россия 1
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2571.png" group-title="🇷🇺 Новости",Первый канал Евразия
+http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Новости",Россия 1
 https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Россия 24
+#EXTINF:-1 group-title="🇷🇺 Новости",Россия 24
 https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",5 Канал
+#EXTINF:-1 group-title="🇷🇺 Новости",5 Канал
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Россия К
+#EXTINF:-1 group-title="🇷🇺 Новости",Россия К
 https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Euronews
+#EXTINF:-1 group-title="🇷🇺 Новости",Euronews
 http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Время
+#EXTINF:-1 group-title="🇷🇺 Новости",Время
 http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Мир24
+#EXTINF:-1 group-title="🇷🇺 Новости",Мир24
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",РБК
+#EXTINF:-1 group-title="🇷🇺 Новости",РБК
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",RT Doc HD
+#EXTINF:-1 group-title="🇷🇺 Новости",RT Doc HD
 https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",TPO
+#EXTINF:-1 group-title="🇷🇺 Новости",TPO
 https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Вместе-РФ
+#EXTINF:-1 group-title="🇷🇺 Новости",Вместе-РФ
 https://flussonic.mkpnet.ru/tv-33b10cf41a3fb597/video.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Новости",24 KZ HD
+http://188.225.31.197/bpk-tv/000005177/tve/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Новости",Хабар HD
+http://188.225.31.197/bpk-tv/000004211/tve/index.m3u8
+#EXTINF:-1 group-title="🇷🇺 Новости",31 канал
+http://188.225.31.197/bpk-tv/000000663/tve/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",ТВЦ
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",НТВ
@@ -608,6 +616,10 @@ https://flussonic.mkpnet.ru/tv-66968914d630446e/video.m3u8?token=test
 #EXTINF:-1 group-title="👶 Детский",2x2
 https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8?token=test
 
+#EXTINF:-1 group-title="🎵 Музыка",MCM Top
+http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",1HD
+http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8?token=test
 #EXTINF:-1 group-title="🎵 Музыка",Europa Plus
@@ -620,5 +632,21 @@ https://flussonic.mkpnet.ru/tv-6683d71aa818d0a0/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-3cdc33d3606ba23f/video.m3u8?token=test
 #EXTINF:-1 group-title="🎵 Музыка",Муз ТВ
 https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8?token=test
+#EXTINF:-1 group-title="🎵 Музыка",MTV 00s
+http://188.225.31.197/bpk-tv/000000264/tve/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",MTV Live HD
+http://188.225.31.197/bpk-tv/000000447/tve/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Mezzo
+http://188.225.31.197/bpk-tv/000000030/tve/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Muzzone
+http://188.225.31.197/bpk-tv/000000783/tve/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Trace Urban HD
+http://188.225.31.197/bpk-tv/000001661/tve/index.m3u8
+#EXTINF:-1 group-title="🎵 Музыка",Шансон ТВ
+http://188.225.31.197/bpk-tv/000000210/tve/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",Шансон ТВ
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8?token=test
+#EXTINF:-1 group-title="🎵 Музыка",Музыка Первого
+http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
+
+
