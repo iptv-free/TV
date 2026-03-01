@@ -1004,17 +1004,4 @@ https://live.teleradiocom.tj/16/3m.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Илм ва Табиат
 https://live.teleradiocom.tj/15/3m.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Altyn Asyr
-http://217.174.225.146/hls/ch001_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Yaslyk
-http://217.174.225.146/hls/ch002_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Miras
-http://217.174.225.146/hls/ch003_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Turkmen sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Turkmen owazy
-http://217.174.225.146/hls/ch005_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Ascabat
-http://217.174.225.146/hls/ch006_720/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Turkmenistan
-http://217.174.225.146/hls/ch007_720/index.m3u8
+
