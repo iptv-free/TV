@@ -217,6 +217,14 @@ http://5.188.158.65:4040/IPTVPLAYINTERNY.tv/video.m3u8?token=lqRGka5-YwwqF0
 http://5.188.158.65:4040/IPTVPLAYMultSkazki.tv/video.m3u8?token=lqRGka5-YwwqF0
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/9415.png" group-title="🎥 Фильмы и Сериалы",TVPLAY MORTAL KOMBATᴴᴰ
 http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",ВК Кино 2ᴴᴰ
+rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",ВК Кино и сериалыᴴᴰ
+rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Alpha Cinemaᴴᴰ
+http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Alpha Moretimeᴴᴰ
+http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 
 
 #EXTINF:-1 group-title="🎥 Кинозал (server-1)",BCU Кинозал Premiere 1 HD
@@ -630,6 +638,19 @@ https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 group-title="⚽️ Спортивные",MMA-TV
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 
+
+#EXTINF:-1 group-title="🌿 Познавательные",Nat Geo Wild
+http://176.96.241.40/NatGeoWildHD/index.m3u8
+#EXTINF:-1 group-title="🌿 Познавательные",National Geographic
+http://188.225.31.197/bpk-tv/000000034/tve/index.m3u8
+#EXTINF:-1 group-title="🌿 Познавательные",Animal Planet
+http://188.225.31.197/bpk-tv/000000216/tve/index.m3u8
+#EXTINF:-1 group-title="🌿 Познавательные",Terra
+http://188.225.31.197/bpk-tv/000008142/tve/index.m3u8
+#EXTINF:-1 group-title="🌿 Познавательные",Discovery channel
+http://188.225.31.197/bpk-tv/000001496/tve/index.m3u8
+#EXTINF:-1 group-title="🌿 Познавательные",Ocean
+http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 group-title="🌿 Познавательные",Viasat Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8?token=test
 #EXTINF:-1 group-title="🌿 Познавательные",Viasat History
