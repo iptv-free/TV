@@ -70,7 +70,6 @@ https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8?token=test
 
-
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Romance HD
 http://185.234.59.200:8080/romance_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Suspense HD
@@ -324,87 +323,203 @@ http://tv.woobl.ru/BOX_Autotrend_HD/video.m3u8
 http://tv.woobl.ru/BOX_Apocalypse_HD/video.m3u8
 #EXTINF:-1 tvg-name="BOX Sitcom HD" group-title="🎥 Кинозал (server-1)",BOX Sitcom HD
 http://tv.woobl.ru/BOX_Sitcom_HD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Bunny HD
-http://185.234.59.200:8080/BUNNYHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Nature
-http://185.234.59.200:8080/SKY_HIGH_NATURE_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Mydoc
-http://185.234.59.200:8080/SKY_HIGH_DOC_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Brain
-http://185.234.59.200:8080/SKYHIGHBRAINFHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Firezone
-http://185.234.59.200:8080/SKY_HIGH_FIREZONE_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Strike
-http://185.234.59.200:8080/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Brick
-http://185.234.59.200:8080/SKY_HIGH_BRICK_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Dusts
-http://185.234.59.200:8080/SKY_HIGH_DUST_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Jetix
-http://185.234.59.200:8080/SKY_HIGH_JETIX_HD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH GunRush
-http://185.234.59.200:8080/SKY_HIGH_GUNRUSH_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Fear
-http://185.234.59.200:8080/SKY_HIGH_FEAR_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Bat
-http://185.234.59.200:8080/SKY_HIGH_BAT_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Танос
-http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH quants
-http://185.234.59.200:8080/SKY_HIGH_QUANT_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Future
-http://185.234.59.200:8080/SKY_HIGH_FUTURE_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Neon
-http://185.234.59.200:8080/SKY_HIGH_NEON_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Toon
-http://185.234.59.200:8080/SKY_HIGH_TOON_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Nick
-http://185.234.59.200:8080/SKY_HIGH_NICK_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Civil
-http://185.234.59.200:8080/SKY_HIGH_CIVIL_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Boom
-http://185.234.59.200:8080/SKY_HIGH_BOOM_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Teen
-http://185.234.59.200:8080/SKY_HIGH_TEEN_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Junior
-http://185.234.59.200:8080/SKY_HIGH_JUNIOR_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Archive
-http://185.234.59.200:8080/SKY_HIGH_ARCHIVE_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Trace
-http://185.234.59.200:8080/SKY_HIGH_TRACE_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Votum
-http://185.234.59.200:8080/SKY_HIGH_VOTUM_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Case
-http://185.234.59.200:8080/SKY_HIGH_CASE_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH ZIPPY
-http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Heart
-http://185.234.59.200:8080/SKY_HIGH_HEART_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Joke
-http://185.234.59.200:8080/SKY_HIGH_JOKE_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Medy
-http://185.234.59.200:8080/SKY_HIGH_MEDY_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Romix
-http://185.234.59.200:8080/SKY_HIGH_ROMIX_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Red s
-http://185.234.59.200:8080/SKY_HIGH_RED_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Wizz s
-http://185.234.59.200:8080/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Woonder
-http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Dragon
-http://185.234.59.200:8080/SKY_HIGH_DRAGON_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Space
-http://185.234.59.200:8080/SKY_HIGH_SPACE_4K_HDR/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Horror
-http://185.234.59.200:8080/SKY_HIGH_HORROR_4K_HDR/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Lofi
-http://185.234.59.200:8080/SKY_HIGH_LO_FIHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Beyond
-http://185.234.59.200:8080/SKY_HIGH_BEYOND_S_FHD/video.m3u8
-#EXTINF:-1 group-title="🎥 Кинозал (server-1)",SKY HIGH Scream
-http://185.234.59.200:8080/SKY_HIGH_SCREAM_FHD/video.m3u8
 
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Bcu кинозал
+http://185.234.59.200:8080/BCU_Kinozal_Premiere_1_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Russian HD
+http://185.234.59.200:8080/BCU_Russian_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Premiere 2 HDR
+http://185.234.59.200:8080/BCU_Kinozal_Premiere_2_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Premiere 3 HDR
+http://185.234.59.200:8080/BCU_Kinozal_Premiere_3_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Action HDR
+http://185.234.59.200:8080/BCU_Action_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Catastrophe HD
+http://185.234.59.200:8080/BCU_Catastrophe_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Cinema HD
+http://185.234.59.200:8080/BCU_Cinema_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Cinema+ HD
+http://185.234.59.200:8080/BCU_Cinema_Plus_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Criminal HD
+http://185.234.59.200:8080/BCU_Criminal_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Fantastic HDR
+http://185.234.59.200:8080/BCU_Fantastic_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Filmystic HDR
+http://185.234.59.200:8080/BCU_FilMystic_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU History HD
+http://185.234.59.200:8080/BCU_History_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Comedy HDR
+http://185.234.59.200:8080/BCU_Comedy_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Romantic HD
+http://185.234.59.200:8080/BCU_Romantic_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Kinorating HD
+http://185.234.59.200:8080/BCU_Kinorating_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Marvel HD
+http://185.234.59.200:8080/BCU_Marvel_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Premiere HD
+http://185.234.59.200:8080/BCU_Premiere_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Stars HD
+http://185.234.59.200:8080/BCU_Stars_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Ultra 4K
+http://185.234.59.200:8080/BCU_Ultra_4K/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU СВАТЫ HD
+http://185.234.59.200:8080/BCU_Svaty_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU VHS HD
+http://185.234.59.200:8080/BCU_VHS_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Bcu мультсериал
+http://185.234.59.200:8080/BCU_Multserial_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Ruserial HD
+http://185.234.59.200:8080/BCU_RUSERIAL_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU СССР HD
+http://185.234.59.200:8080/BCU_USSR_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Kids HD
+http://185.234.59.200:8080/BCU_Kids_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BCU Kids+ HD
+http://185.234.59.200:8080/BCU_Kids_Plus_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box western
+http://185.234.59.200:8080/BOX_Western_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Metall
+http://185.234.59.200:8080/BOX_Metall_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Zombie
+http://185.234.59.200:8080/BOX_Zombie_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Cyber
+http://185.234.59.200:8080/BOX_Cyber_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Docu
+http://185.234.59.200:8080/BOX_Docu_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box OnEdge
+http://185.234.59.200:8080/BOX_BeOnEdge_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Ghost
+http://185.234.59.200:8080/BOX_Ghost_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Stories
+http://185.234.59.200:8080/BOX_Stories_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box fantasy
+http://185.234.59.200:8080/BOX_Fantasy_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Serial
+http://185.234.59.200:8080/BOX_Serial_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Premiere
+http://185.234.59.200:8080/BOX_Premiere_4K/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Remast
+http://185.234.59.200:8080/BOX_Remast_4K/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Remast+
+http://185.234.59.200:8080/BOX_Remast_Plus_4K/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Travel Premiere
+http://185.234.59.200:8080/BOX_Travel_Premiere_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Music
+http://185.234.59.200:8080/BOX_Music_4K/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Gurman
+http://185.234.59.200:8080/BOX_Gurman_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box AutoTrend
+http://185.234.59.200:8080/BOX_Autotrend_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Апокалипсис
+http://185.234.59.200:8080/BOX_Apocalypse_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Franchise
+http://185.234.59.200:8080/BOX_Franchise_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box hybrid
+http://185.234.59.200:8080/BOX_Hybrid_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box HDR
+http://185.234.59.200:8080/BOX_Franchise_HDR/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Sitcom
+http://185.234.59.200:8080/BOX_Sitcom_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Travel
+http://185.234.59.200:8080/BOX_Travel_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Game
+http://185.234.59.200:8080/BOX_Game_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Spy
+http://185.234.59.200:8080/BOX_Spy_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Relax
+http://185.234.59.200:8080/BOX_Relax_4K/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Oscar
+http://185.234.59.200:8080/BOX_Oscar_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Gangster
+http://185.234.59.200:8080/BOX_Gangster_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Anime
+http://185.234.59.200:8080/BOX_Anime_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Memory
+http://185.234.59.200:8080/BOX_Memory_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",Box Mserial
+http://185.234.59.200:8080/BOX_MSerial_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",BOX Rurap
+http://185.234.59.200:8080/BOX_RuRap_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Bunny HD
+http://185.234.59.200:8080/BUNNYHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Nature
+http://185.234.59.200:8080/SKY_HIGH_NATURE_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Mydoc
+http://185.234.59.200:8080/SKY_HIGH_DOC_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Brain
+http://185.234.59.200:8080/SKYHIGHBRAINFHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Firezone
+http://185.234.59.200:8080/SKY_HIGH_FIREZONE_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Strike
+http://185.234.59.200:8080/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Brick
+http://185.234.59.200:8080/SKY_HIGH_BRICK_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Dusts
+http://185.234.59.200:8080/SKY_HIGH_DUST_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Jetix
+http://185.234.59.200:8080/SKY_HIGH_JETIX_HD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH GunRush
+http://185.234.59.200:8080/SKY_HIGH_GUNRUSH_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Fear
+http://185.234.59.200:8080/SKY_HIGH_FEAR_VHS_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Bat
+http://185.234.59.200:8080/SKY_HIGH_BAT_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Танос
+http://185.234.59.200:8080/SKY_HIGH_TANOS_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH quants
+http://185.234.59.200:8080/SKY_HIGH_QUANT_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Future
+http://185.234.59.200:8080/SKY_HIGH_FUTURE_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Neon
+http://185.234.59.200:8080/SKY_HIGH_NEON_VHS_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Toon
+http://185.234.59.200:8080/SKY_HIGH_TOON_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Nick
+http://185.234.59.200:8080/SKY_HIGH_NICK_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Civil
+http://185.234.59.200:8080/SKY_HIGH_CIVIL_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Boom
+http://185.234.59.200:8080/SKY_HIGH_BOOM_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Teen
+http://185.234.59.200:8080/SKY_HIGH_TEEN_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Junior
+http://185.234.59.200:8080/SKY_HIGH_JUNIOR_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Archive
+http://185.234.59.200:8080/SKY_HIGH_ARCHIVE_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Trace
+http://185.234.59.200:8080/SKY_HIGH_TRACE_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Votum
+http://185.234.59.200:8080/SKY_HIGH_VOTUM_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Case
+http://185.234.59.200:8080/SKY_HIGH_CASE_VHS_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH ZIPPY
+http://185.234.59.200:8080/SKY_HIGH_ZIPPY_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Heart
+http://185.234.59.200:8080/SKY_HIGH_HEART_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Joke
+http://185.234.59.200:8080/SKY_HIGH_JOKE_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Medy
+http://185.234.59.200:8080/SKY_HIGH_MEDY_VHS_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Romix
+http://185.234.59.200:8080/SKY_HIGH_ROMIX_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Red s
+http://185.234.59.200:8080/SKY_HIGH_RED_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Wizz s
+http://185.234.59.200:8080/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Woonder
+http://185.234.59.200:8080/SKY_HIGH_WOONDER_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Dragon
+http://185.234.59.200:8080/SKY_HIGH_DRAGON_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Space
+http://185.234.59.200:8080/SKY_HIGH_SPACE_4K_HDR/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Horror
+http://185.234.59.200:8080/SKY_HIGH_HORROR_4K_HDR/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Lofi
+http://185.234.59.200:8080/SKY_HIGH_LO_FIHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Beyond
+http://185.234.59.200:8080/SKY_HIGH_BEYOND_S_FHD/video.m3u8
+#EXTINF:-1 group-title="📂 Кинозал (server-2)",SKY HIGH Scream
+http://185.234.59.200:8080/SKY_HIGH_SCREAM_FHD/video.m3u8
 
 #EXTINF:-1 group-title="⚽️ Спортивные",Окко Спорт HD
 http://185.234.59.200:8080/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
