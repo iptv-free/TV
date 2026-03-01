@@ -48,6 +48,8 @@ https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",НТВ Стиль
 http://185.234.59.200:8080/ntv_stil_hd/video.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",НТВ хит
+http://178.134.1.158:8081/ntvhit/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",ТВ-3
 https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Рен-ТВ
@@ -131,9 +133,19 @@ http://185.234.59.200:8080/hollywood_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Bollywood
 http://185.234.59.200:8080/bollywood_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",НСТ
-http://185.234.59.200:8080/nst/video.m3u8
+http://185.234.59.200:8080/nst/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Т-24
+http://178.134.1.158:8081/t24/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",ТВ-21
 http://185.234.59.200:8080/tv_21/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",ShoTTV
+http://178.134.1.158:8081/shottv/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Cinema
+http://tv.woobl.ru/cinema/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Еврокино
+http://178.134.1.158:8081/eurokino/video.m3u8
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Индия
+http://tv.woobl.ru/indiya_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Amedia 2
@@ -204,7 +216,6 @@ http://tv.lamro.workers.dev/?ID=5082
 http://tv.lamro.workers.dev/?ID=5080
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Star Cinema HD
 http://tv.lamro.workers.dev/?ID=5079
-
 
 
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00578.png?1712838085" group-title="🎥 Фильмы и Сериалы",Cinema Megahit HD
