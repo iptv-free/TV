@@ -189,6 +189,15 @@ https://iptv.prosto.tv/id560/video.m3u8?secret=0h67fdob&21yo=0
 https://iptv.prosto.tv/id558/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00566.png" group-title="🎥 Фильмы и Сериалы",NOW series HD
 https://iptv.prosto.tv/id566/video.m3u8?secret=0h67fdob&21yo=0
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/premium-kino-kz.png" group-title="🎥 Фильмы и Сериалы",Премиум Киноᴴᴰ
+http://188.225.31.197/bpk-tv/000008491/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/mirovoe-kino-kz.png" group-title="🎥 Фильмы и Сериалы",Мировое Киноᴴᴰ
+http://188.225.31.197/bpk-tv/000008488/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/semejnoe-kino-kz.png" group-title="🎥 Фильмы и Сериалы",Семейное Киноᴴᴰ
+http://188.225.31.197/bpk-tv/000008489/tve/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/kinoboevik-kz.png" group-title="🎥 Фильмы и Сериалы",Кино Боевикᴴᴰ
+http://188.225.31.197/bpk-tv/000008490/tve/index.m3u8
+
 
 #EXTINF:-1 group-title="🎥 Кинозал (server-1)",BCU Кинозал Premiere 1 HD
 http://tv.woobl.ru/BCU_Kinozal_Premiere_1_HD/video.m3u8
@@ -674,8 +683,6 @@ http://188.225.31.197/bpk-tv/000001572/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000005322/tve/index.m3u8
 #EXTINF:-1 group-title="🇰🇿 Казахстан",Atyra
 http://188.225.31.197/bpk-tv/000001570/tve/index.m3u8
-#EXTINF:-1 group-title="🇰🇿 Казахстан",BBC World News
-http://188.225.31.197/bpk-tv/000000014/tve/index.m3u8
 #EXTINF:-1 group-title="🇰🇿 Казахстан",Balapan
 http://188.225.31.197/bpk-tv/000005178/tve/index.m3u8
 #EXTINF:-1 group-title="🇰🇿 Казахстан",Jambyl
