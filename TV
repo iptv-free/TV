@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 group-title="🇷🇺 Новости",Инфоканал
+#EXTINF:-1 group-title="📈 Новости",Инфоканал
 https://iptv.prosto.tv/id307/video.m3u8?secret=0h67fdob&21yo=0
-#EXTINF:-1 group-title="🇷🇺 Новости",Первый канал
+#EXTINF:-1 group-title="📈 Новости",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8?token=test
-#EXTINF:-1 tvg-logo="http://epg.one/img2/2571.png" group-title="🇷🇺 Новости",Первый канал Евразия
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2571.png" group-title="📈 Новости",Первый канал Евразия
 http://188.225.31.197/bpk-tv/000000669/tve/index.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",Россия 1
+#EXTINF:-1 group-title="📈 Новости",Россия 1
 https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",Россия 24
+#EXTINF:-1 group-title="📈 Новости",Россия 24
 https://flussonic.mkpnet.ru/tv-6c5b49dbcf811fc6/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",5 Канал
+#EXTINF:-1 group-title="📈 Новости",5 Канал
 https://flussonic.mkpnet.ru/tv-a5ff8c7a86c8b951/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",Россия К
+#EXTINF:-1 group-title="📈 Новости",Россия К
 https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",Euronews
+#EXTINF:-1 group-title="📈 Новости",Euronews
 http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",Время
+#EXTINF:-1 group-title="📈 Новости",Время
 http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",Мир24
+#EXTINF:-1 group-title="📈 Новости",Мир24
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",РБК
+#EXTINF:-1 group-title="📈 Новости",РБК
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",RT Doc HD
+#EXTINF:-1 group-title="📈 Новости",RT Doc HD
 https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",TPO
+#EXTINF:-1 group-title="📈 Новости",TPO
 https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",Вместе-РФ
+#EXTINF:-1 group-title="📈 Новости",Вместе-РФ
 https://flussonic.mkpnet.ru/tv-33b10cf41a3fb597/video.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺 Новости",24 KZ HD
+#EXTINF:-1 group-title="📈 Новости",24 KZ HD
 http://188.225.31.197/bpk-tv/000005177/tve/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Новости",Хабар HD
+#EXTINF:-1 group-title="📈 Новости",Хабар HD
 http://188.225.31.197/bpk-tv/000004211/tve/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Новости",31 канал
+#EXTINF:-1 group-title="📈 Новости",31 канал
 http://188.225.31.197/bpk-tv/000000663/tve/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",ТВЦ
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8?token=test
