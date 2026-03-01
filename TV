@@ -589,6 +589,32 @@ https://flussonic.mkpnet.ru/tv-d3098523a4409835/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-1bfac9df3d938c1f/video.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",МАТЧ! Страна
 https://flussonic.mkpnet.ru/tv-6db4f59c21aec361/video.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Q Live 1
+http://188.225.31.197/bpk-tv/000008725/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Q Live 2
+http://188.225.31.197/bpk-tv/000008726/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Q Live 3
+http://188.225.31.197/bpk-tv/000008445/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Q Live 4
+http://188.225.31.197/bpk-tv/000008727/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Qazaqstan HD
+http://188.225.31.197/bpk-tv/000004208/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Qazsport HD
+http://188.225.31.197/bpk-tv/000003038/tve/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/sport-plus-kz.png" group-title="⚽️ Спортивные",Sport+ 🇰🇿
+http://188.225.31.197/bpk-tv/000008731/tve/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/q-football-kz.png" group-title="⚽️ Спортивные",Q Football 🇰🇿
+http://188.225.31.197/bpk-tv/000008848/tve/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://epg.one/img2/5891.png" group-title="⚽️ Спортивные",Q Sport Arena HD 🇰🇿
+http://188.225.31.197/bpk-tv/000007615/tve/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="http://epg.one/img2/7236.png" group-title="⚽️ Спортивные",Q Sport League HD 🇰🇿
+http://188.225.31.197/bpk-tv/000006969/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",viju+ Sport
+http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Eurosport 1 HD
+http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="⚽️ Спортивные",Eurosport 2 HD
+http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",KHL
 http://185.234.59.200:8080/khl_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="⚽️ Спортивные",Extreme Sports
