@@ -968,3 +968,49 @@ http://188.225.31.197/bpk-tv/000000672/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000007248/tve/index.m3u8
 #EXTINF:-1 group-title="🇰🇿 Казахстан",Отырар-TV
 http://188.225.31.197/bpk-tv/000001052/tve/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Safina
+https://live.teleradiocom.tj/2/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Varzish
+https://live.teleradiocom.tj/5/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Бахористон
+https://live.teleradiocom.tj/3/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", ТВ Ҷаҳоннамо
+https://live.teleradiocom.tj/4/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", ТВ Тоҷикистон
+https://live.teleradiocom.tj/1/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Синамо
+https://live.teleradiocom.tj/6/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Душанбе
+https://live.teleradiocom.tj/7/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", ФутболТВ
+https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Шахнавоз
+https://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", ТВ-Хатлон (Бохтар)
+https://live.teleradiocom.tj/10/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Бадахшон
+https://live.teleradiocom.tj/11/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", ТВ-Кулоб (Куляб)
+https://live.teleradiocom.tj/12/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Сугд HD (Худжанд)
+https://live.teleradiocom.tj/14/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Сайёҳӣ
+https://live.teleradiocom.tj/16/3m.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇯 Таджикистан", Илм ва Табиат
+https://live.teleradiocom.tj/15/3m.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Altyn Asyr
+http://217.174.225.146/hls/ch001_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Yaslyk
+http://217.174.225.146/hls/ch002_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Miras
+http://217.174.225.146/hls/ch003_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Turkmen sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Turkmen owazy
+http://217.174.225.146/hls/ch005_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Ascabat
+http://217.174.225.146/hls/ch006_720/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🇹🇲 Туркменистан", Turkmenistan
+http://217.174.225.146/hls/ch007_720/index.m3u8
