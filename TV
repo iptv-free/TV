@@ -17,12 +17,16 @@ https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8?token=test
 http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8?token=test
 #EXTINF:-1 group-title="📈 Новости",Время
 http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8?token=test
+#EXTINF:-1 group-title="📈 Новости",Мир
+http://185.234.59.200:8080/mir/video.m3u8?token=test
 #EXTINF:-1 group-title="📈 Новости",Мир24
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8?token=test
 #EXTINF:-1 group-title="📈 Новости",РБК
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8?token=test
 #EXTINF:-1 group-title="📈 Новости",RT Doc HD
 https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8?token=test
+#EXTINF:-1 group-title="📈 Новости",ОТР
+http://185.234.59.200:8080/otr/video.m3u8?token=test
 #EXTINF:-1 group-title="📈 Новости",TPO
 https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8?token=test
 #EXTINF:-1 group-title="📈 Новости",Вместе-РФ
@@ -33,11 +37,17 @@ http://188.225.31.197/bpk-tv/000005177/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000004211/tve/index.m3u8
 #EXTINF:-1 group-title="📈 Новости",31 канал
 http://188.225.31.197/bpk-tv/000000663/tve/index.m3u8
+#EXTINF:-1 group-title="📈 Новости",RTVI
+http://87.246.54.249:8080/RTVI/video.m3u8?token=test
+#EXTINF:-1 group-title="📈 Новости",TVRUS
+http://87.246.54.249:8080/TVRUS/video.m3u8?token=test
 
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",ТВЦ
 https://flussonic.mkpnet.ru/tv-b76bb5b80615eed6/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",НТВ
 https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",НТВ Стиль
+http://185.234.59.200:8080/ntv_stil_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",ТВ-3
 https://flussonic.mkpnet.ru/tv-b9ddf7deb3d25757/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Рен-ТВ
@@ -80,6 +90,17 @@ https://flussonic.mkpnet.ru/tv-86cc4bfff941b275/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",Сарафан
+http://185.234.59.200:8080/sarafan/video.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",Дождь
+http://185.234.59.200:8080/dozhd_hd/video.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",Центральное телевидение
+http://185.234.59.200:8080/tsentralnoe_televidenie/video.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",Анекдоты
+http://185.234.59.200:8080/anekdot_tv/video.m3u8?token=test
+#EXTINF:-1 group-title="🇷🇺 Русский Канал",КВН
+http://185.234.59.200:8080/kvn_tv/video.m3u8?token=test
+
 
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Romance HD
 http://185.234.59.200:8080/romance_hd/video.m3u8?token=test
