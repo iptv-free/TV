@@ -123,6 +123,10 @@ https://flussonic.mkpnet.ru/tv-aab84159a39fbe84/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-0991ea2ac6292de8/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju TV1000 Русское
 https://flussonic.mkpnet.ru/tv-7510472b0133abb2/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju TV1000 Новелла
+https://telluri.ru/video/vj/545.m3u8
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju TV1000 Romantica
+https://telluri.ru/video/vj/3111.m3u8
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju Comedy
 https://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",viju megahit
@@ -171,6 +175,17 @@ http://188.225.31.197/bpk-tv/000006365/tve/index.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Sci Fi
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8?token=test
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",FAN
+http://tv.lamro.workers.dev/?ID=5064
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Star World HD
+http://tv.lamro.workers.dev/?ID=5082
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Star Family HD
+http://tv.lamro.workers.dev/?ID=5080
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Star Cinema HD
+http://tv.lamro.workers.dev/?ID=5079
+
+
+
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00578.png?1712838085" group-title="🎥 Фильмы и Сериалы",Cinema Megahit HD
 https://iptv.prosto.tv/id578/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00579.png?1712837780" group-title="🎥 Фильмы и Сериалы",Cinema Comedy HD
