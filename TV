@@ -88,9 +88,9 @@ http://185.234.59.200:8080/suspense_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Sumiko HD
 http://185.234.59.200:8080/sumiko_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Остросюжетное HD
-http://185.234.59.200:8080/ostrosyuzhetnoe_hd/index.m3u8?token=test
+http://tv.woobl.ru/ostrosyuzhetnoe_hd/video.m3u8
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Премиальное HD
-http://tv.lamro.workers.dev/?ID=4988
+http://tv.woobl.ru/premialnoe_hd/video.m3u8
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Блокбастер HD
 http://iptv46.mcx-ix.ru:8077/blokbaster_hd/index.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Душевное HD
