@@ -817,6 +817,8 @@ https://stream1.cinerama.uz/1489/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1495/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/10/af774beb-b08b-4b1a-8d9d-cef336126e87.jpeg" group-title="🇺🇿 O'zbekiston",Nasaf TV
 https://stream1.cinerama.uz/2025/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2023/08/14/74ed2467-9e28-4f29-a355-9f4e0d240fd7.png" group-title="🇺🇿 O'zbekiston",Ruxsor TV
+https://stream1.cinerama.uz/4008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/07/f9bf163d-632a-49f5-928c-a40d47df8bf7.jpeg" group-title="🇺🇿 O'zbekiston",S-Cinema
 https://stream1.cinerama.uz/1498/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/02/10/5842ad76-eef6-494b-acb8-ab79ef2cb70d.jpeg" group-title="🇺🇿 O'zbekiston",JaslarTV
@@ -853,6 +855,8 @@ https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 https://stream1.cinerama.uz/1475/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://m3u.usite.pro/tasix.jpg" group-title="🇺🇿 O'zbekiston",Tasix-Media
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2020/06/12/5e8a53f0-c142-4e88-887b-df7491f6d0fe.png" group-title="🇺🇿 O'zbekiston",Kinoteatr
+https://stream1.cinerama.uz/1009/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/b7d410f4-508c-4299-b118-d4107489c5c6.jpeg" group-title="🇺🇿 O'zbekiston",Muloqot TV
 https://stream1.cinerama.uz/1285/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://files.cinerama.uz/images/tv_channels/2025/03/24/3b397981-ece6-4fb9-a66f-29b07d234f0f.jpeg" group-title="🇺🇿 O'zbekiston",Shifo TV
