@@ -214,6 +214,8 @@ https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",FAN
 http://tv.lamro.workers.dev/?ID=5064
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Дорама
+http://109.248.236.51/dorama/video.m3u8
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Star World HD
 http://tv.lamro.workers.dev/?ID=5082
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Star Family HD
@@ -770,6 +772,8 @@ https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8?token=test
 #EXTINF:-1 group-title="🌿 Познавательные",Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8?token=test
 
+#EXTINF:-1 group-title="👶 Детский",Baby Time
+http://109.248.236.51/baby_time/video.m3u8
 #EXTINF:-1 group-title="👶 Детский",CTC kids
 https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8?token=test
 #EXTINF:-1 group-title="👶 Детский",DuckTV
@@ -807,6 +811,8 @@ http://188.225.31.197/bpk-tv/000000327/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000001020/tve/index.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",Bridge TV
 https://flussonic.mkpnet.ru/tv-ceaa6aa3cc1ea359/video.m3u8?token=test
+#EXTINF:-1 group-title="🎵 Музыка",Bridge HITS
+http://109.248.236.51/bridge_hits/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🎵 Музыка",Europa Plus
 https://flussonic.mkpnet.ru/tv-0f5fe3eb19ad83d9/video.m3u8?token=test
 #EXTINF:-1 group-title="🎵 Музыка",Ru TV
