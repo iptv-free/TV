@@ -1,4 +1,9 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="" group-title="📁 Tarjima Kinolar",
+
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1771997979-1449298661.webp" group-title="📁 Tarjima Kinolar",Shafqat 2026
+https://s1.kxcdn.ru/Shafqat_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1771447244-969083580-stazhirovka.webp" group-title="📁 Tarjima Kinolar",Intiqom Loyihasi 2026
 https://s1.kxcdn.ru/Intiqom_Loyihasi_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="http://asilmedia.org/uploads/mini/fullstory/79/265x372x6faf5528ad022ce2758249b7d1187f.jpg.pagespeed.ic.3FsGINFK1Y.webp" group-title="📁 Tarjima Kinolar",Boshpana 2026
@@ -11,6 +16,10 @@ https://s1.kxcdn.ru/Yolgon_Tuzogida_2026_HD_Daxshat.Net.mp4
 https://s1.kxcdn.ru/Grenlandiya_2_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-01/1769376397-1886509370-otpusk-na-dvoih.webp" group-title="📁 Tarjima Kinolar",Ikki Kishilik Ta'til 2026
 https://s1.kxcdn.ru/Ikki_Kishilik_Tatil_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2025-10/1760370485-1635082347-syn-sardara-2.webp" group-title="📁 Tarjima Kinolar",Omadli Oshiq 2 (2025)
+https://s1.kxcdn.ru/Uning_Eri_Men_Emas_2025_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1772039112-79893588-dazhe-esli-eta-lyubov-ischeznet-segodnya-nochyu.webp" group-title="📁 Tarjima Kinolar",Xotiramdan O'chgan Muhabbat 2025
+https://s1.kxcdn.ru/Xotiramdan_Ochgan_Muhabbat_2025_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1771399304-972771793-tron-ares.webp" group-title="📁 Tarjima Kinolar",Tron : Ares 2025
 https://s1.kxcdn.ru/Tron_Ares_2025_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1771095453-1690988667-hischnik-planeta-smerti.webp" group-title="📁 Tarjima Kinolar",Yirtqich 2025
@@ -407,6 +416,8 @@ https://s1.kxcdn.ru/Olim_Yoqasida_2023_HD_Daxshat.Net.mp4
 https://s1.kxcdn.ru/Fatum_2023_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2024-07/1721583170_jekrana-2024-07-21-223131.jpg" group-title="📁 Tarjima Kinolar",Sirli Qit'a 2023
 https://s1.kxcdn.ru/Sirli_Qita_2023_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1772121368_jekrana-2026-02-26-205632.jpg" group-title="📁 Tarjima Kinolar",Opa Singil Azoblari 2022
+https://s1.kxcdn.ru/Opa_Singil_Azoblari_2022_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2023-01/1674848582_4s5a8sq2.jpg" group-title="📁 Tarjima Kinolar",Megan / M3GAN 2022
 https://kxcdn.ru/Megan_2022_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="" group-title="📁 Tarjima Kinolar",Ilon Ayol / Ilonlar Oroli 2022
