@@ -1,14 +1,4 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1772218484-524130971-plavuchiy-dom.webp" group-title="📁 Tarjima Kinolar",Suzuvchi Uy 1958
-https://s1.kxcdn.ru/Suzuvchi_Uy_1958_HD_Daxshat.Net.mp4
-
-
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="📁 Tarjima Kinolar",
-
 #EXTINF:-1 tvg-logo="" group-title="📁 Tarjima Kinolar",
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1771997979-1449298661.webp" group-title="📁 Tarjima Kinolar",Shafqat 2026
 https://s1.kxcdn.ru/Shafqat_2026_HD_Daxshat.Net.mp4
@@ -720,6 +710,9 @@ https://s1.kxcdn.ru/Zolushka_Uchun_Uch_Yongoq_1973_HD_Daxshat.Net.mp4
 https://s1.kxcdn.ru/Yoyo_1964_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2024-08/1723183808_48a48s4q.jpg" group-title="📁 Tarjima Kinolar",Suvsiz Yoz 1963
 https://s1.kxcdn.ru/Suvsiz_Yoz_1963_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1772218484-524130971-plavuchiy-dom.webp" group-title="📁 Tarjima Kinolar",Suzuvchi Uy 1958
+https://s1.kxcdn.ru/Suzuvchi_Uy_1958_HD_Daxshat.Net.mp4
+
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2025-12/1765734464-1082283467-dva-mira-odno-zhelanie.webp" group-title="📁 Turk Kinolari",Ikki Dunyo Bir Tilak 2025
 https://s1.kxcdn.ru/Ikki_Dunyo_Bir_Tilak_2025_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2025-11/1763369947-530793312-gospodin-uzhas.webp" group-title="📁 Turk Kinolari",Dahshat Bey 2025
