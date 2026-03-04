@@ -128,6 +128,8 @@ http://185.234.59.200:8080/romantichnoe_hd/index.m3u8?token=test
 http://iptv46.mcx-ix.ru:8077/hit_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",VHS-ка
 https://telluri.ru/video/vj/1123.m3u8
+#EXTINF:-1 group-title="🎥 Фильмы и Сериалы",VHS-ка HD
+https://minsk-cache04i.voka.tv/live/1123-req_offset_28000000-req_window_0-5k_v5.m3u8
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Epic HD
 http://185.234.59.200:8080/epic_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",DetectiveJam HD
