@@ -1,4 +1,4 @@
-#EXTM3U  url-tvg="https://iptvx.one/EPG,http://epg.one/epg2.xml.gz,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz,http://epg.it999.ru/epg2.xml.gz,http://www.teleguide.info/download/new3/xmltv.xml.gz"
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz"
 #EXTINF:-1 tvg-logo="" group-title="📈 Новости",❤️ Поддержка
 https://zuno.surge.sh/demo/donat.mp4
 #EXTINF:-1 tvg-logo="" group-title="📈 Новости",❤️ Телеграм
@@ -845,6 +845,194 @@ http://188.225.31.197/bpk-tv/000000210/tve/index.m3u8
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8?token=test
 #EXTINF:-1 group-title="🎵 Музыка",Музыка Первого
 http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
+
+
+#EXTINF:-1 group-title="♻️ HomTV",Первый HD
+http://91.198.104.13:8001/udp/237.0.11.1:10000
+#EXTINF:-1 group-title="♻️ HomTV",Россия HD
+http://91.198.104.13:8001/udp/237.0.12.2:10000
+#EXTINF:-1 group-title="♻️ HomTV",НТВ
+http://91.198.104.13:8001/udp/237.0.11.32:10000
+#EXTINF:-1 group-title="♻️ HomTV",Пятый канал
+http://91.198.104.13:8001/udp/237.0.11.31:10000
+#EXTINF:-1 group-title="♻️ HomTV",ОТР
+http://91.198.104.13:8001/udp/237.0.11.56:10000
+#EXTINF:-1 group-title="♻️ HomTV",ТВ Центр
+http://91.198.104.13:8001/udp/237.0.11.57:10000
+#EXTINF:-1 group-title="♻️ HomTV",Звезда
+http://91.198.104.13:8001/udp/237.0.10.5:10000
+#EXTINF:-1 group-title="♻️ HomTV",МИР
+http://91.198.104.13:8001/udp/237.0.10.19:10000
+#EXTINF:-1 group-title="♻️ HomTV",ЛДПР тв
+http://91.198.104.13:8001/udp/237.0.13.44:10000
+#EXTINF:-1 group-title="♻️ HomTV",Мир Белогорья
+http://91.198.104.13:8001/udp/237.0.10.36:10000
+#EXTINF:-1 group-title="♻️ HomTV",Губерния
+http://91.198.104.13:8001/udp/237.0.13.1:10000
+#EXTINF:-1 group-title="♻️ HomTV",8 канал
+http://91.198.104.13:8001/udp/237.0.13.25:10000
+#EXTINF:-1 group-title="♻️ HomTV",ТНВ
+http://91.198.104.13:8001/udp/237.0.12.112:10000
+#EXTINF:-1 group-title="♻️ HomTV",ТНВ-планета
+http://91.198.104.13:8001/udp/237.0.11.20:10000
+#EXTINF:-1 group-title="♻️ HomTV",ТНТ
+http://91.198.104.13:8001/udp/237.0.13.20:10000
+#EXTINF:-1 group-title="♻️ HomTV",СТС
+http://91.198.104.13:8001/udp/237.0.10.15:10000
+#EXTINF:-1 group-title="♻️ HomTV",Че
+http://91.198.104.13:8001/udp/237.0.13.86:10000
+#EXTINF:-1 group-title="♻️ HomTV",Рен ТВ
+http://91.198.104.13:8001/udp/237.0.13.19:10000
+#EXTINF:-1 group-title="♻️ HomTV",ТВ-3
+http://91.198.104.13:8001/udp/237.0.13.6:10000
+#EXTINF:-1 group-title="♻️ HomTV",ТНТ4
+http://91.198.104.13:8001/udp/237.0.11.10:10000
+#EXTINF:-1 group-title="♻️ HomTV",Калейдоскоп ТВ
+http://91.198.104.13:8001/udp/237.0.13.47:10000
+#EXTINF:-1 group-title="♻️ HomTV",Пятница
+http://91.198.104.13:8001/udp/237.0.13.21:10000
+#EXTINF:-1 group-title="♻️ HomTV",Сарафан ТВ
+http://91.198.104.13:8001/udp/237.0.13.42:10000
+#EXTINF:-1 group-title="♻️ HomTV",Ю
+http://91.198.104.13:8001/udp/237.0.13.52:10000
+#EXTINF:-1 group-title="♻️ HomTV",Домашний
+http://91.198.104.13:8001/udp/237.0.11.35:10000
+#EXTINF:-1 group-title="♻️ HomTV",СТС Love
+http://91.198.104.13:8001/udp/237.0.13.2:10000
+#EXTINF:-1 group-title="♻️ HomTV",SHOT TV
+http://91.198.104.13:8001/udp/237.0.12.23:10000
+#EXTINF:-1 group-title="♻️ HomTV",Канал 2x2
+http://91.198.104.13:8001/udp/237.0.11.11:10000
+#EXTINF:-1 group-title="♻️ HomTV",Суббота!
+http://91.198.104.13:8001/udp/237.0.11.12:10000
+#EXTINF:-1 group-title="♻️ HomTV",ТРО
+http://91.198.104.13:8001/udp/237.0.10.3:10000
+#EXTINF:-1 group-title="♻️ HomTV",Авто24 HD
+http://91.198.104.13:8001/udp/237.0.10.32:10000
+#EXTINF:-1 group-title="♻️ HomTV",Бобер
+http://91.198.104.13:8001/udp/237.0.10.40:10000
+#EXTINF:-1 group-title="♻️ HomTV",Вкусное TV
+http://91.198.104.13:8001/udp/237.0.10.35:10000
+#EXTINF:-1 group-title="♻️ HomTV",Драйв ТВ
+http://91.198.104.13:8001/udp/237.0.10.34:10000
+#EXTINF:-1 group-title="♻️ HomTV",Зоо ТВ
+http://91.198.104.13:8001/udp/237.0.10.16:10000
+#EXTINF:-1 group-title="♻️ HomTV",Загородный
+http://91.198.104.13:8001/udp/237.0.10.43:10000
+#EXTINF:-1 group-title="♻️ HomTV",История
+http://91.198.104.13:8001/udp/237.0.13.46:10000
+#EXTINF:-1 group-title="♻️ HomTV",Культура
+http://91.198.104.13:8001/udp/237.0.10.38:10000
+#EXTINF:-1 group-title="♻️ HomTV",Моя планета
+http://91.198.104.13:8001/udp/237.0.13.7:10000
+#EXTINF:-1 group-title="♻️ HomTV",Наука 2.0
+http://91.198.104.13:8001/udp/237.0.13.22:10000
+#EXTINF:-1 group-title="♻️ HomTV",Открытый мир
+http://91.198.104.13:8001/udp/237.0.13.55:10000
+#EXTINF:-1 group-title="♻️ HomTV",Russian Travel Guide (RTG TV)
+http://91.198.104.13:8001/udp/237.0.11.9:10000
+#EXTINF:-1 group-title="♻️ HomTV",Точка тв
+http://91.198.104.13:8001/udp/237.0.10.45:10000
+#EXTINF:-1 group-title="♻️ HomTV",Телепутешествия
+http://91.198.104.13:8001/udp/237.0.10.9:10000
+#EXTINF:-1 group-title="♻️ HomTV",Точка отрыва
+http://91.198.104.13:8001/udp/237.0.10.41:10000
+#EXTINF:-1 group-title="♻️ HomTV",Успех
+http://91.198.104.13:8001/udp/237.0.11.4:10000
+#EXTINF:-1 group-title="♻️ HomTV",Усадьба
+http://91.198.104.13:8001/udp/237.0.10.23:10000
+#EXTINF:-1 group-title="♻️ HomTV",Красная линия
+http://91.198.104.13:8001/udp/237.0.13.57:10000
+#EXTINF:-1 group-title="♻️ HomTV",Silk Way HD
+http://91.198.104.13:8001/udp/237.0.13.64:10000
+#EXTINF:-1 group-title="♻️ HomTV",Беларусь 24
+http://91.198.104.13:8001/udp/237.0.13.27:10000
+#EXTINF:-1 group-title="♻️ HomTV",Известия
+http://91.198.104.13:8001/udp/237.0.13.63:10000
+#EXTINF:-1 group-title="♻️ HomTV",Крым 24
+http://91.198.104.13:8001/udp/237.0.13.59:10000
+#EXTINF:-1 group-title="♻️ HomTV",Мир 24
+http://91.198.104.13:8001/udp/237.0.13.85:10000
+#EXTINF:-1 group-title="♻️ HomTV",360 Новости
+http://91.198.104.13:8001/udp/237.0.10.42:10000
+#EXTINF:-1 group-title="♻️ HomTV",Первый Крымский
+http://91.198.104.13:8001/udp/237.0.13.58:10000
+#EXTINF:-1 group-title="♻️ HomTV",РБК
+http://91.198.104.13:8001/udp/237.0.10.28:10000
+#EXTINF:-1 group-title="♻️ HomTV",Россия 24
+http://91.198.104.13:8001/udp/237.0.11.29:10000
+#EXTINF:-1 group-title="♻️ HomTV",Самара 24
+http://91.198.104.13:8001/udp/237.0.11.22:10000
+#EXTINF:-1 group-title="♻️ HomTV",Телеканал 360
+http://91.198.104.13:8001/udp/237.0.10.37:10000
+#EXTINF:-1 group-title="♻️ HomTV",Тольятти 24
+http://91.198.104.13:8001/udp/237.0.10.95:10000
+#EXTINF:-1 group-title="♻️ HomTV",Союз
+http://91.198.104.13:8001/udp/237.0.13.23:10000
+#EXTINF:-1 group-title="♻️ HomTV",Спас ТВ
+http://91.198.104.13:8001/udp/237.0.10.44:10000
+#EXTINF:-1 group-title="♻️ HomTV",A1
+http://91.198.104.13:8001/udp/237.0.13.80:10000
+#EXTINF:-1 group-title="♻️ HomTV",А2
+http://91.198.104.13:8001/udp/237.0.13.12:10000
+#EXTINF:-1 group-title="♻️ HomTV",Amedia Hit
+http://91.198.104.13:8001/udp/237.0.13.13:10000
+#EXTINF:-1 group-title="♻️ HomTV",Еврокино
+http://91.198.104.13:8001/udp/237.0.10.29:10000
+#EXTINF:-1 group-title="♻️ HomTV",Кино ТВ
+http://91.198.104.13:8001/udp/237.0.12.24:10000
+#EXTINF:-1 group-title="♻️ HomTV",Кинопоказ SD
+http://91.198.104.13:8001/udp/237.0.10.11:10000
+#EXTINF:-1 group-title="♻️ HomTV",Cinema
+http://91.198.104.13:8001/udp/237.0.13.17:10000
+#EXTINF:-1 group-title="♻️ HomTV",Мосфильм. Золотая коллекция
+http://91.198.104.13:8001/udp/237.0.12.4:10000
+#EXTINF:-1 group-title="♻️ HomTV",НТВ Хит
+http://91.198.104.13:8001/udp/237.0.12.8:10000
+#EXTINF:-1 group-title="♻️ HomTV",Ретро ТВ
+http://91.198.104.13:8001/udp/237.0.10.27:10000
+#EXTINF:-1 group-title="♻️ HomTV",Русский роман
+http://91.198.104.13:8001/udp/237.0.13.37:10000
+#EXTINF:-1 group-title="♻️ HomTV",Русский Иллюзион
+http://91.198.104.13:8001/udp/237.0.10.25:10000
+#EXTINF:-1 group-title="♻️ HomTV",START Air
+http://91.198.104.13:8001/udp/237.0.12.21:10000
+#EXTINF:-1 group-title="♻️ HomTV",START World
+http://91.198.104.13:8001/udp/237.0.12.22:10000
+#EXTINF:-1 group-title="♻️ HomTV",Карусель
+http://91.198.104.13:8001/udp/237.0.11.37:10000
+#EXTINF:-1 group-title="♻️ HomTV",Мама
+http://91.198.104.13:8001/udp/237.0.13.41:10000
+#EXTINF:-1 group-title="♻️ HomTV",Мульт
+http://91.198.104.13:8001/udp/237.0.13.24:10000
+#EXTINF:-1 group-title="♻️ HomTV",Рыжий
+http://91.198.104.13:8001/udp/237.0.10.20:10000
+#EXTINF:-1 group-title="♻️ HomTV",Солнце
+http://91.198.104.13:8001/udp/237.0.13.51:10000
+#EXTINF:-1 group-title="♻️ HomTV",Уникум
+http://91.198.104.13:8001/udp/237.0.10.24:10000
+#EXTINF:-1 group-title="♻️ HomTV",МАТЧ!
+http://91.198.104.13:8001/udp/237.0.11.30:10000
+#EXTINF:-1 group-title="♻️ HomTV",Тонус ТВ
+http://91.198.104.13:8001/udp/237.0.10.10:10000
+#EXTINF:-1 group-title="♻️ HomTV",Футбол
+http://91.198.104.13:8001/udp/237.0.11.7:10000
+#EXTINF:-1 group-title="♻️ HomTV",Bridge TV Classic
+http://91.198.104.13:8001/udp/237.0.10.17:10000
+#EXTINF:-1 group-title="♻️ HomTV",Bridge TV Hits
+http://91.198.104.13:8001/udp/237.0.10.22:10000
+#EXTINF:-1 group-title="♻️ HomTV",Муз-ТВ
+http://91.198.104.13:8001/udp/237.0.13.9:10000
+#EXTINF:-1 group-title="♻️ HomTV",МузСоюз
+http://91.198.104.13:8001/udp/237.0.13.45:10000
+#EXTINF:-1 group-title="♻️ HomTV",Ru TV
+http://91.198.104.13:8001/udp/237.0.10.47:10000
+#EXTINF:-1 group-title="♻️ HomTV",ТНТ Music
+http://91.198.104.13:8001/udp/237.0.13.16:10000
+#EXTINF:-1 group-title="♻️ HomTV",Шансон ТВ
+http://91.198.104.13:8001/udp/237.0.13.35:10000
+
+
 
 #EXTINF:-1 group-title="🇺🇿 O'zbekiston",O'zbekiston
 https://s03.watcher.uz/56/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
