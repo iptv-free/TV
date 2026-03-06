@@ -846,6 +846,104 @@ https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8?token=test
 #EXTINF:-1 group-title="🎵 Музыка",Музыка Первого
 http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
 
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",O'zbekiston
+https://s03.watcher.uz/56/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Yoshlar
+https://s03.watcher.uz/57/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Toshkent
+https://s03.watcher.uz/58/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Zo'r TV
+https://s03.watcher.uz/6/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Sevimli TV
+https://stream3.itv.uz/t/LadnDaf3pAR5JY9jvCx7xw/e/1773368088/1056/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Kinoteatr
+https://s03.watcher.uz/83/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",iTV Cinema
+https://s07.watcher.uz/171/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",My5
+https://s07.watcher.uz/163/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Milliy
+https://s07.watcher.uz/162/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Taraqqiyot
+https://s05.watcher.uz/76/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",I-Kbol
+https://s06.watcher.uz/157/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Biztv
+https://s06.watcher.uz/147/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Madaniyat va ma'rifat
+https://s03.watcher.uz/60/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Mahalla
+https://s03.watcher.uz/61/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Futbol
+https://s03.watcher.uz/62/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",FTV
+https://s03.watcher.uz/74/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Uzreport
+https://s03.watcher.uz/75/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Dasturxon
+https://s03.watcher.uz/85/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",O'zbekiston tarixi
+https://s03.watcher.uz/86/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Nurafshon
+https://s03.watcher.uz/87/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",O'zbekiston-24
+https://s07.watcher.uz/158/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Sport Uz
+https://s04.watcher.uz/59/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Aqlvoy
+https://s04.watcher.uz/82/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Bolajon
+https://s05.watcher.uz/64/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Navo
+https://s05.watcher.uz/65/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Gold
+https://stream9.itv.uz/t/LWeyqOi8EFVESzRykp2BCQ/e/1759837057/4007/tracks-v1a1/timeshift_rel-2258.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Ruxsor TV
+https://stream9.itv.uz/t/d5tuUfgXkE9sOSwWHlvHEA/e/1759837108/4008/tracks-v1a1/timeshift_rel-2309.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Jaslar TV
+https://stream9.itv.uz/t/azFd4857RiAqnCgjTk9TCQ/e/1759837168/1490/tracks-v1a1/timeshift_rel-2370.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Muloqot.TV
+https://stream9.itv.uz/t/T6SBycjwQuta4ow0xThKdA/e/1759837189/1285/tracks-v1a1/timeshift_rel-2390.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",LIVE TV
+https://stream9.itv.uz/t/n5JrwkmbeACGfSDfXef95A/e/1759837228/1475/tracks-v1a1/timeshift_rel-2429.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Denov TV
+https://stream9.itv.uz/t/pMpAGyvvk_Dzc29N8RZCFw/e/1759837272/1499/tracks-v1a1/timeshift_rel-2473.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Istiqlol TV
+https://stream9.itv.uz/t/enYyZPBoephUmD24YsGVHA/e/1773368146/1283/tracks-v1a1/timeshift_rel-947.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Retro TV
+https://stream15.itv.uz/t/weWBkj1rkkuNj5630xFQJg/e/1773368055/1290/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Andijon TV
+https://stream15.itv.uz/t/LJUaPYL-E_139F16CFewdQ/e/1773368177/1457/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Farg'ona
+https://stream10.itv.uz/t/sNu8Kq9MFbwFeOLjWpJEaQ/e/1773368207/1458/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Navioy
+https://stream10.itv.uz/t/x39NShjDiut-atC4FQHQTQ/e/1773368224/1460/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Qashqadryo
+https://stream10.itv.uz/t/M7N5oNBdeocDQhBk29G_AA/e/1773368241/1461/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Sirdaryo
+https://stream4.itv.uz/t/wsxeTA9_tI5TqqjJ6fFa5Q/e/1773368258/1462/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Surxondaryo
+https://stream3.itv.uz/t/shM7iiMG3q5XgATRao7hvw/e/1773368279/1463/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Xorazm
+https://stream4.itv.uz/t/ZdKxbU_pQiM2l8__JAG87A/e/1773368295/1464/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Jizzax
+https://stream8.itv.uz/t/n_qtjivMwfFVNpYdgFpifw/e/1773368313/1465/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Namangan
+https://stream4.itv.uz/t/0otC5rUEiv9OAdsyk8ZnoQ/e/1773368327/1466/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Qaraqalpaqstan
+https://stream2.itv.uz/t/8-Gwx6RUJKHijs3_sXVUaA/e/1773368350/1467/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Buxoro
+https://stream5.itv.uz/t/1vckeLC_mMWU_v6kX55qKQ/e/1773368378/1459/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Samarqand
+https://stream4.itv.uz/t/uHCnHyeB_SsTkNQM4o-fhQ/e/1773368399/1468/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Vodiy
+https://stream14.itv.uz/t/O2zVHEo_IkxLL7iXFSYAsg/e/1773368423/4012/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",TTV
+https://stream4.itv.uz/t/9833BF5OHMTH7ewtxpSLkw/e/1773368440/1494/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",TTV Kino
+https://stream4.itv.uz/t/asd0lgeCUtGlQz2E1zaiow/e/1773368456/1486/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",8TV
+https://stream15.itv.uz/t/ATFzfbI-o8iB54xcPeDxSA/e/1773368483/1496/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="🇰🇿 Казахстан",24 KZ HD
