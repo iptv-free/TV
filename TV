@@ -320,7 +320,12 @@ http://hls127.freeott.top:8080/PG_Thriller_HD/manifest.m3u8
 http://hls127.freeott.top:8080/PG_USSR_HD/manifest.m3u8
 #EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",РуКино HD
 http://hls127.freeott.top:8080/PG_Rukino_HD/manifest.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",MYTV
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",MYTV 2
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",MYTV 3
+http://hls127.freeott.top:8080/MyTV/mono.m3u8
 
 
 #EXTINF:-1 group-title="🎥 Кинозал (server-1)",BCU Кинозал Premiere 1 HD
