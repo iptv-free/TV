@@ -2560,3 +2560,147 @@ https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u
 http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1 group-title="♻️ Региональный",sХузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",HIT FM
+http://live.hitfm.uz/hitfmuz
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Radio Grand
+https://str1.tvcom.uz/RADIO-GRAND/shoutcast
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",TruckFM
+http://fm.truckfm.uz:8000/128
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Qalbim navosi
+http://tabassum.uz:9000/alo_low
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Navro'z
+http://navruzfm.uz:9000/navruz_low
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Autoradio
+https://fm102.uz:8443/autoradio
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Ikbol FM
+http://oriat.mediabay.uz:8012/ikbol
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Oriat Dono
+http://194.5.152.248:8000/dono
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Super Radio
+https://stream.zeno.fm/b7ye4q0k3zhvv
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",BiZ FM
+http://fm.bizfm.uz:8443/128
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Nostalgie
+https://classicfm.uz:8444/nostalgie.ogg
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Retro FM Uz
+https://classicfm.uz:8444/retrofm.ogg
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Poytaxt Uz
+https://st4.mediabay.uz/Poytaxt/PoytaxtUz/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Radio Markaz
+http://mediamarkaz.com:8000/radiomarkaz
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Temp FM
+http://tempradio-live.uz/live
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Европа Плюс
+http://emgregion.hostingradio.ru:8064/moscow.europaplus.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Жара FM
+http://zharafm.hostingradio.ru/zharafm256.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Bass
+https://abs.zaycev.fm/bass256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Classic
+https://abs.zaycev.fm/classic256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Club
+https://abs.zaycev.fm/club256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Disco
+https://abs.zaycev.fm/disco256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Folk Rock
+https://abs.zaycev.fm/folk256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-KPop
+https://abs.zaycev.fm/kpop256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Love
+https://abs.zaycev.fm/love256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Metal
+https://abs.zaycev.fm/metal256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-NewRock
+https://abs.zaycev.fm/rock256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Pop
+https://abs.zaycev.fm/pop256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-RNB
+https://abs.zaycev.fm/rnb256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Rap
+https://abs.zaycev.fm/rap256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Relax
+https://abs.zaycev.fm/relax256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Rus
+https://abs.zaycev.fm/rus256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Зайчата
+https://abs.zaycev.fm/zaychata256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-РуРок
+https://abs.zaycev.fm/rurock256k
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Радио Зайцев FM-Шансон
+https://abs.zaycev.fm/shanson256k
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",I Love Radio
+http://streams.ilovemusic.de:80/iloveradio1-aac.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",I Love Radio 2 Dance
+http://streams.ilovemusic.de:80/iloveradio2-aac.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",I Love Radio Club
+http://streams.ilovemusic.de:80/iloveradio20-aac.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",I Love Radio Hardstyle
+http://streams.ilovemusic.de:80/iloveradio21-aac.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",I Love Radio Hiphop
+http://streams.ilovemusic.de:80/iloveradio3-aac.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",I Love Radio Mashup
+http://streams.ilovemusic.de:80/iloveradio5-aac.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",I Love Radio Party Hard
+http://streams.ilovemusic.de:80/iloveradio14-aac.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",I Love Radio Robin Schulz
+http://streams.ilovemusic.de:80/iloveradio18-aac.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",I Love Radio Workout
+http://streams.ilovemusic.de:80/iloveradio23-aac.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",186mph HQ
+https://radio.promodj.com/186mph-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",300kmh HQ
+https://radio.promodj.com/300kmh-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Channel 5 HQ
+https://radio.promodj.com/channel5-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Deep HQ
+https://radio.promodj.com/deep-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Dubstep HQ
+https://radio.promodj.com/dubstep-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Full Moon HQ
+https://radio.promodj.com/fullmoon-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Klubb HQ
+https://radio.promodj.com/klubb-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Mini HQ
+https://radio.promodj.com/mini-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Nu HQ
+https://radio.promodj.com/nu-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Old-School HQ
+https://radio.promodj.com/oldschool-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Pop HQ
+https://radio.promodj.com/pop-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Strange HQ
+https://radio.promodj.com/strange-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Too Deep HQ
+https://radio.promodj.com/toodeep-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Too Nu HQ
+https://radio.promodj.com/toonu-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",TOP 100 HQ
+https://radio.promodj.com/top100-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Vata HQ
+https://radio.promodj.com/vata-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",Yo HQ
+https://radio.promodj.com/yo-192
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",PULSRADIO 2000
+https://sc3.gergosnet.com/puls00HD.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",PULSRADIO 80's
+https://sc3.gergosnet.com/magicradioHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",PULSRADIO 90's
+https://sc4.gergosnet.com/puls90HD.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",PULSRADIO CLUB
+https://sc4.gergosnet.com/mxHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",PULSRADIO DANCE
+https://sc4.gergosnet.com/pulsHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",PULSRADIO HIT UK
+https://sc3.gergosnet.com/hitukHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",PULSRADIO HITS
+https://sc3.gergosnet.com/hitpartyHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",PULSRADIO LOUNGE
+https://sc3.gergosnet.com/relaxHD.mp3
+#EXTINF:-1 tvg-logo="" group-title="📻 Радио",PULSRADIO TRANCE
+https://sc4.gergosnet.com/pulstranceHD.mp3
