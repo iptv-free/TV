@@ -846,6 +846,310 @@ https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8?token=test
 #EXTINF:-1 group-title="🎵 Музыка",Музыка Первого
 http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
 
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Первый канал
+http://cdn.kubteltv.workers.dev/?ID=01
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Россия 1
+http://cdn.kubteltv.workers.dev/?ID=02
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Матч
+http://cdn.kubteltv.workers.dev/?ID=03
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",НТВ
+http://cdn.kubteltv.workers.dev/?ID=04
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",5 канал
+http://cdn.kubteltv.workers.dev/?ID=05
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Россия Культура
+http://cdn.kubteltv.workers.dev/?ID=06
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Россия 24
+http://cdn.kubteltv.workers.dev/?ID=07
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",ОТР
+http://cdn.kubteltv.workers.dev/?ID=09
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",ТВЦ
+http://cdn.kubteltv.workers.dev/?ID=10
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",РЕН ТВ
+http://cdn.kubteltv.workers.dev/?ID=11
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Спас
+http://cdn.kubteltv.workers.dev/?ID=12
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",СТС
+http://cdn.kubteltv.workers.dev/?ID=13
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Звезда
+http://cdn.kubteltv.workers.dev/?ID=17
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Мир
+http://cdn.kubteltv.workers.dev/?ID=18
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",ТНТ
+http://cdn.kubteltv.workers.dev/?ID=19
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Муз-ТВ
+http://cdn.kubteltv.workers.dev/?ID=20
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Ю ТВ
+http://cdn.kubteltv.workers.dev/?ID=23
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Че
+http://cdn.kubteltv.workers.dev/?ID=24
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Кубань 24
+http://cdn.kubteltv.workers.dev/?ID=28
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",2x2
+http://cdn.kubteltv.workers.dev/?ID=31
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",ТНТ4
+http://cdn.kubteltv.workers.dev/?ID=32
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",СТС Love
+http://cdn.kubteltv.workers.dev/?ID=35
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="0" group-title="⭐️ TvZaTak ⭐️",8 Канал
+http://cdn.kubteltv.workers.dev/?ID=36
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Вместе РФ
+http://cdn.kubteltv.workers.dev/?ID=37
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Краснодар
+http://cdn.kubteltv.workers.dev/?ID=39
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",FON Music
+http://cdn.kubteltv.workers.dev/?ID=45
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Драйв
+http://cdn.kubteltv.workers.dev/?ID=46
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Ретро ТВ
+http://cdn.kubteltv.workers.dev/?ID=47
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",RU TV
+http://cdn.kubteltv.workers.dev/?ID=48
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Точка ТВ
+http://cdn.kubteltv.workers.dev/?ID=50
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",БелРос
+http://cdn.kubteltv.workers.dev/?ID=52
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Уникум
+http://cdn.kubteltv.workers.dev/?ID=59
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Еврокино
+http://cdn.kubteltv.workers.dev/?ID=60
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Zooпарк
+http://cdn.kubteltv.workers.dev/?ID=61
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Иллюзион+
+http://cdn.kubteltv.workers.dev/?ID=62
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Bridge TV Hits
+http://cdn.kubteltv.workers.dev/?ID=64
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Психология 21
+http://cdn.kubteltv.workers.dev/?ID=65
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Bridge TV
+http://cdn.kubteltv.workers.dev/?ID=67
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",RTG TV
+http://cdn.kubteltv.workers.dev/?ID=70
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Оружие
+http://cdn.kubteltv.workers.dev/?ID=71
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Индийское кино
+http://cdn.kubteltv.workers.dev/?ID=77
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Europa Plus TV HD
+http://cdn.kubteltv.workers.dev/?ID=82
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Красная Линия
+http://cdn.kubteltv.workers.dev/?ID=91
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Bridge TV Classic
+http://cdn.kubteltv.workers.dev/?ID=92
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Киномикс HD
+http://cdn.kubteltv.workers.dev/?ID=105
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Матч! Страна HD
+http://cdn.kubteltv.workers.dev/?ID=110
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Матч! Игра HD
+http://cdn.kubteltv.workers.dev/?ID=111
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Матч! Боец HD
+http://cdn.kubteltv.workers.dev/?ID=112
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Матч! Арена HD
+http://cdn.kubteltv.workers.dev/?ID=113
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Пёс и Ко
+http://cdn.kubteltv.workers.dev/?ID=121
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Дом Кино
+http://cdn.kubteltv.workers.dev/?ID=131
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Сапфир
+http://cdn.kubteltv.workers.dev/?ID=132
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Суббота
+http://cdn.kubteltv.workers.dev/?ID=136
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Рыжий
+http://cdn.kubteltv.workers.dev/?ID=145
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Бобер
+http://cdn.kubteltv.workers.dev/?ID=146
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Терра
+http://cdn.kubteltv.workers.dev/?ID=148
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Кинеко
+http://cdn.kubteltv.workers.dev/?ID=172
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",7 ТВ
+http://cdn.kubteltv.workers.dev/?ID=175
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Известия
+http://cdn.kubteltv.workers.dev/?ID=176
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Смайлик HD
+http://cdn.kubteltv.workers.dev/?ID=177
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Киноман
+http://cdn.kubteltv.workers.dev/?ID=182
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Детский мир
+http://cdn.kubteltv.workers.dev/?ID=186
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",TV1000
+http://cdn.kubteltv.workers.dev/?ID=191
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",TV1000 Action
+http://cdn.kubteltv.workers.dev/?ID=192
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Киноужас
+http://cdn.kubteltv.workers.dev/?ID=200
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",В гостях у сказки
+http://cdn.kubteltv.workers.dev/?ID=207
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",360
+http://cdn.kubteltv.workers.dev/?ID=216
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",360 Новости
+http://cdn.kubteltv.workers.dev/?ID=217
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Блокбастер
+http://cdn.kubteltv.workers.dev/?ID=219
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Футбольный
+http://cdn.kubteltv.workers.dev/?ID=229
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Точка отрыва
+http://cdn.kubteltv.workers.dev/?ID=231
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Хит
+http://cdn.kubteltv.workers.dev/?ID=255
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Загородный
+http://cdn.kubteltv.workers.dev/?ID=256
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Телепутешествия
+http://cdn.kubteltv.workers.dev/?ID=257
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Zoo ТВ
+http://cdn.kubteltv.workers.dev/?ID=258
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Охотник и рыболов HD
+http://cdn.kubteltv.workers.dev/?ID=259
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Da Vinci
+http://cdn.kubteltv.workers.dev/?ID=261
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",viju Nature
+http://cdn.kubteltv.workers.dev/?ID=262
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",viju Explore
+http://cdn.kubteltv.workers.dev/?ID=263
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",viju History
+http://cdn.kubteltv.workers.dev/?ID=264
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",viju Sport
+http://cdn.kubteltv.workers.dev/?ID=265
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Победа
+http://cdn.kubteltv.workers.dev/?ID=266
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Музыка Первого
+http://cdn.kubteltv.workers.dev/?ID=267
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Поехали!
+http://cdn.kubteltv.workers.dev/?ID=268
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Телекафе
+http://cdn.kubteltv.workers.dev/?ID=271
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Дом Кино Премиум HD
+http://cdn.kubteltv.workers.dev/?ID=272
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Мультиландия
+http://cdn.kubteltv.workers.dev/?ID=273
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Киноджем 2 HD
+http://cdn.kubteltv.workers.dev/?ID=298
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Детектив джем HD
+http://cdn.kubteltv.workers.dev/?ID=299
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Фэмили джем HD
+http://cdn.kubteltv.workers.dev/?ID=300
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Киносерия HD
+http://cdn.kubteltv.workers.dev/?ID=316
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Время
+http://cdn.kubteltv.workers.dev/?ID=320
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Лапки Live
+http://cdn.kubteltv.workers.dev/?ID=321
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Кинокомедия HD
+http://cdn.kubteltv.workers.dev/?ID=328
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",НТВ Хит
+http://cdn.kubteltv.workers.dev/?ID=329
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",НТВ Стиль
+http://cdn.kubteltv.workers.dev/?ID=330
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",НТВ Право
+http://cdn.kubteltv.workers.dev/?ID=331
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",НТВ Сериал
+http://cdn.kubteltv.workers.dev/?ID=332
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",RTG Int
+http://cdn.kubteltv.workers.dev/?ID=333
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Солнце
+http://cdn.kubteltv.workers.dev/?ID=334
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Живая природа
+http://cdn.kubteltv.workers.dev/?ID=339
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Живи активно
+http://cdn.kubteltv.workers.dev/?ID=340
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Глазами туриста
+http://cdn.kubteltv.workers.dev/?ID=341
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Глазами туриста 4K
+http://cdn.kubteltv.workers.dev/?ID=342
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Сумико
+http://cdn.kubteltv.workers.dev/?ID=343
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Home 4K
+http://cdn.kubteltv.workers.dev/?ID=344
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",МИР 24
+http://cdn.kubteltv.workers.dev/?ID=345
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Киномульт
+http://cdn.kubteltv.workers.dev/?ID=346
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Мульт HD
+http://cdn.kubteltv.workers.dev/?ID=348
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Моя Планета HD
+http://cdn.kubteltv.workers.dev/?ID=349
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Живая Планета
+http://cdn.kubteltv.workers.dev/?ID=350
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Синема HD
+http://cdn.kubteltv.workers.dev/?ID=352
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Мосфильм HD
+http://cdn.kubteltv.workers.dev/?ID=353
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",FAN HD
+http://cdn.kubteltv.workers.dev/?ID=354
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Русский Роман HD
+http://cdn.kubteltv.workers.dev/?ID=355
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Русский Бестселлер
+http://cdn.kubteltv.workers.dev/?ID=356
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Русский Детектив
+http://cdn.kubteltv.workers.dev/?ID=357
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Русский Экстрим HD
+http://cdn.kubteltv.workers.dev/?ID=358
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Беларусь 24
+http://cdn.kubteltv.workers.dev/?ID=359
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Техно 24
+http://cdn.kubteltv.workers.dev/?ID=360
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Сарафан
+http://cdn.kubteltv.workers.dev/?ID=361
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",НСТ
+http://cdn.kubteltv.workers.dev/?ID=364
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",History
+http://cdn.kubteltv.workers.dev/?ID=365
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Мультимузыка
+http://cdn.kubteltv.workers.dev/?ID=366
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Ani
+http://cdn.kubteltv.workers.dev/?ID=367
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Start World
+http://cdn.kubteltv.workers.dev/?ID=371
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Start Air
+http://cdn.kubteltv.workers.dev/?ID=372
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",ТНТ HD
+http://cdn.kubteltv.workers.dev/?ID=373
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Мир HD
+http://cdn.kubteltv.workers.dev/?ID=374
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",НТВ HD
+http://cdn.kubteltv.workers.dev/?ID=375
+#EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",РЕН ТВ HD
+http://cdn.kubteltv.workers.dev/?ID=376
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",СТС HD
+http://cdn.kubteltv.workers.dev/?ID=377
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Домашний HD
+http://cdn.kubteltv.workers.dev/?ID=378
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",ТВ-3 HD
+http://cdn.kubteltv.workers.dev/?ID=379
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",viju TV1000 Новелла
+http://cdn.kubteltv.workers.dev/?ID=381
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Temptation
+http://cdn.kubteltv.workers.dev/?ID=394
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Red Lips
+http://cdn.kubteltv.workers.dev/?ID=395
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Мяч HD
+http://cdn.kubteltv.workers.dev/?ID=404
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Хоккей HD
+http://cdn.kubteltv.workers.dev/?ID=405
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Наш Кинопоказ HD
+http://cdn.kubteltv.workers.dev/?ID=414
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Матч! ТВ HD
+http://cdn.kubteltv.workers.dev/?ID=419
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Пятый канал HD
+http://cdn.kubteltv.workers.dev/?ID=423
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",The Explorers
+http://cdn.kubteltv.workers.dev/?ID=443
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Волейбол
+http://cdn.kubteltv.workers.dev/?ID=444
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",145
+http://cdn.kubteltv.workers.dev/?ID=450
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Ювелирочка
+http://cdn.kubteltv.workers.dev/?ID=453
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Shopping Live
+http://cdn.kubteltv.workers.dev/?ID=454
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Brazzers TV
+http://cdn.kubteltv.workers.dev/?ID=455
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Bollywood HD
+http://cdn.kubteltv.workers.dev/?ID=456
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Food Time HD
+http://cdn.kubteltv.workers.dev/?ID=457
+#EXTINF:-1 tvg-id="" tvg-rec="0" tvg-logo="" catchup-days="7" group-title="⭐️ TvZaTak ⭐️",Русская Ночь
+http://cdn.kubteltv.workers.dev/?ID=458
+
+
 #EXTINF:-1 group-title="🌏 github.com ⭐️IPTV-FREE⭐️",Время
 http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8
 #EXTINF:-1 group-title="🌏 github.com ⭐️IPTV-FREE⭐️",Диалоги о Рыбалке
