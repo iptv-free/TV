@@ -2087,6 +2087,11 @@ https://stream4.itv.uz/t/9833BF5OHMTH7ewtxpSLkw/e/1773368440/1494/tracks-v1a1/mo
 https://stream4.itv.uz/t/asd0lgeCUtGlQz2E1zaiow/e/1773368456/1486/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🇺🇿 O'zbekiston",8TV
 https://stream15.itv.uz/t/ATFzfbI-o8iB54xcPeDxSA/e/1773368483/1496/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://m3u.usite.pro/tasix.jpg" group-title="🇺🇿 O'zbekiston",Tasix-Media
+https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🇺🇿 O'zbekiston",Kinoteatr HD
+https://stream13.itv.uz/t/WevcZZka0vKKVpwltlg3Vg/e/1773462849/1009/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00578.png?1712838085" group-title="🇺🇦  Украина",Cinema Megahit HD
 https://iptv.prosto.tv/id578/video.m3u8?secret=xws6dla3&21yo=0
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00579.png?1712837780" group-title="🇺🇦  Украина",Cinema Comedy HD
