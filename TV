@@ -464,87 +464,86 @@ http://tv.woobl.ru/BOX_Autotrend_HD/video.m3u8?token=5uGLTS1oibSIu0
 http://tv.woobl.ru/BOX_Apocalypse_HD/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 tvg-name="BOX Sitcom HD" group-title="💎 Кинозал (server-1)",BOX Sitcom HD
 http://tv.woobl.ru/BOX_Sitcom_HD/video.m3u8?token=5uGLTS1oibSIu0
-
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Bunny HD
-http://tv.woobl.ru/BUNNYHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Nature
-http://tv.woobl.ru/SKY_HIGH_NATURE_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Mydoc
-http://tv.woobl.ru/SKY_HIGH_DOC_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Brain
-http://tv.woobl.ru/SKYHIGHBRAINFHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Firezone
-http://tv.woobl.ru/SKY_HIGH_FIREZONE_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Strike
-http://tv.woobl.ru/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Brick
-http://tv.woobl.ru/SKY_HIGH_BRICK_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Dusts
-http://tv.woobl.ru/SKY_HIGH_DUST_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Jetix
-http://tv.woobl.ru/SKY_HIGH_JETIX_HD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH GunRush
-http://tv.woobl.ru/SKY_HIGH_GUNRUSH_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Fear
-http://tv.woobl.ru/SKY_HIGH_FEAR_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Bat
-http://tv.woobl.ru/SKY_HIGH_BAT_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Танос
-http://tv.woobl.ru/SKY_HIGH_TANOS_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH quants
-http://tv.woobl.ru/SKY_HIGH_QUANT_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Future
-http://tv.woobl.ru/SKY_HIGH_FUTURE_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Neon
-http://tv.woobl.ru/SKY_HIGH_NEON_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Toon
-http://tv.woobl.ru/SKY_HIGH_TOON_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Nick
-http://tv.woobl.ru/SKY_HIGH_NICK_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Civil
-http://tv.woobl.ru/SKY_HIGH_CIVIL_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Boom
-http://tv.woobl.ru/SKY_HIGH_BOOM_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Teen
-http://tv.woobl.ru/SKY_HIGH_TEEN_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Junior
-http://tv.woobl.ru/SKY_HIGH_JUNIOR_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Archive
-http://tv.woobl.ru/SKY_HIGH_ARCHIVE_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Trace
-http://tv.woobl.ru/SKY_HIGH_TRACE_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Votum
-http://tv.woobl.ru/SKY_HIGH_VOTUM_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Case
-http://tv.woobl.ru/SKY_HIGH_CASE_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH ZIPPY
-http://tv.woobl.ru/SKY_HIGH_ZIPPY_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Heart
-http://tv.woobl.ru/SKY_HIGH_HEART_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Joke
-http://tv.woobl.ru/SKY_HIGH_JOKE_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Medy
-http://tv.woobl.ru/SKY_HIGH_MEDY_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Romix
-http://tv.woobl.ru/SKY_HIGH_ROMIX_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Red s
-http://tv.woobl.ru/SKY_HIGH_RED_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Wizz s
-http://tv.woobl.ru/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Woonder
-http://tv.woobl.ru/SKY_HIGH_WOONDER_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Dragon
-http://tv.woobl.ru/SKY_HIGH_DRAGON_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Space
-http://tv.woobl.ru/SKY_HIGH_SPACE_4K_HDR/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Horror
-http://tv.woobl.ru/SKY_HIGH_HORROR_4K_HDR/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Lofi
-http://tv.woobl.ru/SKY_HIGH_LO_FIHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Beyond
-http://tv.woobl.ru/SKY_HIGH_BEYOND_S_FHD/video.m3u8
-#EXTINF:-1 group-title="💎 Кинозал (server-2)",SKY HIGH Scream
-http://tv.woobl.ru/SKY_HIGH_SCREAM_FHD/video.m3u8
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Bunny HD
+http://tv.woobl.ru/BUNNYHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Nature
+http://tv.woobl.ru/SKY_HIGH_NATURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Mydoc
+http://tv.woobl.ru/SKY_HIGH_DOC_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Brain
+http://tv.woobl.ru/SKYHIGHBRAINFHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Firezone
+http://tv.woobl.ru/SKY_HIGH_FIREZONE_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Strike
+http://tv.woobl.ru/SKY_HIGH_STRIKE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Brick
+http://tv.woobl.ru/SKY_HIGH_BRICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Dusts
+http://tv.woobl.ru/SKY_HIGH_DUST_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Jetix
+http://tv.woobl.ru/SKY_HIGH_JETIX_HD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH GunRush
+http://tv.woobl.ru/SKY_HIGH_GUNRUSH_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Fear
+http://tv.woobl.ru/SKY_HIGH_FEAR_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Bat
+http://tv.woobl.ru/SKY_HIGH_BAT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Танос
+http://tv.woobl.ru/SKY_HIGH_TANOS_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH quants
+http://tv.woobl.ru/SKY_HIGH_QUANT_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Future
+http://tv.woobl.ru/SKY_HIGH_FUTURE_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Neon
+http://tv.woobl.ru/SKY_HIGH_NEON_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Toon
+http://tv.woobl.ru/SKY_HIGH_TOON_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Nick
+http://tv.woobl.ru/SKY_HIGH_NICK_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Civil
+http://tv.woobl.ru/SKY_HIGH_CIVIL_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Boom
+http://tv.woobl.ru/SKY_HIGH_BOOM_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Teen
+http://tv.woobl.ru/SKY_HIGH_TEEN_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Junior
+http://tv.woobl.ru/SKY_HIGH_JUNIOR_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Archive
+http://tv.woobl.ru/SKY_HIGH_ARCHIVE_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Trace
+http://tv.woobl.ru/SKY_HIGH_TRACE_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Votum
+http://tv.woobl.ru/SKY_HIGH_VOTUM_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Case
+http://tv.woobl.ru/SKY_HIGH_CASE_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH ZIPPY
+http://tv.woobl.ru/SKY_HIGH_ZIPPY_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Heart
+http://tv.woobl.ru/SKY_HIGH_HEART_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Joke
+http://tv.woobl.ru/SKY_HIGH_JOKE_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Medy
+http://tv.woobl.ru/SKY_HIGH_MEDY_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Romix
+http://tv.woobl.ru/SKY_HIGH_ROMIX_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Red s
+http://tv.woobl.ru/SKY_HIGH_RED_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Wizz s
+http://tv.woobl.ru/SKY_HIGH_WIZZ_VHS_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Woonder
+http://tv.woobl.ru/SKY_HIGH_WOONDER_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Dragon
+http://tv.woobl.ru/SKY_HIGH_DRAGON_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Space
+http://tv.woobl.ru/SKY_HIGH_SPACE_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Horror
+http://tv.woobl.ru/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Lofi
+http://tv.woobl.ru/SKY_HIGH_LO_FIHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Beyond
+http://tv.woobl.ru/SKY_HIGH_BEYOND_S_FHD/video.m3u8?token=5uGLTS1oibSIu0
+#EXTINF:-1 group-title="💎 Кинозал (server-1)",SKY HIGH Scream
+http://tv.woobl.ru/SKY_HIGH_SCREAM_FHD/video.m3u8?token=5uGLTS1oibSIu0
 
 #EXTINF:-1 group-title="⚽️ Спортивные",Окко Спорт HD
 http://tv.woobl.ru/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
