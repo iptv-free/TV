@@ -107,6 +107,463 @@ http://tv.woobl.ru/tsentralnoe_televidenie/video.m3u8?token=5uGLTS1oibSIu0
 http://tv.woobl.ru/anekdot_tv/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",КВН
 http://tv.woobl.ru/kvn_tv/video.m3u8?token=5uGLTS1oibSIu0
+
+
+
+
+#EXTINF:-1 tvg-id="146" tvg-rec="7" tvg-logo="http://epg.one/img/983.png" group-title="🕐 Плюс ТВ",Первый канал HD
+http://rebrand.ly/TvZavTak?stream=204%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2034" tvg-rec="3" tvg-logo="http://epg.one/img/2034.png" group-title="🕐 Плюс ТВ",Первый канал +2
+http://rebrand.ly/TvZavTak?stream=714%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3025" tvg-rec="0" tvg-logo="http://epg.one/img/3025.png" group-title="🕐 Плюс ТВ",Первый канал +4
+http://rebrand.ly/TvZavTak?stream=6021%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3025" tvg-rec="0" tvg-logo="http://epg.one/img/3025.png" group-title="🕐 Плюс ТВ",Первый канал +4 HD
+http://rebrand.ly/TvZavTak?stream=15117%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="20" tvg-rec="0" tvg-logo="http://epg.one/img/20.png" group-title="🕐 Плюс ТВ",Первый канал +6
+http://rebrand.ly/TvZavTak?stream=6037%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3027" tvg-rec="0" tvg-logo="http://epg.one/img/3027.png" group-title="🕐 Плюс ТВ",Первый канал +8
+http://rebrand.ly/TvZavTak?stream=6050%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="711" tvg-logo="http://epg.one/img/984.png" catchup-days="7" group-title="🕐 Плюс ТВ",Россия 1 HD
+http://rebrand.ly/TvZavTak?stream=205%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3000" tvg-rec="0" tvg-logo="http://epg.one/img/3000.png" group-title="🕐 Плюс ТВ",Россия 1 +2
+http://rebrand.ly/TvZavTak?stream=6011%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3001" tvg-rec="0" tvg-logo="http://epg.one/img/3001.png" group-title="🕐 Плюс ТВ",Россия 1 +4
+http://rebrand.ly/TvZavTak?stream=6022%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3002" tvg-rec="0" tvg-logo="http://epg.one/img/3002.png" group-title="🕐 Плюс ТВ",Россия 1 +6
+http://rebrand.ly/TvZavTak?stream=6038%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="711" tvg-rec="0" tvg-logo="http://epg.one/img/711.png" group-title="🕐 Плюс ТВ",Россия 1 +8
+http://rebrand.ly/TvZavTak?stream=6051%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="162" tvg-logo="http://epg.one/img/2001.png" catchup-days="7" group-title="🕐 Плюс ТВ",НТВ HD
+http://rebrand.ly/TvZavTak?stream=213%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2041" tvg-rec="0" tvg-logo="http://epg.one/img/2041.png" group-title="🕐 Плюс ТВ",НТВ Хит HD
+http://rebrand.ly/TvZavTak?stream=16062%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="7258" tvg-rec="0" tvg-logo="http://epg.one/img/7258.png" group-title="🕐 Плюс ТВ",НТВ Мир
+http://rebrand.ly/TvZavTak?stream=14035%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="162" tvg-rec="3" tvg-logo="http://epg.one/img/162.png" group-title="🕐 Плюс ТВ",НТВ +2
+http://rebrand.ly/TvZavTak?stream=713%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2964" tvg-rec="0" tvg-logo="http://epg.one/img/2964.png" group-title="🕐 Плюс ТВ",НТВ +4
+http://rebrand.ly/TvZavTak?stream=6024%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3028" tvg-rec="0" tvg-logo="http://epg.one/img/3028.png" group-title="🕐 Плюс ТВ",НТВ +7
+http://rebrand.ly/TvZavTak?stream=6039%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3029" tvg-rec="0" tvg-logo="http://epg.one/img/3029.png" group-title="🕐 Плюс ТВ",НТВ +8
+http://rebrand.ly/TvZavTak?stream=6053%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="649" tvg-rec="7" tvg-logo="http://epg.one/img/649.png" group-title="🕐 Плюс ТВ",ТВЦ
+http://rebrand.ly/TvZavTak?stream=520%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2038" tvg-rec="3" tvg-logo="http://epg.one/img/2038.png" group-title="🕐 Плюс ТВ",ТВЦ +2
+http://rebrand.ly/TvZavTak?stream=716%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3037" tvg-rec="0" tvg-logo="http://epg.one/img/3037.png" group-title="🕐 Плюс ТВ",ТВЦ +4
+http://rebrand.ly/TvZavTak?stream=6027%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3038" tvg-rec="0" tvg-logo="http://epg.one/img/3038.png" group-title="🕐 Плюс ТВ",ТВЦ +7
+http://rebrand.ly/TvZavTak?stream=6041%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3039" tvg-rec="0" tvg-logo="http://epg.one/img/3039.png" group-title="🕐 Плюс ТВ",ТВЦ +8
+http://rebrand.ly/TvZavTak?stream=6056%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="7" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал
+http://rebrand.ly/TvZavTak?stream=112%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="3" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +2
+http://rebrand.ly/TvZavTak?stream=746%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="0" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +4
+http://rebrand.ly/TvZavTak?stream=6025%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="0" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +7
+http://rebrand.ly/TvZavTak?stream=6040%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="726" tvg-rec="0" tvg-logo="http://epg.one/img/726.png" group-title="🕐 Плюс ТВ",Мир HD
+http://rebrand.ly/TvZavTak?stream=15119%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="353" tvg-rec="7" tvg-logo="http://epg.one/img/1767.png" group-title="🕐 Плюс ТВ",ТНТ HD
+http://rebrand.ly/TvZavTak?stream=237%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3023" tvg-rec="0" tvg-logo="http://epg.one/img/3023.png" group-title="🕐 Плюс ТВ",ТНТ +4
+http://rebrand.ly/TvZavTak?stream=6035%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3024" tvg-rec="0" tvg-logo="http://epg.one/img/3024.png" group-title="🕐 Плюс ТВ",ТНТ +7
+http://rebrand.ly/TvZavTak?stream=6049%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="79" tvg-rec="7" tvg-logo="http://epg.one/img/79.png" group-title="🕐 Плюс ТВ",СТС
+http://rebrand.ly/TvZavTak?stream=506%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3007" tvg-rec="0" tvg-logo="http://epg.one/img/3007.png" group-title="🕐 Плюс ТВ",СТС +2
+http://rebrand.ly/TvZavTak?stream=6015%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3008" tvg-rec="0" tvg-logo="http://epg.one/img/3008.png" group-title="🕐 Плюс ТВ",СТС +4
+http://rebrand.ly/TvZavTak?stream=6029%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3009" tvg-rec="0" tvg-logo="http://epg.one/img/3009.png" group-title="🕐 Плюс ТВ",СТС +7
+http://rebrand.ly/TvZavTak?stream=6043%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="18" tvg-rec="7" tvg-logo="http://epg.one/img/18.png" group-title="🕐 Плюс ТВ",РЕН ТВ HD
+http://rebrand.ly/TvZavTak?stream=2024%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="18" tvg-rec="3" tvg-logo="http://epg.one/img/18.png" group-title="🕐 Плюс ТВ",РЕН ТВ +2
+http://rebrand.ly/TvZavTak?stream=747%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="18" tvg-rec="0" tvg-logo="http://epg.one/img/18.png" group-title="🕐 Плюс ТВ",РЕН ТВ +4
+http://rebrand.ly/TvZavTak?stream=6028%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="18" tvg-rec="0" tvg-logo="http://epg.one/img/18.png" group-title="🕐 Плюс ТВ",РЕН ТВ +7
+http://rebrand.ly/TvZavTak?stream=6042%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="726" tvg-rec="7" tvg-logo="http://epg.one/img/726.png" group-title="🕐 Плюс ТВ",Мир
+http://rebrand.ly/TvZavTak?stream=113%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3019" tvg-rec="0" tvg-logo="http://epg.one/img/3019.png" group-title="🕐 Плюс ТВ",Мир +2
+http://rebrand.ly/TvZavTak?stream=6019%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3020" tvg-rec="0" tvg-logo="http://epg.one/img/3020.png" group-title="🕐 Плюс ТВ",Мир +4
+http://rebrand.ly/TvZavTak?stream=6034%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3021" tvg-rec="0" tvg-logo="http://epg.one/img/3021.png" group-title="🕐 Плюс ТВ",Мир +7
+http://rebrand.ly/TvZavTak?stream=6048%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1000" tvg-rec="7" tvg-logo="http://epg.one/img/1000.png" group-title="🕐 Плюс ТВ",ОТР
+http://rebrand.ly/TvZavTak?stream=705%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="4661" tvg-rec="0" tvg-logo="http://epg.one/img/4661.png" group-title="🕐 Плюс ТВ",Звезда Плюс HD
+http://rebrand.ly/TvZavTak?stream=19230%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="405" tvg-rec="7" tvg-logo="http://epg.one/img/405.png" group-title="🕐 Плюс ТВ",Звезда
+http://rebrand.ly/TvZavTak?stream=544%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="405" tvg-rec="3" tvg-logo="http://epg.one/img/405.png" group-title="🕐 Плюс ТВ",Звезда +2
+http://rebrand.ly/TvZavTak?stream=739%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3035" tvg-rec="0" tvg-logo="http://epg.one/img/3035.png" group-title="🕐 Плюс ТВ",Звезда +4
+http://rebrand.ly/TvZavTak?stream=6033%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3036" tvg-rec="0" tvg-logo="http://epg.one/img/3036.png" group-title="🕐 Плюс ТВ",Звезда +7
+http://rebrand.ly/TvZavTak?stream=6047%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1322" tvg-rec="7" tvg-logo="http://epg.one/img/1322.png" group-title="🕐 Плюс ТВ",СТС Love
+http://rebrand.ly/TvZavTak?stream=103%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1598" tvg-rec="7" tvg-logo="http://epg.one/img/1598.png" group-title="🕐 Плюс ТВ",Че!
+http://rebrand.ly/TvZavTak?stream=513%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="3" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 HD
+http://rebrand.ly/TvZavTak?stream=5033%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +2
+http://rebrand.ly/TvZavTak?stream=6017%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +4
+http://rebrand.ly/TvZavTak?stream=6031%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +7
+http://rebrand.ly/TvZavTak?stream=6045%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1003" tvg-rec="3" tvg-logo="http://epg.one/img/2765.png" group-title="🕐 Плюс ТВ",Пятница! HD
+http://rebrand.ly/TvZavTak?stream=5031%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2401" tvg-rec="3" tvg-logo="http://epg.one/img/2401.png" group-title="🕐 Плюс ТВ",RTVi
+http://rebrand.ly/TvZavTak?stream=2086%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2288" tvg-rec="7" tvg-logo="http://epg.one/img/2288.png" group-title="🕐 Плюс ТВ",Суббота!
+http://rebrand.ly/TvZavTak?stream=826%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="304" tvg-rec="7" tvg-logo="http://epg.one/img/304.png" group-title="🕐 Плюс ТВ",Домашний
+http://rebrand.ly/TvZavTak?stream=514%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3010" tvg-rec="0" tvg-logo="http://epg.one/img/3010.png" group-title="🕐 Плюс ТВ",Домашний +2
+http://rebrand.ly/TvZavTak?stream=6016%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3011" tvg-rec="0" tvg-logo="http://epg.one/img/3011.png" group-title="🕐 Плюс ТВ",Домашний +4
+http://rebrand.ly/TvZavTak?stream=6030%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3012" tvg-rec="0" tvg-logo="http://epg.one/img/3012.png" group-title="🕐 Плюс ТВ",Домашний +7
+http://rebrand.ly/TvZavTak?stream=6044%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2142" tvg-rec="3" tvg-logo="http://epg.one/img/2142.png" group-title="🕐 Плюс ТВ",Настоящее время
+http://rebrand.ly/TvZavTak?stream=986%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="783" tvg-rec="7" tvg-logo="http://epg.one/img/783.png" group-title="🕐 Плюс ТВ",Ностальгия
+http://rebrand.ly/TvZavTak?stream=102%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="898" tvg-rec="7" tvg-logo="http://epg.one/img/898.png" group-title="🕐 Плюс ТВ",Ю ТВ
+http://rebrand.ly/TvZavTak?stream=534%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1649" tvg-rec="7" tvg-logo="http://epg.one/img/1649.png" group-title="🕐 Плюс ТВ",ТНТ4
+http://rebrand.ly/TvZavTak?stream=104%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1700" tvg-rec="7" tvg-logo="http://epg.one/img/1700.png" group-title="🕐 Плюс ТВ",КВН ТВ
+http://rebrand.ly/TvZavTak?stream=546%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="663" tvg-rec="7" tvg-logo="http://epg.one/img/663.png" group-title="🕐 Плюс ТВ",Сарафан
+http://rebrand.ly/TvZavTak?stream=748%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2457" tvg-rec="3" tvg-logo="http://epg.one/img/2457.png" group-title="🕐 Плюс ТВ",Точка ТВ
+http://rebrand.ly/TvZavTak?stream=2053%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2265" tvg-rec="3" tvg-logo="http://epg.one/img/2265.png" group-title="🕐 Плюс ТВ",360 HD
+http://rebrand.ly/TvZavTak?stream=2065%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2141" tvg-rec="3" tvg-logo="http://epg.one/img/2141.png" group-title="🕐 Плюс ТВ",СПАС
+http://rebrand.ly/TvZavTak?stream=983%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2448" tvg-rec="7" tvg-logo="http://epg.one/img/2448.png" group-title="🕐 Плюс ТВ",Союз
+http://rebrand.ly/TvZavTak?stream=2016%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2449" tvg-rec="7" tvg-logo="http://epg.one/img/2449.png" group-title="🕐 Плюс ТВ",Здоровое ТВ
+http://rebrand.ly/TvZavTak?stream=2022%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2450" tvg-rec="7" tvg-logo="http://epg.one/img/2450.png" group-title="🕐 Плюс ТВ",Психология
+http://rebrand.ly/TvZavTak?stream=2025%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2455" tvg-rec="7" tvg-logo="http://epg.one/img/2455.png" group-title="🕐 Плюс ТВ",Успех
+http://rebrand.ly/TvZavTak?stream=2041%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2456" tvg-rec="7" tvg-logo="http://epg.one/img/2456.png" group-title="🕐 Плюс ТВ",Кто есть кто
+http://rebrand.ly/TvZavTak?stream=2042%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2462" tvg-rec="3" tvg-logo="http://epg.one/img/2462.png" group-title="🕐 Плюс ТВ",Открытый мир
+http://rebrand.ly/TvZavTak?stream=2078%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2463" tvg-rec="3" tvg-logo="http://epg.one/img/2463.png" group-title="🕐 Плюс ТВ",Загородный
+http://rebrand.ly/TvZavTak?stream=2099%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1732" tvg-rec="3" tvg-logo="http://epg.one/img/1732.png" group-title="🕐 Плюс ТВ",Надежда
+http://rebrand.ly/TvZavTak?stream=2116%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2464" tvg-rec="3" tvg-logo="http://epg.one/img/2464.png" group-title="🕐 Плюс ТВ",БСТ
+http://rebrand.ly/TvZavTak?stream=2108%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2476" tvg-rec="3" tvg-logo="http://epg.one/img/2476.png" group-title="🕐 Плюс ТВ",Красная линия
+http://rebrand.ly/TvZavTak?stream=2147%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2399" tvg-rec="7" tvg-logo="http://epg.one/img/2399.png" group-title="🕐 Плюс ТВ",Дождь
+http://rebrand.ly/TvZavTak?stream=2030%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="187" tvg-rec="7" tvg-logo="http://epg.one/img/187.png" group-title="🕐 Плюс ТВ",Россия К
+http://rebrand.ly/TvZavTak?stream=505%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2770" tvg-rec="3" tvg-logo="http://epg.one/img/2770.png" group-title="🕐 Плюс ТВ",Gametoon HD
+http://rebrand.ly/TvZavTak?stream=5049%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2470" tvg-rec="3" tvg-logo="http://epg.one/img/2470.png" group-title="🕐 Плюс ТВ",Ратник HD
+http://rebrand.ly/TvZavTak?stream=2119%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="405" tvg-rec="0" tvg-logo="http://epg.one/img/405.png" group-title="🕐 Плюс ТВ",Звезда HD
+http://rebrand.ly/TvZavTak?stream=15115%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2288" tvg-rec="0" tvg-logo="http://epg.one/img/2288.png" group-title="🕐 Плюс ТВ",Суббота! HD
+http://rebrand.ly/TvZavTak?stream=15118%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="304" tvg-rec="0" tvg-logo="http://epg.one/img/304.png" group-title="🕐 Плюс ТВ",Домашний HD
+http://rebrand.ly/TvZavTak?stream=15116%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="4661" tvg-rec="7" tvg-logo="http://epg.one/img/4661.png" group-title="🕐 Плюс ТВ",Звезда Плюс
+http://rebrand.ly/TvZavTak?stream=10059%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2295" tvg-rec="0" tvg-logo="http://epg.one/img/2295.png" group-title="🕐 Плюс ТВ",RT Documentary HD
+http://rebrand.ly/TvZavTak?stream=14157%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="5605" tvg-rec="0" tvg-logo="http://epg.one/img/5605.png" group-title="🕐 Плюс ТВ",MS Crime HD
+http://rebrand.ly/TvZavTak?stream=15136%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="5691" tvg-rec="0" tvg-logo="http://epg.one/img/5691.png" group-title="🕐 Плюс ТВ",ТВЦ International
+http://rebrand.ly/TvZavTak?stream=15229%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="5692" tvg-rec="0" tvg-logo="http://epg.one/img/5692.png" group-title="🕐 Плюс ТВ",ТНТ International HD
+http://rebrand.ly/TvZavTak?stream=15230%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="711" tvg-rec="0" tvg-logo="http://epg.one/img/711.png" group-title="🕐 Плюс ТВ",Россия 1 +1 (Приволжье)
+http://rebrand.ly/TvZavTak?stream=15284%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="146" tvg-rec="0" tvg-logo="http://epg.one/img/146.png" group-title="🕐 Плюс ТВ",Первый канал +4 (Алтай)
+http://rebrand.ly/TvZavTak?stream=15287%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3001" tvg-rec="0" tvg-logo="http://epg.one/img/3001.png" group-title="🕐 Плюс ТВ",Россия 1 +4 (Алтай)
+http://rebrand.ly/TvZavTak?stream=15288%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="162" tvg-rec="0" tvg-logo="http://epg.one/img/162.png" group-title="🕐 Плюс ТВ",НТВ +4 (Алтай)
+http://rebrand.ly/TvZavTak?stream=15290%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="0" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +4 (Алтай)
+http://rebrand.ly/TvZavTak?stream=15291%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="79" tvg-rec="0" tvg-logo="http://epg.one/img/79.png" group-title="🕐 Плюс ТВ",СТС +4 (Алтай)
+http://rebrand.ly/TvZavTak?stream=15293%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="304" tvg-rec="0" tvg-logo="http://epg.one/img/304.png" group-title="🕐 Плюс ТВ",Домашний +4 (Алтай)
+http://rebrand.ly/TvZavTak?stream=15294%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +4 (Алтай)
+http://rebrand.ly/TvZavTak?stream=15295%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1003" tvg-rec="0" tvg-logo="http://epg.one/img/1003.png" group-title="🕐 Плюс ТВ",Пятница! +4 (Алтай)
+http://rebrand.ly/TvZavTak?stream=15296%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="405" tvg-rec="0" tvg-logo="http://epg.one/img/405.png" group-title="🕐 Плюс ТВ",Звезда +4 (Алтай)
+http://rebrand.ly/TvZavTak?stream=15297%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="353" tvg-rec="0" tvg-logo="http://epg.one/img/353.png" group-title="🕐 Плюс ТВ",ТНТ +4 (Алтай)
+http://rebrand.ly/TvZavTak?stream=15298%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2034" tvg-rec="0" tvg-logo="http://epg.one/img/2034.png" group-title="🕐 Плюс ТВ",Первый канал +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15301%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3000" tvg-rec="0" tvg-logo="http://epg.one/img/3000.png" group-title="🕐 Плюс ТВ",Россия 1 +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15302%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3007" tvg-rec="0" tvg-logo="http://epg.one/img/3007.png" group-title="🕐 Плюс ТВ",СТС +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15303%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3022" tvg-rec="0" tvg-logo="http://epg.one/img/3022.png" group-title="🕐 Плюс ТВ",ТНТ +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15304%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2036" tvg-rec="0" tvg-logo="http://epg.one/img/2036.png" group-title="🕐 Плюс ТВ",НТВ +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15305%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2039" tvg-rec="0" tvg-logo="http://epg.one/img/2039.png" group-title="🕐 Плюс ТВ",Звезда +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15306%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3016" tvg-rec="0" tvg-logo="http://epg.one/img/3016.png" group-title="🕐 Плюс ТВ",Пятница! +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15308%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="18" tvg-rec="0" tvg-logo="http://epg.one/img/18.png" group-title="🕐 Плюс ТВ",РЕН ТВ +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15309%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="711" tvg-rec="0" tvg-logo="http://epg.one/img/711.png" group-title="🕐 Плюс ТВ",Россия 1 +0 (Липецк)
+http://rebrand.ly/TvZavTak?stream=15313%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="162" tvg-rec="0" tvg-logo="http://epg.one/img/162.png" group-title="🕐 Плюс ТВ",НТВ +0 (Липецк)
+http://rebrand.ly/TvZavTak?stream=15315%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2035" tvg-rec="0" tvg-logo="http://epg.one/img/2035.png" group-title="🕐 Плюс ТВ",Пятый канал +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15316%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3010" tvg-rec="0" tvg-logo="http://epg.one/img/3010.png" group-title="🕐 Плюс ТВ",Домашний +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15317%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="0" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +0 (Липецк)
+http://rebrand.ly/TvZavTak?stream=15318%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15319%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2038" tvg-rec="0" tvg-logo="http://epg.one/img/2038.png" group-title="🕐 Плюс ТВ",ТВЦ +2 (Уфа)
+http://rebrand.ly/TvZavTak?stream=15320%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="304" tvg-rec="0" tvg-logo="http://epg.one/img/304.png" group-title="🕐 Плюс ТВ",Домашний +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15321%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="162" tvg-rec="0" tvg-logo="http://epg.one/img/162.png" group-title="🕐 Плюс ТВ",НТВ +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15322%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="146" tvg-rec="0" tvg-logo="http://epg.one/img/146.png" group-title="🕐 Плюс ТВ",Первый канал +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15323%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="711" tvg-rec="0" tvg-logo="http://epg.one/img/711.png" group-title="🕐 Плюс ТВ",Россия 1 +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15324%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1003" tvg-rec="0" tvg-logo="http://epg.one/img/1003.png" group-title="🕐 Плюс ТВ",Пятница! +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15325%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="0" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15326%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="18" tvg-rec="0" tvg-logo="http://epg.one/img/18.png" group-title="🕐 Плюс ТВ",РЕН ТВ +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15327%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="187" tvg-rec="0" tvg-logo="http://epg.one/img/187.png" group-title="🕐 Плюс ТВ",Россия К +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15328%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="79" tvg-rec="0" tvg-logo="http://epg.one/img/79.png" group-title="🕐 Плюс ТВ",СТС +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15330%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15331%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="353" tvg-rec="0" tvg-logo="http://epg.one/img/353.png" group-title="🕐 Плюс ТВ",ТНТ +0 (Невинномысск)
+http://rebrand.ly/TvZavTak?stream=15332%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3026" tvg-rec="0" tvg-logo="http://epg.one/img/3026.png" group-title="🕐 Плюс ТВ",Первый канал +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15333%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="7989" tvg-rec="0" tvg-logo="http://epg.one/img/7989.png" group-title="🕐 Плюс ТВ",Россия 1 +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15334%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3028" tvg-rec="0" tvg-logo="http://epg.one/img/3028.png" group-title="🕐 Плюс ТВ",НТВ +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15336%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="0" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15337%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1101" tvg-rec="0" tvg-logo="http://epg.one/img/1101.png" group-title="🕐 Плюс ТВ",Россия К +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15338%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3005" tvg-rec="0" tvg-logo="http://epg.one/img/3005.png" group-title="🕐 Плюс ТВ",ОТР +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15341%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3038" tvg-rec="0" tvg-logo="http://epg.one/img/3038.png" group-title="🕐 Плюс ТВ",ТВЦ +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15342%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3034" tvg-rec="0" tvg-logo="http://epg.one/img/3034.png" group-title="🕐 Плюс ТВ",РЕН ТВ +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15343%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="93253" tvg-rec="0" tvg-logo="http://epg.one/img/93253.png" group-title="🕐 Плюс ТВ",СПАС +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15344%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3012" tvg-rec="0" tvg-logo="http://epg.one/img/3012.png" group-title="🕐 Плюс ТВ",Домашний +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15345%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15346%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3018" tvg-rec="0" tvg-logo="http://epg.one/img/3018.png" group-title="🕐 Плюс ТВ",Пятница! +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15347%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3036" tvg-rec="0" tvg-logo="http://epg.one/img/3036.png" group-title="🕐 Плюс ТВ",Звезда +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15348%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3021" tvg-rec="0" tvg-logo="http://epg.one/img/3021.png" group-title="🕐 Плюс ТВ",Мир +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15349%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3024" tvg-rec="0" tvg-logo="http://epg.one/img/3024.png" group-title="🕐 Плюс ТВ",ТНТ +7 (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15350%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="79" tvg-rec="0" tvg-logo="http://epg.one/img/79.png" group-title="🕐 Плюс ТВ",СТС +5 (Иркутск)
+http://rebrand.ly/TvZavTak?stream=15355%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="9621" tvg-rec="0" tvg-logo="http://epg.one/img/9621.png" group-title="🕐 Плюс ТВ",БСТ 24 (Братск)
+http://rebrand.ly/TvZavTak?stream=15359%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3001" tvg-rec="0" tvg-logo="http://epg.one/img/3001.png" group-title="🕐 Плюс ТВ",Россия 1 +4 (Абакан)
+http://rebrand.ly/TvZavTak?stream=15367%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="9157" tvg-rec="0" tvg-logo="http://epg.one/img/9157.png" group-title="🕐 Плюс ТВ",БТК HD (Белорецк)
+http://rebrand.ly/TvZavTak?stream=15371%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="649" tvg-rec="0" tvg-logo="http://epg.one/img/649.png" group-title="🕐 Плюс ТВ",ТВЦ +0 (Липецк)
+http://rebrand.ly/TvZavTak?stream=15372%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1003" tvg-rec="0" tvg-logo="http://epg.one/img/1003.png" group-title="🕐 Плюс ТВ",Пятница! +0 (Липецк)
+http://rebrand.ly/TvZavTak?stream=15373%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="353" tvg-rec="0" tvg-logo="http://epg.one/img/353.png" group-title="🕐 Плюс ТВ",ТНТ +0 (Липецк)
+http://rebrand.ly/TvZavTak?stream=15374%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="146" tvg-rec="0" tvg-logo="http://epg.one/img/146.png" group-title="🕐 Плюс ТВ",Первый канал +0 (Липецк)
+http://rebrand.ly/TvZavTak?stream=15375%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3008" tvg-rec="0" tvg-logo="http://epg.one/img/3008.png" group-title="🕐 Плюс ТВ",СТС +4 (Кузбасс)
+http://rebrand.ly/TvZavTak?stream=15376%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3001" tvg-rec="0" tvg-logo="http://epg.one/img/3001.png" group-title="🕐 Плюс ТВ",Россия 1 +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15377%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3011" tvg-rec="0" tvg-logo="http://epg.one/img/3011.png" group-title="🕐 Плюс ТВ",Домашний +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15379%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15380%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3035" tvg-rec="0" tvg-logo="http://epg.one/img/3035.png" group-title="🕐 Плюс ТВ",Звезда +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15381%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3020" tvg-rec="0" tvg-logo="http://epg.one/img/3020.png" group-title="🕐 Плюс ТВ",Мир +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15382%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3023" tvg-rec="0" tvg-logo="http://epg.one/img/3023.png" group-title="🕐 Плюс ТВ",ТНТ +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15383%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2036" tvg-rec="0" tvg-logo="http://epg.one/img/2036.png" group-title="🕐 Плюс ТВ",НТВ +2 (Нефтекамск)
+http://rebrand.ly/TvZavTak?stream=15384%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3025" tvg-rec="0" tvg-logo="http://epg.one/img/3025.png" group-title="🕐 Плюс ТВ",Первый канал +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15385%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3001" tvg-rec="0" tvg-logo="http://epg.one/img/3001.png" group-title="🕐 Плюс ТВ",Россия 1 +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15386%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2964" tvg-rec="0" tvg-logo="http://epg.one/img/2964.png" group-title="🕐 Плюс ТВ",НТВ +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15388%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="0" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15389%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3037" tvg-rec="0" tvg-logo="http://epg.one/img/3037.png" group-title="🕐 Плюс ТВ",ТВЦ +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15391%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3033" tvg-rec="0" tvg-logo="http://epg.one/img/3033.png" group-title="🕐 Плюс ТВ",РЕН ТВ +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15392%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3008" tvg-rec="0" tvg-logo="http://epg.one/img/3008.png" group-title="🕐 Плюс ТВ",СТС +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15393%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3011" tvg-rec="0" tvg-logo="http://epg.one/img/3011.png" group-title="🕐 Плюс ТВ",Домашний +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15394%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15395%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3017" tvg-rec="0" tvg-logo="http://epg.one/img/3017.png" group-title="🕐 Плюс ТВ",Пятница! +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15396%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3023" tvg-rec="0" tvg-logo="http://epg.one/img/3023.png" group-title="🕐 Плюс ТВ",ТНТ +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15398%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3035" tvg-rec="0" tvg-logo="http://epg.one/img/3035.png" group-title="🕐 Плюс ТВ",Звезда +4 (Томск)
+http://rebrand.ly/TvZavTak?stream=15397%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="711" tvg-rec="0" tvg-logo="http://epg.one/img/711.png" group-title="🕐 Плюс ТВ",Россия 1 +0 (Алания)
+http://rebrand.ly/TvZavTak?stream=15403%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="19" tvg-rec="0" tvg-logo="http://epg.one/img/19.png" group-title="🕐 Плюс ТВ",Россия 1 +5 (Иркутск)
+http://rebrand.ly/TvZavTak?stream=15413%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="5818" tvg-rec="0" tvg-logo="http://epg.one/img/5818.png" group-title="🕐 Плюс ТВ",Прима (Красноярск)
+http://rebrand.ly/TvZavTak?stream=15417%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="5821" tvg-rec="0" tvg-logo="http://epg.one/img/5821.png" group-title="🕐 Плюс ТВ",ТВК (Красноярск)
+http://rebrand.ly/TvZavTak?stream=15420%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +0 (Белгород)
+http://rebrand.ly/TvZavTak?stream=15426%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1003" tvg-rec="0" tvg-logo="http://epg.one/img/1003.png" group-title="🕐 Плюс ТВ",Пятница! +0 (Белгород)
+http://rebrand.ly/TvZavTak?stream=15427%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="353" tvg-rec="0" tvg-logo="http://epg.one/img/353.png" group-title="🕐 Плюс ТВ",ТНТ +0 (Белгород)
+http://rebrand.ly/TvZavTak?stream=15428%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3025" tvg-rec="0" tvg-logo="http://epg.one/img/3025.png" group-title="🕐 Плюс ТВ",Первый канал +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15431%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2964" tvg-rec="0" tvg-logo="http://epg.one/img/2964.png" group-title="🕐 Плюс ТВ",НТВ +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15433%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="0" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15434%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1100" tvg-rec="0" tvg-logo="http://epg.one/img/1100.png" group-title="🕐 Плюс ТВ",Россия К +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15435%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3037" tvg-rec="0" tvg-logo="http://epg.one/img/3037.png" group-title="🕐 Плюс ТВ",ТВЦ +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15437%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3033" tvg-rec="0" tvg-logo="http://epg.one/img/3033.png" group-title="🕐 Плюс ТВ",РЕН ТВ +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15438%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3007" tvg-rec="0" tvg-logo="http://epg.one/img/3007.png" group-title="🕐 Плюс ТВ",СТС +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15439%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3017" tvg-rec="0" tvg-logo="http://epg.one/img/3017.png" group-title="🕐 Плюс ТВ",Пятница! +3 (Омск)
+http://rebrand.ly/TvZavTak?stream=15440%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="146" tvg-rec="0" tvg-logo="http://epg.one/img/146.png" group-title="🕐 Плюс ТВ",Первый канал +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15443%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="4642" tvg-rec="0" tvg-logo="http://epg.one/img/4642.png" group-title="🕐 Плюс ТВ",Россия К +2 (Пермь)
+http://rebrand.ly/TvZavTak?stream=15445%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="711" tvg-rec="0" tvg-logo="http://epg.one/img/711.png" group-title="🕐 Плюс ТВ",Россия 1 +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15447%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="162" tvg-rec="0" tvg-logo="http://epg.one/img/162.png" group-title="🕐 Плюс ТВ",НТВ +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15449%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="0" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15450%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="187" tvg-rec="0" tvg-logo="http://epg.one/img/187.png" group-title="🕐 Плюс ТВ",Россия К +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15451%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="649" tvg-rec="0" tvg-logo="http://epg.one/img/649.png" group-title="🕐 Плюс ТВ",ТВЦ +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15454%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="18" tvg-rec="0" tvg-logo="http://epg.one/img/18.png" group-title="🕐 Плюс ТВ",РЕН ТВ +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15455%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="79" tvg-rec="0" tvg-logo="http://epg.one/img/79.png" group-title="🕐 Плюс ТВ",СТС +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15456%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15457%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="405" tvg-rec="0" tvg-logo="http://epg.one/img/405.png" group-title="🕐 Плюс ТВ",Звезда +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15458%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="726" tvg-rec="0" tvg-logo="http://epg.one/img/726.png" group-title="🕐 Плюс ТВ",Мир +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15459%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="353" tvg-rec="0" tvg-logo="http://epg.one/img/353.png" group-title="🕐 Плюс ТВ",ТНТ +0 (Элиста)
+http://rebrand.ly/TvZavTak?stream=15460%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3022" tvg-rec="0" tvg-logo="http://epg.one/img/3022.png" group-title="🕐 Плюс ТВ",ТНТ +2 (Белорецк)
+http://rebrand.ly/TvZavTak?stream=15462%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="146" tvg-rec="0" tvg-logo="http://epg.one/img/146.png" group-title="🕐 Плюс ТВ",Первый канал +0 (Тамбов)
+http://rebrand.ly/TvZavTak?stream=15464%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="711" tvg-rec="0" tvg-logo="http://epg.one/img/711.png" group-title="🕐 Плюс ТВ",Россия 1 +0 (Тамбов)
+http://rebrand.ly/TvZavTak?stream=15465%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="162" tvg-rec="0" tvg-logo="http://epg.one/img/162.png" group-title="🕐 Плюс ТВ",НТВ +0 (Тамбов)
+http://rebrand.ly/TvZavTak?stream=15466%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="427" tvg-rec="0" tvg-logo="http://epg.one/img/427.png" group-title="🕐 Плюс ТВ",Пятый канал +0 (Тамбов)
+http://rebrand.ly/TvZavTak?stream=15467%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="18" tvg-rec="0" tvg-logo="http://epg.one/img/18.png" group-title="🕐 Плюс ТВ",РЕН ТВ +0 (Тамбов)
+http://rebrand.ly/TvZavTak?stream=15469%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="79" tvg-rec="0" tvg-logo="http://epg.one/img/79.png" group-title="🕐 Плюс ТВ",СТС +0 (Тамбов)
+http://rebrand.ly/TvZavTak?stream=15470%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="304" tvg-rec="0" tvg-logo="http://epg.one/img/304.png" group-title="🕐 Плюс ТВ",Домашний +0 (Тамбов)
+http://rebrand.ly/TvZavTak?stream=15471%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="1003" tvg-rec="0" tvg-logo="http://epg.one/img/1003.png" group-title="🕐 Плюс ТВ",Пятница! +0 (Тамбов)
+http://rebrand.ly/TvZavTak?stream=15472%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="353" tvg-rec="0" tvg-logo="http://epg.one/img/353.png" group-title="🕐 Плюс ТВ",ТНТ +0 (Тамбов)
+http://rebrand.ly/TvZavTak?stream=15473%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="5867" tvg-rec="0" tvg-logo="http://epg.one/img/5867.png" group-title="🕐 Плюс ТВ",ОТВ (Владивосток)
+http://rebrand.ly/TvZavTak?stream=15476%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="304" tvg-rec="0" tvg-logo="http://epg.one/img/304.png" group-title="🕐 Плюс ТВ",Домашний +0 (Белгород)
+http://rebrand.ly/TvZavTak?stream=15477%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="79" tvg-rec="0" tvg-logo="http://epg.one/img/79.png" group-title="🕐 Плюс ТВ",СТС +0 (Белгород)
+http://rebrand.ly/TvZavTak?stream=15479%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="18" tvg-rec="0" tvg-logo="http://epg.one/img/18.png" group-title="🕐 Плюс ТВ",РЕН ТВ +0 (Белгород)
+http://rebrand.ly/TvZavTak?stream=15480%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2034" tvg-rec="0" tvg-logo="http://epg.one/img/2034.png" group-title="🕐 Плюс ТВ",Первый канал +2 (Нефтекамск)
+http://rebrand.ly/TvZavTak?stream=15481%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3007" tvg-rec="0" tvg-logo="http://epg.one/img/3007.png" group-title="🕐 Плюс ТВ",СТС +2 (Нефтекамск)
+http://rebrand.ly/TvZavTak?stream=15482%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3016" tvg-rec="0" tvg-logo="http://epg.one/img/3016.png" group-title="🕐 Плюс ТВ",Пятница! +2 (Нефтекамск)
+http://rebrand.ly/TvZavTak?stream=15483%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="698" tvg-rec="0" tvg-logo="http://epg.one/img/698.png" group-title="🕐 Плюс ТВ",ТВ-3 +2 (Нефтекамск)
+http://rebrand.ly/TvZavTak?stream=15484%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="3022" tvg-rec="0" tvg-logo="http://epg.one/img/3022.png" group-title="🕐 Плюс ТВ",ТНТ +2 (Нефтекамск)
+http://rebrand.ly/TvZavTak?stream=15485%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2034" tvg-rec="0" tvg-logo="http://epg.one/img/2034.png" group-title="🕐 Плюс ТВ",Первый канал +2 (Белорецк)
+http://rebrand.ly/TvZavTak?stream=15486%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="2399" tvg-rec="0" tvg-logo="http://epg.one/img/2399.png" group-title="🕐 Плюс ТВ",Дождь HD
+http://rebrand.ly/TvZavTak?stream=20083%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="649" tvg-rec="0" tvg-logo="http://epg.one/img/649.png" group-title="🕐 Плюс ТВ",ТВЦ +0 (Ставрополь)
+http://rebrand.ly/TvZavTak?stream=31892%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 tvg-id="11469" tvg-rec="0" tvg-logo="http://epg.one/img/11469.png" group-title="🕐 Плюс ТВ",Патриот
+http://rebrand.ly/TvZavTak?stream=31928%2Findex.m3u8?|User-Agent=http-user-agent=Lavf/56.15.102
+
+
+
+
+
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Romance HD
 http://tv.woobl.ru/romance_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Suspense HD
