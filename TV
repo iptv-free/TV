@@ -184,21 +184,21 @@ https://iptv.prosto.tv/id103/video.m3u8?secret=0h67fdob&21yo=0
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Киносат
 https://flussonic.mkpnet.ru/tv-e055808223a74709/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Наш Кинопоказ
-http://iptv46.mcx-ix.ru:8077/nash_kinopokaz_hd/video.m3u8?token=test
+http://cdn.kubteltv.workers.dev/?ID=414
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Кинопоказ
 http://iptv46.mcx-ix.ru:8077/kinopokaz_hd/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Кинопремьера
-http://iptv46.mcx-ix.ru:8077/premiera/video.m3u8?token=test
+http://87.76.32.36:8001/kinopremyerahd
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Киносвидание
 https://flussonic.mkpnet.ru/tv-be2ba983babad866/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Наш новое кино
-http://iptv46.mcx-ix.ru:8077/nashe-novoe-kino/video.m3u8?token=test
+http://87.246.54.249:8080/NasheKino/index.m3u8
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Кинохит
 https://flussonic.mkpnet.ru/tv-513b9c22f4277475/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Киноужас
 http://tv.woobl.ru/kinouzhas_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Родное кино
-http://iptv46.mcx-ix.ru:8077/nashe-kino/video.m3u8?token=test
+http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Русский Бестселлер
 https://flussonic.mkpnet.ru/tv-ccf8c891702508a7/video.m3u8?token=test
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Русский Детектив
@@ -558,11 +558,11 @@ http://tv.woobl.ru/setanta_sports_2_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="⚽️ Спортивные",Setanta Казахстан HD
 http://tv.woobl.ru/setanta_sports_qazaqstan_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="⚽️ Спортивные",Матч! Футбол 1 HD
-http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8?token=test
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",Матч! Футбол 2 HD
-http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8?token=test
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",Матч! Футбол 3 HD
-http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8?token=test
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",МАТЧ! Боец
 https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",МАТЧ! Арена
