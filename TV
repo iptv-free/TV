@@ -1976,6 +1976,255 @@ http://91.198.104.13:8001/udp/237.0.10.47:10000
 http://91.198.104.13:8001/udp/237.0.13.16:10000
 #EXTINF:-1 group-title="⭐️ HomTV ⭐️",Шансон ТВ
 http://91.198.104.13:8001/udp/237.0.13.35:10000
+
+#EXTINF:-1 group-title="⭐️ ВокаТВ",ТВ-3
+http://46.53.208.4:80/live/5127.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",ТНТ International
+http://46.53.208.4:80/live/5120.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Пятый канал
+http://46.53.208.4:80/live/5121.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Звязда
+http://46.53.208.4:80/live/6238.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",РТР-Беларусь
+http://46.53.208.4:80/live/5.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",НТВ
+http://46.53.208.4:80/live/6.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Первый информационный
+http://46.53.208.4:80/live/10.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Беларусь 3
+http://46.53.208.4:80/live/2135.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Беларусь 5
+http://46.53.208.4:80/live/9.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",ТВ Центр +
+http://46.53.208.4:80/live/977.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Перец
+http://46.53.208.4:80/live/971.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",НТВ Право
+http://46.53.208.4:80/live/992.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Киноман
+http://46.53.208.4:80/live/59.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Сарафан
+http://46.53.208.4:80/live/84.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Воен ТВ
+http://46.53.208.4:80/live/101.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Психология
+http://46.53.208.4:80/live/109.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Bridge Deluxe HD
+http://46.53.208.4:80/live/110.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",RTG-TV
+http://46.53.208.4:80/live/131.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",КиноМульт
+http://46.53.208.4:80/live/157.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Оружие
+http://46.53.208.4:80/live/168.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",History
+http://46.53.208.4:80/live/167.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Epic
+http://46.53.208.4:80/live/171.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",НТВ Стиль
+http://46.53.208.4:80/live/175.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",.Sci-Fi
+http://46.53.208.4:80/live/207.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Nano
+http://46.53.208.4:80/live/211.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Luxury
+http://46.53.208.4:80/live/212.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Россия К
+http://46.53.208.4:80/live/214.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",НАШЕ ТВ
+http://46.53.208.4:80/live/218.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Шансон-ТВ
+http://46.53.208.4:80/live/235.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Охота и рыбалка
+http://46.53.208.4:80/live/244.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",драйв
+http://46.53.208.4:80/live/336.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Усадьба
+http://46.53.208.4:80/live/341.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Здоровое ТВ
+http://46.53.208.4:80/live/342.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",TV1000
+http://46.53.208.4:80/live/5107.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju TV1000 action
+http://46.53.208.4:80/live/5106.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju TV1000 русское
+http://46.53.208.4:80/live/5109.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju TV1000 romantica
+http://46.53.208.4:80/live/3111.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju TV1000 новелла
+http://46.53.208.4:80/live/545.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju+ Premiere
+http://46.53.208.4:80/live/6001.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju+ megahit
+http://46.53.208.4:80/live/6002.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju+ comedy
+http://46.53.208.4:80/live/6003.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju+ serial
+http://46.53.208.4:80/live/6004.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju+ sport
+http://46.53.208.4:80/live/6005.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju+ planet
+http://46.53.208.4:80/live/6006.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju Explore
+http://46.53.208.4:80/live/540.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju History
+http://46.53.208.4:80/live/541.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",viju Nature
+http://46.53.208.4:80/live/542.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",НСТ
+http://46.53.208.4:80/live/6008.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Наш Кинопоказ
+http://46.53.208.4:80/live/285.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Феникс плюс
+http://46.53.208.4:80/live/332.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Ретро
+http://46.53.208.4:80/live/335.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Иллюзион+
+http://46.53.208.4:80/live/603.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Русский Иллюзион
+http://46.53.208.4:80/live/616.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",АВТО24
+http://46.53.208.4:80/live/588.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Точки отрыва
+http://46.53.208.4:80/live/602.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Беларусь 2
+http://46.53.208.4:80/live/693.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",СТВ
+http://46.53.208.4:80/live/753.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Мир
+http://46.53.208.4:80/live/754.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",OHT
+http://46.53.208.4:80/live/849.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",ЕвроКино
+http://46.53.208.4:80/live/903.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Домашний
+http://46.53.208.4:80/live/961.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Европы Плюс
+http://46.53.208.4:80/live/963.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Восьмой канал
+http://46.53.208.4:80/live/962.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Travel+Adventure
+http://46.53.208.4:80/live/964.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",БелМуз-ТВ
+http://46.53.208.4:80/live/966.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Светлое ТВ
+http://46.53.208.4:80/live/973.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",RU.TV
+http://46.53.208.4:80/live/972.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Curiosity STREAM
+http://46.53.208.4:80/live/994.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",ZooПарк
+http://46.53.208.4:80/live/996.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",2TV
+http://46.53.208.4:80/live/1013.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Ultra 4K extreme
+http://46.53.208.4:80/live/1042.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",VHS-ка
+http://46.53.208.4:80/live/1123.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Мосфильм. Золотая Коллекция
+http://46.53.208.4:80/live/1124.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Novella TV
+http://46.53.208.4:80/live/1205.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",ЗВЕЗДА Плюс
+http://46.53.208.4:80/live/1247.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",CARTOON Classics
+http://46.53.208.4:80/live/1303.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",.Red
+http://46.53.208.4:80/live/1338.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Время
+http://46.53.208.4:80/live/1336.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",RTG TV
+http://46.53.208.4:80/live/1340.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",CTC Kids
+http://46.53.208.4:80/live/1448.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Duck.TV
+http://46.53.208.4:80/live/1492.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Terra
+http://46.53.208.4:80/live/1500.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Вопрос-ответ
+http://46.53.208.4:80/live/1515.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Start air
+http://46.53.208.4:80/live/1804.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Кинеко
+http://46.53.208.4:80/live/1812.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",МИР 24
+http://46.53.208.4:80/live/1908.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Беларусь 4
+http://46.53.208.4:80/live/2097.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Беларусь 4 HD
+http://46.53.208.4:80/live/2012.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",ТВ-21
+http://46.53.208.4:80/live/2018.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",bumebck
+http://46.53.208.4:80/live/2023.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",НТВ Сериал
+http://46.53.208.4:80/live/2065.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Cinema
+http://46.53.208.4:80/live/2092.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",MMA-TV.com
+http://46.53.208.4:80/live/2100.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Наша Тема
+http://46.53.208.4:80/live/2103.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",ДОМАШНИЕ ЖИВОТНЫЕ
+http://46.53.208.4:80/live/2112.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Дикая рыбалка HD
+http://46.53.208.4:80/live/2324.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Дикая охота
+http://46.53.208.4:80/live/2325.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Лева
+http://46.53.208.4:80/live/2424.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Телекафе
+http://46.53.208.4:80/live/2812.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Неизвестная планета
+http://46.53.208.4:80/live/3005.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Классическое кино
+http://46.53.208.4:80/live/3006.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Советские мультфильмы
+http://46.53.208.4:80/live/3007.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Russian Extreme
+http://46.53.208.4:80/live/3009.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Бобёр
+http://46.53.208.4:80/live/3012.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",O!
+http://46.53.208.4:80/live/3013.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Terra incognita
+http://46.53.208.4:80/live/3017.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Советское кино
+http://46.53.208.4:80/live/3018.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",СкирТВ
+http://46.53.208.4:80/live/3101.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",FunBOX Eng
+http://46.53.208.4:80/live/3437.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",TV Cinema
+http://46.53.208.4:80/live/3870.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Сапфир
+http://46.53.208.4:80/live/3978.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",МУВИ ТВ
+http://46.53.208.4:80/live/5007.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Поехали
+http://46.53.208.4:80/live/5028.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Дом кино
+http://46.53.208.4:80/live/5105.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Дом кино Премиум
+http://46.53.208.4:80/live/5111.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Карусель
+http://46.53.208.4:80/live/5123.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Уникум
+http://46.53.208.4:80/live/5512.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Мультиландия
+http://46.53.208.4:80/live/5108.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Мульт
+http://46.53.208.4:80/live/6007.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",music
+http://46.53.208.4:80/live/6028.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",1 kanal
+http://46.53.208.4:80/live/6030.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Буг-ТВ
+http://46.53.208.4:80/live/7001.m3u8
+#EXTINF:-1 group-title="⭐️ ВокаТВ",Беларусь 1
+http://46.53.208.4:80/live/8000.m3u8
+
+
 #EXTINF:-1 group-title="💎 Max TV List",Первый канал
 https://s04.watcher.uz/11/video.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb250cmFjdF9pZCI6MjcwMTc3LCJsb2dpbiI6InR2LTI3MDE3NyIsInRlbXBvcmFyeSI6ZmFsc2UsImlzX29hdXRoIjpmYWxzZSwiY3JlYXRlZF90aW1lIjoxNjUwMjgzMDI3fQ.LadLj4b6plIxTGCWntQQqsQGZ3R9EsvwhaXQd1sur2g%3A15
 #EXTINF:-1 group-title="💎 Max TV List",Мир
