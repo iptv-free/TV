@@ -291,46 +291,7 @@ rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxP
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1 group-title="🎥 Фильмы и Сериалы",Alpha Moretimeᴴᴰ
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",CPS Fiction HD
-http://hls127.freeott.top:8080/CPS_Fiction/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",CPS Action HD
-http://hls127.freeott.top:8080/CPS_Action/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",GPSComedy HD
-http://hls127.freeott.top:8080/CPS_Comedy/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",CPS Drama HD
-http://hls127.freeott.top:8080/CPS_Drama/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",CPS Fresh HD
-http://hls127.freeott.top:8080/CPS_Fresh/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",CPS Investigation
-http://hls127.freeott.top:8080/CPS_Investigation/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",CPS Jackie Chan HD
-http://hls127.freeott.top:8080/CPS_Jackie_Chan/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",CPS Mix HD
-http://hls127.freeott.top:8080/CPS_Mix/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",CPS Cartoon HD
-http://hls127.freeott.top:8080/CPS_Cartoon/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",MM Скорость HD
-http://hls127.freeott.top:8080/minimax-skorost-m4f/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",Paradise HD
-http://hls127.freeott.top:8080/PG_Paradise_HD/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",Paradox HD
-http://hls127.freeott.top:8080/PG_Paradox_HD/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",Premiere HD
-http://hls127.freeott.top:8080/PG_Premiere_HD/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",Premium HD
-http://hls127.freeott.top:8080/PG_Premium_HD/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",Thriller HD
-http://hls127.freeott.top:8080/PG_Thriller_HD/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",USSR HD
-http://hls127.freeott.top:8080/PG_USSR_HD/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",РуКино HD
-http://hls127.freeott.top:8080/PG_Rukino_HD/manifest.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",MYTV
-http://hls127.freeott.top:8080/MyTV/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",MYTV 2
-http://hls127.freeott.top:8080/MyTV2/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="🎥 Фильмы и Сериалы",MYTV 3
-http://hls127.freeott.top:8080/MyTV3/mono.m3u8
+
 
 #EXTINF:-1 group-title="💎 Кинозал (server-1)",BCU Кинозал Premiere 1 HD
 http://tv.woobl.ru/BCU_Kinozal_Premiere_1_HD/video.m3u8?token=5uGLTS1oibSIu0
