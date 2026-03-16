@@ -1938,6 +1938,97 @@ http://91.198.104.13:8001/udp/237.0.13.16:10000
 #EXTINF:-1 group-title="⭐️ HomTV ⭐️",Шансон ТВ
 http://91.198.104.13:8001/udp/237.0.13.35:10000
 
+
+#EXTINF:-1 group-title="⭐️ DTV",Наука
+http://hls127.freeott.top:8080/NAUKA/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV",RTG TV
+http://hls127.freeott.top:8080/RTG_TV/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV",Ocean TV
+http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV",Дикий
+http://hls127.freeott.top:8080/Dikiy/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV",История
+http://hls127.freeott.top:8080/Istoriya/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV",Amedia 1
+http://hls127.freeott.top:8080/Amedia_1/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV",BCU Kinorating HD
+http://hls127.freeott.top:8080/BCUKinoratingHD/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV",BCU Stars HD
+http://hls127.freeott.top:8080/BCUStarsHD/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV",CPS Action 
+http://hls127.freeott.top:8080/CPS_Action/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV",CPS Comedy 
+http://hls127.freeott.top:8080/CPS_Comedy/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", CPS Drama 
+http://hls127.freeott.top:8080/CPS_Drama/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", CPS Fiction 
+http://hls127.freeott.top:8080/CPS_Fiction/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", CPS Fresh 
+http://hls127.freeott.top:8080/CPS_Fresh/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", CPS Investigation 
+http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", CPS Cartoon 
+http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", CPS FreshUA 
+http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", BOX Anime HD
+http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", BOX Metall HD
+http://hls127.freeott.top:8080/BOX_Metall_HD/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Gags Network
+http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", НСТ
+http://hls127.freeott.top:8080/HCTV/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Кинопоказ HD
+http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Ключ
+http://hls127.freeott.top:8080/Kluch/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Театр
+http://hls127.freeott.top:8080/Teatr/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Кухня ТВ
+http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Maydan
+http://hls127.freeott.top:8080/Maydan/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Мосфильм. Золотая коллекция
+http://hls127.freeott.top:8080/Mosfilm/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", MyTV
+http://hls127.freeott.top:8080/MyTV/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Наше HD
+http://hls127.freeott.top:8080/Nashe_HD/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Про любовь HD
+http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", РБК
+http://hls127.freeott.top:8080/RBK/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Жара 
+http://hls127.freeott.top:8080/Zhara/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", OstWest 
+http://hls127.freeott.top:8080/OstWest/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Союз
+http://hls127.freeott.top:8080/Souz/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Совершенно секретно
+http://hls127.freeott.top:8080/Sovershenno_Sekretno/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Спас
+http://hls127.freeott.top:8080/Spas/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", BRIDGE TV
+http://hls127.freeott.top:8080/BRIDGE_TV/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Bridge TV Classic 
+http://hls127.freeott.top:8080/Bridge_Classic/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", МузТВ 
+http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", СТС Kids
+http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Бобёр
+http://hls127.freeott.top:8080/Bober/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Bolt
+http://hls127.freeott.top:8080/Bolt/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Da Vinci
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", Футбол
+http://hls127.freeott.top:8080/Football/video.m3u8
+
+
 #EXTINF:-1 group-title="⭐️ ВокаТВ",ТВ-3
 http://46.53.208.4:80/live/5127.m3u8
 #EXTINF:-1 group-title="⭐️ ВокаТВ",ТНТ International
