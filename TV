@@ -1852,9 +1852,9 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/295451
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/23297
 #EXTINF:-1 group-title="🎶 Music (Xtreme)",Ru: Муз союз
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/307856
-#EXTINF:-1 tvg-id="" tvg-logo="https://s3.i3ns.net:2053/cs/etc/blank-icon.png" tvg-name="4 Music" group-title="🎶 Music (Xtreme)",4 Music
+#EXTINF:-1 group-title="🎶 Music (Xtreme)",4 Music
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/309325
-#EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/7ca509fbc875d1a2f4314581befc2ce4.jpeg" tvg-name="Vostok TV" group-title="🎶 Music (Xtreme)",Vostok TV
+#EXTINF:-1 group-title="🎶 Music (Xtreme)",Vostok TV
 http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296914
 
 
