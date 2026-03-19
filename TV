@@ -3076,6 +3076,10 @@ http://hls127.freeott.top:8080/Maydan/video.m3u8
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="⭐️ DTV", MyTV
 http://hls127.freeott.top:8080/MyTV/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", MyTV2
+http://hls127.freeott.top:8080/MyTV2/video.m3u8
+#EXTINF:-1 group-title="⭐️ DTV", MyTV3
+http://hls127.freeott.top:8080/MyTV3/video.m3u8
 #EXTINF:-1 group-title="⭐️ DTV", Наше HD
 http://hls127.freeott.top:8080/Nashe_HD/video.m3u8
 #EXTINF:-1 group-title="⭐️ DTV", Ностальгия
