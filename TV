@@ -2217,18 +2217,7 @@ http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/296914
 
 
 
-#EXTINF:-1 group-title="⚽️ Спортивные",Окко Спорт HD
-http://tv.woobl.ru/okko_sport_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 tvg-logo="" group-title="⚽️ Спортивные",Окко Прайм спорт
-http://tv.woobl.ru/Okko/index.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="⚽️ Спортивные",Окко Футбол HD
-http://tv.woobl.ru/okko_futbol_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="⚽️ Спортивные",Setanta Sports 1HD
-http://tv.woobl.ru/setanta_sports_1_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="⚽️ Спортивные",Setanta Sports 2HD
-http://tv.woobl.ru/setanta_sports_2_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="⚽️ Спортивные",Setanta Казахстан HD
-http://tv.woobl.ru/setanta_sports_qazaqstan_hd/video.m3u8?token=5uGLTS1oibSIu0
+
 #EXTINF:-1 group-title="⚽️ Спортивные",Матч! Футбол 1 HD
 http://45.145.32.13:20440/match_football1/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",Матч! Футбол 2 HD
@@ -2275,8 +2264,6 @@ http://188.225.31.197/bpk-tv/000000135/tve/index.m3u8?token=test
 http://188.225.31.197/bpk-tv/000002478/tve/index.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",Eurosport 2 HD
 http://188.225.31.197/bpk-tv/000002479/tve/index.m3u8?token=test
-#EXTINF:-1 group-title="⚽️ Спортивные",KHL
-http://tv.woobl.ru/khl_hd/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="⚽️ Спортивные",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8?token=test
 #EXTINF:-1 group-title="⚽️ Спортивные",КХЛ
@@ -2289,17 +2276,6 @@ https://live.teleradiocom.tj/8/3m.m3u8
 https://live.teleradiocom.tj/5/3m.m3u8
 #EXTINF:-1 group-title="⚽️ Спортивные",MMA-TV
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 group-title="🌿 Познавательные",Nat Geo Wild
