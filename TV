@@ -2385,6 +2385,400 @@ https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8?token=test
 #EXTINF:-1 group-title="🎵 Музыка",Музыка Первого
 http://188.225.31.197/bpk-tv/000000204/tve/index.m3u8
 
+
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Первый канал HD +4
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Первый канал +4
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Россия HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Россия-1 +4
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/rossija/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Россия 24
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/vesti/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Россия К
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kultura/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",НТВ HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ntv_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",НТВ (+4)
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ntv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ТНТ HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ТНТ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tnt/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",РЕН ТВ HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Рен ТВ +4
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/rentv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ТНТ4
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tnt4/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",The Explorers
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Viasat Explore
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/viasat_explorer/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Viasat Nature
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/viasat_nature/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Viasat History
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/viasat_history/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Приключения HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/teleputeshestvija_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Глазами Туриста HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/glazami_turista_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",TERRA
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/terras/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",TERRA HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/terra_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Travel+Adventure
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/travad/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Travel+Adventure HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/travel_adventure_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Живая планета
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Моя планета
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Охота и рыбалка
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/hafi/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Диалоги о рыбалке
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Galaxy TV
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Наша сибирь HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Оружие
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Т24
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/24techno/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Zooпарк
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Наука 2.0
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",.black
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",.red
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/set/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",.sci-fi
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",2x2 (+4)
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Amedia 1
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/amedia1/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Amedia 2
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/amedia_2/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Amedia Premium HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/amediapremium_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Cinema
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ipark/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",DOCUBOX HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Fan HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",FILMBOX
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Filmbox Arthouse
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Star Family HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",TV XXI
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tv21/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",TV1000
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",TV1000 Action
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",TV1000 Русское кино
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",VIP Megahit HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",VIP Premiere HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",VIP Comedy HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",VIP Serial HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Дом кино
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Дом кино Премиум
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Иллюзион+
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Капитан Фантастика
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",КИНЕКО
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kineko_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Русский бестселлер
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Русский детектив
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Русский иллюзион
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Русский роман
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",САПФИР
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sapfir_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Дорама
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/dorama/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",НСТ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/nstv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Любимое кино
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Timeless Dizi Channel
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Советское кино
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Кинопремьера HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/premera/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",КиноХит
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Кинокомедия
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Киномикс
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Киносвидание
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Киносемья
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Наше новое кино
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Киносерия
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Киноужас
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Индийское кино
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Индия
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Кинопоказ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kinopokaz/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Классика Кино
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Комедия
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/komediya/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Мир сериала
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Мосфильм. Золотая коллекция
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Мужской
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/muzhskoj/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Краснодар HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/krasnodar_on_layn/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",КРИК-ТВ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/krik_tv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Кто Куда
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Кухня ТВ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ЛДПР ТВ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ldpr_tv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Лен ТВ 24
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/len_tv24/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Мир
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/mir/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Мир 24
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/mir24/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Москва-24
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/moskva_24/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Наша Тема HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ННТВ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/nntv/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",НТС
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/nts/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ОРТРК 12 канал
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ortrk12/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ОТР
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/otvrus/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ОТР (+4)
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/otvrus/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ОТС HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ots/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",365 дней
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/365_days/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Кузбасс 1 FHD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/gtrk_kuzbass/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Киносат
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",MyZen TV
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/myzen_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Ностальгия
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/nostalgy/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Победа HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Поехали!
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/poehali/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Домашний
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/domashny/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Авто 24
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Авто плюс
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ВРЕМЯ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/time/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ДОН 24
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/don_24/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",12 Канал (Омск)
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kanal_12/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Драйв
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/drive/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Евпатория ТВ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/evpatorija/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Еврокино
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/eurokino/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Еда Премиум
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Живи
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/jv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Звезда
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/zvezda/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Известия HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Первый вегетарианский
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/pervyy_vegetarianskiy/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Про Жизнь
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/pro_zhizn/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Психология 21
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/psych_21/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Пятница
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/friday/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",РБК
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/rbk/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Салям
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/salyam/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",САМОТЛОР (Нижневартовск)
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/samotlor/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Санкт-Петербург
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/topspb/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",360 Новости
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/360_novosti/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",49 КАНАЛ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/49kanal/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",5 канал +4
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/5kanal/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",8 канал
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/8_kanal/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",8 канал Красноярский край
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ya1pm/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Сарафан
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Сибирь 24
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sibir_24/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Союз
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/soyuz/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",СПАС
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/spas/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",СТС
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sts/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",СТС love
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sts_love/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ТВЦ +4
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tvc/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ТВ3
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tv3/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ТВК FHD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tvk_6/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Телекафе
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/telekafe/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ТИВИКОМ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tivikom/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ТНВ-Планета
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tnv/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Усадьба
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/usadba/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Центральное телевидение
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tvc_ctv/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Че
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/perec/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Ю (+4)
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/utv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Ювелирочка
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/yuvelirochka/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",ТНТ Music
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tnt_music/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",МузТВ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/muz_tvnew/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Ля-минор
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",RU.TV
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/rutv/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",1HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/firstmuz/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Song TV Armenia
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/songtv_armenia/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Song TV Russia
+http://hls.peers.tv/streaming/songtv_russia/126/copy/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Music Box Russia
+http://hls.peers.tv/streaming/musboxru/126/vh1w/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Шансон ТВ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/shanson/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Мультимузыка
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Уникум
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/forkids/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",СТС Kids HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Сказки Зайки
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Рыжий
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/red/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Радость моя
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/radost_moj/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",МУЛЬТ
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/mult/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Мама
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/motherchi/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Карусель
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/karusel/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Супергерои
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/supergeroi/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Смайлик ТВ
+http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Детский мир
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/detskij_mir/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Лёва
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/lyova/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Солнце
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/solntse/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",В гостях у сказки
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",TiJi
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/tiji/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Gulli Girl
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Da Vinci
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Bolt HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Ani
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ani/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Мультиландия
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/multilandiya/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Мультимания
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/multimania/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Советские мультфильмы
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Матч! Игра
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Матч! страна
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Viasat Sport HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Футбол HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Матч! Боец
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/boets/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",KHL
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/khl/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",KHL Prime HD
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",MMA-TV.COM
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Мир Баскетбола
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Старт
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/start/16/playlist.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers TV | deooleg",Русский Экстрим
+http://peers.karamehmet.workers.dev:80/?ID=http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8
+
+
+
 #EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Первый канал
 http://cdn.kubteltv.workers.dev/?ID=01
 #EXTINF:-1 group-title="⭐️ TvZaTak ⭐️",Россия 1
