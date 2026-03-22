@@ -19,8 +19,6 @@ https://flussonic.mkpnet.ru/tv-111deaa2142146ee/video.m3u8?token=test
 http://188.225.31.197/bpk-tv/000000025/tve/index.m3u8?token=test
 #EXTINF:-1 group-title="📈 Новости",Время
 http://188.225.31.197/bpk-tv/000000205/tve/index.m3u8?token=test
-#EXTINF:-1 group-title="📈 Новости",Мир
-http://tv.woobl.ru/mir/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="📈 Новости",Мир +2
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 group-title="📈 Новости",Мир +7
@@ -31,8 +29,6 @@ https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8?token=test
 https://flussonic.mkpnet.ru/tv-d76fe26181666459/video.m3u8?token=test
 #EXTINF:-1 group-title="📈 Новости",RT Doc HD
 https://flussonic.mkpnet.ru/tv-501eac834b24c3cf/video.m3u8?token=test
-#EXTINF:-1 group-title="📈 Новости",ОТР
-http://tv.woobl.ru/otr/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="📈 Новости",TPO
 https://flussonic.mkpnet.ru/tv-1a9f2076ff8cd0f3/video.m3u8?token=test
 #EXTINF:-1 group-title="📈 Новости",Вместе-РФ
@@ -73,8 +69,6 @@ https://flussonic.mkpnet.ru/tv-cf5a26a180f402ef/video.m3u8?token=test
 http://188.225.31.197/bpk-tv/000001248/tve/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Звезда
 http://vod.tuva.ru/zvezda/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Звезда Плюс
-http://tv.woobl.ru/zvezda_plyus/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Ю
 https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8?token=test
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",ОТР
@@ -101,12 +95,7 @@ https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8?token=test
 http://185.234.59.200:8080/sarafan/video.m3u8?token=5uGLTS1oibSIu0
 #EXTINF:-1 group-title="🇷🇺 Русский Канал",Дождь
 http://185.234.59.200:8080/dozhd_hd/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Центральное телевидение
-http://tv.woobl.ru/tsentralnoe_televidenie/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",Анекдоты
-http://tv.woobl.ru/anekdot_tv/video.m3u8?token=5uGLTS1oibSIu0
-#EXTINF:-1 group-title="🇷🇺 Русский Канал",КВН
-http://tv.woobl.ru/kvn_tv/video.m3u8?token=5uGLTS1oibSIu0
+
 
 
 
