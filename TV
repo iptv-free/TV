@@ -1044,55 +1044,51 @@ http://178.134.1.158:8081/U/index.m3u8
 http://178.134.1.158:8081/MIR24/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Euronews
 http://178.134.1.158:8081/Euronews/index.m3u8
-
-
-
-
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Cinema
+#EXTINF:-1 group-title="🍏 TV-Line",Cinema
 http://176.118.197.101/Cinema/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Еврокино
+#EXTINF:-1 group-title="🍏 TV-Line",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",НСТ
+#EXTINF:-1 group-title="🍏 TV-Line",НСТ
 http://176.118.197.101/HCT/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Иллюзион+
+#EXTINF:-1 group-title="🍏 TV-Line",Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Кинокомедия
+#EXTINF:-1 group-title="🍏 TV-Line",Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Киномикс
+#EXTINF:-1 group-title="🍏 TV-Line",Киномикс
 http://176.118.197.101/Kinomix/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Киносерия
+#EXTINF:-1 group-title="🍏 TV-Line",Киносерия
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Родное кино
+#EXTINF:-1 group-title="🍏 TV-Line",Родное кино
 http://176.118.197.101/RodnoeKino/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Кинопоказ
+#EXTINF:-1 group-title="🍏 TV-Line",Кинопоказ
 http://176.118.197.101/Kinopokaz/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Bollywood HD
+#EXTINF:-1 group-title="🍏 TV-Line",Bollywood HD
 http://176.118.197.101/Bollywood_HD/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Комедия
+#EXTINF:-1 group-title="🍏 TV-Line",Комедия
 http://176.118.197.101/Komediya/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Любимое кино
+#EXTINF:-1 group-title="🍏 TV-Line",Любимое кино
 http://176.118.197.101/LubimoeKino/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Дом Кино
+#EXTINF:-1 group-title="🍏 TV-Line",Дом Кино
 http://176.118.197.101/Dom_kino/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Мир сериала
+#EXTINF:-1 group-title="🍏 TV-Line",Мир сериала
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",2x2
+#EXTINF:-1 group-title="🍏 TV-Line",2x2
 http://176.118.197.101/2x2/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",СТС
+#EXTINF:-1 group-title="🍏 TV-Line",СТС
 http://176.118.197.101/CTC/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Че!
+#EXTINF:-1 group-title="🍏 TV-Line",Че!
 http://176.118.197.101/Che/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Ностальгия
+#EXTINF:-1 group-title="🍏 TV-Line",Ностальгия
 http://176.118.197.101/Nostalgiya/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",РБК
+#EXTINF:-1 group-title="🍏 TV-Line",РБК
 http://176.118.197.101/RBK/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Театр
+#EXTINF:-1 group-title="🍏 TV-Line",Театр
 http://176.118.197.101/Teatr/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Телекафе
+#EXTINF:-1 group-title="🍏 TV-Line",Телекафе
 http://176.118.197.101/Telekafe/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",1HD
+#EXTINF:-1 group-title="🍏 TV-Line",1HD
 http://176.118.197.101/1HD/index.m3u8
-#EXTINF:-1 group-title="📡 Комфорт ТВ",Cartoon Network
+#EXTINF:-1 group-title="🍏 TV-Line",Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
 
 
