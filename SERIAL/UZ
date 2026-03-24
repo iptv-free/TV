@@ -1,8 +1,209 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="❤️ Поддержка",❤️ Поддержка
-https://zuno.surge.sh/demo/donat.mp4
-#EXTINF:-1 tvg-logo="" group-title="❤️ Поддержка",❤️ Телеграм
-https://zuno.surge.sh/demo/telegram.mp4
+#EXTINF:-1 group-title="Info",Info: ZunoTV
+https://m3u.usite.pro/1/demo.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 1
+https://q.uzbeklar.biz/ser/esref/1qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 2
+https://q.uzbeklar.biz/ser/esref/2qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 3
+https://q.uzbeklar.biz/ser/esref/3qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 4
+https://q.uzbeklar.biz/ser/esref/4qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 5
+https://q.uzbeklar.biz/ser/esref/5qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 6
+https://q.uzbeklar.biz/ser/esref/6qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 7
+https://q.uzbeklar.biz/ser/esref/7qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 8
+https://q.uzbeklar.biz/ser/esref/8qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 9
+https://q.uzbeklar.biz/ser/esref/9qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 10
+https://q.uzbeklar.biz/ser/esref/10qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 11
+https://q.uzbeklar.biz/ser/esref/11qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 12
+https://q.uzbeklar.biz/ser/esref/12qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 13
+https://q.uzbeklar.biz/ser/esref/13qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 14
+https://q.uzbeklar.biz/ser/esref/14qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 15
+https://q.uzbeklar.biz/ser/esref/15qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 16
+https://q.uzbeklar.biz/ser/esref/16qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 17
+https://q.uzbeklar.biz/ser/esref/17qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 18
+https://q.uzbeklar.biz/ser/esref/18qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 19
+https://q.uzbeklar.biz/ser/esref/19qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 20
+https://q.uzbeklar.biz/ser/esref/20qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 21
+https://q.uzbeklar.biz/ser/esref/21qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 22
+https://d.uzbeklar.biz/ser/esref/23qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 23
+https://34.fayllar1.ru/34/Seriallar/Eshref%20va%20Ruya/Eshref%20va%20Ruya%2023-qism%201080p%20(asilmedia.net).mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 24
+https://d.uzbeklar.biz/ser/esref/24qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 25
+https://d.uzbeklar.biz/ser/esref/25qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 26
+https://d.uzbeklar.biz/ser/esref/26qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 27
+https://d.uzbeklar.biz/ser/esref/27qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 28
+https://30.fayllar1.ru/30/Seriallar/Eshref%20va%20Ruya/Eshref%20va%20Ruya%2028-qism%201080p%20(asilmedia.net).mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 29
+https://d.uzbeklar.biz/ser/esref/29qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 30
+https://d.uzbeklar.biz/ser/esref/30qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 31
+https://d.uzbeklar.biz/ser/esref/31qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 32
+https://d.uzbeklar.biz/ser/esref/32qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 33
+https://d.uzbeklar.biz/ser/esref/33qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 34
+https://d.uzbeklar.biz/ser/esref/34qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 35
+https://d.uzbeklar.biz/ser/esref/35qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 36
+https://d.uzbeklar.biz/ser/esref/36qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 37
+https://d.uzbeklar.biz/ser/esref/37qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 38
+https://d.uzbeklar.biz/ser/esref/38qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 39
+https://r.uzbeklar.biz/ser/esref/39qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 40
+https://r.uzbeklar.biz/ser/esref/40qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 41
+https://r.uzbeklar.biz/ser/esref/41qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 42
+https://r.uzbeklar.biz/ser/esref/42qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 43
+https://r.uzbeklar.biz/ser/esref/43qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 44
+https://r.uzbeklar.biz/ser/esref/44qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 45
+https://r.uzbeklar.biz/ser/esref/45qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 46
+https://r.uzbeklar.biz/ser/esref/46qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 47
+https://r.uzbeklar.biz/ser/esref/47qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 48
+https://r.uzbeklar.biz/ser/esref/48qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 49
+https://r.uzbeklar.biz/ser/esref/49qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 50
+https://r.uzbeklar.biz/ser/esref/50qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 51
+https://r.uzbeklar.biz/ser/esref/51qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 52
+https://r.uzbeklar.biz/ser/esref/52qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 53
+https://r.uzbeklar.biz/ser/esref/53qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 54
+https://r.uzbeklar.biz/ser/esref/54qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 55
+https://r.uzbeklar.biz/ser/esref/55qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 56
+https://r.uzbeklar.biz/ser/esref/56qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 57
+https://r.uzbeklar.biz/ser/esref/57qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 58
+https://r.uzbeklar.biz/ser/esref/58qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 59
+https://r.uzbeklar.biz/ser/esref/58qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 60
+https://r.uzbeklar.biz/ser/esref/60qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 61
+https://r.uzbeklar.biz/ser/esref/61qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 62
+https://r.uzbeklar.biz/ser/esref/62qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 63
+https://r.uzbeklar.biz/ser/esref/63qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 64
+https://r.uzbeklar.biz/ser/esref/64qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 65
+https://r.uzbeklar.biz/ser/esref/65qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 66
+https://r.uzbeklar.biz/ser/esref/66qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 67
+https://r.uzbeklar.biz/ser/esref/67qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 68
+https://w.uzbeklar.biz/ser/esref/68qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 69
+https://w.uzbeklar.biz/ser/esref/69qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 70
+https://w.uzbeklar.biz/ser/esref/70qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 71
+https://w.uzbeklar.biz/ser/esref/71qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 72
+https://w.uzbeklar.biz/ser/esref/72qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 73
+https://w.uzbeklar.biz/ser/esref/73qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 74
+https://w.uzbeklar.biz/ser/esref/74qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 75
+https://w.uzbeklar.biz/ser/esref/75qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 76
+https://w.uzbeklar.biz/ser/esref/76qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 77
+https://w.uzbeklar.biz/ser/esref/77qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 78
+https://w.uzbeklar.biz/ser/esref/78qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 79
+https://w.uzbeklar.biz/ser/esref/79qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 80
+https://w.uzbeklar.biz/ser/esref/80qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 81
+https://w.uzbeklar.biz/ser/esref/81qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 82
+https://w.uzbeklar.biz/ser/esref/82qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 83
+https://w.uzbeklar.biz/ser/esref/83qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 84
+https://w.uzbeklar.biz/ser/esref/84qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 85
+https://w.uzbeklar.biz/ser/esref/85qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 86
+https://w.uzbeklar.biz/ser/esref/86qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 87
+https://w.uzbeklar.biz/ser/esref/87qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 88
+https://w.uzbeklar.biz/ser/esref/88qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 89
+https://w.uzbeklar.biz/ser/esref/89qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 90
+https://w.uzbeklar.biz/ser/esref/90qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 91
+https://w.uzbeklar.biz/ser/esref/91qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 92
+https://w.uzbeklar.biz/ser/esref/92qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 93
+https://w.uzbeklar.biz/ser/esref/93qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 94
+https://w.uzbeklar.biz/ser/esref/94qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 95
+https://w.uzbeklar.biz/ser/esref/95qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 96
+https://w.uzbeklar.biz/ser/esref/96qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 97
+https://w.uzbeklar.biz/ser/esref/97qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 98
+https://r.uzbeklar.biz/ser/esref/98qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 99
+https://r.uzbeklar.biz/ser/esref/99qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 100
+https://r.uzbeklar.biz/ser/esref/100qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1746527827_esref.jpg" group-title="Eshref va Ruya",Eshref va Ruya 101
+https://r.uzbeklar.biz/ser/esref/101qism.mp4
+
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1771102640-1587408580-mezhdu.webp" group-title="📁 Arosat (t/s)",Arosat 
 https://kxcdn.ru/Seriallar/Arosat/Arosat_1-QISM_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1771102640-1587408580-mezhdu.webp" group-title="📁 Arosat (t/s)",Arosat 
