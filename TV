@@ -780,6 +780,24 @@ http://tv.woobl.ru/SKY_HIGH_LO_FIHD/video.m3u8?token=cheburashka_pidaras
 
 
 
+#EXTINF:-1 group-title="🍏 TV-Line",Euronews
+https://a3569457567-s70378.cdn.ngenix.net/euronews/1/index.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",Euronews
+http://178.134.1.158:8081/Euronews/index.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",Время
+https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",Rossiya24
+http://176.118.197.101/Rossiya24/mono.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",RBK
+http://176.118.197.101/RBK/mono.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",Мир
+https://a3569457567-s70378.cdn.ngenix.net/mir/1/index.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",NTV
+http://176.118.197.101/NTV/mono.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",THT
+http://176.118.197.101/THT/mono.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",ТВ3
+https://a3569457567-s70378.cdn.ngenix.net/tv_3/2/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Hollywood HD
 https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Amedia 1
@@ -810,8 +828,6 @@ https://a3569457567-s70378.cdn.ngenix.net/mnogo_tv/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Дом Кино Премиум
 https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
-#EXTINF:-1 group-title="🍏 TV-Line",ТВ3
-https://a3569457567-s70378.cdn.ngenix.net/tv_3/2/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",TV XXI
 https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",VIP Comedy
@@ -824,8 +840,6 @@ https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Дом Кино
 https://a3569457567-s70378.cdn.ngenix.net/dom_kino/1/index.m3u8
-#EXTINF:-1 group-title="🍏 TV-Line",Euronews
-https://a3569457567-s70378.cdn.ngenix.net/euronews/1/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Еврокино
 https://a3569457567-s70378.cdn.ngenix.net/evrokino/1/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Мир сериала
@@ -918,16 +932,12 @@ https://a3569457567-s70378.cdn.ngenix.net/hd_life/1/index.m3u8
 https://a3569457567-s70378.cdn.ngenix.net/365_dney_tv/2/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Телекафе
 https://a3569457567-s70378.cdn.ngenix.net/telecafe/2/index.m3u8
-#EXTINF:-1 group-title="🍏 TV-Line",Время
-https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",FashionBox
 https://a3569457567-s70378.cdn.ngenix.net/fashion_box/1/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Flixsnip
 https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",КВН ТВ
 https://a3569457567-s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
-#EXTINF:-1 group-title="🍏 TV-Line",Мир
-https://a3569457567-s70378.cdn.ngenix.net/mir/1/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",RTVI
 https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Dar21
@@ -942,8 +952,16 @@ https://a3569457567-s70378.cdn.ngenix.net/kxl/1/index.m3u8
 http://176.118.197.101/Rossiya24/mono.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",RBK
 http://176.118.197.101/RBK/mono.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",Мир
+https://a3569457567-s70378.cdn.ngenix.net/mir/1/index.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",NTV
+http://176.118.197.101/NTV/mono.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",THT
+http://176.118.197.101/THT/mono.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Nostalgiya
 http://176.118.197.101/Nostalgiya/mono.m3u8
+#EXTINF:-1 group-title="🍏 TV-Line",Мир
+https://a3569457567-s70378.cdn.ngenix.net/mir/1/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",NTV
 http://176.118.197.101/NTV/mono.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",THT
@@ -1042,8 +1060,6 @@ http://178.134.1.158:8081/eurosport/index.m3u8
 http://178.134.1.158:8081/U/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",MIR24
 http://178.134.1.158:8081/MIR24/index.m3u8
-#EXTINF:-1 group-title="🍏 TV-Line",Euronews
-http://178.134.1.158:8081/Euronews/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Cinema
 http://176.118.197.101/Cinema/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Еврокино
