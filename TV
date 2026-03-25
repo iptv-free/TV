@@ -289,14 +289,113 @@ http://hls127.freeott.top:8080/Football/mono.m3u8
 http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
 
 
-#EXTINF:-1 group-title="🌐 Интернет ТВ",ВК Кино 2ᴴᴰ
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Первый Канал HD
+https://kinostreammedia.hopto.org/PERVY-CHANNEL-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Первый Канал
+https://kinostreammedia.hopto.org/PERVY-CHANNEL/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Россия 1 HD
+https://kinostreammedia.hopto.org/RUSSIA1-ORIG-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Россия 24 HD
+https://kinostreammedia.hopto.org/RUSSIA-24-ORIG-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Россия K HD
+https://kinostreammedia.hopto.org/RUSSIA-K-ORIG-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Звезда HD
+https://kinostreammedia.hopto.org/ZVEZDA-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Пятый канал
+https://kinostreammedia.hopto.org/5CHANNEL/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",ОТВ Екатеринбург
+https://kinostreammedia.hopto.org/OTB-EKB/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Мир 24
+https://kinostreammedia.hopto.org/MIR24/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",НТВ HD
+https://kinostreammedia.hopto.org/HTB-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",CTC
+https://kinostreammedia.hopto.org/CTC/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",CTC Love
+https://kinostreammedia.hopto.org/CTC-LOVE/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",THT HD
+https://kinostreammedia.hopto.org/THT-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",THT
+https://kinostreammedia.hopto.org/THT-SD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",THT4 HD
+https://kinostreammedia.hopto.org/THT4-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",THT4
+https://kinostreammedia.hopto.org/THT4-SD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Пятница! HD
+https://kinostreammedia.hopto.org/friday-hd/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",ТВ3 HD
+https://kinostreammedia.hopto.org/TV3-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Рен ТВ
+https://kinostreammedia.hopto.org/RENTV/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",ТВЦ
+https://kinostreammedia.hopto.org/TVC/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Че!
+https://kinostreammedia.hopto.org/CHE/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",ВК Кино 2ᴴᴰ
 rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="🌐 Интернет ТВ",ВК Кино и сериалыᴴᴰ
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",ВК Кино и сериалыᴴᴰ
 rtmp://vkvsd163.okcdn.ru/playback/12955145284352?stkn=6ch0LLXwWD0t6QW_q7NmQy3fxPoTdQt7CB_dXr_LEFueWUH8_kDzjDtZ9KMbMuhVr1UElvIN76k&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
-#EXTINF:-1 group-title="🌐 Интернет ТВ",Alpha Cinemaᴴᴰ
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Alpha Cinemaᴴᴰ
 http://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1 group-title="🌐 Интернет ТВ",Alpha Moretimeᴴᴰ
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Alpha Moretimeᴴᴰ
 http://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Sunset ONE HD
+https://kinostreammedia.hopto.org/SUNSET-ONE/index.m3u8?KinoStreamMediaApps
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Твоё ТВ FULL HD
+https://kinostreammedia.hopto.org/TVOETV/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Твоё ТВ Юмор FULL HD
+https://kinostreammedia.hopto.org/TVOETV-HUMOR/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Скрипач ТВ
+https://kinostreammedia.hopto.org/SCRIPACHTV/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Любимое кино
+https://kinostreammedia.hopto.org/LUBIMOEKINO/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Патриот
+https://kinostreammedia.hopto.org/PATRIOT/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",KinoMix
+https://kinostreammedia.hopto.org/KINOMIX/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Kino Walk
+https://kinostreammedia.hopto.org/KINOWALK/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",TR ZONA 1 HD
+https://kinostreammedia.hopto.org/DTRZONA1/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",DTR MUSIC 1 HD
+https://kinostreammedia.hopto.org/DTRMUSIC1/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",DTR ZONA 2 HD
+https://kinostreammedia.hopto.org/DTRZONA2/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Муз ТВ HD
+https://kinostreammedia.hopto.org/MUZTV-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Муз ТВ
+https://kinostreammedia.hopto.org/MUZTV/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",RU.TV HD
+https://kinostreammedia.hopto.org/RUTV-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",2x2 HD
+https://kinostreammedia.hopto.org/2x2-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",2x2
+https://kinostreammedia.hopto.org/2x2/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Матч ТВ HD
+https://kinostreammedia.hopto.org/MATCHTV-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Матч ТВ
+https://kinostreammedia.hopto.org/MATCHTV/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Продвижение
+https://kinostreammedia.hopto.org/PRODVIZHENIE/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Солнце HD
+https://kinostreammedia.hopto.org/SOLNCE-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Солнце
+https://kinostreammedia.hopto.org/SOLNCE/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Смайлик ТВ HD
+https://kinostreammedia.hopto.org/SMAYLIKTV-HD/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Мульт БУМ
+https://kinostreammedia.hopto.org/MULT-BUM/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",JTX ONLINE
+https://kinostreammedia.hopto.org/JTX-ONLINE/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",Cartoonito
+https://kinostreammedia.hopto.org/CARTOONITO/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",NikNik TV
+https://kinostreammedia.hopto.org/NIKNIK-TV/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",FoxKids - Remastered
+https://kinostreammedia.hopto.org/FOXKIDS-REMASTERED/index.m3u8
+#EXTINF:-1 group-title="🎞 KinoStream Not24/7",OLD 2X2
+https://kinostreammedia.hopto.org/OLD2X2/index.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://1lot.tv/ch/10851.png" group-title="▶️ IPTV-Play",IPTVPLAY Великая Отечественнаяᴴᴰ
