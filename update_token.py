@@ -19,11 +19,6 @@ print("=" * 60)
 print("🔐 Secrets tekshirilmoqda...")
 if not all([SITE_LOGIN, SITE_PASSWORD, CF_API_TOKEN, CF_ACCOUNT_ID, WORKER_NAME]):
     print("❌ XATO: Ba'zi secrets topilmadi!")
-    print(f"   SITE_LOGIN: {'✅' if SITE_LOGIN else '❌'}")
-    print(f"   SITE_PASSWORD: {'✅' if SITE_PASSWORD else '❌'}")
-    print(f"   CF_API_TOKEN: {'✅' if CF_API_TOKEN else '❌'}")
-    print(f"   CF_ACCOUNT_ID: {'✅' if CF_ACCOUNT_ID else '❌'}")
-    print(f"   WORKER_NAME: {'✅' if WORKER_NAME else '❌'}")
     exit(1)
 print("✅ Barcha secrets topildi!")
 
@@ -33,59 +28,138 @@ def get_new_token():
     
     session = requests.Session()
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
         'Accept-Language': 'en-US,en;q=0.5',
-        'Referer': 'https://mediabay.uz/',
-        'Origin': 'https://mediabay.uz'
+        'Accept-Encoding': 'gzip, deflate, br',
+        'Connection': 'keep-alive',
+        'Upgrade-Insecure-Requests': '1',
+        'Sec-Fetch-Dest': 'document',
+        'Sec-Fetch-Mode': 'navigate',
+        'Sec-Fetch-Site': 'none',
+        'Cache-Control': 'max-age=0'
     }
     
     try:
-        # 1. Bosh sahifa
+        # 1. Bosh sahifa (cookies olish)
         print("📄 Bosh sahifaga kirish...")
         home_url = 'https://mediabay.uz/'
-        response = session.get(home_url, headers=headers, timeout=30)
+        response = session.get(home_url, headers=headers, timeout=30, allow_redirects=True)
+        print(f"   Status: {response.status_code}")
+        print(f"   URL: {response.url}")
+        
+        # CSRF token - bir nechta variantlarni tekshiramiz
+        csrf_patterns = [
+            r'name="_token" value="([^"]+)"',
+            r'name="csrf-token" content="([^"]+)"',
+            r'_token["\']\s*:\s*["\']([^"\']+)["\']',
+            r'csrf["\']\s*:\s*["\']([^"\']+)["\']'
+        ]
+        
+        csrf_token = None
+        for pattern in csrf_patterns:
+            match = re.search(pattern, response.text)
+            if match:
+                csrf_token = match.group(1)
+                print(f"   ✅ CSRF token topildi: {csrf_token[:30]}...")
+                break
+        
+        if not csrf_token:
+            print("   ❌ CSRF token topilmadi!")
+            # Debug: Sahifa matnini saqlash
+            with open('debug_login_page.html', 'w', encoding='utf-8') as f:
+                f.write(response.text[:20000])
+            print("   📁 debug_login_page.html saqlandi")
+            # CSRF siz ham urinib ko'ramiz
+            csrf_token = ''
+        
+        # 2. Login sahifasiga kirish
+        print("\n🔐 Login sahifasiga kirish...")
+        login_url = 'https://mediabay.uz/login'
+        response = session.get(login_url, headers=headers, timeout=30)
         print(f"   Status: {response.status_code}")
         
-        # CSRF token
-        csrf_match = re.search(r'name="_token" value="([^"]+)"', response.text)
-        csrf_token = csrf_match.group(1) if csrf_match else None
-        print(f"   CSRF token: {'✅ Topildi' if csrf_token else '❌ Topilmadi'}")
+        # Yangi CSRF token olish (login sahifasidan)
+        for pattern in csrf_patterns:
+            match = re.search(pattern, response.text)
+            if match:
+                csrf_token = match.group(1)
+                print(f"   ✅ Login sahifasidan CSRF: {csrf_token[:30]}...")
+                break
         
-        # 2. Login
-        print("\n🔐 Login jarayoni...")
-        login_url = 'https://mediabay.uz/login'
-        login_data = {
-            '_token': csrf_token or '',
-            'email': SITE_LOGIN,
-            'password': SITE_PASSWORD,
-            'remember': 'on'
-        }
+        # 3. Login qilish
+        print("\n🔑 Login jarayoni...")
         
-        response = session.post(login_url, data=login_data, headers=headers, allow_redirects=True, timeout=30)
-        print(f"   Login status: {response.status_code}")
-        print(f"   Current URL: {response.url}")
+        # Turli login form formatlarini sinab ko'ramiz
+        login_data_options = [
+            # Variant 1: Standart Laravel
+            {
+                '_token': csrf_token,
+                'email': SITE_LOGIN,
+                'password': SITE_PASSWORD,
+                'remember': 'on'
+            },
+            # Variant 2: Login maydoni
+            {
+                '_token': csrf_token,
+                'login': SITE_LOGIN,
+                'password': SITE_PASSWORD,
+                'remember': '1'
+            },
+            # Variant 3: Username
+            {
+                '_token': csrf_token,
+                'username': SITE_LOGIN,
+                'password': SITE_PASSWORD
+            },
+            # Variant 4: CSRF siz
+            {
+                'email': SITE_LOGIN,
+                'password': SITE_PASSWORD,
+                'remember': 'on'
+            }
+        ]
         
-        # Login muvaffaqiyatli bo'lganini tekshirish
-        if 'login' in response.url.lower() or 'auth' in response.url.lower():
-            print("❌ Login muvaffaqiyatsiz! URL hali login sahifasida.")
+        for i, login_data in enumerate(login_data_options, 1):
+            print(f"   Variant {i} sinab ko'rilmoqda...")
+            
+            response = session.post(
+                login_url, 
+                data=login_data, 
+                headers=headers, 
+                timeout=30, 
+                allow_redirects=True
+            )
+            
+            print(f"   Status: {response.status_code}")
+            print(f"   Current URL: {response.url}")
+            
+            # Login muvaffaqiyatli bo'lganini tekshirish
+            if 'login' not in response.url.lower() and 'auth' not in response.url.lower():
+                print(f"   ✅ Variant {i} muvaffaqiyatli!")
+                break
+        else:
+            print("   ❌ Barcha login variantlari muvaffaqiyatsiz!")
+            with open('debug_after_login.html', 'w', encoding='utf-8') as f:
+                f.write(response.text[:20000])
+            print("   📁 debug_after_login.html saqlandi")
             return None
         
-        # 3. Kanallar sahifasi
+        # 4. Kanallar sahifasiga kirish
         print("\n📺 Kanallar sahifasiga kirish...")
         channels_url = 'https://mediabay.uz/channels'
         response = session.get(channels_url, headers=headers, timeout=30)
         print(f"   Status: {response.status_code}")
         print(f"   Response length: {len(response.text)} bytes")
         
-        # 4. Tokenni M3U8 dan topish
+        # 5. Tokenni M3U8 dan topish
         print("\n🔍 Token qidirilmoqda...")
         m3u8_pattern = r'https?://st\d+\.mediabay\.uz/[^\s"\']+\.m3u8[^\s"\']*'
         m3u8_matches = re.findall(m3u8_pattern, response.text)
         print(f"   M3U8 linklar: {len(m3u8_matches)} ta topildi")
         
         for i, m3u8_url in enumerate(m3u8_matches[:5], 1):
-            print(f"   [{i}] {m3u8_url[:80]}...")
+            print(f"   [{i}] {m3u8_url[:100]}...")
             token_match = re.search(r'token=([a-zA-Z0-9_-]+)', m3u8_url)
             if token_match:
                 new_token = token_match.group(1)
@@ -94,13 +168,14 @@ def get_new_token():
                 print(f"   Uzunligi: {len(new_token)} belgi")
                 return new_token
         
-        # 5. HTML dan to'g'ridan-to'g'ri topish
+        # 6. HTML dan to'g'ridan-to'g'ri topish
         print("\n🔎 HTML dan token qidirilmoqda...")
         token_patterns = [
             r'"token"\s*:\s*"([^"]+)"',
             r"'token'\s*:\s*'([^']+)'",
             r'token=([a-zA-Z0-9_-]{50,})',
-            r'data-token="([^"]+)"'
+            r'data-token="([^"]+)"',
+            r'"jwt"\s*:\s*"([^"]+)"'
         ]
         
         for pattern in token_patterns:
@@ -112,12 +187,9 @@ def get_new_token():
                 return new_token
         
         print("\n❌ TOKEN TOPILMADI!")
-        print("💡 Maslahat: Mediabay.uz saytida login jarayoni o'zgargan bo'lishi mumkin.")
-        
-        # Debug file
-        with open('debug_response.html', 'w', encoding='utf-8') as f:
-            f.write(response.text[:10000])
-        print("📁 debug_response.html fayl saqlandi")
+        with open('debug_channels.html', 'w', encoding='utf-8') as f:
+            f.write(response.text[:20000])
+        print("📁 debug_channels.html saqlandi")
         
         return None
         
@@ -150,7 +222,6 @@ def update_worker_token(new_token):
     
     try:
         print(f"📡 So'rov yuborilmoqda...")
-        print(f"   URL: {url[:80]}...")
         print(f"   Worker: {WORKER_NAME}")
         
         response = requests.put(url, json=data, headers=headers, timeout=30)
@@ -166,17 +237,10 @@ def update_worker_token(new_token):
             print(f"   Status: {response.status_code}")
             if 'errors' in result:
                 for error in result['errors']:
-                    # ✅ Tuzatildi: Variable ishlatamiz (backslash yo'q)
                     error_message = error.get('message', 'Noma lum')
                     print(f"   - {error_message}")
-            if 'messages' in result:
-                for msg in result['messages']:
-                    print(f"   - {msg}")
             return False
             
-    except requests.exceptions.Timeout:
-        print("❌ Timeout: Cloudflare javob bermadi!")
-        return None
     except Exception as e:
         print(f"❌ Xatolik: {type(e).__name__}: {e}")
         return None
