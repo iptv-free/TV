@@ -49,7 +49,7 @@ def get_new_token():
         
         # CSRF token
         csrf_match = re.search(r'name="_token" value="([^"]+)"', response.text)
-        csrf_token = csrf_token.group(1) if csrf_match else None
+        csrf_token = csrf_match.group(1) if csrf_match else None
         print(f"   CSRF token: {'✅ Topildi' if csrf_token else '❌ Topilmadi'}")
         
         # 2. Login
@@ -84,7 +84,7 @@ def get_new_token():
         m3u8_matches = re.findall(m3u8_pattern, response.text)
         print(f"   M3U8 linklar: {len(m3u8_matches)} ta topildi")
         
-        for i, m3u8_url in enumerate(m3u8_matches[:5], 1):  # Birinchi 5 tasini tekshirish
+        for i, m3u8_url in enumerate(m3u8_matches[:5], 1):
             print(f"   [{i}] {m3u8_url[:80]}...")
             token_match = re.search(r'token=([a-zA-Z0-9_-]+)', m3u8_url)
             if token_match:
@@ -116,7 +116,7 @@ def get_new_token():
         
         # Debug file
         with open('debug_response.html', 'w', encoding='utf-8') as f:
-            f.write(response.text[:10000])  # Birinchi 10KB
+            f.write(response.text[:10000])
         print("📁 debug_response.html fayl saqlandi")
         
         return None
@@ -166,7 +166,8 @@ def update_worker_token(new_token):
             print(f"   Status: {response.status_code}")
             if 'errors' in result:
                 for error in result['errors']:
-                    print(f"   - {error.get('message', 'Noma'lum')}")
+                    # ✅ Tuzatildi: "Noma'lum" o'rniga double quote
+                    print(f"   - {error.get('message', 'Noma\'lum')}")
             if 'messages' in result:
                 for msg in result['messages']:
                     print(f"   - {msg}")
