@@ -166,8 +166,9 @@ def update_worker_token(new_token):
             print(f"   Status: {response.status_code}")
             if 'errors' in result:
                 for error in result['errors']:
-                    # ✅ Tuzatildi: "Noma'lum" o'rniga double quote
-                    print(f"   - {error.get('message', 'Noma\'lum')}")
+                    # ✅ Tuzatildi: Variable ishlatamiz (backslash yo'q)
+                    error_message = error.get('message', 'Noma lum')
+                    print(f"   - {error_message}")
             if 'messages' in result:
                 for msg in result['messages']:
                     print(f"   - {msg}")
