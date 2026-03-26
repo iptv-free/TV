@@ -197,6 +197,142 @@ https://flussonic.mkpnet.ru/tv-4a4cb3e0aac082c9/video.m3u8
 https://flussonic.mkpnet.ru/tv-181e3f7698288892/video.m3u8
 
 
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="pervy-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Первый канал (+2)
+http://tv.woobl.ru:9091/channel/769dda33/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-name="Первый канал (+4)" tvg-id="pervy-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Первый канал (+4)
+http://tv.woobl.ru:9091/channel/n57169a4c/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="pervy-pl6" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Первый канал (+6)
+http://tv.woobl.ru:9091/channel/n57169a0e/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rossia1-pl1" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия 1 (+1)
+http://tv.woobl.ru:9091/channel/n5d4bb32d/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rossia1-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия 1 (+2)
+http://tv.woobl.ru:9090/channel/1edf0438/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rossia1-pl3" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия 1 (+3)
+http://tv.woobl.ru:9090/channel/6226106/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rossia1-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия 1 (+4)
+http://tv.woobl.ru:9090/channel/1edf0476/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rossia1-pl5" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия 1 (+5)
+http://tv.woobl.ru:9090/channel/n352eff50/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rossia1-pl6" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия 1 (+6)
+http://tv.woobl.ru:9090/channel/1edf04b4/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rossia1-pl8" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия 1 (+8)
+http://tv.woobl.ru:9090/channel/4c6e7a31/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rossia1-pl9" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия 1 (+9)
+http://tv.woobl.ru:9090/channel/4c6e7a50/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",НТВ (+2)
+http://tv.woobl.ru:9091/channel/34151a29/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",НТВ (+4)
+http://tv.woobl.ru:9091/channel/34151a67/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",НТВ (+7)
+http://tv.woobl.ru:9091/channel/34151ac4/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="5kanal-ru-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Пятый канал (+4)
+http://tv.woobl.ru:9090/channel/n57169a4c/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="5kanal-ru-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Пятый канал (+6)
+http://tv.woobl.ru:9090/channel/n57169a0e/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия К (+2)
+http://tv.woobl.ru:9090/channel/n34fdf611/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия К (+4)
+http://tv.woobl.ru:9090/channel/n34fdf5d3/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Россия К (+7)
+http://tv.woobl.ru:9090/channel/n34fdf576/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="karusel-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Карусель (+2)
+http://tv.woobl.ru:9090/channel/47f7f280/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="karusel-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Карусель (+4)
+http://tv.woobl.ru:9090/channel/47f7f2be/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Карусель (+7)
+http://tv.woobl.ru:9090/channel/47f7f31b/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="tvcentr-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТВЦ (+4)
+http://tv.woobl.ru:9090/channel/797d434f/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="tvcentr-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТВЦ (+7)
+http://tv.woobl.ru:9090/channel/797d4352/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rentv-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Рен ТВ (+2)
+http://tv.woobl.ru:9090/channel/n632916ea/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rentv-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Рен ТВ (+4)
+http://tv.woobl.ru:9090/channel/n2272ecfb/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="rentv-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Рен ТВ (+7)
+http://tv.woobl.ru:9090/channel/n2272ecf8/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",СТС (+2)
+http://tv.woobl.ru:9090/channel/n12cd810a/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",СТС (+4)
+http://tv.woobl.ru:9090/channel/n12cd80cc/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",СТС (+7)
+http://tv.woobl.ru:9090/channel/n12cd806f/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="domashny-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Домашний (+2)
+http://tv.woobl.ru:9090/channel/1807d3b7/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="domashny-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Домашний (+4)
+http://tv.woobl.ru:9090/channel/1807d3b9/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="domashny-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Домашний (+7)
+http://tv.woobl.ru:9090/channel/1807d3bc/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТВ3 (+2)
+http://tv.woobl.ru:9090/channel/5204b6f3/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТВ3 (+4)
+http://tv.woobl.ru:9090/channel/5204b731/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТВ3 (+7)
+http://tv.woobl.ru:9090/channel/5204b78e/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="piatnica-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Пятница (+2)
+http://tv.woobl.ru:9090/channel/n64007e6c/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="piatnica-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Пятница (+4)
+http://tv.woobl.ru:9090/channel/n64007e2e/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="piatnica-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Пятница (+7)
+http://tv.woobl.ru:9090/channel/n2bb57401/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Звезда (+2)
+http://tv.woobl.ru:9090/channel/n472715db/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Звезда (+4)
+http://tv.woobl.ru:9090/channel/n4727159d/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Звезда (+7)
+http://tv.woobl.ru:9090/channel/n47271540/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Мир (+2)
+http://tv.woobl.ru:9090/channel/n2ce68a8e/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Мир (+4)
+http://tv.woobl.ru:9090/channel/n2ce68a50/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Мир (+7)
+http://tv.woobl.ru:9090/channel/n2ce689f3/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТНТ (+2)
+http://tv.woobl.ru:9090/channel/4e495c2f/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТНТ (+4)
+http://tv.woobl.ru:9090/channel/4e495c6d/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТНТ (+7)
+http://tv.woobl.ru:9090/channel/4e495cca/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Муз ТВ (+2)
+http://tv.woobl.ru:9090/channel/2badb3be/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Муз ТВ (+4)
+http://tv.woobl.ru:9090/channel/2badb3fc/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Муз ТВ (+7)
+http://tv.woobl.ru:9090/channel/2badb459/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Ю (+2)
+http://tv.woobl.ru:9090/channel/548e46a8/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Ю (+4)
+http://tv.woobl.ru:9090/channel/548e46e6/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Ю (+7)
+http://tv.woobl.ru:9090/channel/548e4743/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",ТНТ4 (+4)
+http://tv.woobl.ru:9090/channel/4e495c6d/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",2x2 (+2)
+http://tv.woobl.ru:9090/channel/n3b8237d6/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",2x2 (+4)
+http://tv.woobl.ru:9090/channel/n3b823798/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",2x2 (+7)
+http://tv.woobl.ru:9090/channel/n3b82373b/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Суббота (+2)
+http://tv.woobl.ru:9090/channel/n60b4aa92/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Суббота (+4)
+http://tv.woobl.ru:9090/channel/n60b4aa54/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Суббота (+7)
+http://tv.woobl.ru:9090/channel/n60b4a9f7/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="che-pl2" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Че! (+2)
+http://tv.woobl.ru:9090/channel/1769f2d8/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="che-pl4" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Че (+4)
+http://tv.woobl.ru:9090/channel/762d7641/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" tvg-id="che-pl7" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Че! (+7)
+http://tv.woobl.ru:9090/channel/762d769e/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Солнце (+2)
+http://tv.woobl.ru:9090/channel/n3a70dbd0/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Солнце (+4)
+http://tv.woobl.ru:9090/channel/n3a70db92/index.m3u8?q=34a919fb04506281605634143a628fd0
+#EXTINF:-1 group-title="➕ Плюсовые" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" timeshift="3",Солнце (+7)
+http://tv.woobl.ru:9090/channel/n3a70db35/index.m3u8?q=34a919fb04506281605634143a628fd0
+
+
 #EXTINF:-1 group-title="FreeOTT #IPTV",Info: ZunoTV
 https://m3u.usite.pro/1/demo.mp4
 #EXTINF:-1 group-title="FreeOTT #IPTV",Наука
