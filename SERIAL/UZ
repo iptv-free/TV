@@ -1,6 +1,53 @@
 #EXTM3U
 #EXTINF:-1 group-title="Info",Info: ZunoTV
 https://m3u.usite.pro/1/demo.mp4
+
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773297195_merlin.jpg" group-title="📁 Merlinning yuksalishi",Merlinning yuksalishi 1
+https://w.uzbeklar.biz/ser/merlin2025/1qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773297195_merlin.jpg" group-title="📁 Merlinning yuksalishi",Merlinning yuksalishi 2
+https://r.uzbeklar.biz/ser/merlin2025/2qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773297195_merlin.jpg" group-title="📁 Merlinning yuksalishi",Merlinning yuksalishi 3
+https://r.uzbeklar.biz/ser/merlin2025/3qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773297195_merlin.jpg" group-title="📁 Merlinning yuksalishi",Merlinning yuksalishi 4
+https://r.uzbeklar.biz/ser/merlin2025/4qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773297195_merlin.jpg" group-title="📁 Merlinning yuksalishi",Merlinning yuksalishi 5
+https://r.uzbeklar.biz/ser/merlin2025/5qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773297195_merlin.jpg" group-title="📁 Merlinning yuksalishi",Merlinning yuksalishi 6
+https://r.uzbeklar.biz/ser/merlin2025/6qism.mp4
+
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 1- 1
+https://files.uzmovi.club/film9/onepice/1qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 1- 2
+https://files.uzmovi.club/film9/onepice/2qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 1- 3
+https://files.uzmovi.club/film9/onepice/3qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 1- 4
+https://files.uzmovi.club/film9/onepice/4qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 1- 5
+https://files.uzmovi.club/film9/onepice/5qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 1- 6
+https://files.uzmovi.club/film9/onepice/6qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 1- 7
+https://files.uzmovi.club/film9/onepice/7qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 1- 8
+https://files.uzmovi.club/film9/onepice/8qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 2- 1
+https://w.uzbeklar.biz/ser/onepice/2-1qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 2- 2
+https://w.uzbeklar.biz/ser/onepice/2-2qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 2- 3
+https://d.uzbeklar.biz/ser/onepice/2-3qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 2- 4
+https://d.uzbeklar.biz/ser/onepice/2-4qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 2- 5
+https://r.uzbeklar.biz/ser/onepice/2-5qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 2- 6
+https://r.uzbeklar.biz/ser/onepice/2-6qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 2- 7
+https://r.uzbeklar.biz/ser/onepice/2-7qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2023-09/1694069870_1694069948.jpg" group-title="📁 Van Pis",Van Pis 2- 8
+https://r.uzbeklar.biz/ser/onepice/2-8qism.mp4
+
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1646149117-1623974780.jpg" group-title="📁 Shelbilar oilasi",Shelbilar oilasi 1- 1
 https://files.uzbeklar.biz/film3/shelbilar/1qism.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2022-03/1646149117-1623974780.jpg" group-title="📁 Shelbilar oilasi",Shelbilar oilasi 1- 2
