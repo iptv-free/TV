@@ -313,8 +313,7 @@ https://st1.uzdigital.tv/Toshkent/tracks-v1a1a2/mono.m3u8
 https://st1.uzdigital.tv/FutbolTV/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 group-title="UZ #IPTV",TTV Musiqa
 https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1 group-title="UZ #IPTV",8TV
-https://vsd244.okcdn.ru/hls/720775023246.m3u8/sig/74T0XMCRbi4/expires/1774812574584/srcIp/84.54.71.133/urls/45.136.22.67/clientType/0/srcAg/CHROME/mid/2037904318094/720775023246_high/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Itv.uz (🇺🇿)" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg", iTV Cinema
