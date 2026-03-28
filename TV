@@ -313,6 +313,8 @@ https://st1.uzdigital.tv/Toshkent/tracks-v1a1a2/mono.m3u8
 https://st1.uzdigital.tv/FutbolTV/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 group-title="UZ #IPTV",TTV Musiqa
 https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",MiMi
+https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
 
 
 
