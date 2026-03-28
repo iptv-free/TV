@@ -291,6 +291,33 @@ http://hls127.freeott.top:8080/Football/mono.m3u8
 #EXTINF:-1 group-title="FreeOTT #IPTV",Da Vinci Learning
 http://hls127.freeott.top:8080/Da_Vinci_Learning/mono.m3u8
 
+#EXTINF:-1 group-title="UZ #IPTV",Milliy TV
+http://serv1.milliy.tv/hls/index_480.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",MY5TV International
+https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",Biz TV
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",Biz Cinema
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",Biz Music
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",Madaniyat va Marifat
+https://st1.uzdigital.tv/Madaniyat_va_Marifat/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",Uzbekiston 24
+https://st1.uzdigital.tv/Uzb24/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",MakonTV
+https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",Toshkent HD
+https://st1.uzdigital.tv/Toshkent/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",Futbol TV
+https://st1.uzdigital.tv/FutbolTV/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",TTV Musiqa
+https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1 group-title="UZ #IPTV",8TV
+https://vsd244.okcdn.ru/hls/720775023246.m3u8/sig/74T0XMCRbi4/expires/1774812574584/srcIp/84.54.71.133/urls/45.136.22.67/clientType/0/srcAg/CHROME/mid/2037904318094/720775023246_high/index.m3u8
+
+
+
 
 #EXTINF:-1 group-title="🎞 KinoStream Not24/7",Первый Канал HD
 https://kinostreammedia.hopto.org/PERVY-CHANNEL-HD/index.m3u8
