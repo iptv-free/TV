@@ -558,7 +558,7 @@ http://tv.woobl.ru:9090/channel/n3a70db92/index.m3u8?q=96d403e6e052d3144c470e98a
 http://tv.woobl.ru:9090/channel/n3a70db35/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
 
 
-#EXTM3U
+
 #EXTINF:-1 tvg-id="domkino-premium" group-title="🖥 Woobl TV",Дом Кино Премиум HD
 http://tv.woobl.ru/dom_kino_premium_hd/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",Комедия
@@ -933,6 +933,8 @@ http://tv.woobl.ru/SKY_HIGH_HORROR_4K_HDR/video.m3u8?token=wooblru
 http://tv.woobl.ru/SKY_HIGH_LO_FIHD/video.m3u8?token=wooblru
 
 
+
+
 #EXTINF:-1 group-title="🖥 Woobl TV",VF Сериалы Турции
 http://tv.woobl.ru:9090/channel/1a838d17/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
 #EXTINF:-1 group-title="🖥 Woobl TV",VF Вестерн
@@ -1190,8 +1192,6 @@ http://tv.woobl.ru:9090/channel/19a78a35/index.m3u8?q=96d403e6e052d3144c470e98ad
 #EXTINF:-1 group-title="🖥 Woobl TV",VF Однажды в России
 http://tv.woobl.ru:9090/channel/n1e05434/index.m3u8?q=96d403e6e052d3144c470e98ad45042b
 
-
-
 #EXTINF:-1 group-title="🖥 Woobl TV",Матч! Арена
 http://tv.woobl.ru/match_arena/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",Матч! Арена HD
@@ -1291,75 +1291,77 @@ http://tv.woobl.ru/RTVS_Sport_SK/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="fastfunbox-hd" group-title="🖥 Woobl TV",Fast&FunBox HD
 http://tv.woobl.ru/FastFunBox_HD/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",365 дней
-http://tv.woobl.ru/365_dnej_tv/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/365_dnej_tv/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",#КтоКуда
-http://tv.woobl.ru/kto_kuda/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/kto_kuda/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="animal-planet-eu" catchup="flussonic" tvg-name="Animal Planet HD" catchup-days="1" group-title="🖥 Woobl TV",Animal Planet HD
-http://tv.woobl.ru/animal_planet_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/animal_planet_hd/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",Big Planet HD
-http://tv.woobl.ru/big_planet_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/big_planet_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="curiosity-stream" group-title="🖥 Woobl TV",Curiosity Stream HD
-http://tv.woobl.ru/curiosity_stream_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/curiosity_stream_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="discovery-channel" catchup="flussonic" tvg-name="Discovery Channel HD" catchup-days="1" group-title="🖥 Woobl TV",Discovery Channel HD
-http://tv.woobl.ru/discovery_channel_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/discovery_channel_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="eda" group-title="🖥 Woobl TV",Еда
-http://tv.woobl.ru/eda/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/eda/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="history" tvg-name="History HD" group-title="🖥 Woobl TV",History HD
-http://tv.woobl.ru/history_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/history_hd/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",National Geographic
-http://tv.woobl.ru/national_geographic/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/national_geographic/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="ocean-tv" group-title="🖥 Woobl TV",Океан TV HD
-http://tv.woobl.ru/ocean_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/ocean_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="rtg-hd" group-title="🖥 Woobl TV",RTG HD
-http://tv.woobl.ru/RTG_HD/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/RTG_HD/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="terra-ru" group-title="🖥 Woobl TV",Terra HD
-http://tv.woobl.ru/terra_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/terra_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="the-explorers" tvg-name="The Explorers HD" group-title="🖥 Woobl TV",The Explorers HD
-http://tv.woobl.ru/the_explorers_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/the_explorers_hd/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",viju+ Planet HD
-http://tv.woobl.ru/viju_plus_planet_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/viju_plus_planet_hd/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",viju Nature HD
-http://tv.woobl.ru/viju_plus_nature_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/viju_plus_nature_hd/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",viju Explore HD
-http://tv.woobl.ru/viju_explore_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/viju_explore_hd/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",viju History HD
-http://tv.woobl.ru/viju_history_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/viju_history_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="appetitny" group-title="🖥 Woobl TV",Аппетитный HD
-http://tv.woobl.ru/appetitniy_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/appetitniy_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="akwatv" group-title="🖥 Woobl TV",Аква ТВ
-http://tv.woobl.ru/akva_tv/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/akva_tv/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="moto-drive" group-title="🖥 Woobl TV",Мото Драйв ТВ HD
-http://tv.woobl.ru/moto_drajv/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/moto_drajv/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",Глазами Туриста HD
-http://tv.woobl.ru/glazami_turista_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/glazami_turista_hd/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",Домашние животные
-http://tv.woobl.ru/domashnie_zhivotnye/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/domashnie_zhivotnye/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",Живая планета
-http://tv.woobl.ru/zhivaja_planeta/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/zhivaja_planeta/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="zagorodny" group-title="🖥 Woobl TV",Загородный
-http://tv.woobl.ru/zagorodniy/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/zagorodniy/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="doktor" group-title="🖥 Woobl TV",Доктор HD
-http://tv.woobl.ru/doktor_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/doktor_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="🖥 Woobl TV",Кухня ТВ
-http://tv.woobl.ru/kuhnja_tv/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/kuhnja_tv/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="kuxnia-tv" group-title="🖥 Woobl TV",Кухня ТВ HD
-http://tv.woobl.ru/kuhnya_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/kuhnya_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="epic" group-title="🖥 Woobl TV",Epic HD
-http://tv.woobl.ru/epic_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/epic_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="ntv-style" group-title="🖥 Woobl TV",НТВ Стиль HD
-http://tv.woobl.ru/ntv_stil_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/ntv_stil_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="nauchpop" group-title="🖥 Woobl TV",Научпоп HD
-http://tv.woobl.ru/nauchpop_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/nauchpop_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="eureka-hd" group-title="🖥 Woobl TV",Первый Космический HD
-http://tv.woobl.ru/pervyy_kosmicheskiy_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/pervyy_kosmicheskiy_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="poliottv" group-title="🖥 Woobl TV",Полёт ТВ HD
-http://tv.woobl.ru/polet_tv/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/polet_tv/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="rus-istoria" group-title="🖥 Woobl TV",Русская история HD
-http://tv.woobl.ru/russkaja_istorija_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/russkaja_istorija_hd/video.m3u8?token=wooblru
 #EXTINF:-1 group-title="🖥 Woobl TV",Усадьба HD
-http://tv.woobl.ru/usadba_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/usadba_hd/video.m3u8?token=wooblru
 #EXTINF:-1 tvg-id="tlc" catchup="flussonic" tvg-name="TLC Россия HD" catchup-days="1" group-title="🖥 Woobl TV",TLC HD
-http://tv.woobl.ru/tlc_hd/video.m3u8?token=cheburashka_pidaras_ebaniy_i_huilo_uebishe?token=wooblru
+http://tv.woobl.ru/tlc_hd/video.m3u8?token=wooblru
+
+
 
 
 
