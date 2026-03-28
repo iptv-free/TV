@@ -1,6 +1,24 @@
 #EXTM3U
 #EXTINF:-1 group-title="Info",Info: ZunoTV
 https://m3u.usite.pro/1/demo.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761109609_urush.jpg" group-title="📁 Urush boshlig'i",Urush boshlig'i 1
+https://r.uzbeklar.biz/ser/urushboshligi/1qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761109609_urush.jpg" group-title="📁 Urush boshlig'i",Urush boshlig'i 2
+https://r.uzbeklar.biz/ser/urushboshligi/2qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761109609_urush.jpg" group-title="📁 Urush boshlig'i",Urush boshlig'i 3
+https://r.uzbeklar.biz/ser/urushboshligi/3qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761109609_urush.jpg" group-title="📁 Urush boshlig'i",Urush boshlig'i 4
+https://r.uzbeklar.biz/ser/urushboshligi/4qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761109609_urush.jpg" group-title="📁 Urush boshlig'i",Urush boshlig'i 5
+https://r.uzbeklar.biz/ser/urushboshligi/5qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761109609_urush.jpg" group-title="📁 Urush boshlig'i",Urush boshlig'i 6
+https://r.uzbeklar.biz/ser/urushboshligi/6qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761109609_urush.jpg" group-title="📁 Urush boshlig'i",Urush boshlig'i 7
+https://r.uzbeklar.biz/ser/urushboshligi/7qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761109609_urush.jpg" group-title="📁 Urush boshlig'i",Urush boshlig'i 8
+https://r.uzbeklar.biz/ser/urushboshligi/8qism.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-10/1761109609_urush.jpg" group-title="📁 Urush boshlig'i",Urush boshlig'i 9
+https://r.uzbeklar.biz/ser/urushboshligi/9qism.mp4
 
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-03/1773297195_merlin.jpg" group-title="📁 Merlinning yuksalishi",Merlinning yuksalishi 1
 https://w.uzbeklar.biz/ser/merlin2025/1qism.mp4
