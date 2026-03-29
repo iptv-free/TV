@@ -1,7 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="🏆 TOP-Kinolar",Info
 https://m3u.usite.pro/1/demo.mp4
-
+#EXTINF:-1 tvg-logo="http://asilmedia.org/uploads/mini/fullstory/ac/265x372x625a115ebf11908edecdac801d7f39.jpg.pagespeed.ic.5T0_siBi4_.webp" group-title="🏆 TOP-Kinolar",Og'riq 2025 Premiera
+https://fayllar1.ru/37/kinolar/Kasal%202026%20720p%20(asilmedia.net).mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774673258_jekrana-2026-03-28-094852.jpg" group-title="🏆 TOP-Kinolar",Karantindagi qiz 2026
+https://s1.kxcdn.ru/Lokdaun_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774774719_jekrana-2026-03-29-135940.jpg" group-title="🏆 TOP-Kinolar",Qahramon Qiz 2 (2026)
+https://s1.kxcdn.ru/Qahramon_Qiz_2_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774480274_jekrana-2026-03-26-041312.jpg" group-title="🏆 TOP-Kinolar",Toj-Mahal tarixi 2026
+https://s1.kxcdn.ru/Toj_Mahal_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774640482_jekrana-2026-03-28-004344.jpg" group-title="🏆 TOP-Kinolar",Tavakkalchi 2026
 https://s1.kxcdn.ru/Tavakkalchi_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK9jiq3ObLDPYMebTh3e5nWfxVp9ZTtcOrkw&s" group-title="🏆 TOP-Kinolar",Jannat 2 Onamga maktub 2026
@@ -125,6 +132,8 @@ https://s1.kxcdn.ru/Yolgon_Tuzogida_2026_HD_Daxshat.Net.mp4
 https://s1.kxcdn.ru/Grenlandiya_2_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-01/1769376397-1886509370-otpusk-na-dvoih.webp" group-title="📁 Tarjima Kinolar",Ikki Kishilik Ta'til 2026
 https://s1.kxcdn.ru/Ikki_Kishilik_Tatil_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="http://asilmedia.org/uploads/mini/fullstory/ac/265x372x625a115ebf11908edecdac801d7f39.jpg.pagespeed.ic.5T0_siBi4_.webp" group-title="📁 Tarjima Kinolar",Og'riq 2025 Premiera
+https://fayllar1.ru/37/kinolar/Kasal%202026%20720p%20(asilmedia.net).mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1772567610-1660713674.webp" group-title="📁 Tarjima Kinolar",Bugoniya 2025
 https://s1.kxcdn.ru/Bugoniya_2025_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1772567445-1116431592-primat.webp" group-title="📁 Tarjima Kinolar",Quturgan Maymun 2025
@@ -940,6 +949,13 @@ https://s1.kxcdn.ru/Mine_1984_HD_Daxshat.Net.mp4
 https://s1.kxcdn.ru/Dilbandlarim_1984_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1772218619-380006890-doroga.webp" group-title="📁 Turk Kinolari",Yo'l 1982
 https://s1.kxcdn.ru/Yo%27l_1982_HD_Daxshat.Net.mp4
+
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774673258_jekrana-2026-03-28-094852.jpg" group-title="📁 Hind Kinolari",Karantindagi qiz 2026
+https://s1.kxcdn.ru/Lokdaun_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774774719_jekrana-2026-03-29-135940.jpg" group-title="📁 Hind Kinolari",Qahramon Qiz 2 (2026)
+https://s1.kxcdn.ru/Qahramon_Qiz_2_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774480274_jekrana-2026-03-26-041312.jpg" group-title="📁 Hind Kinolari",Toj-Mahal tarixi 2026
+https://s1.kxcdn.ru/Toj_Mahal_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1771727051-1301321970-specialist.webp" group-title="📁 Hind Kinolari",Mutaxassis 2025
 https://s1.kxcdn.ru/Mutaxassis_2025_HD_MY5_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1771446202_jekrana-2026-02-19-012334.jpg" group-title="📁 Hind Kinolari",To'rt Xotin Balosi 2 (2025)
