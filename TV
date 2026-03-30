@@ -2221,6 +2221,14 @@ http://176.118.197.101/Telekafe/index.m3u8
 http://176.118.197.101/1HD/index.m3u8
 #EXTINF:-1 group-title="🍏 TV-Line",Cartoon Network
 http://176.118.197.101/Cartoon_Network/index.m3u8
+#EXTINF:0 group-title="🍏 TV-Line",Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:0 group-title="🍏 TV-Line",Deluxe Dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:0 group-title="🍏 TV-Line",Deluxe Rap
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:0 group-title="🍏 TV-Line",Schlager Deluxe
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
 
 
 
