@@ -1726,6 +1726,130 @@ http://tv.woobl.ru:9090/channel/19a78a35/index.m3u8?q=f1d2b3d73bbf62654ff8f7f489
 http://tv.woobl.ru:9090/channel/n1e05434/index.m3u8?q=f1d2b3d73bbf62654ff8f7f489d775e3
 
 
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/2948/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31580" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3077/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/08Vf73NBbaHId6CGep6Wg3mpx3ggA6.png",AlisaTV Action
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3077/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31592" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3092/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/P4BMt4anaAwuqhw10nVnYL6I3biDRG.png",AlisaTV Anime
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3092/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31646" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3138/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/zxZgZrzz6hf0Hn5A3xO8kAA2p8kUL2.png",AlisaTV Cars Doc
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3138/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31572" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3085/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/x70rCA2Wt3I8sMuMflYLiQnSSymUrY.png",AlisaTV Christmas / New Year
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3085/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31582" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3079/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/FSCsI8c7sirr4giy6GchOirn8hoS8Z.png",AlisaTV Comedy
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3079/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31585" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3082/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/1pmchH479uqA7Ih9qT6Wln42IWPn7W.png",AlisaTV Detective Series
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3082/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31770" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3197/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/xDETw36RXTZPnfwN24NlJcA6TjrpON.png",AlisaTV Dexter
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3197/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31566" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3068/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/AD0ysCmimtkdKwcnOZuap0mrEWwsle.png",AlisaTV Disney/Pixar
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3068/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31591" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3091/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/R3YNk5tkmBLQR2MToThYdeLKBq12kY.png",AlisaTV Documentary
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3091/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31560" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3062/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/sSuEiblJGfgFmXQslzylVoPx4xx8bY.png",AlisaTV Fantastic
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3062/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31563" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3065/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/yswMiLyBS8DUhAK1B6269h8oMQNfyu.png",AlisaTV Fantasy
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3065/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31753" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3167/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/4GmuinhsvGe2fwgYO1Exybz4SGVYvA.png",AlisaTV Fitness
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3167/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31581" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3078/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/ZdGZcdmuVD7xWqdlX0SL13KzFzSwRA.png",AlisaTV Franchise
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3078/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31568" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3070/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8FOCbFLbo4V5fZ1GZ8q4msM6sbVnkA.png",AlisaTV Friends
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3070/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31567" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3069/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/RwmGANtuAfPPqdfHOjhvrNm9e4RX7f.png",AlisaTV Halloween Kids
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3069/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31596" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3096/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/6HOwrSiNFudMcLi4qpoS4MmMAuZyP7.png",AlisaTV History
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3096/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31761" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3196/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/VvPO97wrnpZJ1Q4Xn1H1XwdpnVMevz.png",AlisaTV Kanevsky Investigates
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3196/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31707" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3164/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/CtLpoyUFpgSCKwLhbnsXmoCjfSspFD.png",AlisaTV Lord of the rings Universe
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3164/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31565" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3067/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/zofXJ02KkVszBoYQW9lM04HZQKfeRh.png",AlisaTV Marvel
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3067/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31630" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3125/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/2E5u06yDNzGabdJarXJvkt3sgEOjBB.png",AlisaTV Mayday
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3125/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31562" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3064/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/AD96aaviFA7MTc7kdwmwegSFYPZyc3.png",AlisaTV MiniSeries
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3064/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31632" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3127/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/EolaJKYjM7B7V4kpApUvRi8hkG5G2j.png",AlisaTV MythBusters
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3127/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31575" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3072/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/WPk6KwzwdTOFfWSzSnxtaq6FVfkWPY.png",AlisaTV Oscar
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3072/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31623" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3123/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/t5ov3NwxrwwwV8Eaei63cuJrehkB5q.png",AlisaTV Outlander
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3123/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31583" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3080/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/AzFLYLqz05PvqCmYgbWkSUJSOCFgDq.png",AlisaTV Poirot
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3080/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31609" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3108/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/xvT9VCKbXcL8s3fOEUmRi90rgs3gdN.png",AlisaTV Premier
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3108/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31569" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3061/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/YVVrmH6fjB93zscA9EudGkb3omjGc7.png",AlisaTV Romantic
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3061/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31571" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3084/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/8zeK0fI1lvTs8WUa3F8D9go6WQZ7z0.png",AlisaTV Scary
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3084/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31574" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3083/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/aytDYdfKCUFyt8tuDFYbHawmgxIryz.png",AlisaTV Sitcom
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3083/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31641" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3128/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/CHn5GbR6dtUOoRsWA1Y4AYUOreaUxW.png",AlisaTV Stars
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3128/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31608" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3107/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/5jq6UyPJu2XZCHQDTc4dBYuPjRUZRz.png",AlisaTV Thriller
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3107/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31685" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3148/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/dS15WGnT4b0aYiQ7UYZoV4ql8LNWTR.png",AlisaTV TNT
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3148/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31576" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3073/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/xysHgqq88FSwk4i5hvHCAuOItrKNeT.png",AlisaTV VHS
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3073/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31577" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3074/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/AreITUA34FAa13PirhR1KYsm727TaX.png",AlisaTV Walking Dead
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3074/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31612" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3111/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/7WYyk6slk2pfQrE5jNmm785BNsfF9u.png",AlisaTV Western
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3111/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31561" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3063/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/RufRrA9V37LFVhIC7QWFCYSQWpNjrE.png",AlisaTV X-Files
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3063/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31564" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3066/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/C6fMhXtKhwOv5RmBTAT4MdOkkkrYAN.png",AlisaTV Zombie
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3066/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31579" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3076/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/UsF53M1rjR9ORfF56gJuNgMIkndfas.png",AlisaTV Военные сериалы
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3076/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31598" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3098/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/J2o4TWxMDVpPG8zkvXEu1VgqBU5mdE.png",AlisaTV СашаТаня
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3098/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31578" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3075/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/06GCzIdJiPXXjFTTgXPyihiL9MtDXl.png",AlisaTV Сваты
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3075/stream.m3u8
+#EXTINF:-1 group-title="Авторские" tvg-id="ttv31573" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3086/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/84gqoVnYNXSTPgzsCoFzQpwOxBV7Fq.png",AlisaTV СССР
+#EXTGRP:Авторские
+http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3086/stream.m3u8
 
 
 #EXTINF:-1 group-title="Колобок ТВ (Нестабильный)" tvg-id="ttv32094" catchup="default" catchup-source="http://streamer.enchart.one/42/7a4732981318f6c052f688cd0b7dabaab4238628/3388/stream.m3u8?utc=${start}&lutc=${timestamp}" catchup-days="7" tvg-logo="http://ttvrun.one/uploads/CQlfyURUABN1hdfOrTjRw70WxUtPjY.png",Колобок ТВ -  Конь БоДжек
