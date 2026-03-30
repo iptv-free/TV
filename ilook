@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="3",O'zbekiston 1 UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F2236%2Findex.m3u8
+#EXTINF:0 tvg-rec="3",Yoshlar UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F2237%2Findex.m3u8
+#EXTINF:0 tvg-rec="3",Sport UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F2239%2Findex.m3u8
+#EXTINF:0 tvg-rec="3",Dunyo Bo'ylab UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F2241%2Findex.m3u8
+#EXTINF:0 tvg-rec="3",Bolajon UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F2242%2Findex.m3u8
+#EXTINF:0 tvg-rec="3",Navo UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F2243%2Findex.m3u8
+#EXTINF:0 tvg-rec="3",Kinoteatr UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F2244%2Findex.m3u8
+#EXTINF:0 tvg-rec="3",O'zbekiston 24 FHD UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F2246%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Aqlvoy TV UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20180%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Dasturxon TV UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20185%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Dunyo Bo'ylab HD UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20186%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Futbol TV UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20187%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Kinoteatr HD UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20190%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Madaniyat va Ma'rifat UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20191%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Mahalla UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20192%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",My5 HD UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20193%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Milliy TV UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20194%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Milliy TV HD UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20195%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",My5 UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20196%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Nurafshon TV UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20198%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",O'zbekiston 24 HD UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20199%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",O'zbekiston Tarixi HD UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20200%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Renessans TV UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20201%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Ruxsor TV UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20202%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Sport HD UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20203%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Taraqqiyot TV UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20204%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Zo'r TV HD UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20205%2Findex.m3u8
+#EXTINF:0 tvg-rec="0",Toshkent UZ
+#EXTGRP:o'zbek
+https://www.ipservice.tv/api/stream/?url=http%3A%2F%2Ffvxmxrvt.dienalt.org%2Fiptv%2F4YWRM8PHT835ZMV3D24N9Z2H%2F20206%2Findex.m3u8
