@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="🏆 TOP-Kinolar",Info
 https://m3u.usite.pro/1/demo.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1747470675_qutqaruv.jpg" group-title="🏆 TOP-Kinolar",Qutqaruv zarbasi 2024
+https://q.uzbeklar.biz/film/qutqaruvzarbasi.mp4
 #EXTINF:-1 tvg-logo="http://asilmedia.org/uploads/mini/fullstory/ac/265x372x625a115ebf11908edecdac801d7f39.jpg.pagespeed.ic.5T0_siBi4_.webp" group-title="🏆 TOP-Kinolar",Og'riq 2025 Premiera
 https://fayllar1.ru/37/kinolar/Kasal%202026%20720p%20(asilmedia.net).mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774673258_jekrana-2026-03-28-094852.jpg" group-title="🏆 TOP-Kinolar",Karantindagi qiz 2026
@@ -408,6 +410,8 @@ https://s1.kxcdn.ru/Balerina_2025_HD_Daxshat.Net.mp4
 https://s1.kxcdn.ru/Soyalar_Ligasi_2025_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2025-06/1749068934-206064493-istochnik-vechnoy-molodosti.webp" group-title="📁 Tarjima Kinolar",Yoshlik Eliksiri 2025
 https://s1.kxcdn.ru/Yoshlik_Eliksiri_2025_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1747470675_qutqaruv.jpg" group-title="📁 Tarjima Kinolar",Qutqaruv zarbasi 2024
+https://q.uzbeklar.biz/film/qutqaruvzarbasi.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2024-12/1734977656-1643893731-kreyven-ohotnik.webp" group-title="📁 Tarjima Kinolar",Ovchi Kreyven 2024
 https://s1.kxcdn.ru/Ovchi_Kraven_2024_MY5_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2025-02/1739541413-1701729730-god-10.webp" group-title="📁 Tarjima Kinolar",O'n Yil / 10 Yil 2024
