@@ -1749,7 +1749,25 @@ https://stream.telecomtv101.workers.dev/c/ch0151
 https://stream.telecomtv101.workers.dev/c/ch0152
 
 
-
+#EXTINF:-1,MiTV Фильмы в переводе Гоблина
+https://stream.telecomtv101.workers.dev/c/ch0134MiTV Фильмы в переводе Гоблина
+https://stream.telecomtv101.workers.dev/c/ch0134
+#EXTINF:-1 group-title="⚡️ MiTV",MiTV Сергей Бодров
+https://stream.telecomtv101.workers.dev/c/ch0134
+#EXTINF:-1 group-title="⚡️ MiTV",MiTV Сергей Бодров
+https://stream.telecomtv101.workers.dev/c/ch0135
+#EXTINF:-1 group-title="⚡️ MiTV",MiTV Улицы разбитых фонарей
+https://stream.telecomtv101.workers.dev/c/ch0136
+#EXTINF:-1 group-title="⚡️ MiTV",MiTV Эльдар Рязанов
+https://stream.telecomtv101.workers.dev/c/ch0137
+#EXTINF:-1 group-title="⚡️ MiTV",MiTV Луи де Фюнес
+https://stream.telecomtv101.workers.dev/c/ch0138
+#EXTINF:-1 group-title="⚡️ MiTV",MiTV Джеки Чан
+https://stream.telecomtv101.workers.dev/c/ch0139
+#EXTINF:-1 group-title="⚡️ MiTV",MiTV Ментовские войны
+https://stream.telecomtv101.workers.dev/c/ch0140
+#EXTINF:-1 group-title="⚡️ MiTV",MiTV Фильмы в переводе Гоблина
+https://stream.telecomtv101.workers.dev/c/ch0141
 
 
 #EXTINF:-1 group-title="🍏 TV-Line",Euronews
