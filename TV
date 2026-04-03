@@ -2370,6 +2370,46 @@ https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2F57.128.196.1
 #EXTINF:-1 group-title="📺 Чебур ТВ",Чебур ТВ - СССР Нетленка
 https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2F57.128.196.110%2F10315%2Findex.m3u8%3Ftoken%3DBF3A82BDF48F
 
+
+
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Grand
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-GRAND%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV VHS
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-VHS%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Kids
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-KIDS%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV NEW Кино
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-NEW%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Мелодрама
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-Melodrama%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Русские фильмы
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-RUS%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Советские фильмы
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-SSSR%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Наше Детское
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-DETSKOE%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Союзмульт
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-MULT%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Трагичное
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-TRAGIC%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Забавное
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti8%2FY-ZABAVNOE%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV BEST
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-BEST%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Ковбойское
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-KOWBOY%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Adrenaline
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-ADRENALINE%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Oblivion
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti8%2FY-OBLIVION%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Adventure
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-ADVENTURE%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso TV Thriller
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-THRILLER%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+#EXTINF:-1 group-title="📺 Yosso TV",Yosso 4K
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Frrur104.balelbrus.com%2Fbigteisti1%2FY-4K%2Findex.m3u8%3Ftoken%3DdGVsZWNvbXR2MTAxfHxhbUZ0YzJocFpEZzJPRGs9
+
+
 #EXTINF:-1 group-title="⚽️ Спорт",Eurosport 1
 https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2F57.128.196.110%2F10500%2Findex.m3u8%3Ftoken%3DBF3A82BDF48F
 #EXTINF:-1 group-title="⚽️ Спорт",Eurosport 2
