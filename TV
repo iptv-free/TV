@@ -1722,6 +1722,320 @@ http://tv.woobl.ru:9090/channel/19a78a35/index.m3u8?q=f7840e3bce47b45e43aa57ef03
 http://tv.woobl.ru:9090/channel/n1e05434/index.m3u8?q=f7840e3bce47b45e43aa57ef0300a5bc
 
 
+
+#EXTINF:-1 tvg-id="kinopremiera-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kinopremiera-hd.png" catchup-days="7" group-title="⭐️ KinoMania",Кинопремьера HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinopremiera-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kino-premium-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kino-premium-hd-orig.png" catchup-days="7" group-title="⭐️ KinoMania",Премиальное HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkino-premium-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="ostrosujetnoe-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/ostrosujetnoe-hd-orig.png" catchup-days="7" group-title="⭐️ KinoMania",Остросюжетное HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fostrosujetnoe-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="hit-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/caf506f371faaade15af487171c1f7c8.png" catchup-days="7" group-title="⭐️ KinoMania",Хит HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fhit-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinohit" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kinohit.png" catchup-days="7" group-title="⭐️ KinoMania",Кинохит
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinohit%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinohit-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/cfa4bb62cb8eaee91311da93a7770e80.png" catchup-days="7" group-title="⭐️ KinoMania",Кинохит HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinohit-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinomix" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kinomix.png" catchup-days="7" group-title="⭐️ KinoMania",Киномикс
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinomix%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinomix-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/52e038556ee7678d225b6b87f36e6312.png" catchup-days="7" group-title="⭐️ KinoMania",Киномикс HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinomix-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinosemja" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kinosemja.png" catchup-days="7" group-title="⭐️ KinoMania",Киносемья
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinosemja%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinosemja-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/a2ac1304b0fdcfce18908ee4bc2d89ef.png" catchup-days="7" group-title="⭐️ KinoMania",Киносемья HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinosemja-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinosvidanije" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kinosvidanije.png" catchup-days="7" group-title="⭐️ KinoMania",Киносвидание
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinosvidanije%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinosvidanije-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/468360798f6accd3e73f7b776fec796b.png" catchup-days="7" group-title="⭐️ KinoMania",Киносвидание HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinosvidanije-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="mnogo-tv" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/mnogo-tv.png" catchup-days="7" group-title="⭐️ KinoMania",Киносерия
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fmnogo-tv%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="mnogo-tv-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/265947baff53899c76218522f25e09c0.png" catchup-days="7" group-title="⭐️ KinoMania",Киносерия HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fmnogo-tv-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinopokaz" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/a4589792317696060765519a4d2256b8.png" catchup-days="7" group-title="⭐️ KinoMania",Кинопоказ
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinopokaz%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinopokaz-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/e52a72c24d3c44f3aa638368ae4ed7a0.png" catchup-days="7" group-title="⭐️ KinoMania",Кинопоказ HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinopokaz-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="blokbaster-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/79c8d57eb582fa23926022f2506f8880.png" catchup-days="7" group-title="⭐️ KinoMania",Блокбастер HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fblokbaster-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="boeviki-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/fb9d59d5966c9aeedd7d5bb7cb372848.png" catchup-days="7" group-title="⭐️ KinoMania",Боевики HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fboeviki-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="nash-kinopokaz-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/79100959e6e34c74ba2fc8a086641b7f.png" catchup-days="7" group-title="⭐️ KinoMania",Наш Кинопоказ HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fnash-kinopokaz-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="nash-kinoroman-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/c8fd6fc6945023734ae8f513b57fa027.png" catchup-days="7" group-title="⭐️ KinoMania",Душевное HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fnash-kinoroman-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="nash-detektiv-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/a941b1a9dbb1c0532c78c19f654403d2.png" catchup-days="7" group-title="⭐️ KinoMania",Наше HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fnash-detektiv-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="nashe-lubimoe-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/nashe-lubimoe-hd-orig.png" catchup-days="7" group-title="⭐️ KinoMania",Любимое HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fnashe-lubimoe-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="vip-premiere-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/4d363f1a227809f59f318087e4bfa68a.png" catchup-days="7" group-title="⭐️ KinoMania",Viju+ premiere HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fvip-premiere-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="vip-megahit-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/c13b15f8870f0311fdc9cc81f7fe827c.png" catchup-days="7" group-title="⭐️ KinoMania",Viju+ megahit HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fvip-megahit-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="vip-comedy-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/f857a32f2957cb3f7dcf7f93bf5d5f68.png" catchup-days="7" group-title="⭐️ KinoMania",Viju+ comedy HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fvip-comedy-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="vip-serial-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/c1e44f53eb34b48067928893ff4e35c0.png" catchup-days="7" group-title="⭐️ KinoMania",Viju+ serial HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fvip-serial-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="tv1000" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/c72c90087aaac21d653bd781d14ae82e.png" catchup-days="7" group-title="⭐️ KinoMania",Viju TV1000
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftv1000%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="tv1000-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/52a697850bcadda12a16d4df0251ba2b.png" catchup-days="7" group-title="⭐️ KinoMania",Viju TV1000 HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftv1000-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="tv1000-action" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/75deb503c19e38f0797e028379bcd294.png" catchup-days="7" group-title="⭐️ KinoMania",Viju TV1000 action
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftv1000-action%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="tv1000-action-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/186c8c8e634134417902363a59593ebe.png" catchup-days="7" group-title="⭐️ KinoMania",Viju TV1000 action HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftv1000-action-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoje" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/0129d0bf300ca59b55e54487df32d1ad.png" catchup-days="7" group-title="⭐️ KinoMania",Viju TV1000 русское
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftv1000-russkoje%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="tv1000-russkoje-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/d5d74b5e39481120e2233ff7aeb02c3f.png" catchup-days="7" group-title="⭐️ KinoMania",Viju TV1000 русское HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftv1000-russkoje-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="viju-tv1000-nowella-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/76d83f06d3a60611b64694e62ab3f4b2.png" catchup-days="7" group-title="⭐️ KinoMania",Viju TV1000 новелла HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fviju-tv1000-nowella-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="viasat-kino-action-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/92e7e462de48149a8156169fc935b513.png" catchup-days="7" group-title="⭐️ KinoMania",Viasat Kino Action HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fviasat-kino-action-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="viasat-kino-comedy-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/c2a5258bd907a55f26eb9b3cb29dc48d.png" catchup-days="7" group-title="⭐️ KinoMania",Viasat Kino Comedy HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fviasat-kino-comedy-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="tv1000-world-kino" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/604edcf8cd40a4141ca6ac3adca3a7b9.png" catchup-days="7" group-title="⭐️ KinoMania",Viasat Kino World
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftv1000-world-kino%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="tv1000-world-kino-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/a17bae8419f3f743681b0d3711f456d4.png" catchup-days="7" group-title="⭐️ KinoMania",Viasat Kino World HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftv1000-world-kino-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="viasat-kino-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/e3ae0feae8f74fd05360b37eb7ddf5aa.png" catchup-days="7" group-title="⭐️ KinoMania",Viasat Kino HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fviasat-kino-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="viasat-serial-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/5cccbf1530f5f93c643b0c1803b7cb73.png" catchup-days="7" group-title="⭐️ KinoMania",Viasat Serial HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fviasat-serial-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="mgm-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/mgm-hd.png" catchup-days="7" group-title="⭐️ KinoMania",Hollywood HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fmgm-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="cinema" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/199f12272161f01943e3972bdbb88db4.png" catchup-days="7" group-title="⭐️ KinoMania",Cinema
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fcinema%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="cinema-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/6cbe01e0b6b9be4b2e4f55c579d81c4c.png" catchup-days="7" group-title="⭐️ KinoMania",Cinema HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fcinema-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kino-tv" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kino-tv.png" catchup-days="7" group-title="⭐️ KinoMania",Кино ТВ
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkino-tv%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kino-tv-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/a728eebab65487ed16fbdca439066dc4.png" catchup-days="7" group-title="⭐️ KinoMania",Кино ТВ HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkino-tv-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinojam1-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/35776c65759a61d3680cc6a90045a870.png" catchup-days="7" group-title="⭐️ KinoMania",Kinojam 1 HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinojam1-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinojam2-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/22a859be39202a40ade8ce270bce0c4f.png" catchup-days="7" group-title="⭐️ KinoMania",Kinojam 2 HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinojam2-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="family-jam-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/bc54a4cbb44565a334fd2f19623c4f19.png" catchup-days="7" group-title="⭐️ KinoMania",Family Jam HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ffamily-jam-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="detective-jam-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/e8f1ec3596cc7f65cab0fabd3034054c.png" catchup-days="7" group-title="⭐️ KinoMania",Detective Jam HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fdetective-jam-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinoliving-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/bd41529cb40bf8bdde43a46ac026d5ac.png" catchup-days="7" group-title="⭐️ KinoMania",KinoLiving HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinoliving-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kion-hit-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/cabfba4b4f533b2ccb2040d799cf2753.png" catchup-days="7" group-title="⭐️ KinoMania",KION Хит HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkion-hit-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="start-world" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/d3088f2dce7ae1b43c267817915aeb9c.png" catchup-days="7" group-title="⭐️ KinoMania",Start World
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fstart-world%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="start-world-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/ff7ce4c1c134e6b8fb7432f3f4bd4fe6.png" catchup-days="7" group-title="⭐️ KinoMania",Start World HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fstart-world-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="start-air" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/04c81d2c31abe46d4f9e1f269bc62c4d.png" catchup-days="7" group-title="⭐️ KinoMania",Start Air
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fstart-air%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="start-air-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/46bffd4afc6ef6c8b19dfe9f8b0165f8.png" catchup-days="7" group-title="⭐️ KinoMania",Start Air HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fstart-air-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="plan-b" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/4770f0949bc7a4003a54ec649f2eb87d.png" catchup-days="7" group-title="⭐️ KinoMania",Plan B
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fplan-b%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="plan-b-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/20ce8cce08ec0b2aa88488345cb881cf.png" catchup-days="7" group-title="⭐️ KinoMania",Plan B HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fplan-b-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="legenda-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/8610f249feb39e198548bc7158691508.png" catchup-days="7" group-title="⭐️ KinoMania",Легенда HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Flegenda-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="4ever-cinema-ua-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/4b6c4032b1091f962b42a96951160cf6.png" catchup-days="7" group-title="⭐️ KinoMania",4ever Cinema HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2F4ever-cinema-ua-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="4ever-drama-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/138611d47f200f2b003fa4bcc83c8970.png" catchup-days="7" group-title="⭐️ KinoMania",4ever Drama HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2F4ever-drama-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="4ever-theater-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/fc09c45e199f55a38f121307cefbc8ea.png" catchup-days="7" group-title="⭐️ KinoMania",4ever Theater HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2F4ever-theater-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinokult-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/b68d0cf94376db951ab9c220156c8683.png" catchup-days="7" group-title="⭐️ KinoMania",КиноКульт HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinokult-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kineko-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/c74c65b78b00c6ae11f9324e5f9dc379.png" catchup-days="7" group-title="⭐️ KinoMania",Кинеко HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkineko-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="evrokino" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/evrokino.png" catchup-days="7" group-title="⭐️ KinoMania",Еврокино
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fevrokino%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="evrokino-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/evrokino-hd.png" catchup-days="7" group-title="⭐️ KinoMania",Еврокино HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fevrokino-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="flix-snip" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/4dbb1abd522faa508c6b799642534f37.png" catchup-days="7" group-title="⭐️ KinoMania",Flix Snip
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fflix-snip%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="flix-snip-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/e1dd69697a68013f4bcb88867d86cf57.png" catchup-days="7" group-title="⭐️ KinoMania",Flix Snip HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fflix-snip-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="egoist-tv" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/7472ab672fcbb9f7468e8d2eeb4d8d0c.png" catchup-days="7" group-title="⭐️ KinoMania",SHOT TV
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fegoist-tv%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="egoist-tv-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/7362a2e3eeec0262980ddf68c00133de.png" catchup-days="7" group-title="⭐️ KinoMania",SHOT TV HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fegoist-tv-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="vhska-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/0408e9f34434a78075d3329f32197624.png" catchup-days="7" group-title="⭐️ KinoMania",VHS-ка HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fvhska-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="vhs-serial-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/170d3d69d921667a2c82aa0244791cae.png" catchup-days="7" group-title="⭐️ KinoMania",VHS Сериал HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fvhs-serial-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/muzhskoe-kino.png" catchup-days="7" group-title="⭐️ KinoMania",Мужское кино
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fmuzhskoe-kino%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="muzhskoe-kino-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/464e50e7b2c40c0b680923ae9c92cdcb.png" catchup-days="7" group-title="⭐️ KinoMania",МУЖСКОЕ КИНО HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fmuzhskoe-kino-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="nashe-muzshkoe-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/522161fc2fbc923754a9ac02cbf0e59d.png" catchup-days="7" group-title="⭐️ KinoMania",Наше Мужское HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fnashe-muzshkoe-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="trash-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/fb47c1b5a115804cf2b81c400159aca1.png" catchup-days="7" group-title="⭐️ KinoMania",Trash HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftrash-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="strashnoe-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/d2fcbd1e3ca1f75ad0838ae1cae2ba51.png" catchup-days="7" group-title="⭐️ KinoMania",Страшное HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fstrashnoe-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="shokiruschee-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kinopokaz-hd1.png" catchup-days="7" group-title="⭐️ KinoMania",Шокирующее HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fshokiruschee-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinouzhas-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kinouzhas-hd-orig.png" catchup-days="7" group-title="⭐️ KinoMania",Киноужас HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinouzhas-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="uzhasy-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/9609ac6219d45da43e2035aff24327ab.png" catchup-days="7" group-title="⭐️ KinoMania",Ужасы HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fuzhasy-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="Scream" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/ffdfc9b6069fddb1c384a90cb253e258.png" catchup-days="7" group-title="⭐️ KinoMania",Scream
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2FScream%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="scream-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/b16c9ba3a63207910785731d7c4b70a2.png" catchup-days="7" group-title="⭐️ KinoMania",Scream HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fscream-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="hct" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/hct.png" catchup-days="7" group-title="⭐️ KinoMania",НСТ
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fhct%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="russkaja-comedija" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/russkaja-comedija.png" catchup-days="7" group-title="⭐️ KinoMania",Комедия
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Frusskaja-comedija%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinokomedia" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kinokomedia.png" catchup-days="7" group-title="⭐️ KinoMania",Кинокомедия
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinokomedia%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kinokomedia-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/cc7980e1eee68c737325c09421682e47.png" catchup-days="7" group-title="⭐️ KinoMania",Кинокомедия HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkinokomedia-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="komedijnoe-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/kinopokaz-hd2.png" catchup-days="7" group-title="⭐️ KinoMania",Комедийное HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkomedijnoe-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="comedy-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/36a06b715799e234ca0759382465ccd4.png" catchup-days="7" group-title="⭐️ KinoMania",Камеди HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fcomedy-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="amedia-premium" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/7915f8dffc71d7c43a4e9ae5dc5b2911.png" catchup-days="7" group-title="⭐️ KinoMania",Amedia Premium
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Famedia-premium%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="amedia-premium-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/621dc560e0aa2549ded1149f3790a772.png" catchup-days="7" group-title="⭐️ KinoMania",AMEDIA Premium HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Famedia-premium-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="amedia-hit" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/4f6781d9ea64d181a76f7c679b6ddfbf.png" catchup-days="7" group-title="⭐️ KinoMania",Amedia Hit
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Famedia-hit%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="amedia-hit-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/6fd76849a55cc8dd4dd791ab8f87d74f.png" catchup-days="7" group-title="⭐️ KinoMania",AMEDIA HIT HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Famedia-hit-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="amedia1" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/a4056227b2bb5d9be1b38ea9fd0646ae.png" catchup-days="7" group-title="⭐️ KinoMania",A1
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Famedia1%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="amedia1-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/e86efff223f8aae140db553d06f82a8b.png" catchup-days="7" group-title="⭐️ KinoMania",A1 HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Famedia1-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="amedia-2" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/ed2c55b1f560507a691006c37cbd5b96.png" catchup-days="7" group-title="⭐️ KinoMania",A2
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Famedia-2%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="amedia-2-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/76af6fa2dfa836234aacda7666b4a5f3.png" catchup-days="7" group-title="⭐️ KinoMania",A2 HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Famedia-2-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="fox" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/5a627a6dbc2e6b9210fc922b02e22cad.png" catchup-days="7" group-title="⭐️ KinoMania",FX
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ffox%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="fox-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/32c6f2d4723ec97f2ba02ebc2cfd6df9.png" catchup-days="7" group-title="⭐️ KinoMania",FX HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ffox-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="fox-life" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/89f32033652c1751468ddc66e4079272.png" catchup-days="7" group-title="⭐️ KinoMania",FX Life
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ffox-life%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="fox-life-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/0575159759057d5428063db685f68c5e.png" catchup-days="7" group-title="⭐️ KinoMania",FX Life HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ffox-life-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="set" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/ee74929d82381bd91fe3bdebcbd77711.png" catchup-days="7" group-title="⭐️ KinoMania",Red
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fset%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="set-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/58794f27daa109cb050cbfe5f915e1da.png" catchup-days="7" group-title="⭐️ KinoMania",Red HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fset-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="sci-fi" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/8b86c58df467d693e57af6f6534405a2.png" catchup-days="7" group-title="⭐️ KinoMania",Sci-Fi
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fsci-fi%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="sci-fi-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/21118c81f39df4bd2c9ee05395b336d1.png" catchup-days="7" group-title="⭐️ KinoMania",Sci-Fi HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fsci-fi-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="suspense-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/d23ff324460b0cbbce68ffede20c052f.png" catchup-days="7" group-title="⭐️ KinoMania",Suspense HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fsuspense-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="black" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/49dc38a25f31abc35f9e5f15c96ac0c3.png" catchup-days="7" group-title="⭐️ KinoMania",Black
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fblack%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="black-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/719607b77ea356f5fc03aae023e9b17a.png" catchup-days="7" group-title="⭐️ KinoMania",Black HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fblack-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="tv-xxi" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/a7279ca7bc9380a16aebedb4d9f6264d.png" catchup-days="7" group-title="⭐️ KinoMania",ТВ21
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftv-xxi%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="tv-xxi-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/1de92d3fd85071c9ada51170432e2f7a.png" catchup-days="7" group-title="⭐️ KinoMania",ТВ21 HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftv-xxi-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/e8b7f8df776a183de14347f3f57d292f.png" catchup-days="7" group-title="⭐️ KinoMania",Мосфильм
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fmosfilm%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="mosfilm-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/edf168ec8c87e35e546dcabfd2099439.png" catchup-days="7" group-title="⭐️ KinoMania",Мосфильм HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fmosfilm-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="lubimoe-kino" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/lubimoe-kino.png" catchup-days="7" group-title="⭐️ KinoMania",Любимое кино
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Flubimoe-kino%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="lubimoe-kino-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/7d51daee59d049ef24f519640c294327.png" catchup-days="7" group-title="⭐️ KinoMania",Любимое Кино HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Flubimoe-kino-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="sovetskaya-kinoclassica-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/8d2bccd687dcacd8b0b31b03f64691db.png" catchup-days="7" group-title="⭐️ KinoMania",Советская Киноклассика HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fsovetskaya-kinoclassica-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="rodnoje_kino" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/rodnoje_kino.png" catchup-days="7" group-title="⭐️ KinoMania",Родное кино
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Frodnoje_kino%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="patriot" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/cbad1931fb3daefd23d1490f10ec44b0.png" catchup-days="7" group-title="⭐️ KinoMania",Патриот
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fpatriot%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="pobeda" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/e595f767c68dee3b311736dfe960db33.png" catchup-days="7" group-title="⭐️ KinoMania",Победа
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fpobeda%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="pobeda-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/3039e3408f7e7c0fcc3df5109fb2b4ee.png" catchup-days="7" group-title="⭐️ KinoMania",Победа HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fpobeda-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="den-pobedy-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/cafd087f6f9d0017c3288730cfc0d86c.png" catchup-days="7" group-title="⭐️ KinoMania",День Победы HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fden-pobedy-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="nashe-nasledie-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/4be62ea6e1998eac29f5b00895210f96.png" catchup-days="7" group-title="⭐️ KinoMania",Наше наследие HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fnashe-nasledie-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/nashe-novoe-kino.png" catchup-days="7" group-title="⭐️ KinoMania",Наше новое кино
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fnashe-novoe-kino%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/bade32015ea1ffe860bc7945b407ea7d.png" catchup-days="7" group-title="⭐️ KinoMania",Наше новое кино HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fnashe-novoe-kino-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="russkij-bestseller" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/russkij-bestseller.png" catchup-days="7" group-title="⭐️ KinoMania",Русский Бестселлер
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Frusskij-bestseller%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="telekafe" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/telekafe.png" catchup-days="7" group-title="⭐️ KinoMania",Телекафе
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftelekafe%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="telekafe-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/650cef2c8f1afcf3f515f1811b0093d4.png" catchup-days="7" group-title="⭐️ KinoMania",Телекафе HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftelekafe-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="dom-kino" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/dom-kino.png" catchup-days="7" group-title="⭐️ KinoMania",Дом Кино
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fdom-kino%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="dom-kino-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/f6de56226ab0f71baa9d31ce3905cac6.png" catchup-days="7" group-title="⭐️ KinoMania",Дом Кино HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fdom-kino-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="dom-kino-premium-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/ccee763c3604bd577f6a70596c006684.png" catchup-days="7" group-title="⭐️ KinoMania",Дом Кино Премиум HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fdom-kino-premium-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="russkij-roman" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/russkij-roman.png" catchup-days="7" group-title="⭐️ KinoMania",Русский Роман
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Frusskij-roman%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="russkij-roman-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/c3eaecfab252fec37cd05e8bb9c9cf6a.png" catchup-days="7" group-title="⭐️ KinoMania",Русский Роман HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Frusskij-roman-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="russkij-detektiv" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/russkij-detektiv.png" catchup-days="7" group-title="⭐️ KinoMania",Русский Детектив
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Frusskij-detektiv%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="russkij-iluzion" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/russkij-iluzion.png" catchup-days="7" group-title="⭐️ KinoMania",Русский Иллюзион
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Frusskij-iluzion%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="russkij-iluzion-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/russkij-iluzion-hd.png" catchup-days="7" group-title="⭐️ KinoMania",Русский Иллюзион HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Frusskij-iluzion-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="iluzion-plus" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/iluzion-plus.png" catchup-days="7" group-title="⭐️ KinoMania",Иллюзион +
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Filuzion-plus%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="iluzion-plus-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/iluzion-plus-hd.png" catchup-days="7" group-title="⭐️ KinoMania",Иллюзион + HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Filuzion-plus-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="kriminalnoe-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/d05f1a6697ecfac1e83030812203e6ff.png" catchup-days="7" group-title="⭐️ KinoMania",Криминальное HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fkriminalnoe-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="feniks-plus-kino" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/0e2beabae8569859cf267394480197ff.png" catchup-days="7" group-title="⭐️ KinoMania",Феникс+Кино
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ffeniks-plus-kino%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="feniks-plus-kino-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/c395cd2622011db9319b54209838458f.png" catchup-days="7" group-title="⭐️ KinoMania",Феникс+Кино HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ffeniks-plus-kino-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="mir-seriala" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/49773d5b9c2ab21597d554d06c176924.png" catchup-days="7" group-title="⭐️ KinoMania",Мир Сериала
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fmir-seriala%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="mir-seriala-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/84787ab81a489e2b77f4a0608c31cb67.png" catchup-days="7" group-title="⭐️ KinoMania",Мир Сериала HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fmir-seriala-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="romantichnoe-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/romantika.png" catchup-days="7" group-title="⭐️ KinoMania",Романтичное HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fromantichnoe-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="pro-lubov-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/49b7b9a56208f46cfda5cf318cf21f00.png" catchup-days="7" group-title="⭐️ KinoMania",Про Любовь HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fpro-lubov-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="love-story-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/02be6435f56c135c9ddb9b68382b400b.png" catchup-days="7" group-title="⭐️ KinoMania",Лавстори HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Flove-story-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="romance-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/69ffccf257848387ea6f778f89fecd6a.png" catchup-days="7" group-title="⭐️ KinoMania",Romance HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fromance-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="ntv-hit" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/a4484e962c6c666addeeca7105513dbf.png" catchup-days="7" group-title="⭐️ KinoMania",НТВ Хит
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fntv-hit%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="ntv-hit-hd-orig" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/f6b8ed5e3d809adf9a3acc0afbc5b0e1.png" catchup-days="7" group-title="⭐️ KinoMania",НТВ Хит HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fntv-hit-hd-orig%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="ntv-serial" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/01ef73997981d6d42546d8fedad5a1cc.png" catchup-days="7" group-title="⭐️ KinoMania",НТВ Сериал
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fntv-serial%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="ntv-serial-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/7a32f7fca674b122308ec7f57ac26a32.png" catchup-days="7" group-title="⭐️ KinoMania",НТВ Сериал HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fntv-serial-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="nostalgia" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/nostalgia.png" catchup-days="7" group-title="⭐️ KinoMania",Ностальгия
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fnostalgia%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="retro" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/d4f0336bd785a082d196bc6751e26f96.png" catchup-days="7" group-title="⭐️ KinoMania",Ретро ТВ
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fretro%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="sapfir-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/1ca2ffac4e2c9ad974ef961897810d86.png" catchup-days="7" group-title="⭐️ KinoMania",Сапфир HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fsapfir-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="dorama-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/faa51db507ac48760dda596a19cd5090.png" catchup-days="7" group-title="⭐️ KinoMania",Дорама HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fdorama-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="timeless-dizi-channel-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/708af994bce0f18ae0dead5da30442a3.png" catchup-days="7" group-title="⭐️ KinoMania",Timeless Dizi Channel HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Ftimeless-dizi-channel-hd%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="bollywood" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/bollywood.png" catchup-days="7" group-title="⭐️ KinoMania",Bollywood HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fbollywood%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="indija-tv" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/pack_logos/d97f992012ac7cfff149620c72076022.png" catchup-days="7" group-title="⭐️ KinoMania",Индийское Кино
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Findija-tv%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="zee-tv" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/46c1760bc8c40f42a5a685f67ad1eb74.png" catchup-days="7" group-title="⭐️ KinoMania",Индия ТВ
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fzee-tv%2Fvideo.m3u8
+#EXTINF:-1 tvg-id="zee-tv-hd" tvg-rec="7" tvg-logo="https://af-play.com/storage/images/channel_logos/083dc18afec367f7c01e1d8db469f3b6.png" catchup-days="7" group-title="⭐️ KinoMania",Индия ТВ HD
+https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2Ftchaikovsky.af-stream.com%3A8080%2Fs%2Fwusrc6fw%2Fzee-tv-hd%2Fvideo.m3u8
+
+
+
 #EXTINF:-1 group-title="📺 Sc Film",[Sc] Cinema
 https://proxy.telecomtv101.workers.dev/api/stream/?url=http%3A%2F%2F57.128.196.110%2F12000%2Findex.m3u8%3Ftoken%3DBF3A82BDF48F
 #EXTINF:-1 group-title="📺 Sc Film",[Sc] Mult
