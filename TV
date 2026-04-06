@@ -495,6 +495,2509 @@ https://iptv.itv.uz/hls/live/t/a65FbQO1GFKGTmEqtkbCHw/e/1775458614/1499/index.m3
 
 
 
+
+
+#EXTINF:-1 tvg-id="ch0001" tvg-name="Первый канал" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый канал
+https://stream.telecomtv101.workers.dev/c/ch0001
+#EXTINF:-1 tvg-id="ch0002" tvg-name="Первый канал HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый канал HD
+https://stream.telecomtv101.workers.dev/c/ch0002
+#EXTINF:-1 tvg-id="ch0003" tvg-name="Первый канал +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый канал +2
+https://stream.telecomtv101.workers.dev/c/ch0003
+#EXTINF:-1 tvg-id="ch0004" tvg-name="Первый канал +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый канал +4
+https://stream.telecomtv101.workers.dev/c/ch0004
+#EXTINF:-1 tvg-id="ch0005" tvg-name="Первый канал +6" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый канал +6
+https://stream.telecomtv101.workers.dev/c/ch0005
+#EXTINF:-1 tvg-id="ch0006" tvg-name="Первый канал +8" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый канал +8
+https://stream.telecomtv101.workers.dev/c/ch0006
+#EXTINF:-1 tvg-id="ch0007" tvg-name="Первый HD +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый HD +4
+https://stream.telecomtv101.workers.dev/c/ch0007
+#EXTINF:-1 tvg-id="ch0008" tvg-name="Первый канал Европа" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый канал Европа
+https://stream.telecomtv101.workers.dev/c/ch0008
+#EXTINF:-1 tvg-id="ch0009" tvg-name="НТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ
+https://stream.telecomtv101.workers.dev/c/ch0009
+#EXTINF:-1 tvg-id="ch0010" tvg-name="НТВ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ HD
+https://stream.telecomtv101.workers.dev/c/ch0010
+#EXTINF:-1 tvg-id="ch0011" tvg-name="НТВ +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ +2
+https://stream.telecomtv101.workers.dev/c/ch0011
+#EXTINF:-1 tvg-id="ch0012" tvg-name="НТВ +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ +4
+https://stream.telecomtv101.workers.dev/c/ch0012
+#EXTINF:-1 tvg-id="ch0013" tvg-name="НТВ +7" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ +7
+https://stream.telecomtv101.workers.dev/c/ch0013
+#EXTINF:-1 tvg-id="ch0014" tvg-name="НТВ-Мир" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ-Мир
+https://stream.telecomtv101.workers.dev/c/ch0014
+#EXTINF:-1 tvg-id="ch0015" tvg-name="Россия 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Россия 1
+https://stream.telecomtv101.workers.dev/c/ch0015
+#EXTINF:-1 tvg-id="ch0016" tvg-name="Россия 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Россия 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0016
+#EXTINF:-1 tvg-id="ch0017" tvg-name="Россия 1 (+2)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Россия 1 (+2)
+https://stream.telecomtv101.workers.dev/c/ch0017
+#EXTINF:-1 tvg-id="ch0018" tvg-name="Россия 1 (+4)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Россия 1 (+4)
+https://stream.telecomtv101.workers.dev/c/ch0018
+#EXTINF:-1 tvg-id="ch0019" tvg-name="Россия 1 (+6)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Россия 1 (+6)
+https://stream.telecomtv101.workers.dev/c/ch0019
+#EXTINF:-1 tvg-id="ch0020" tvg-name="Россия 1 (+8)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Россия 1 (+8)
+https://stream.telecomtv101.workers.dev/c/ch0020
+#EXTINF:-1 tvg-id="ch0021" tvg-name="Россия 24" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Россия 24
+https://stream.telecomtv101.workers.dev/c/ch0021
+#EXTINF:-1 tvg-id="ch0022" tvg-name="РТР-Планета Европа" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",РТР-Планета Европа
+https://stream.telecomtv101.workers.dev/c/ch0022
+#EXTINF:-1 tvg-id="ch0023" tvg-name="Россия К" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Россия К
+https://stream.telecomtv101.workers.dev/c/ch0023
+#EXTINF:-1 tvg-id="ch0024" tvg-name="ТНТ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ
+https://stream.telecomtv101.workers.dev/c/ch0024
+#EXTINF:-1 tvg-id="ch0025" tvg-name="ТНТ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ HD
+https://stream.telecomtv101.workers.dev/c/ch0025
+#EXTINF:-1 tvg-id="ch0026" tvg-name="ТНТ +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ +2
+https://stream.telecomtv101.workers.dev/c/ch0026
+#EXTINF:-1 tvg-id="ch0027" tvg-name="ТНТ +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ +4
+https://stream.telecomtv101.workers.dev/c/ch0027
+#EXTINF:-1 tvg-id="ch0028" tvg-name="ТНТ +7" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ +7
+https://stream.telecomtv101.workers.dev/c/ch0028
+#EXTINF:-1 tvg-id="ch0029" tvg-name="ТНТ-International" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ-International
+https://stream.telecomtv101.workers.dev/c/ch0029
+#EXTINF:-1 tvg-id="ch0030" tvg-name="ТНТ4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ4
+https://stream.telecomtv101.workers.dev/c/ch0030
+#EXTINF:-1 tvg-id="ch0031" tvg-name="ТНТ4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ4 HD
+https://stream.telecomtv101.workers.dev/c/ch0031
+#EXTINF:-1 tvg-id="ch0032" tvg-name="ТНТ4 +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ4 +2
+https://stream.telecomtv101.workers.dev/c/ch0032
+#EXTINF:-1 tvg-id="ch0033" tvg-name="ТНТ4 +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ4 +4
+https://stream.telecomtv101.workers.dev/c/ch0033
+#EXTINF:-1 tvg-id="ch0034" tvg-name="ТНТ4 +7" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНТ4 +7
+https://stream.telecomtv101.workers.dev/c/ch0034
+#EXTINF:-1 tvg-id="ch0035" tvg-name="СТС" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",СТС
+https://stream.telecomtv101.workers.dev/c/ch0035
+#EXTINF:-1 tvg-id="ch0036" tvg-name="СТС HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",СТС HD
+https://stream.telecomtv101.workers.dev/c/ch0036
+#EXTINF:-1 tvg-id="ch0037" tvg-name="СТС +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",СТС +2
+https://stream.telecomtv101.workers.dev/c/ch0037
+#EXTINF:-1 tvg-id="ch0038" tvg-name="СТС +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",СТС +4
+https://stream.telecomtv101.workers.dev/c/ch0038
+#EXTINF:-1 tvg-id="ch0039" tvg-name="СТС +6" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",СТС +6
+https://stream.telecomtv101.workers.dev/c/ch0039
+#EXTINF:-1 tvg-id="ch0040" tvg-name="СТС Love" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",СТС Love
+https://stream.telecomtv101.workers.dev/c/ch0040
+#EXTINF:-1 tvg-id="ch0041" tvg-name="РЕН ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",РЕН ТВ
+https://stream.telecomtv101.workers.dev/c/ch0041
+#EXTINF:-1 tvg-id="ch0042" tvg-name="РЕН ТВ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",РЕН ТВ HD
+https://stream.telecomtv101.workers.dev/c/ch0042
+#EXTINF:-1 tvg-id="ch0043" tvg-name="РЕН ТВ +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",РЕН ТВ +2
+https://stream.telecomtv101.workers.dev/c/ch0043
+#EXTINF:-1 tvg-id="ch0044" tvg-name="РЕН ТВ +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",РЕН ТВ +4
+https://stream.telecomtv101.workers.dev/c/ch0044
+#EXTINF:-1 tvg-id="ch0045" tvg-name="РЕН ТВ +7" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",РЕН ТВ +7
+https://stream.telecomtv101.workers.dev/c/ch0045
+#EXTINF:-1 tvg-id="ch0046" tvg-name="ТВЦ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВЦ
+https://stream.telecomtv101.workers.dev/c/ch0046
+#EXTINF:-1 tvg-id="ch0047" tvg-name="ТВЦ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВЦ HD
+https://stream.telecomtv101.workers.dev/c/ch0047
+#EXTINF:-1 tvg-id="ch0048" tvg-name="ТВ Центр +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВ Центр +2
+https://stream.telecomtv101.workers.dev/c/ch0048
+#EXTINF:-1 tvg-id="ch0049" tvg-name="ТВ Центр +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВ Центр +4
+https://stream.telecomtv101.workers.dev/c/ch0049
+#EXTINF:-1 tvg-id="ch0050" tvg-name="ТВ Центр +7" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВ Центр +7
+https://stream.telecomtv101.workers.dev/c/ch0050
+#EXTINF:-1 tvg-id="ch0051" tvg-name="ТВ3" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВ3
+https://stream.telecomtv101.workers.dev/c/ch0051
+#EXTINF:-1 tvg-id="ch0052" tvg-name="ТВ3 (+2)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВ3 (+2)
+https://stream.telecomtv101.workers.dev/c/ch0052
+#EXTINF:-1 tvg-id="ch0053" tvg-name="ТВ3 (+4)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВ3 (+4)
+https://stream.telecomtv101.workers.dev/c/ch0053
+#EXTINF:-1 tvg-id="ch0054" tvg-name="ТВ3 (+7)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВ3 (+7)
+https://stream.telecomtv101.workers.dev/c/ch0054
+#EXTINF:-1 tvg-id="ch0055" tvg-name="Звезда" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Звезда
+https://stream.telecomtv101.workers.dev/c/ch0055
+#EXTINF:-1 tvg-id="ch0056" tvg-name="Звезда HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Звезда HD
+https://stream.telecomtv101.workers.dev/c/ch0056
+#EXTINF:-1 tvg-id="ch0057" tvg-name="Звезда +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Звезда +2
+https://stream.telecomtv101.workers.dev/c/ch0057
+#EXTINF:-1 tvg-id="ch0058" tvg-name="Звезда +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Звезда +4
+https://stream.telecomtv101.workers.dev/c/ch0058
+#EXTINF:-1 tvg-id="ch0059" tvg-name="Звезда +7" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Звезда +7
+https://stream.telecomtv101.workers.dev/c/ch0059
+#EXTINF:-1 tvg-id="ch0060" tvg-name="Звезда плюс" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Звезда плюс
+https://stream.telecomtv101.workers.dev/c/ch0060
+#EXTINF:-1 tvg-id="ch0061" tvg-name="Звезда плюс HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Звезда плюс HD
+https://stream.telecomtv101.workers.dev/c/ch0061
+#EXTINF:-1 tvg-id="ch0062" tvg-name="Пятница" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Пятница
+https://stream.telecomtv101.workers.dev/c/ch0062
+#EXTINF:-1 tvg-id="ch0063" tvg-name="Пятница HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Пятница HD
+https://stream.telecomtv101.workers.dev/c/ch0063
+#EXTINF:-1 tvg-id="ch0064" tvg-name="Пятница +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Пятница +2
+https://stream.telecomtv101.workers.dev/c/ch0064
+#EXTINF:-1 tvg-id="ch0065" tvg-name="Пятница +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Пятница +4
+https://stream.telecomtv101.workers.dev/c/ch0065
+#EXTINF:-1 tvg-id="ch0066" tvg-name="Пятница +7" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Пятница +7
+https://stream.telecomtv101.workers.dev/c/ch0066
+#EXTINF:-1 tvg-id="ch0067" tvg-name="Суббота!" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Суббота!
+https://stream.telecomtv101.workers.dev/c/ch0067
+#EXTINF:-1 tvg-id="ch0068" tvg-name="Суббота! HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Суббота! HD
+https://stream.telecomtv101.workers.dev/c/ch0068
+#EXTINF:-1 tvg-id="ch0069" tvg-name="Домашний HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Домашний HD
+https://stream.telecomtv101.workers.dev/c/ch0069
+#EXTINF:-1 tvg-id="ch0070" tvg-name="Домашний +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Домашний +2
+https://stream.telecomtv101.workers.dev/c/ch0070
+#EXTINF:-1 tvg-id="ch0071" tvg-name="Домашний +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Домашний +4
+https://stream.telecomtv101.workers.dev/c/ch0071
+#EXTINF:-1 tvg-id="ch0072" tvg-name="Домашний +7" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Домашний +7
+https://stream.telecomtv101.workers.dev/c/ch0072
+#EXTINF:-1 tvg-id="ch0073" tvg-name="Че" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Че
+https://stream.telecomtv101.workers.dev/c/ch0073
+#EXTINF:-1 tvg-id="ch0074" tvg-name="Че +2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Че +2
+https://stream.telecomtv101.workers.dev/c/ch0074
+#EXTINF:-1 tvg-id="ch0075" tvg-name="Че +4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Че +4
+https://stream.telecomtv101.workers.dev/c/ch0075
+#EXTINF:-1 tvg-id="ch0076" tvg-name="Че +7" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Че +7
+https://stream.telecomtv101.workers.dev/c/ch0076
+#EXTINF:-1 tvg-id="ch0077" tvg-name="Ю" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ю
+https://stream.telecomtv101.workers.dev/c/ch0077
+#EXTINF:-1 tvg-id="ch0078" tvg-name="Сарафан" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Сарафан
+https://stream.telecomtv101.workers.dev/c/ch0078
+#EXTINF:-1 tvg-id="ch0079" tvg-name="Перец" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Перец
+https://stream.telecomtv101.workers.dev/c/ch0079
+#EXTINF:-1 tvg-id="ch0080" tvg-name="Дождь" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Дождь
+https://stream.telecomtv101.workers.dev/c/ch0080
+#EXTINF:-1 tvg-id="ch0081" tvg-name="Euronews" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Euronews
+https://stream.telecomtv101.workers.dev/c/ch0081
+#EXTINF:-1 tvg-id="ch0082" tvg-name="Известия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Известия
+https://stream.telecomtv101.workers.dev/c/ch0082
+#EXTINF:-1 tvg-id="ch0083" tvg-name="МИР" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",МИР
+https://stream.telecomtv101.workers.dev/c/ch0083
+#EXTINF:-1 tvg-id="ch0084" tvg-name="МИР 24" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",МИР 24
+https://stream.telecomtv101.workers.dev/c/ch0084
+#EXTINF:-1 tvg-id="ch0085" tvg-name="Центральное Телевидение" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Центральное Телевидение
+https://stream.telecomtv101.workers.dev/c/ch0085
+#EXTINF:-1 tvg-id="ch0086" tvg-name="Пятый канал" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Пятый канал
+https://stream.telecomtv101.workers.dev/c/ch0086
+#EXTINF:-1 tvg-id="ch0087" tvg-name="Санкт-Петербург" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Санкт-Петербург
+https://stream.telecomtv101.workers.dev/c/ch0087
+#EXTINF:-1 tvg-id="ch0088" tvg-name="Соловьев.Live" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Соловьев.Live
+https://stream.telecomtv101.workers.dev/c/ch0088
+#EXTINF:-1 tvg-id="ch0089" tvg-name="Москва доверие" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Москва доверие
+https://stream.telecomtv101.workers.dev/c/ch0089
+#EXTINF:-1 tvg-id="ch0090" tvg-name="Продвижение" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Продвижение
+https://stream.telecomtv101.workers.dev/c/ch0090
+#EXTINF:-1 tvg-id="ch0091" tvg-name="РБК" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",РБК
+https://stream.telecomtv101.workers.dev/c/ch0091
+#EXTINF:-1 tvg-id="ch0092" tvg-name="НТВ Право" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ Право
+https://stream.telecomtv101.workers.dev/c/ch0092
+#EXTINF:-1 tvg-id="ch0093" tvg-name="Зал суда" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Зал суда
+https://stream.telecomtv101.workers.dev/c/ch0093
+#EXTINF:-1 tvg-id="ch0094" tvg-name="НТВ Стиль" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ Стиль
+https://stream.telecomtv101.workers.dev/c/ch0094
+#EXTINF:-1 tvg-id="ch0095" tvg-name="ОТР" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ОТР
+https://stream.telecomtv101.workers.dev/c/ch0095
+#EXTINF:-1 tvg-id="ch0096" tvg-name="КВН ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",КВН ТВ
+https://stream.telecomtv101.workers.dev/c/ch0096
+#EXTINF:-1 tvg-id="ch0097" tvg-name="Анекдот ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Анекдот ТВ
+https://stream.telecomtv101.workers.dev/c/ch0097
+#EXTINF:-1 tvg-id="ch0098" tvg-name="Мама" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мама
+https://stream.telecomtv101.workers.dev/c/ch0098
+#EXTINF:-1 tvg-id="ch0099" tvg-name="Психология 21" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Психология 21
+https://stream.telecomtv101.workers.dev/c/ch0099
+#EXTINF:-1 tvg-id="ch0100" tvg-name="Первый вегетарианский" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый вегетарианский
+https://stream.telecomtv101.workers.dev/c/ch0100
+#EXTINF:-1 tvg-id="ch0101" tvg-name="Кухня ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кухня ТВ
+https://stream.telecomtv101.workers.dev/c/ch0101
+#EXTINF:-1 tvg-id="ch0102" tvg-name="FoodTime" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FoodTime
+https://stream.telecomtv101.workers.dev/c/ch0102
+#EXTINF:-1 tvg-id="ch0103" tvg-name="Губерния Самара" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Губерния Самара
+https://stream.telecomtv101.workers.dev/c/ch0103
+#EXTINF:-1 tvg-id="ch0104" tvg-name="Брянская Губерния" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Брянская Губерния
+https://stream.telecomtv101.workers.dev/c/ch0104
+#EXTINF:-1 tvg-id="ch0105" tvg-name="RTVi" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",RTVi
+https://stream.telecomtv101.workers.dev/c/ch0105
+#EXTINF:-1 tvg-id="ch0106" tvg-name="Радость моя" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Радость моя
+https://stream.telecomtv101.workers.dev/c/ch0106
+#EXTINF:-1 tvg-id="ch0107" tvg-name="Театр" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Театр
+https://stream.telecomtv101.workers.dev/c/ch0107
+#EXTINF:-1 tvg-id="ch0108" tvg-name="Ключ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ключ
+https://stream.telecomtv101.workers.dev/c/ch0108
+#EXTINF:-1 tvg-id="ch0109" tvg-name="English Club HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",English Club HD
+https://stream.telecomtv101.workers.dev/c/ch0109
+#EXTINF:-1 tvg-id="ch0110" tvg-name="Союз" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Союз
+https://stream.telecomtv101.workers.dev/c/ch0110
+#EXTINF:-1 tvg-id="ch0111" tvg-name="ТВ-ИН (Магнитогорск)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВ-ИН (Магнитогорск)
+https://stream.telecomtv101.workers.dev/c/ch0111
+#EXTINF:-1 tvg-id="ch0112" tvg-name="Настоящее время HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Настоящее время HD
+https://stream.telecomtv101.workers.dev/c/ch0112
+#EXTINF:-1 tvg-id="ch0113" tvg-name="Sochi Live HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sochi Live HD
+https://stream.telecomtv101.workers.dev/c/ch0113
+#EXTINF:-1 tvg-id="ch0114" tvg-name="Наша тема HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Наша тема HD
+https://stream.telecomtv101.workers.dev/c/ch0114
+#EXTINF:-1 tvg-id="ch0115" tvg-name="ТНВ Татарстан" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТНВ Татарстан
+https://stream.telecomtv101.workers.dev/c/ch0115
+#EXTINF:-1 tvg-id="ch0116" tvg-name="Доктор" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Доктор
+https://stream.telecomtv101.workers.dev/c/ch0116
+#EXTINF:-1 tvg-id="ch0117" tvg-name="News Front" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",News Front
+https://stream.telecomtv101.workers.dev/c/ch0117
+#EXTINF:-1 tvg-id="ch0118" tvg-name="Луганск 24" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Луганск 24
+https://stream.telecomtv101.workers.dev/c/ch0118
+#EXTINF:-1 tvg-id="ch0119" tvg-name="Таврия ТВ Херсон" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Таврия ТВ Херсон
+https://stream.telecomtv101.workers.dev/c/ch0119
+#EXTINF:-1 tvg-id="ch0120" tvg-name="Первый Республиканский" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый Республиканский
+https://stream.telecomtv101.workers.dev/c/ch0120
+#EXTINF:-1 tvg-id="ch0121" tvg-name="1+1 Марафон" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",1+1 Марафон
+https://stream.telecomtv101.workers.dev/c/ch0121
+#EXTINF:-1 tvg-id="ch0122" tvg-name="1+1 Марафон HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",1+1 Марафон HD
+https://stream.telecomtv101.workers.dev/c/ch0122
+#EXTINF:-1 tvg-id="ch0123" tvg-name="1+1 Международный" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",1+1 Международный
+https://stream.telecomtv101.workers.dev/c/ch0123
+#EXTINF:-1 tvg-id="ch0124" tvg-name="1+1 Україна" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",1+1 Україна
+https://stream.telecomtv101.workers.dev/c/ch0124
+#EXTINF:-1 tvg-id="ch0125" tvg-name="ICTV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ICTV
+https://stream.telecomtv101.workers.dev/c/ch0125
+#EXTINF:-1 tvg-id="ch0126" tvg-name="ICTV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ICTV HD
+https://stream.telecomtv101.workers.dev/c/ch0126
+#EXTINF:-1 tvg-id="ch0127" tvg-name="ICTV2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ICTV2
+https://stream.telecomtv101.workers.dev/c/ch0127
+#EXTINF:-1 tvg-id="ch0128" tvg-name="ICTV СЕРІАЛИ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ICTV СЕРІАЛИ
+https://stream.telecomtv101.workers.dev/c/ch0128
+#EXTINF:-1 tvg-id="ch0129" tvg-name="СТБ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",СТБ
+https://stream.telecomtv101.workers.dev/c/ch0129
+#EXTINF:-1 tvg-id="ch0130" tvg-name="СТБ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",СТБ HD
+https://stream.telecomtv101.workers.dev/c/ch0130
+#EXTINF:-1 tvg-id="ch0131" tvg-name="ТЕТ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТЕТ HD
+https://stream.telecomtv101.workers.dev/c/ch0131
+#EXTINF:-1 tvg-id="ch0132" tvg-name="Новый канал" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Новый канал
+https://stream.telecomtv101.workers.dev/c/ch0132
+#EXTINF:-1 tvg-id="ch0133" tvg-name="Новый канал HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Новый канал HD
+https://stream.telecomtv101.workers.dev/c/ch0133
+#EXTINF:-1 tvg-id="ch0134" tvg-name="Интер HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Интер HD
+https://stream.telecomtv101.workers.dev/c/ch0134
+#EXTINF:-1 tvg-id="ch0135" tvg-name="Интер+ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Интер+ HD
+https://stream.telecomtv101.workers.dev/c/ch0135
+#EXTINF:-1 tvg-id="ch0136" tvg-name="UA:Перший" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",UA:Перший
+https://stream.telecomtv101.workers.dev/c/ch0136
+#EXTINF:-1 tvg-id="ch0137" tvg-name="2+2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",2+2 HD
+https://stream.telecomtv101.workers.dev/c/ch0137
+#EXTINF:-1 tvg-id="ch0138" tvg-name="НТН HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТН HD
+https://stream.telecomtv101.workers.dev/c/ch0138
+#EXTINF:-1 tvg-id="ch0139" tvg-name="Enter-фильм HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Enter-фильм HD
+https://stream.telecomtv101.workers.dev/c/ch0139
+#EXTINF:-1 tvg-id="ch0140" tvg-name="Твоє кіно. Хіт" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Твоє кіно. Хіт
+https://stream.telecomtv101.workers.dev/c/ch0140
+#EXTINF:-1 tvg-id="ch0141" tvg-name="Твоє кіно. Action" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Твоє кіно. Action
+https://stream.telecomtv101.workers.dev/c/ch0141
+#EXTINF:-1 tvg-id="ch0142" tvg-name="Твоє кіно. Relax" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Твоє кіно. Relax
+https://stream.telecomtv101.workers.dev/c/ch0142
+#EXTINF:-1 tvg-id="ch0143" tvg-name="Cine+" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Cine+
+https://stream.telecomtv101.workers.dev/c/ch0143
+#EXTINF:-1 tvg-id="ch0144" tvg-name="Cine+ Hit HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Cine+ Hit HD
+https://stream.telecomtv101.workers.dev/c/ch0144
+#EXTINF:-1 tvg-id="ch0145" tvg-name="Cine+ Legend" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Cine+ Legend
+https://stream.telecomtv101.workers.dev/c/ch0145
+#EXTINF:-1 tvg-id="ch0146" tvg-name="ТВІЙ СЕРІАЛ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ТВІЙ СЕРІАЛ
+https://stream.telecomtv101.workers.dev/c/ch0146
+#EXTINF:-1 tvg-id="ch0147" tvg-name="Наше улюблене кіно HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Наше улюблене кіно HD
+https://stream.telecomtv101.workers.dev/c/ch0147
+#EXTINF:-1 tvg-id="ch0148" tvg-name="AMC" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",AMC
+https://stream.telecomtv101.workers.dev/c/ch0148
+#EXTINF:-1 tvg-id="ch0149" tvg-name="Super+" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Super+
+https://stream.telecomtv101.workers.dev/c/ch0149
+#EXTINF:-1 tvg-id="ch0150" tvg-name="ProKino HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ProKino HD
+https://stream.telecomtv101.workers.dev/c/ch0150
+#EXTINF:-1 tvg-id="ch0151" tvg-name="Хіт Комедія HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Хіт Комедія HD
+https://stream.telecomtv101.workers.dev/c/ch0151
+#EXTINF:-1 tvg-id="ch0152" tvg-name="CPS Fresh UA" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CPS Fresh UA
+https://stream.telecomtv101.workers.dev/c/ch0152
+#EXTINF:-1 tvg-id="ch0153" tvg-name="Film.Ua Drama" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Film.Ua Drama
+https://stream.telecomtv101.workers.dev/c/ch0153
+#EXTINF:-1 tvg-id="ch0154" tvg-name="Київ 24" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Київ 24
+https://stream.telecomtv101.workers.dev/c/ch0154
+#EXTINF:-1 tvg-id="ch0155" tvg-name="Апостроф" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Апостроф
+https://stream.telecomtv101.workers.dev/c/ch0155
+#EXTINF:-1 tvg-id="ch0156" tvg-name="NIKI Kids" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",NIKI Kids
+https://stream.telecomtv101.workers.dev/c/ch0156
+#EXTINF:-1 tvg-id="ch0157" tvg-name="NIKI Junior" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",NIKI Junior
+https://stream.telecomtv101.workers.dev/c/ch0157
+#EXTINF:-1 tvg-id="ch0158" tvg-name="Пиксель" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Пиксель
+https://stream.telecomtv101.workers.dev/c/ch0158
+#EXTINF:-1 tvg-id="ch0159" tvg-name="Пиксель HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Пиксель HD
+https://stream.telecomtv101.workers.dev/c/ch0159
+#EXTINF:-1 tvg-id="ch0160" tvg-name="ПлюсПлюс" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ПлюсПлюс
+https://stream.telecomtv101.workers.dev/c/ch0160
+#EXTINF:-1 tvg-id="ch0161" tvg-name="ПлюсПлюс HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ПлюсПлюс HD
+https://stream.telecomtv101.workers.dev/c/ch0161
+#EXTINF:-1 tvg-id="ch0162" tvg-name="Кус-кус HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кус-кус HD
+https://stream.telecomtv101.workers.dev/c/ch0162
+#EXTINF:-1 tvg-id="ch0163" tvg-name="Cine+ Kids" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Cine+ Kids
+https://stream.telecomtv101.workers.dev/c/ch0163
+#EXTINF:-1 tvg-id="ch0164" tvg-name="5 канал" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",5 канал
+https://stream.telecomtv101.workers.dev/c/ch0164
+#EXTINF:-1 tvg-id="ch0165" tvg-name="24 новини" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",24 новини
+https://stream.telecomtv101.workers.dev/c/ch0165
+#EXTINF:-1 tvg-id="ch0166" tvg-name="Униан ТВ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Униан ТВ HD
+https://stream.telecomtv101.workers.dev/c/ch0166
+#EXTINF:-1 tvg-id="ch0167" tvg-name="FreeДом" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FreeДом
+https://stream.telecomtv101.workers.dev/c/ch0167
+#EXTINF:-1 tvg-id="ch0168" tvg-name="Рада" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Рада
+https://stream.telecomtv101.workers.dev/c/ch0168
+#EXTINF:-1 tvg-id="ch0169" tvg-name="Еспресо TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Еспресо TV
+https://stream.telecomtv101.workers.dev/c/ch0169
+#EXTINF:-1 tvg-id="ch0170" tvg-name="Суспільне Київ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Суспільне Київ HD
+https://stream.telecomtv101.workers.dev/c/ch0170
+#EXTINF:-1 tvg-id="ch0171" tvg-name="НТК Коломия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТК Коломия
+https://stream.telecomtv101.workers.dev/c/ch0171
+#EXTINF:-1 tvg-id="ch0172" tvg-name="Ми - Україна" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ми - Україна
+https://stream.telecomtv101.workers.dev/c/ch0172
+#EXTINF:-1 tvg-id="ch0173" tvg-name="Сімейні мелодрами+" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Сімейні мелодрами+
+https://stream.telecomtv101.workers.dev/c/ch0173
+#EXTINF:-1 tvg-id="ch0174" tvg-name="Первый автомобильный" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый автомобильный
+https://stream.telecomtv101.workers.dev/c/ch0174
+#EXTINF:-1 tvg-id="ch0175" tvg-name="Comedy Central" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Comedy Central
+https://stream.telecomtv101.workers.dev/c/ch0175
+#EXTINF:-1 tvg-id="ch0176" tvg-name="Квартал ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Квартал ТВ
+https://stream.telecomtv101.workers.dev/c/ch0176
+#EXTINF:-1 tvg-id="ch0177" tvg-name="Мега HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мега HD
+https://stream.telecomtv101.workers.dev/c/ch0177
+#EXTINF:-1 tvg-id="ch0178" tvg-name="Бигуди" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Бигуди
+https://stream.telecomtv101.workers.dev/c/ch0178
+#EXTINF:-1 tvg-id="ch0179" tvg-name="Дача HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Дача HD
+https://stream.telecomtv101.workers.dev/c/ch0179
+#EXTINF:-1 tvg-id="ch0180" tvg-name="К1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",К1 HD
+https://stream.telecomtv101.workers.dev/c/ch0180
+#EXTINF:-1 tvg-id="ch0181" tvg-name="К2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",К2 HD
+https://stream.telecomtv101.workers.dev/c/ch0181
+#EXTINF:-1 tvg-id="ch0182" tvg-name="Світло" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Світло
+https://stream.telecomtv101.workers.dev/c/ch0182
+#EXTINF:-1 tvg-id="ch0183" tvg-name="Сонце" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Сонце
+https://stream.telecomtv101.workers.dev/c/ch0183
+#EXTINF:-1 tvg-id="ch0184" tvg-name="Оце" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Оце
+https://stream.telecomtv101.workers.dev/c/ch0184
+#EXTINF:-1 tvg-id="ch0185" tvg-name="Прямий HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Прямий HD
+https://stream.telecomtv101.workers.dev/c/ch0185
+#EXTINF:-1 tvg-id="ch0186" tvg-name="Конкурент" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Конкурент
+https://stream.telecomtv101.workers.dev/c/ch0186
+#EXTINF:-1 tvg-id="ch0187" tvg-name="11 канал Дніпро" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",11 канал Дніпро
+https://stream.telecomtv101.workers.dev/c/ch0187
+#EXTINF:-1 tvg-id="ch0188" tvg-name="МТМ (Запорожье)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",МТМ (Запорожье)
+https://stream.telecomtv101.workers.dev/c/ch0188
+#EXTINF:-1 tvg-id="ch0189" tvg-name="Первый Городской (Одесса)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый Городской (Одесса)
+https://stream.telecomtv101.workers.dev/c/ch0189
+#EXTINF:-1 tvg-id="ch0190" tvg-name="Перший Західний" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Перший Західний
+https://stream.telecomtv101.workers.dev/c/ch0190
+#EXTINF:-1 tvg-id="ch0191" tvg-name="Хіт Бойовик HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Хіт Бойовик HD
+https://stream.telecomtv101.workers.dev/c/ch0191
+#EXTINF:-1 tvg-id="ch0192" tvg-name="Сварожичи" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Сварожичи
+https://stream.telecomtv101.workers.dev/c/ch0192
+#EXTINF:-1 tvg-id="ch0193" tvg-name="Kinokazka HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Kinokazka HD
+https://stream.telecomtv101.workers.dev/c/ch0193
+#EXTINF:-1 tvg-id="ch0194" tvg-name="Maincast HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Maincast HD
+https://stream.telecomtv101.workers.dev/c/ch0194
+#EXTINF:-1 tvg-id="ch0195" tvg-name="Viju TV1000" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viju TV1000
+https://stream.telecomtv101.workers.dev/c/ch0195
+#EXTINF:-1 tvg-id="ch0196" tvg-name="Viju TV1000 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viju TV1000 HD
+https://stream.telecomtv101.workers.dev/c/ch0196
+#EXTINF:-1 tvg-id="ch0197" tvg-name="Viju TV1000 Action" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viju TV1000 Action
+https://stream.telecomtv101.workers.dev/c/ch0197
+#EXTINF:-1 tvg-id="ch0198" tvg-name="Viju TV1000 Action HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viju TV1000 Action HD
+https://stream.telecomtv101.workers.dev/c/ch0198
+#EXTINF:-1 tvg-id="ch0199" tvg-name="Viju TV1000 Русское Кино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viju TV1000 Русское Кино
+https://stream.telecomtv101.workers.dev/c/ch0199
+#EXTINF:-1 tvg-id="ch0200" tvg-name="Viju TV1000 Русское HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viju TV1000 Русское HD
+https://stream.telecomtv101.workers.dev/c/ch0200
+#EXTINF:-1 tvg-id="ch0201" tvg-name="Viasat Serial HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Serial HD
+https://stream.telecomtv101.workers.dev/c/ch0201
+#EXTINF:-1 tvg-id="ch0202" tvg-name="Viasat Kino Comedy HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Kino Comedy HD
+https://stream.telecomtv101.workers.dev/c/ch0202
+#EXTINF:-1 tvg-id="ch0203" tvg-name="Viasat Kino World" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Kino World
+https://stream.telecomtv101.workers.dev/c/ch0203
+#EXTINF:-1 tvg-id="ch0204" tvg-name="Viasat Kino Megahit HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Kino Megahit HD
+https://stream.telecomtv101.workers.dev/c/ch0204
+#EXTINF:-1 tvg-id="ch0205" tvg-name="Viasat Kino World HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Kino World HD
+https://stream.telecomtv101.workers.dev/c/ch0205
+#EXTINF:-1 tvg-id="ch0206" tvg-name="Viasat Kino Action HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Kino Action HD
+https://stream.telecomtv101.workers.dev/c/ch0206
+#EXTINF:-1 tvg-id="ch0207" tvg-name="Viasat Kino HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Kino HD
+https://stream.telecomtv101.workers.dev/c/ch0207
+#EXTINF:-1 tvg-id="ch0208" tvg-name="Кинопоказ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кинопоказ
+https://stream.telecomtv101.workers.dev/c/ch0208
+#EXTINF:-1 tvg-id="ch0209" tvg-name="Феникс+ Кино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Феникс+ Кино
+https://stream.telecomtv101.workers.dev/c/ch0209
+#EXTINF:-1 tvg-id="ch0210" tvg-name="Kinoliving HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Kinoliving HD
+https://stream.telecomtv101.workers.dev/c/ch0210
+#EXTINF:-1 tvg-id="ch0211" tvg-name="VHS-ка" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VHS-ка
+https://stream.telecomtv101.workers.dev/c/ch0211
+#EXTINF:-1 tvg-id="ch0212" tvg-name="Viju TV1000 Новелла" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viju TV1000 Новелла
+https://stream.telecomtv101.workers.dev/c/ch0212
+#EXTINF:-1 tvg-id="ch0213" tvg-name="viju+ Premiere" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",viju+ Premiere
+https://stream.telecomtv101.workers.dev/c/ch0213
+#EXTINF:-1 tvg-id="ch0214" tvg-name="viju+ Premiere HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",viju+ Premiere HD
+https://stream.telecomtv101.workers.dev/c/ch0214
+#EXTINF:-1 tvg-id="ch0215" tvg-name="viju+ Megahit" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",viju+ Megahit
+https://stream.telecomtv101.workers.dev/c/ch0215
+#EXTINF:-1 tvg-id="ch0216" tvg-name="viju+ Megahit HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",viju+ Megahit HD
+https://stream.telecomtv101.workers.dev/c/ch0216
+#EXTINF:-1 tvg-id="ch0217" tvg-name="viju+ Comedy" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",viju+ Comedy
+https://stream.telecomtv101.workers.dev/c/ch0217
+#EXTINF:-1 tvg-id="ch0218" tvg-name="viju+ Comedy HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",viju+ Comedy HD
+https://stream.telecomtv101.workers.dev/c/ch0218
+#EXTINF:-1 tvg-id="ch0219" tvg-name="viju+ Serial" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",viju+ Serial
+https://stream.telecomtv101.workers.dev/c/ch0219
+#EXTINF:-1 tvg-id="ch0220" tvg-name="Hollywood HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Hollywood HD
+https://stream.telecomtv101.workers.dev/c/ch0220
+#EXTINF:-1 tvg-id="ch0221" tvg-name="Fox HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Fox HD
+https://stream.telecomtv101.workers.dev/c/ch0221
+#EXTINF:-1 tvg-id="ch0222" tvg-name="Премиальное HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Премиальное HD
+https://stream.telecomtv101.workers.dev/c/ch0222
+#EXTINF:-1 tvg-id="ch0223" tvg-name="Остросюжетное HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Остросюжетное HD
+https://stream.telecomtv101.workers.dev/c/ch0223
+#EXTINF:-1 tvg-id="ch0224" tvg-name="Дом кино Премиум HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Дом кино Премиум HD
+https://stream.telecomtv101.workers.dev/c/ch0224
+#EXTINF:-1 tvg-id="ch0225" tvg-name="Еврокино HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Еврокино HD
+https://stream.telecomtv101.workers.dev/c/ch0225
+#EXTINF:-1 tvg-id="ch0226" tvg-name="Amedia Premium HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Amedia Premium HD
+https://stream.telecomtv101.workers.dev/c/ch0226
+#EXTINF:-1 tvg-id="ch0227" tvg-name="FlixSnip" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FlixSnip
+https://stream.telecomtv101.workers.dev/c/ch0227
+#EXTINF:-1 tvg-id="ch0228" tvg-name="Bollywood HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bollywood HD
+https://stream.telecomtv101.workers.dev/c/ch0228
+#EXTINF:-1 tvg-id="ch0229" tvg-name="Иллюзион +" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Иллюзион +
+https://stream.telecomtv101.workers.dev/c/ch0229
+#EXTINF:-1 tvg-id="ch0230" tvg-name="Русский иллюзион" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Русский иллюзион
+https://stream.telecomtv101.workers.dev/c/ch0230
+#EXTINF:-1 tvg-id="ch0231" tvg-name="Индийское кино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Индийское кино
+https://stream.telecomtv101.workers.dev/c/ch0231
+#EXTINF:-1 tvg-id="ch0232" tvg-name="Кинокомедия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кинокомедия
+https://stream.telecomtv101.workers.dev/c/ch0232
+#EXTINF:-1 tvg-id="ch0233" tvg-name="Кинокомедия HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кинокомедия HD
+https://stream.telecomtv101.workers.dev/c/ch0233
+#EXTINF:-1 tvg-id="ch0234" tvg-name="Киномикс" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киномикс
+https://stream.telecomtv101.workers.dev/c/ch0234
+#EXTINF:-1 tvg-id="ch0235" tvg-name="Киномикс HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киномикс HD
+https://stream.telecomtv101.workers.dev/c/ch0235
+#EXTINF:-1 tvg-id="ch0236" tvg-name="Киносвидание" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киносвидание
+https://stream.telecomtv101.workers.dev/c/ch0236
+#EXTINF:-1 tvg-id="ch0237" tvg-name="Киносемья" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киносемья
+https://stream.telecomtv101.workers.dev/c/ch0237
+#EXTINF:-1 tvg-id="ch0238" tvg-name="Киносемья HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киносемья HD
+https://stream.telecomtv101.workers.dev/c/ch0238
+#EXTINF:-1 tvg-id="ch0239" tvg-name="Киносерия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киносерия
+https://stream.telecomtv101.workers.dev/c/ch0239
+#EXTINF:-1 tvg-id="ch0240" tvg-name="Киносерия HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киносерия HD
+https://stream.telecomtv101.workers.dev/c/ch0240
+#EXTINF:-1 tvg-id="ch0241" tvg-name="Кинохит" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кинохит
+https://stream.telecomtv101.workers.dev/c/ch0241
+#EXTINF:-1 tvg-id="ch0242" tvg-name="Кинохит HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кинохит HD
+https://stream.telecomtv101.workers.dev/c/ch0242
+#EXTINF:-1 tvg-id="ch0243" tvg-name="Мир сериала" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мир сериала
+https://stream.telecomtv101.workers.dev/c/ch0243
+#EXTINF:-1 tvg-id="ch0244" tvg-name="Мир сериала HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мир сериала HD
+https://stream.telecomtv101.workers.dev/c/ch0244
+#EXTINF:-1 tvg-id="ch0245" tvg-name="SONY Sci-Fi" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SONY Sci-Fi
+https://stream.telecomtv101.workers.dev/c/ch0245
+#EXTINF:-1 tvg-id="ch0246" tvg-name="TV XXI" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV XXI
+https://stream.telecomtv101.workers.dev/c/ch0246
+#EXTINF:-1 tvg-id="ch0247" tvg-name="Любимое Кино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Любимое Кино
+https://stream.telecomtv101.workers.dev/c/ch0247
+#EXTINF:-1 tvg-id="ch0248" tvg-name="Любимое Кино HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Любимое Кино HD
+https://stream.telecomtv101.workers.dev/c/ch0248
+#EXTINF:-1 tvg-id="ch0249" tvg-name="Кино ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кино ТВ
+https://stream.telecomtv101.workers.dev/c/ch0249
+#EXTINF:-1 tvg-id="ch0250" tvg-name="Русская Комедия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Русская Комедия
+https://stream.telecomtv101.workers.dev/c/ch0250
+#EXTINF:-1 tvg-id="ch0251" tvg-name="Kino 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Kino 1
+https://stream.telecomtv101.workers.dev/c/ch0251
+#EXTINF:-1 tvg-id="ch0252" tvg-name="НТВ Сериал" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ Сериал
+https://stream.telecomtv101.workers.dev/c/ch0252
+#EXTINF:-1 tvg-id="ch0253" tvg-name="НТВ Хит" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ Хит
+https://stream.telecomtv101.workers.dev/c/ch0253
+#EXTINF:-1 tvg-id="ch0254" tvg-name="Русский Бестселлер" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Русский Бестселлер
+https://stream.telecomtv101.workers.dev/c/ch0254
+#EXTINF:-1 tvg-id="ch0255" tvg-name="Русский Роман" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Русский Роман
+https://stream.telecomtv101.workers.dev/c/ch0255
+#EXTINF:-1 tvg-id="ch0256" tvg-name="Русский роман HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Русский роман HD
+https://stream.telecomtv101.workers.dev/c/ch0256
+#EXTINF:-1 tvg-id="ch0257" tvg-name=".red HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",.red HD
+https://stream.telecomtv101.workers.dev/c/ch0257
+#EXTINF:-1 tvg-id="ch0258" tvg-name=".red" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",.red
+https://stream.telecomtv101.workers.dev/c/ch0258
+#EXTINF:-1 tvg-id="ch0259" tvg-name=".black" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",.black
+https://stream.telecomtv101.workers.dev/c/ch0259
+#EXTINF:-1 tvg-id="ch0260" tvg-name="Amedia Premium" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Amedia Premium
+https://stream.telecomtv101.workers.dev/c/ch0260
+#EXTINF:-1 tvg-id="ch0261" tvg-name="НСТ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НСТ
+https://stream.telecomtv101.workers.dev/c/ch0261
+#EXTINF:-1 tvg-id="ch0262" tvg-name="Fox Life" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Fox Life
+https://stream.telecomtv101.workers.dev/c/ch0262
+#EXTINF:-1 tvg-id="ch0263" tvg-name="Amedia Hit" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Amedia Hit
+https://stream.telecomtv101.workers.dev/c/ch0263
+#EXTINF:-1 tvg-id="ch0264" tvg-name="Hollywood" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Hollywood
+https://stream.telecomtv101.workers.dev/c/ch0264
+#EXTINF:-1 tvg-id="ch0265" tvg-name="Кинопремьера HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кинопремьера HD
+https://stream.telecomtv101.workers.dev/c/ch0265
+#EXTINF:-1 tvg-id="ch0266" tvg-name="Дом Кино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Дом Кино
+https://stream.telecomtv101.workers.dev/c/ch0266
+#EXTINF:-1 tvg-id="ch0267" tvg-name="Наше новое кино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Наше новое кино
+https://stream.telecomtv101.workers.dev/c/ch0267
+#EXTINF:-1 tvg-id="ch0268" tvg-name="Родное кино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Родное кино
+https://stream.telecomtv101.workers.dev/c/ch0268
+#EXTINF:-1 tvg-id="ch0269" tvg-name="A1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",A1
+https://stream.telecomtv101.workers.dev/c/ch0269
+#EXTINF:-1 tvg-id="ch0270" tvg-name="A2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",A2
+https://stream.telecomtv101.workers.dev/c/ch0270
+#EXTINF:-1 tvg-id="ch0271" tvg-name="A1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",A1 HD
+https://stream.telecomtv101.workers.dev/c/ch0271
+#EXTINF:-1 tvg-id="ch0272" tvg-name="A2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",A2 HD
+https://stream.telecomtv101.workers.dev/c/ch0272
+#EXTINF:-1 tvg-id="ch0273" tvg-name="Победа" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Победа
+https://stream.telecomtv101.workers.dev/c/ch0273
+#EXTINF:-1 tvg-id="ch0274" tvg-name="Победа HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Победа HD
+https://stream.telecomtv101.workers.dev/c/ch0274
+#EXTINF:-1 tvg-id="ch0275" tvg-name="День Победы" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",День Победы
+https://stream.telecomtv101.workers.dev/c/ch0275
+#EXTINF:-1 tvg-id="ch0276" tvg-name="Amedia hit HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Amedia hit HD
+https://stream.telecomtv101.workers.dev/c/ch0276
+#EXTINF:-1 tvg-id="ch0277" tvg-name="КиноТВ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",КиноТВ HD
+https://stream.telecomtv101.workers.dev/c/ch0277
+#EXTINF:-1 tvg-id="ch0278" tvg-name="Мужское кино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мужское кино
+https://stream.telecomtv101.workers.dev/c/ch0278
+#EXTINF:-1 tvg-id="ch0279" tvg-name="Мужское кино HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мужское кино HD
+https://stream.telecomtv101.workers.dev/c/ch0279
+#EXTINF:-1 tvg-id="ch0280" tvg-name="Cinema" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Cinema
+https://stream.telecomtv101.workers.dev/c/ch0280
+#EXTINF:-1 tvg-id="ch0281" tvg-name="Cinema HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Cinema HD
+https://stream.telecomtv101.workers.dev/c/ch0281
+#EXTINF:-1 tvg-id="ch0282" tvg-name="Тайна" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Тайна
+https://stream.telecomtv101.workers.dev/c/ch0282
+#EXTINF:-1 tvg-id="ch0283" tvg-name="Русский детектив" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Русский детектив
+https://stream.telecomtv101.workers.dev/c/ch0283
+#EXTINF:-1 tvg-id="ch0284" tvg-name="Киноужас" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киноужас
+https://stream.telecomtv101.workers.dev/c/ch0284
+#EXTINF:-1 tvg-id="ch0285" tvg-name="Киноужас HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киноужас HD
+https://stream.telecomtv101.workers.dev/c/ch0285
+#EXTINF:-1 tvg-id="ch0286" tvg-name="Страшное HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Страшное HD
+https://stream.telecomtv101.workers.dev/c/ch0286
+#EXTINF:-1 tvg-id="ch0287" tvg-name="Star Cinema" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Star Cinema
+https://stream.telecomtv101.workers.dev/c/ch0287
+#EXTINF:-1 tvg-id="ch0288" tvg-name="Star Cinema HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Star Cinema HD
+https://stream.telecomtv101.workers.dev/c/ch0288
+#EXTINF:-1 tvg-id="ch0289" tvg-name="Star Family" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Star Family
+https://stream.telecomtv101.workers.dev/c/ch0289
+#EXTINF:-1 tvg-id="ch0290" tvg-name="Star Family HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Star Family HD
+https://stream.telecomtv101.workers.dev/c/ch0290
+#EXTINF:-1 tvg-id="ch0291" tvg-name="Ретро" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ретро
+https://stream.telecomtv101.workers.dev/c/ch0291
+#EXTINF:-1 tvg-id="ch0292" tvg-name="Шокирующее" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Шокирующее
+https://stream.telecomtv101.workers.dev/c/ch0292
+#EXTINF:-1 tvg-id="ch0293" tvg-name="Наше крутое HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Наше крутое HD
+https://stream.telecomtv101.workers.dev/c/ch0293
+#EXTINF:-1 tvg-id="ch0294" tvg-name="Наш кинороман HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Наш кинороман HD
+https://stream.telecomtv101.workers.dev/c/ch0294
+#EXTINF:-1 tvg-id="ch0295" tvg-name="Блокбастер HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Блокбастер HD
+https://stream.telecomtv101.workers.dev/c/ch0295
+#EXTINF:-1 tvg-id="ch0296" tvg-name="Хит HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Хит HD
+https://stream.telecomtv101.workers.dev/c/ch0296
+#EXTINF:-1 tvg-id="ch0297" tvg-name="Наш Кинопоказ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Наш Кинопоказ HD
+https://stream.telecomtv101.workers.dev/c/ch0297
+#EXTINF:-1 tvg-id="ch0298" tvg-name="Киносат" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киносат
+https://stream.telecomtv101.workers.dev/c/ch0298
+#EXTINF:-1 tvg-id="ch0299" tvg-name="Про Любовь HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Про Любовь HD
+https://stream.telecomtv101.workers.dev/c/ch0299
+#EXTINF:-1 tvg-id="ch0300" tvg-name="Наше Мужское HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Наше Мужское HD
+https://stream.telecomtv101.workers.dev/c/ch0300
+#EXTINF:-1 tvg-id="ch0301" tvg-name="Камеди HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Камеди HD
+https://stream.telecomtv101.workers.dev/c/ch0301
+#EXTINF:-1 tvg-id="ch0302" tvg-name="Романтичное HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Романтичное HD
+https://stream.telecomtv101.workers.dev/c/ch0302
+#EXTINF:-1 tvg-id="ch0303" tvg-name="Комедийное HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Комедийное HD
+https://stream.telecomtv101.workers.dev/c/ch0303
+#EXTINF:-1 tvg-id="ch0304" tvg-name="Trash HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Trash HD
+https://stream.telecomtv101.workers.dev/c/ch0304
+#EXTINF:-1 tvg-id="ch0305" tvg-name="Мосфильм. Золотая коллекция" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мосфильм. Золотая коллекция
+https://stream.telecomtv101.workers.dev/c/ch0305
+#EXTINF:-1 tvg-id="ch0306" tvg-name="Мосфильм. Золотая коллекция HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мосфильм. Золотая коллекция HD
+https://stream.telecomtv101.workers.dev/c/ch0306
+#EXTINF:-1 tvg-id="ch0307" tvg-name="Kino 24" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Kino 24
+https://stream.telecomtv101.workers.dev/c/ch0307
+#EXTINF:-1 tvg-id="ch0308" tvg-name="Киносезон" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киносезон
+https://stream.telecomtv101.workers.dev/c/ch0308
+#EXTINF:-1 tvg-id="ch0309" tvg-name="BOLT" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BOLT
+https://stream.telecomtv101.workers.dev/c/ch0309
+#EXTINF:-1 tvg-id="ch0310" tvg-name="Bolt HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bolt HD
+https://stream.telecomtv101.workers.dev/c/ch0310
+#EXTINF:-1 tvg-id="ch0311" tvg-name="Filmbox Russia" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Filmbox Russia
+https://stream.telecomtv101.workers.dev/c/ch0311
+#EXTINF:-1 tvg-id="ch0312" tvg-name="Filmbox Arthouse" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Filmbox Arthouse
+https://stream.telecomtv101.workers.dev/c/ch0312
+#EXTINF:-1 tvg-id="ch0313" tvg-name="Zee-TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Zee-TV
+https://stream.telecomtv101.workers.dev/c/ch0313
+#EXTINF:-1 tvg-id="ch0314" tvg-name="Plan B" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Plan B
+https://stream.telecomtv101.workers.dev/c/ch0314
+#EXTINF:-1 tvg-id="ch0315" tvg-name="SHOT TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SHOT TV
+https://stream.telecomtv101.workers.dev/c/ch0315
+#EXTINF:-1 tvg-id="ch0316" tvg-name="Дорама" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Дорама
+https://stream.telecomtv101.workers.dev/c/ch0316
+#EXTINF:-1 tvg-id="ch0317" tvg-name="Дорама HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Дорама HD
+https://stream.telecomtv101.workers.dev/c/ch0317
+#EXTINF:-1 tvg-id="ch0318" tvg-name="КИНЕКО" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",КИНЕКО
+https://stream.telecomtv101.workers.dev/c/ch0318
+#EXTINF:-1 tvg-id="ch0319" tvg-name="КИНЕКО HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",КИНЕКО HD
+https://stream.telecomtv101.workers.dev/c/ch0319
+#EXTINF:-1 tvg-id="ch0320" tvg-name="САПФИР" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",САПФИР
+https://stream.telecomtv101.workers.dev/c/ch0320
+#EXTINF:-1 tvg-id="ch0321" tvg-name="САПФИР HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",САПФИР HD
+https://stream.telecomtv101.workers.dev/c/ch0321
+#EXTINF:-1 tvg-id="ch0322" tvg-name="OTV (Латвия)" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",OTV (Латвия)
+https://stream.telecomtv101.workers.dev/c/ch0322
+#EXTINF:-1 tvg-id="ch0323" tvg-name="KINOWOOD HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",KINOWOOD HD
+https://stream.telecomtv101.workers.dev/c/ch0323
+#EXTINF:-1 tvg-id="ch0324" tvg-name="NOW Series HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",NOW Series HD
+https://stream.telecomtv101.workers.dev/c/ch0324
+#EXTINF:-1 tvg-id="ch0325" tvg-name="Криминальное HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Криминальное HD
+https://stream.telecomtv101.workers.dev/c/ch0325
+#EXTINF:-1 tvg-id="ch0326" tvg-name="Timeless Dizi Channel" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Timeless Dizi Channel
+https://stream.telecomtv101.workers.dev/c/ch0326
+#EXTINF:-1 tvg-id="ch0327" tvg-name="КиноБоевик HD KZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",КиноБоевик HD KZ
+https://stream.telecomtv101.workers.dev/c/ch0327
+#EXTINF:-1 tvg-id="ch0328" tvg-name="Семейное Кино HD KZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Семейное Кино HD KZ
+https://stream.telecomtv101.workers.dev/c/ch0328
+#EXTINF:-1 tvg-id="ch0329" tvg-name="Премиум Кино HD KZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Премиум Кино HD KZ
+https://stream.telecomtv101.workers.dev/c/ch0329
+#EXTINF:-1 tvg-id="ch0330" tvg-name="Мировое Кино HD KZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мировое Кино HD KZ
+https://stream.telecomtv101.workers.dev/c/ch0330
+#EXTINF:-1 tvg-id="ch0331" tvg-name="Кино 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кино 1
+https://stream.telecomtv101.workers.dev/c/ch0331
+#EXTINF:-1 tvg-id="ch0332" tvg-name="Кино 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кино 2
+https://stream.telecomtv101.workers.dev/c/ch0332
+#EXTINF:-1 tvg-id="ch0333" tvg-name="Военное кино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Военное кино
+https://stream.telecomtv101.workers.dev/c/ch0333
+#EXTINF:-1 tvg-id="ch0334" tvg-name="Киноджем 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киноджем 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0334
+#EXTINF:-1 tvg-id="ch0335" tvg-name="Киноджем 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Киноджем 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0335
+#EXTINF:-1 tvg-id="ch0336" tvg-name="DetectiveJam" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",DetectiveJam
+https://stream.telecomtv101.workers.dev/c/ch0336
+#EXTINF:-1 tvg-id="ch0337" tvg-name="FamilyJam" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FamilyJam
+https://stream.telecomtv101.workers.dev/c/ch0337
+#EXTINF:-1 tvg-id="ch0338" tvg-name="KION ХИТ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",KION ХИТ
+https://stream.telecomtv101.workers.dev/c/ch0338
+#EXTINF:-1 tvg-id="ch0339" tvg-name="Кино без границ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кино без границ HD
+https://stream.telecomtv101.workers.dev/c/ch0339
+#EXTINF:-1 tvg-id="ch0340" tvg-name="Смотрим HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Смотрим HD
+https://stream.telecomtv101.workers.dev/c/ch0340
+#EXTINF:-1 tvg-id="ch0341" tvg-name="4ever Cinema HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",4ever Cinema HD
+https://stream.telecomtv101.workers.dev/c/ch0341
+#EXTINF:-1 tvg-id="ch0342" tvg-name="4ever Drama HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",4ever Drama HD
+https://stream.telecomtv101.workers.dev/c/ch0342
+#EXTINF:-1 tvg-id="ch0343" tvg-name="4ever Theater HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",4ever Theater HD
+https://stream.telecomtv101.workers.dev/c/ch0343
+#EXTINF:-1 tvg-id="ch0344" tvg-name="Кино 1 International" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кино 1 International
+https://stream.telecomtv101.workers.dev/c/ch0344
+#EXTINF:-1 tvg-id="ch0345" tvg-name="START AIR" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",START AIR
+https://stream.telecomtv101.workers.dev/c/ch0345
+#EXTINF:-1 tvg-id="ch0346" tvg-name="START WORLD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",START WORLD
+https://stream.telecomtv101.workers.dev/c/ch0346
+#EXTINF:-1 tvg-id="ch0347" tvg-name="Чебур ТВ - Стрелялки FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Стрелялки FHD
+https://stream.telecomtv101.workers.dev/c/ch0347
+#EXTINF:-1 tvg-id="ch0348" tvg-name="Чебур ТВ - ХБ FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - ХБ FHD
+https://stream.telecomtv101.workers.dev/c/ch0348
+#EXTINF:-1 tvg-id="ch0349" tvg-name="Чебур ТВ - Фантазия FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Фантазия FHD
+https://stream.telecomtv101.workers.dev/c/ch0349
+#EXTINF:-1 tvg-id="ch0350" tvg-name="Чебур ТВ - RU Комедия FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - RU Комедия FHD
+https://stream.telecomtv101.workers.dev/c/ch0350
+#EXTINF:-1 tvg-id="ch0351" tvg-name="Чебур ТВ - Приключения FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Приключения FHD
+https://stream.telecomtv101.workers.dev/c/ch0351
+#EXTINF:-1 tvg-id="ch0352" tvg-name="Чебур ТВ - Фантастика FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Фантастика FHD
+https://stream.telecomtv101.workers.dev/c/ch0352
+#EXTINF:-1 tvg-id="ch0353" tvg-name="Чебур ТВ - Драма FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Драма FHD
+https://stream.telecomtv101.workers.dev/c/ch0353
+#EXTINF:-1 tvg-id="ch0354" tvg-name="Чебур ТВ - Триллер FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Триллер FHD
+https://stream.telecomtv101.workers.dev/c/ch0354
+#EXTINF:-1 tvg-id="ch0355" tvg-name="Чебур ТВ - Ужастики FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Ужастики FHD
+https://stream.telecomtv101.workers.dev/c/ch0355
+#EXTINF:-1 tvg-id="ch0356" tvg-name="Чебур ТВ - Новинки FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Новинки FHD
+https://stream.telecomtv101.workers.dev/c/ch0356
+#EXTINF:-1 tvg-id="ch0357" tvg-name="Чебур ТВ - Криминал FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Криминал FHD
+https://stream.telecomtv101.workers.dev/c/ch0357
+#EXTINF:-1 tvg-id="ch0358" tvg-name="Чебур ТВ - Детектив FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Детектив FHD
+https://stream.telecomtv101.workers.dev/c/ch0358
+#EXTINF:-1 tvg-id="ch0359" tvg-name="Чебур ТВ - Спортивный FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Спортивный FHD
+https://stream.telecomtv101.workers.dev/c/ch0359
+#EXTINF:-1 tvg-id="ch0360" tvg-name="Чебур ТВ - Армагеддон FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Армагеддон FHD
+https://stream.telecomtv101.workers.dev/c/ch0360
+#EXTINF:-1 tvg-id="ch0361" tvg-name="Чебур ТВ - Назад в СССР FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Назад в СССР FHD
+https://stream.telecomtv101.workers.dev/c/ch0361
+#EXTINF:-1 tvg-id="ch0362" tvg-name="Чебур ТВ - Мистика FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Мистика FHD
+https://stream.telecomtv101.workers.dev/c/ch0362
+#EXTINF:-1 tvg-id="ch0363" tvg-name="Чебур ТВ - Series FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Series FHD
+https://stream.telecomtv101.workers.dev/c/ch0363
+#EXTINF:-1 tvg-id="ch0364" tvg-name="Чебур ТВ - MIX FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - MIX FHD
+https://stream.telecomtv101.workers.dev/c/ch0364
+#EXTINF:-1 tvg-id="ch0365" tvg-name="Чебур ТВ - Наше Детство СССР" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Наше Детство СССР
+https://stream.telecomtv101.workers.dev/c/ch0365
+#EXTINF:-1 tvg-id="ch0366" tvg-name="Чебур ТВ - RU Мелодрама FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - RU Мелодрама FHD
+https://stream.telecomtv101.workers.dev/c/ch0366
+#EXTINF:-1 tvg-id="ch0367" tvg-name="Чебур ТВ - Мелодрама FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Мелодрама FHD
+https://stream.telecomtv101.workers.dev/c/ch0367
+#EXTINF:-1 tvg-id="ch0368" tvg-name="Чебур ТВ - Смешной FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Смешной FHD
+https://stream.telecomtv101.workers.dev/c/ch0368
+#EXTINF:-1 tvg-id="ch0369" tvg-name="Чебур ТВ - Семейное FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Семейное FHD
+https://stream.telecomtv101.workers.dev/c/ch0369
+#EXTINF:-1 tvg-id="ch0370" tvg-name="Чебур ТВ - RU Кино FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - RU Кино FHD
+https://stream.telecomtv101.workers.dev/c/ch0370
+#EXTINF:-1 tvg-id="ch0371" tvg-name="Чебур ТВ - Вестерн FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Вестерн FHD
+https://stream.telecomtv101.workers.dev/c/ch0371
+#EXTINF:-1 tvg-id="ch0372" tvg-name="Чебур ТВ - Военный FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Военный FHD
+https://stream.telecomtv101.workers.dev/c/ch0372
+#EXTINF:-1 tvg-id="ch0373" tvg-name="Чебур ТВ - СССР 20-е" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - СССР 20-е
+https://stream.telecomtv101.workers.dev/c/ch0373
+#EXTINF:-1 tvg-id="ch0374" tvg-name="Чебур ТВ - СССР 30-е" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - СССР 30-е
+https://stream.telecomtv101.workers.dev/c/ch0374
+#EXTINF:-1 tvg-id="ch0375" tvg-name="Чебур ТВ - СССР 40-е" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - СССР 40-е
+https://stream.telecomtv101.workers.dev/c/ch0375
+#EXTINF:-1 tvg-id="ch0376" tvg-name="Чебур ТВ - СССР 50-е" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - СССР 50-е
+https://stream.telecomtv101.workers.dev/c/ch0376
+#EXTINF:-1 tvg-id="ch0377" tvg-name="Чебур ТВ - СССР 60-е" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - СССР 60-е
+https://stream.telecomtv101.workers.dev/c/ch0377
+#EXTINF:-1 tvg-id="ch0378" tvg-name="Чебур ТВ - СССР 70-е" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - СССР 70-е
+https://stream.telecomtv101.workers.dev/c/ch0378
+#EXTINF:-1 tvg-id="ch0379" tvg-name="Чебур ТВ - СССР 80-е" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - СССР 80-е
+https://stream.telecomtv101.workers.dev/c/ch0379
+#EXTINF:-1 tvg-id="ch0380" tvg-name="Чебур ТВ - СССР 90-е" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - СССР 90-е
+https://stream.telecomtv101.workers.dev/c/ch0380
+#EXTINF:-1 tvg-id="ch0381" tvg-name="Чебур ТВ - СССР Нетленка" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - СССР Нетленка
+https://stream.telecomtv101.workers.dev/c/ch0381
+#EXTINF:-1 tvg-id="ch0382" tvg-name="Индия HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Индия HD
+https://stream.telecomtv101.workers.dev/c/ch0382
+#EXTINF:-1 tvg-id="ch0383" tvg-name="CINEMAN Marvel" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CINEMAN Marvel
+https://stream.telecomtv101.workers.dev/c/ch0383
+#EXTINF:-1 tvg-id="ch0384" tvg-name="Кино 24" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кино 24
+https://stream.telecomtv101.workers.dev/c/ch0384
+#EXTINF:-1 tvg-id="ch0385" tvg-name="Легенда HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Легенда HD
+https://stream.telecomtv101.workers.dev/c/ch0385
+#EXTINF:-1 tvg-id="ch0386" tvg-name="FOX" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FOX
+https://stream.telecomtv101.workers.dev/c/ch0386
+#EXTINF:-1 tvg-id="ch0387" tvg-name="VeleS 60FPS" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VeleS 60FPS
+https://stream.telecomtv101.workers.dev/c/ch0387
+#EXTINF:-1 tvg-id="ch0388" tvg-name="VeleS Киноплёнка" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VeleS Киноплёнка
+https://stream.telecomtv101.workers.dev/c/ch0388
+#EXTINF:-1 tvg-id="ch0389" tvg-name="VeleS Киносерия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VeleS Киносерия
+https://stream.telecomtv101.workers.dev/c/ch0389
+#EXTINF:-1 tvg-id="ch0390" tvg-name="VeleS Premiere" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VeleS Premiere
+https://stream.telecomtv101.workers.dev/c/ch0390
+#EXTINF:-1 tvg-id="ch0391" tvg-name="VeleS Страшное" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VeleS Страшное
+https://stream.telecomtv101.workers.dev/c/ch0391
+#EXTINF:-1 tvg-id="ch0392" tvg-name="VeleS СССР" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VeleS СССР
+https://stream.telecomtv101.workers.dev/c/ch0392
+#EXTINF:-1 tvg-id="ch0393" tvg-name="VeleS Movie Hits" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VeleS Movie Hits
+https://stream.telecomtv101.workers.dev/c/ch0393
+#EXTINF:-1 tvg-id="ch0394" tvg-name="VeleS Криминальный" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VeleS Криминальный
+https://stream.telecomtv101.workers.dev/c/ch0394
+#EXTINF:-1 tvg-id="ch0395" tvg-name="BCU Premiere Ultra 4K" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Premiere Ultra 4K
+https://stream.telecomtv101.workers.dev/c/ch0395
+#EXTINF:-1 tvg-id="ch0396" tvg-name="BCU Ultra 4K" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Ultra 4K
+https://stream.telecomtv101.workers.dev/c/ch0396
+#EXTINF:-1 tvg-id="ch0397" tvg-name="BCU Survival" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Survival
+https://stream.telecomtv101.workers.dev/c/ch0397
+#EXTINF:-1 tvg-id="ch0398" tvg-name="BCU Кинозал Premiere 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Кинозал Premiere 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0398
+#EXTINF:-1 tvg-id="ch0399" tvg-name="BCU Кинозал Premiere 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Кинозал Premiere 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0399
+#EXTINF:-1 tvg-id="ch0400" tvg-name="BCU Кинозал Premiere 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Кинозал Premiere 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0400
+#EXTINF:-1 tvg-id="ch0401" tvg-name="BCU Fantastic HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Fantastic HD
+https://stream.telecomtv101.workers.dev/c/ch0401
+#EXTINF:-1 tvg-id="ch0402" tvg-name="BCU Marvel" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Marvel
+https://stream.telecomtv101.workers.dev/c/ch0402
+#EXTINF:-1 tvg-id="ch0403" tvg-name="BCU Premiere HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Premiere HD
+https://stream.telecomtv101.workers.dev/c/ch0403
+#EXTINF:-1 tvg-id="ch0404" tvg-name="BCU Russian HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Russian HD
+https://stream.telecomtv101.workers.dev/c/ch0404
+#EXTINF:-1 tvg-id="ch0405" tvg-name="BCU Comedy HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Comedy HD
+https://stream.telecomtv101.workers.dev/c/ch0405
+#EXTINF:-1 tvg-id="ch0406" tvg-name="BCU Cinema HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Cinema HD
+https://stream.telecomtv101.workers.dev/c/ch0406
+#EXTINF:-1 tvg-id="ch0407" tvg-name="BCU Cinema+ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Cinema+ HD
+https://stream.telecomtv101.workers.dev/c/ch0407
+#EXTINF:-1 tvg-id="ch0408" tvg-name="BCU Catastrophe HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Catastrophe HD
+https://stream.telecomtv101.workers.dev/c/ch0408
+#EXTINF:-1 tvg-id="ch0409" tvg-name="BCU Action HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Action HD
+https://stream.telecomtv101.workers.dev/c/ch0409
+#EXTINF:-1 tvg-id="ch0410" tvg-name="BCU STARS HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU STARS HD
+https://stream.telecomtv101.workers.dev/c/ch0410
+#EXTINF:-1 tvg-id="ch0411" tvg-name="BCU FilMystic HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU FilMystic HD
+https://stream.telecomtv101.workers.dev/c/ch0411
+#EXTINF:-1 tvg-id="ch0412" tvg-name="BCU History HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU History HD
+https://stream.telecomtv101.workers.dev/c/ch0412
+#EXTINF:-1 tvg-id="ch0413" tvg-name="BCU Kinorating HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Kinorating HD
+https://stream.telecomtv101.workers.dev/c/ch0413
+#EXTINF:-1 tvg-id="ch0414" tvg-name="BCU Romantic HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Romantic HD
+https://stream.telecomtv101.workers.dev/c/ch0414
+#EXTINF:-1 tvg-id="ch0415" tvg-name="BCU VHS HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU VHS HD
+https://stream.telecomtv101.workers.dev/c/ch0415
+#EXTINF:-1 tvg-id="ch0416" tvg-name="BCU СССР HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU СССР HD
+https://stream.telecomtv101.workers.dev/c/ch0416
+#EXTINF:-1 tvg-id="ch0417" tvg-name="BCU RuSerial HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU RuSerial HD
+https://stream.telecomtv101.workers.dev/c/ch0417
+#EXTINF:-1 tvg-id="ch0418" tvg-name="MiTV Леонид Гайдай" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Леонид Гайдай
+https://stream.telecomtv101.workers.dev/c/ch0418
+#EXTINF:-1 tvg-id="ch0427" tvg-name="MiTV Фильмы в переводе Гоблина" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Фильмы в переводе Гоблина
+https://stream.telecomtv101.workers.dev/c/ch0427
+#EXTINF:-1 tvg-id="ch0420" tvg-name="MiTV Сергей Бодров" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Сергей Бодров
+https://stream.telecomtv101.workers.dev/c/ch0420
+#EXTINF:-1 tvg-id="ch0421" tvg-name="MiTV Улицы разбитых фонарей" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Улицы разбитых фонарей
+https://stream.telecomtv101.workers.dev/c/ch0421
+#EXTINF:-1 tvg-id="ch0422" tvg-name="MiTV Бригада" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Бригада
+https://stream.telecomtv101.workers.dev/c/ch0422
+#EXTINF:-1 tvg-id="ch0423" tvg-name="MiTV Эльдар Рязанов" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Эльдар Рязанов
+https://stream.telecomtv101.workers.dev/c/ch0423
+#EXTINF:-1 tvg-id="ch0424" tvg-name="MiTV Луи де Фюнес" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Луи де Фюнес
+https://stream.telecomtv101.workers.dev/c/ch0424
+#EXTINF:-1 tvg-id="ch0425" tvg-name="MiTV Джеки Чан" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Джеки Чан
+https://stream.telecomtv101.workers.dev/c/ch0425
+#EXTINF:-1 tvg-id="ch0426" tvg-name="MiTV Ментовские войны" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Ментовские войны
+https://stream.telecomtv101.workers.dev/c/ch0426
+#EXTINF:-1 tvg-id="ch0428" tvg-name="Чебур ТВ - История" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - История
+https://stream.telecomtv101.workers.dev/c/ch0428
+#EXTINF:-1 tvg-id="ch0429" tvg-name="Чебур ТВ - Мюзикл" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Мюзикл
+https://stream.telecomtv101.workers.dev/c/ch0429
+#EXTINF:-1 tvg-id="ch0430" tvg-name="Чебур ТВ - Супергерои" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Супергерои
+https://stream.telecomtv101.workers.dev/c/ch0430
+#EXTINF:-1 tvg-id="ch0431" tvg-name="Чебур ТВ - Биография" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Биография
+https://stream.telecomtv101.workers.dev/c/ch0431
+#EXTINF:-1 tvg-id="ch0432" tvg-name="Чебур ТВ - Анимешки" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Анимешки
+https://stream.telecomtv101.workers.dev/c/ch0432
+#EXTINF:-1 tvg-id="ch0433" tvg-name="Чебур ТВ - Пришельцы" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Пришельцы
+https://stream.telecomtv101.workers.dev/c/ch0433
+#EXTINF:-1 tvg-id="ch0434" tvg-name="Чебур ТВ - Зита-Гита" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Зита-Гита
+https://stream.telecomtv101.workers.dev/c/ch0434
+#EXTINF:-1 tvg-id="ch0435" tvg-name="Чебур ТВ - Космос" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Космос
+https://stream.telecomtv101.workers.dev/c/ch0435
+#EXTINF:-1 tvg-id="ch0436" tvg-name="Чебур ТВ - Боевичок" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Боевичок
+https://stream.telecomtv101.workers.dev/c/ch0436
+#EXTINF:-1 tvg-id="ch0437" tvg-name="Чебур ТВ - Балабол" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Балабол
+https://stream.telecomtv101.workers.dev/c/ch0437
+#EXTINF:-1 tvg-id="ch0438" tvg-name="Чебур ТВ - На Краю Вселенной" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - На Краю Вселенной
+https://stream.telecomtv101.workers.dev/c/ch0438
+#EXTINF:-1 tvg-id="ch0439" tvg-name="Eurosport 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Eurosport 1
+https://stream.telecomtv101.workers.dev/c/ch0439
+#EXTINF:-1 tvg-id="ch0440" tvg-name="Eurosport 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Eurosport 2
+https://stream.telecomtv101.workers.dev/c/ch0440
+#EXTINF:-1 tvg-id="ch0441" tvg-name="Eurosport 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Eurosport 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0441
+#EXTINF:-1 tvg-id="ch0442" tvg-name="Eurosport 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Eurosport 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0442
+#EXTINF:-1 tvg-id="ch0443" tvg-name="Eurosport 4K" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Eurosport 4K
+https://stream.telecomtv101.workers.dev/c/ch0443
+#EXTINF:-1 tvg-id="ch0444" tvg-name="Матч! HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! HD
+https://stream.telecomtv101.workers.dev/c/ch0444
+#EXTINF:-1 tvg-id="ch0445" tvg-name="Матч! Премьер HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Премьер HD
+https://stream.telecomtv101.workers.dev/c/ch0445
+#EXTINF:-1 tvg-id="ch0446" tvg-name="Матч Футбол 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч Футбол 1
+https://stream.telecomtv101.workers.dev/c/ch0446
+#EXTINF:-1 tvg-id="ch0447" tvg-name="Матч Футбол 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч Футбол 2
+https://stream.telecomtv101.workers.dev/c/ch0447
+#EXTINF:-1 tvg-id="ch0448" tvg-name="Матч Футбол 3" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч Футбол 3
+https://stream.telecomtv101.workers.dev/c/ch0448
+#EXTINF:-1 tvg-id="ch0449" tvg-name="Матч! Футбол 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Футбол 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0449
+#EXTINF:-1 tvg-id="ch0450" tvg-name="Матч! Футбол 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Футбол 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0450
+#EXTINF:-1 tvg-id="ch0451" tvg-name="Матч! Футбол 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Футбол 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0451
+#EXTINF:-1 tvg-id="ch0452" tvg-name="Матч! Футбол 1 FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Футбол 1 FHD
+https://stream.telecomtv101.workers.dev/c/ch0452
+#EXTINF:-1 tvg-id="ch0453" tvg-name="Матч! Футбол 2 FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Футбол 2 FHD
+https://stream.telecomtv101.workers.dev/c/ch0453
+#EXTINF:-1 tvg-id="ch0454" tvg-name="Матч! Футбол 3 FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Футбол 3 FHD
+https://stream.telecomtv101.workers.dev/c/ch0454
+#EXTINF:-1 tvg-id="ch0455" tvg-name="Окко Футбол HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Окко Футбол HD
+https://stream.telecomtv101.workers.dev/c/ch0455
+#EXTINF:-1 tvg-id="ch0456" tvg-name="Окко.Спорт HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Окко.Спорт HD
+https://stream.telecomtv101.workers.dev/c/ch0456
+#EXTINF:-1 tvg-id="ch0457" tvg-name="Окко Прайм Спорт" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Окко Прайм Спорт
+https://stream.telecomtv101.workers.dev/c/ch0457
+#EXTINF:-1 tvg-id="ch0458" tvg-name="Setanta Sports Ukraine" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports Ukraine
+https://stream.telecomtv101.workers.dev/c/ch0458
+#EXTINF:-1 tvg-id="ch0459" tvg-name="Setanta Sports+ Ukraine" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports+ Ukraine
+https://stream.telecomtv101.workers.dev/c/ch0459
+#EXTINF:-1 tvg-id="ch0460" tvg-name="Setanta Sports Premium" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports Premium
+https://stream.telecomtv101.workers.dev/c/ch0460
+#EXTINF:-1 tvg-id="ch0461" tvg-name="Setanta Sports 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0461
+#EXTINF:-1 tvg-id="ch0462" tvg-name="Setanta Sports 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0462
+#EXTINF:-1 tvg-id="ch0463" tvg-name="Setanta Sports Qazaqstan" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports Qazaqstan
+https://stream.telecomtv101.workers.dev/c/ch0463
+#EXTINF:-1 tvg-id="ch0464" tvg-name="Setanta Sports 1 HD UZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports 1 HD UZ
+https://stream.telecomtv101.workers.dev/c/ch0464
+#EXTINF:-1 tvg-id="ch0465" tvg-name="Setanta Sports 2 HD UZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports 2 HD UZ
+https://stream.telecomtv101.workers.dev/c/ch0465
+#EXTINF:-1 tvg-id="ch0466" tvg-name="Setanta Sports Moldova" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports Moldova
+https://stream.telecomtv101.workers.dev/c/ch0466
+#EXTINF:-1 tvg-id="ch0467" tvg-name="Setanta Sports 1 Lietuva" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports 1 Lietuva
+https://stream.telecomtv101.workers.dev/c/ch0467
+#EXTINF:-1 tvg-id="ch0468" tvg-name="Setanta Sports 1 Georgia" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports 1 Georgia
+https://stream.telecomtv101.workers.dev/c/ch0468
+#EXTINF:-1 tvg-id="ch0469" tvg-name="Setanta Sports 2 Georgia" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports 2 Georgia
+https://stream.telecomtv101.workers.dev/c/ch0469
+#EXTINF:-1 tvg-id="ch0470" tvg-name="Setanta Sports 3 Georgia" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Setanta Sports 3 Georgia
+https://stream.telecomtv101.workers.dev/c/ch0470
+#EXTINF:-1 tvg-id="ch0471" tvg-name="Silk Sport 1 HD Georgia" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Silk Sport 1 HD Georgia
+https://stream.telecomtv101.workers.dev/c/ch0471
+#EXTINF:-1 tvg-id="ch0472" tvg-name="Silk Sport 2 HD Georgia" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Silk Sport 2 HD Georgia
+https://stream.telecomtv101.workers.dev/c/ch0472
+#EXTINF:-1 tvg-id="ch0473" tvg-name="Silk Sport 3 HD Georgia" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Silk Sport 3 HD Georgia
+https://stream.telecomtv101.workers.dev/c/ch0473
+#EXTINF:-1 tvg-id="ch0474" tvg-name="Bein Sport 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bein Sport 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0474
+#EXTINF:-1 tvg-id="ch0475" tvg-name="Bein Sport 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bein Sport 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0475
+#EXTINF:-1 tvg-id="ch0476" tvg-name="Bein Sport 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bein Sport 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0476
+#EXTINF:-1 tvg-id="ch0477" tvg-name="Arena Premium 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Premium 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0477
+#EXTINF:-1 tvg-id="ch0478" tvg-name="Arena Premium 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Premium 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0478
+#EXTINF:-1 tvg-id="ch0479" tvg-name="Arena Premium 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Premium 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0479
+#EXTINF:-1 tvg-id="ch0480" tvg-name="Arena Premium 4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Premium 4 HD
+https://stream.telecomtv101.workers.dev/c/ch0480
+#EXTINF:-1 tvg-id="ch0481" tvg-name="Arena Premium 5 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Premium 5 HD
+https://stream.telecomtv101.workers.dev/c/ch0481
+#EXTINF:-1 tvg-id="ch0482" tvg-name="Футбол" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Футбол
+https://stream.telecomtv101.workers.dev/c/ch0482
+#EXTINF:-1 tvg-id="ch0483" tvg-name="Футбол HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Футбол HD
+https://stream.telecomtv101.workers.dev/c/ch0483
+#EXTINF:-1 tvg-id="ch0484" tvg-name="Футбольный HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Футбольный HD
+https://stream.telecomtv101.workers.dev/c/ch0484
+#EXTINF:-1 tvg-id="ch0904" tvg-name="Football-HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Football-HD
+https://stream.telecomtv101.workers.dev/c/ch0904
+#EXTINF:-1 tvg-id="ch0486" tvg-name="Megogo Футбол 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Megogo Футбол 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0486
+#EXTINF:-1 tvg-id="ch0487" tvg-name="Megogo Футбол 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Megogo Футбол 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0487
+#EXTINF:-1 tvg-id="ch0488" tvg-name="Megogo Футбол 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Megogo Футбол 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0488
+#EXTINF:-1 tvg-id="ch0489" tvg-name="Megogo Гонг" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Megogo Гонг
+https://stream.telecomtv101.workers.dev/c/ch0489
+#EXTINF:-1 tvg-id="ch0490" tvg-name="Megogo Спорт" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Megogo Спорт
+https://stream.telecomtv101.workers.dev/c/ch0490
+#EXTINF:-1 tvg-id="ch0491" tvg-name="Q Sport League" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Q Sport League
+https://stream.telecomtv101.workers.dev/c/ch0491
+#EXTINF:-1 tvg-id="ch0492" tvg-name="Матч! Игра" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Игра
+https://stream.telecomtv101.workers.dev/c/ch0492
+#EXTINF:-1 tvg-id="ch0493" tvg-name="Матч! Страна" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Страна
+https://stream.telecomtv101.workers.dev/c/ch0493
+#EXTINF:-1 tvg-id="ch0494" tvg-name="Матч! Боец" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Боец
+https://stream.telecomtv101.workers.dev/c/ch0494
+#EXTINF:-1 tvg-id="ch0495" tvg-name="Удар HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Удар HD
+https://stream.telecomtv101.workers.dev/c/ch0495
+#EXTINF:-1 tvg-id="ch0496" tvg-name="Бокс ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Бокс ТВ
+https://stream.telecomtv101.workers.dev/c/ch0496
+#EXTINF:-1 tvg-id="ch0497" tvg-name="Матч! Арена" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Матч! Арена
+https://stream.telecomtv101.workers.dev/c/ch0497
+#EXTINF:-1 tvg-id="ch0498" tvg-name="MMA-TV!" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MMA-TV!
+https://stream.telecomtv101.workers.dev/c/ch0498
+#EXTINF:-1 tvg-id="ch0499" tvg-name="UFC" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",UFC
+https://stream.telecomtv101.workers.dev/c/ch0499
+#EXTINF:-1 tvg-id="ch0500" tvg-name="Arena Fight" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Fight
+https://stream.telecomtv101.workers.dev/c/ch0500
+#EXTINF:-1 tvg-id="ch0501" tvg-name="FUBO Sports Network HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FUBO Sports Network HD
+https://stream.telecomtv101.workers.dev/c/ch0501
+#EXTINF:-1 tvg-id="ch0502" tvg-name="FightBox HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FightBox HD
+https://stream.telecomtv101.workers.dev/c/ch0502
+#EXTINF:-1 tvg-id="ch0503" tvg-name="Extreme Sports" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Extreme Sports
+https://stream.telecomtv101.workers.dev/c/ch0503
+#EXTINF:-1 tvg-id="ch0504" tvg-name="Russian Extreme TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Russian Extreme TV
+https://stream.telecomtv101.workers.dev/c/ch0504
+#EXTINF:-1 tvg-id="ch0505" tvg-name="Старт HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Старт HD
+https://stream.telecomtv101.workers.dev/c/ch0505
+#EXTINF:-1 tvg-id="ch0507" tvg-name="Старт Триумф HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Старт Триумф HD
+https://stream.telecomtv101.workers.dev/c/ch0507
+#EXTINF:-1 tvg-id="ch0508" tvg-name="Старт Баскет HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Старт Баскет HD
+https://stream.telecomtv101.workers.dev/c/ch0508
+#EXTINF:-1 tvg-id="ch0509" tvg-name="Спортивный HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Спортивный HD
+https://stream.telecomtv101.workers.dev/c/ch0509
+#EXTINF:-1 tvg-id="ch0510" tvg-name="Хоккейный HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Хоккейный HD
+https://stream.telecomtv101.workers.dev/c/ch0510
+#EXTINF:-1 tvg-id="ch0511" tvg-name="NHL" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",NHL
+https://stream.telecomtv101.workers.dev/c/ch0511
+#EXTINF:-1 tvg-id="ch0512" tvg-name="KHL" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",KHL
+https://stream.telecomtv101.workers.dev/c/ch0512
+#EXTINF:-1 tvg-id="ch0513" tvg-name="KHL HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",KHL HD
+https://stream.telecomtv101.workers.dev/c/ch0513
+#EXTINF:-1 tvg-id="ch0514" tvg-name="KHL Prime" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",KHL Prime
+https://stream.telecomtv101.workers.dev/c/ch0514
+#EXTINF:-1 tvg-id="ch0515" tvg-name="KHL Prime HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",KHL Prime HD
+https://stream.telecomtv101.workers.dev/c/ch0515
+#EXTINF:-1 tvg-id="ch0516" tvg-name="NBA TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",NBA TV
+https://stream.telecomtv101.workers.dev/c/ch0516
+#EXTINF:-1 tvg-id="ch0517" tvg-name="Мир Баскетбола" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мир Баскетбола
+https://stream.telecomtv101.workers.dev/c/ch0517
+#EXTINF:-1 tvg-id="ch0518" tvg-name="Super-Tennis HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Super-Tennis HD
+https://stream.telecomtv101.workers.dev/c/ch0518
+#EXTINF:-1 tvg-id="ch0519" tvg-name="Golf TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Golf TV HD
+https://stream.telecomtv101.workers.dev/c/ch0519
+#EXTINF:-1 tvg-id="ch0520" tvg-name="Sport 1 Baltic" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sport 1 Baltic
+https://stream.telecomtv101.workers.dev/c/ch0520
+#EXTINF:-1 tvg-id="ch0521" tvg-name="Sport 1 UA" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sport 1 UA
+https://stream.telecomtv101.workers.dev/c/ch0521
+#EXTINF:-1 tvg-id="ch0522" tvg-name="Sport 2 UA" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sport 2 UA
+https://stream.telecomtv101.workers.dev/c/ch0522
+#EXTINF:-1 tvg-id="ch0523" tvg-name="Спорт 3 Украина" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Спорт 3 Украина
+https://stream.telecomtv101.workers.dev/c/ch0523
+#EXTINF:-1 tvg-id="ch0524" tvg-name="Спорт 4 Украина" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Спорт 4 Украина
+https://stream.telecomtv101.workers.dev/c/ch0524
+#EXTINF:-1 tvg-id="ch0525" tvg-name="Xsport" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Xsport
+https://stream.telecomtv101.workers.dev/c/ch0525
+#EXTINF:-1 tvg-id="ch0526" tvg-name="Xsport+" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Xsport+
+https://stream.telecomtv101.workers.dev/c/ch0526
+#EXTINF:-1 tvg-id="ch0527" tvg-name="Divi Sport HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Divi Sport HD
+https://stream.telecomtv101.workers.dev/c/ch0527
+#EXTINF:-1 tvg-id="ch0528" tvg-name="Суспільне Спорт" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Суспільне Спорт
+https://stream.telecomtv101.workers.dev/c/ch0528
+#EXTINF:-1 tvg-id="ch0529" tvg-name="UPL.TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",UPL.TV HD
+https://stream.telecomtv101.workers.dev/c/ch0529
+#EXTINF:-1 tvg-id="ch0530" tvg-name="Київстар ТБ Ексклюзив HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Київстар ТБ Ексклюзив HD
+https://stream.telecomtv101.workers.dev/c/ch0530
+#EXTINF:-1 tvg-id="ch0531" tvg-name="Dynamo Kyiv TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Dynamo Kyiv TV HD
+https://stream.telecomtv101.workers.dev/c/ch0531
+#EXTINF:-1 tvg-id="ch0532" tvg-name="Equalympic HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Equalympic HD
+https://stream.telecomtv101.workers.dev/c/ch0532
+#EXTINF:-1 tvg-id="ch0533" tvg-name="DAZN 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",DAZN 1
+https://stream.telecomtv101.workers.dev/c/ch0533
+#EXTINF:-1 tvg-id="ch0534" tvg-name="DAZN 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",DAZN 2
+https://stream.telecomtv101.workers.dev/c/ch0534
+#EXTINF:-1 tvg-id="ch0535" tvg-name="FOX Sport 1 USA" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FOX Sport 1 USA
+https://stream.telecomtv101.workers.dev/c/ch0535
+#EXTINF:-1 tvg-id="ch0536" tvg-name="FOX Sport 2 USA" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FOX Sport 2 USA
+https://stream.telecomtv101.workers.dev/c/ch0536
+#EXTINF:-1 tvg-id="ch0537" tvg-name="ESPN 1 USA" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ESPN 1 USA
+https://stream.telecomtv101.workers.dev/c/ch0537
+#EXTINF:-1 tvg-id="ch0538" tvg-name="ESPN 2 USA" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ESPN 2 USA
+https://stream.telecomtv101.workers.dev/c/ch0538
+#EXTINF:-1 tvg-id="ch0539" tvg-name="Sky Sport Bundesliga 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sky Sport Bundesliga 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0539
+#EXTINF:-1 tvg-id="ch0540" tvg-name="Sky Sport 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sky Sport 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0540
+#EXTINF:-1 tvg-id="ch0541" tvg-name="Sky Sport 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sky Sport 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0541
+#EXTINF:-1 tvg-id="ch0542" tvg-name="Sky Sports F1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sky Sports F1
+https://stream.telecomtv101.workers.dev/c/ch0542
+#EXTINF:-1 tvg-id="ch0543" tvg-name="RTVS :Sport HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",RTVS :Sport HD
+https://stream.telecomtv101.workers.dev/c/ch0543
+#EXTINF:-1 tvg-id="ch0544" tvg-name="Dubai Sports 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Dubai Sports 2
+https://stream.telecomtv101.workers.dev/c/ch0544
+#EXTINF:-1 tvg-id="ch0545" tvg-name="Dubai Sports 3" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Dubai Sports 3
+https://stream.telecomtv101.workers.dev/c/ch0545
+#EXTINF:-1 tvg-id="ch0546" tvg-name="MAX Sport 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MAX Sport 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0546
+#EXTINF:-1 tvg-id="ch0547" tvg-name="MAX Sport 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MAX Sport 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0547
+#EXTINF:-1 tvg-id="ch0548" tvg-name="MAX Sport 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MAX Sport 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0548
+#EXTINF:-1 tvg-id="ch0549" tvg-name="MAX Sport 4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MAX Sport 4 HD
+https://stream.telecomtv101.workers.dev/c/ch0549
+#EXTINF:-1 tvg-id="ch0550" tvg-name="PRIMA Sport 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",PRIMA Sport 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0550
+#EXTINF:-1 tvg-id="ch0551" tvg-name="PRIMA Sport 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",PRIMA Sport 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0551
+#EXTINF:-1 tvg-id="ch0552" tvg-name="PRIMA Sport 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",PRIMA Sport 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0552
+#EXTINF:-1 tvg-id="ch0553" tvg-name="PRIMA Sport 4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",PRIMA Sport 4 HD
+https://stream.telecomtv101.workers.dev/c/ch0553
+#EXTINF:-1 tvg-id="ch0554" tvg-name="Digi Sport 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Digi Sport 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0554
+#EXTINF:-1 tvg-id="ch0555" tvg-name="Digi Sport 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Digi Sport 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0555
+#EXTINF:-1 tvg-id="ch0556" tvg-name="Digi Sport 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Digi Sport 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0556
+#EXTINF:-1 tvg-id="ch0557" tvg-name="Digi Sport 4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Digi Sport 4 HD
+https://stream.telecomtv101.workers.dev/c/ch0557
+#EXTINF:-1 tvg-id="ch0558" tvg-name="Nova Sport 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Nova Sport 1
+https://stream.telecomtv101.workers.dev/c/ch0558
+#EXTINF:-1 tvg-id="ch0559" tvg-name="Viju+ Sport" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viju+ Sport
+https://stream.telecomtv101.workers.dev/c/ch0559
+#EXTINF:-1 tvg-id="ch0560" tvg-name="SuperSport 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SuperSport 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0560
+#EXTINF:-1 tvg-id="ch0561" tvg-name="SuperSport 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SuperSport 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0561
+#EXTINF:-1 tvg-id="ch0562" tvg-name="SuperSport 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SuperSport 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0562
+#EXTINF:-1 tvg-id="ch0563" tvg-name="SuperSport 4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SuperSport 4 HD
+https://stream.telecomtv101.workers.dev/c/ch0563
+#EXTINF:-1 tvg-id="ch0564" tvg-name="Arena Sport 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Sport 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0564
+#EXTINF:-1 tvg-id="ch0565" tvg-name="Arena Sport 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Sport 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0565
+#EXTINF:-1 tvg-id="ch0566" tvg-name="Arena Sport 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Sport 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0566
+#EXTINF:-1 tvg-id="ch0567" tvg-name="Arena Sport 4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Sport 4 HD
+https://stream.telecomtv101.workers.dev/c/ch0567
+#EXTINF:-1 tvg-id="ch0568" tvg-name="Arena Sport 5 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Sport 5 HD
+https://stream.telecomtv101.workers.dev/c/ch0568
+#EXTINF:-1 tvg-id="ch0569" tvg-name="Arena Sport 6 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Sport 6 HD
+https://stream.telecomtv101.workers.dev/c/ch0569
+#EXTINF:-1 tvg-id="ch0570" tvg-name="Arena Sport 8 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena Sport 8 HD
+https://stream.telecomtv101.workers.dev/c/ch0570
+#EXTINF:-1 tvg-id="ch0571" tvg-name="Go3 Sport" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Go3 Sport
+https://stream.telecomtv101.workers.dev/c/ch0571
+#EXTINF:-1 tvg-id="ch0572" tvg-name="Go3 Sport 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Go3 Sport 2
+https://stream.telecomtv101.workers.dev/c/ch0572
+#EXTINF:-1 tvg-id="ch0573" tvg-name="Go3 Sport 3" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Go3 Sport 3
+https://stream.telecomtv101.workers.dev/c/ch0573
+#EXTINF:-1 tvg-id="ch0574" tvg-name="Go3 Sport Open" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Go3 Sport Open
+https://stream.telecomtv101.workers.dev/c/ch0574
+#EXTINF:-1 tvg-id="ch0575" tvg-name="Fint Ga 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Fint Ga 1
+https://stream.telecomtv101.workers.dev/c/ch0575
+#EXTINF:-1 tvg-id="ch0576" tvg-name="Fint Ga 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Fint Ga 2
+https://stream.telecomtv101.workers.dev/c/ch0576
+#EXTINF:-1 tvg-id="ch0577" tvg-name="Fint Ga 3" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Fint Ga 3
+https://stream.telecomtv101.workers.dev/c/ch0577
+#EXTINF:-1 tvg-id="ch0578" tvg-name="Fint Ga 4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Fint Ga 4
+https://stream.telecomtv101.workers.dev/c/ch0578
+#EXTINF:-1 tvg-id="ch0579" tvg-name="Pimple TV 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Pimple TV 1
+https://stream.telecomtv101.workers.dev/c/ch0579
+#EXTINF:-1 tvg-id="ch0580" tvg-name="Pimple TV 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Pimple TV 2
+https://stream.telecomtv101.workers.dev/c/ch0580
+#EXTINF:-1 tvg-id="ch0581" tvg-name="Pimple TV 3" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Pimple TV 3
+https://stream.telecomtv101.workers.dev/c/ch0581
+#EXTINF:-1 tvg-id="ch0582" tvg-name="Pimple TV 4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Pimple TV 4
+https://stream.telecomtv101.workers.dev/c/ch0582
+#EXTINF:-1 tvg-id="ch0583" tvg-name="Pimple TV 5" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Pimple TV 5
+https://stream.telecomtv101.workers.dev/c/ch0583
+#EXTINF:-1 tvg-id="ch0584" tvg-name="Pimple TV 6" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Pimple TV 6
+https://stream.telecomtv101.workers.dev/c/ch0584
+#EXTINF:-1 tvg-id="ch0585" tvg-name="ViP Sport 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 1
+https://stream.telecomtv101.workers.dev/c/ch0585
+#EXTINF:-1 tvg-id="ch0586" tvg-name="ViP Sport 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 2
+https://stream.telecomtv101.workers.dev/c/ch0586
+#EXTINF:-1 tvg-id="ch0587" tvg-name="ViP Sport 3" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 3
+https://stream.telecomtv101.workers.dev/c/ch0587
+#EXTINF:-1 tvg-id="ch0588" tvg-name="ViP Sport 4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 4
+https://stream.telecomtv101.workers.dev/c/ch0588
+#EXTINF:-1 tvg-id="ch0589" tvg-name="ViP Sport 5" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 5
+https://stream.telecomtv101.workers.dev/c/ch0589
+#EXTINF:-1 tvg-id="ch0590" tvg-name="ViP Sport 6" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 6
+https://stream.telecomtv101.workers.dev/c/ch0590
+#EXTINF:-1 tvg-id="ch0591" tvg-name="ViP Sport 7" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 7
+https://stream.telecomtv101.workers.dev/c/ch0591
+#EXTINF:-1 tvg-id="ch0592" tvg-name="ViP Sport 8" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 8
+https://stream.telecomtv101.workers.dev/c/ch0592
+#EXTINF:-1 tvg-id="ch0593" tvg-name="ViP Sport 9" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 9
+https://stream.telecomtv101.workers.dev/c/ch0593
+#EXTINF:-1 tvg-id="ch0594" tvg-name="ViP Sport 10" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 10
+https://stream.telecomtv101.workers.dev/c/ch0594
+#EXTINF:-1 tvg-id="ch0595" tvg-name="ViP Sport 11" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 11
+https://stream.telecomtv101.workers.dev/c/ch0595
+#EXTINF:-1 tvg-id="ch0596" tvg-name="ViP Sport 12" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 12
+https://stream.telecomtv101.workers.dev/c/ch0596
+#EXTINF:-1 tvg-id="ch0597" tvg-name="ViP Sport 13" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 13
+https://stream.telecomtv101.workers.dev/c/ch0597
+#EXTINF:-1 tvg-id="ch0598" tvg-name="ViP Sport 14" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 14
+https://stream.telecomtv101.workers.dev/c/ch0598
+#EXTINF:-1 tvg-id="ch0599" tvg-name="ViP Sport 15" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 15
+https://stream.telecomtv101.workers.dev/c/ch0599
+#EXTINF:-1 tvg-id="ch0600" tvg-name="ViP Sport 16" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 16
+https://stream.telecomtv101.workers.dev/c/ch0600
+#EXTINF:-1 tvg-id="ch0601" tvg-name="ViP Sport 17" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ViP Sport 17
+https://stream.telecomtv101.workers.dev/c/ch0601
+#EXTINF:-1 tvg-id="ch0602" tvg-name="Betking live 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Betking live 1
+https://stream.telecomtv101.workers.dev/c/ch0602
+#EXTINF:-1 tvg-id="ch0603" tvg-name="Betking live 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Betking live 2
+https://stream.telecomtv101.workers.dev/c/ch0603
+#EXTINF:-1 tvg-id="ch0604" tvg-name="CANAL+ EXTRA 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CANAL+ EXTRA 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0604
+#EXTINF:-1 tvg-id="ch0605" tvg-name="CANAL+ EXTRA 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CANAL+ EXTRA 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0605
+#EXTINF:-1 tvg-id="ch0606" tvg-name="CANAL+ EXTRA 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CANAL+ EXTRA 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0606
+#EXTINF:-1 tvg-id="ch0607" tvg-name="CANAL+ EXTRA 4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CANAL+ EXTRA 4 HD
+https://stream.telecomtv101.workers.dev/c/ch0607
+#EXTINF:-1 tvg-id="ch0608" tvg-name="CANAL+ 360 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CANAL+ 360 HD
+https://stream.telecomtv101.workers.dev/c/ch0608
+#EXTINF:-1 tvg-id="ch0609" tvg-name="CANAL+ Sport 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CANAL+ Sport 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0609
+#EXTINF:-1 tvg-id="ch0610" tvg-name="CANAL+ Sport 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CANAL+ Sport 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0610
+#EXTINF:-1 tvg-id="ch0611" tvg-name="CANAL+ Sport 4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CANAL+ Sport 4 HD
+https://stream.telecomtv101.workers.dev/c/ch0611
+#EXTINF:-1 tvg-id="ch0612" tvg-name="CANAL+ Sport 5 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CANAL+ Sport 5 HD
+https://stream.telecomtv101.workers.dev/c/ch0612
+#EXTINF:-1 tvg-id="ch0613" tvg-name="Eleven Sports 1 4K PL" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Eleven Sports 1 4K PL
+https://stream.telecomtv101.workers.dev/c/ch0613
+#EXTINF:-1 tvg-id="ch0614" tvg-name="Polsat Sport" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Polsat Sport
+https://stream.telecomtv101.workers.dev/c/ch0614
+#EXTINF:-1 tvg-id="ch0615" tvg-name="Polsat Sport Premium 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Polsat Sport Premium 1
+https://stream.telecomtv101.workers.dev/c/ch0615
+#EXTINF:-1 tvg-id="ch0616" tvg-name="Polsat Sport Premium 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Polsat Sport Premium 2
+https://stream.telecomtv101.workers.dev/c/ch0616
+#EXTINF:-1 tvg-id="ch0617" tvg-name="Tennis channel international" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Tennis channel international
+https://stream.telecomtv101.workers.dev/c/ch0617
+#EXTINF:-1 tvg-id="ch0618" tvg-name="DAZN Combat" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",DAZN Combat
+https://stream.telecomtv101.workers.dev/c/ch0618
+#EXTINF:-1 tvg-id="ch0619" tvg-name="FIFA TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FIFA TV
+https://stream.telecomtv101.workers.dev/c/ch0619
+#EXTINF:-1 tvg-id="ch0620" tvg-name="World Poker Tour HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",World Poker Tour HD
+https://stream.telecomtv101.workers.dev/c/ch0620
+#EXTINF:-1 tvg-id="ch0621" tvg-name="Red Bull TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Red Bull TV HD
+https://stream.telecomtv101.workers.dev/c/ch0621
+#EXTINF:-1 tvg-id="ch0622" tvg-name="Viasat Explore" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Explore
+https://stream.telecomtv101.workers.dev/c/ch0622
+#EXTINF:-1 tvg-id="ch0623" tvg-name="Viasat History" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat History
+https://stream.telecomtv101.workers.dev/c/ch0623
+#EXTINF:-1 tvg-id="ch0624" tvg-name="Viasat Nature" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Nature
+https://stream.telecomtv101.workers.dev/c/ch0624
+#EXTINF:-1 tvg-id="ch0625" tvg-name="Viasat Nature HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Nature HD
+https://stream.telecomtv101.workers.dev/c/ch0625
+#EXTINF:-1 tvg-id="ch0626" tvg-name="Ocean-TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ocean-TV
+https://stream.telecomtv101.workers.dev/c/ch0626
+#EXTINF:-1 tvg-id="ch0627" tvg-name="Nat Geo Wild" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Nat Geo Wild
+https://stream.telecomtv101.workers.dev/c/ch0627
+#EXTINF:-1 tvg-id="ch0915" tvg-name="National Geographic HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",National Geographic HD
+https://stream.telecomtv101.workers.dev/c/ch0915
+#EXTINF:-1 tvg-id="ch0629" tvg-name="Travel Channel HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Travel Channel HD
+https://stream.telecomtv101.workers.dev/c/ch0629
+#EXTINF:-1 tvg-id="ch1053" tvg-name="Nat Geo Wild HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Nat Geo Wild HD
+https://stream.telecomtv101.workers.dev/c/ch1053
+#EXTINF:-1 tvg-id="ch0631" tvg-name="TLC HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TLC HD
+https://stream.telecomtv101.workers.dev/c/ch0631
+#EXTINF:-1 tvg-id="ch1058" tvg-name="Da Vinci" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Da Vinci
+https://stream.telecomtv101.workers.dev/c/ch1058
+#EXTINF:-1 tvg-id="ch0633" tvg-name="ZooПарк" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ZooПарк
+https://stream.telecomtv101.workers.dev/c/ch0633
+#EXTINF:-1 tvg-id="ch0634" tvg-name="Зоо ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Зоо ТВ
+https://stream.telecomtv101.workers.dev/c/ch0634
+#EXTINF:-1 tvg-id="ch0635" tvg-name="Discovery Science" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Discovery Science
+https://stream.telecomtv101.workers.dev/c/ch0635
+#EXTINF:-1 tvg-id="ch0636" tvg-name="Travel XP HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Travel XP HD
+https://stream.telecomtv101.workers.dev/c/ch0636
+#EXTINF:-1 tvg-id="ch0637" tvg-name="365 Дней" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",365 Дней
+https://stream.telecomtv101.workers.dev/c/ch0637
+#EXTINF:-1 tvg-id="ch0638" tvg-name="Кто есть кто" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Кто есть кто
+https://stream.telecomtv101.workers.dev/c/ch0638
+#EXTINF:-1 tvg-id="ch0639" tvg-name="Авто Плюс" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Авто Плюс
+https://stream.telecomtv101.workers.dev/c/ch0639
+#EXTINF:-1 tvg-id="ch0640" tvg-name="Animal planet" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Animal planet
+https://stream.telecomtv101.workers.dev/c/ch0640
+#EXTINF:-1 tvg-id="ch0641" tvg-name="ID Xtra EU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ID Xtra EU
+https://stream.telecomtv101.workers.dev/c/ch0641
+#EXTINF:-1 tvg-id="ch0642" tvg-name="National Geographic" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",National Geographic
+https://stream.telecomtv101.workers.dev/c/ch0642
+#EXTINF:-1 tvg-id="ch0643" tvg-name="Discovery Channel" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Discovery Channel
+https://stream.telecomtv101.workers.dev/c/ch0643
+#EXTINF:-1 tvg-id="ch0644" tvg-name="TLC" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TLC
+https://stream.telecomtv101.workers.dev/c/ch0644
+#EXTINF:-1 tvg-id="ch0645" tvg-name="Домашние животные" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Домашние животные
+https://stream.telecomtv101.workers.dev/c/ch0645
+#EXTINF:-1 tvg-id="ch0646" tvg-name="Усадьба" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Усадьба
+https://stream.telecomtv101.workers.dev/c/ch0646
+#EXTINF:-1 tvg-id="ch0647" tvg-name="viju+ Planet" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",viju+ Planet
+https://stream.telecomtv101.workers.dev/c/ch0647
+#EXTINF:-1 tvg-id="ch0648" tvg-name="Совершенно секретно" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Совершенно секретно
+https://stream.telecomtv101.workers.dev/c/ch0648
+#EXTINF:-1 tvg-id="ch0649" tvg-name="RTG TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",RTG TV
+https://stream.telecomtv101.workers.dev/c/ch0649
+#EXTINF:-1 tvg-id="ch0650" tvg-name="Travel Channel" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Travel Channel
+https://stream.telecomtv101.workers.dev/c/ch0650
+#EXTINF:-1 tvg-id="ch0651" tvg-name="Animal Planet HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Animal Planet HD
+https://stream.telecomtv101.workers.dev/c/ch0651
+#EXTINF:-1 tvg-id="ch0652" tvg-name="Загородная Жизнь" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Загородная Жизнь
+https://stream.telecomtv101.workers.dev/c/ch0652
+#EXTINF:-1 tvg-id="ch0653" tvg-name="Загородный" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Загородный
+https://stream.telecomtv101.workers.dev/c/ch0653
+#EXTINF:-1 tvg-id="ch0654" tvg-name="Наука 2.0" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Наука 2.0
+https://stream.telecomtv101.workers.dev/c/ch0654
+#EXTINF:-1 tvg-id="ch0655" tvg-name="История" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",История
+https://stream.telecomtv101.workers.dev/c/ch0655
+#EXTINF:-1 tvg-id="ch0656" tvg-name="Моя стихия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Моя стихия
+https://stream.telecomtv101.workers.dev/c/ch0656
+#EXTINF:-1 tvg-id="ch0657" tvg-name="Travel+Adventure" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Travel+Adventure
+https://stream.telecomtv101.workers.dev/c/ch0657
+#EXTINF:-1 tvg-id="ch0658" tvg-name="Travel+Adventure HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Travel+Adventure HD
+https://stream.telecomtv101.workers.dev/c/ch0658
+#EXTINF:-1 tvg-id="ch0659" tvg-name="Discovery Channel HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Discovery Channel HD
+https://stream.telecomtv101.workers.dev/c/ch0659
+#EXTINF:-1 tvg-id="ch0660" tvg-name="HDL" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",HDL
+https://stream.telecomtv101.workers.dev/c/ch0660
+#EXTINF:-1 tvg-id="ch0661" tvg-name="RTG HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",RTG HD
+https://stream.telecomtv101.workers.dev/c/ch0661
+#EXTINF:-1 tvg-id="ch0662" tvg-name="Наука" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Наука
+https://stream.telecomtv101.workers.dev/c/ch0662
+#EXTINF:-1 tvg-id="ch0663" tvg-name="Техно 24" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Техно 24
+https://stream.telecomtv101.workers.dev/c/ch0663
+#EXTINF:-1 tvg-id="ch0664" tvg-name="Фауна" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Фауна
+https://stream.telecomtv101.workers.dev/c/ch0664
+#EXTINF:-1 tvg-id="ch0665" tvg-name="Терра" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Терра
+https://stream.telecomtv101.workers.dev/c/ch0665
+#EXTINF:-1 tvg-id="ch0666" tvg-name="Глазами туриста HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Глазами туриста HD
+https://stream.telecomtv101.workers.dev/c/ch0666
+#EXTINF:-1 tvg-id="ch0667" tvg-name="Живая природа HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Живая природа HD
+https://stream.telecomtv101.workers.dev/c/ch0667
+#EXTINF:-1 tvg-id="ch0668" tvg-name="Тайны Галактики" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Тайны Галактики
+https://stream.telecomtv101.workers.dev/c/ch0668
+#EXTINF:-1 tvg-id="ch0669" tvg-name="CuriosityStream" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CuriosityStream
+https://stream.telecomtv101.workers.dev/c/ch0669
+#EXTINF:-1 tvg-id="ch0670" tvg-name="History HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",History HD
+https://stream.telecomtv101.workers.dev/c/ch0670
+#EXTINF:-1 tvg-id="ch0671" tvg-name="History 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",History 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0671
+#EXTINF:-1 tvg-id="ch0672" tvg-name="Живая Планета" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Живая Планета
+https://stream.telecomtv101.workers.dev/c/ch0672
+#EXTINF:-1 tvg-id="ch0673" tvg-name="Поехали!" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Поехали!
+https://stream.telecomtv101.workers.dev/c/ch0673
+#EXTINF:-1 tvg-id="ch0674" tvg-name="Большая Азия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Большая Азия
+https://stream.telecomtv101.workers.dev/c/ch0674
+#EXTINF:-1 tvg-id="ch0675" tvg-name="Здоровое ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Здоровое ТВ
+https://stream.telecomtv101.workers.dev/c/ch0675
+#EXTINF:-1 tvg-id="ch0676" tvg-name="TV BRICS" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV BRICS
+https://stream.telecomtv101.workers.dev/c/ch0676
+#EXTINF:-1 tvg-id="ch0677" tvg-name="ID Xtra EU HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ID Xtra EU HD
+https://stream.telecomtv101.workers.dev/c/ch0677
+#EXTINF:-1 tvg-id="ch0678" tvg-name="Поехали HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Поехали HD
+https://stream.telecomtv101.workers.dev/c/ch0678
+#EXTINF:-1 tvg-id="ch0679" tvg-name="Моя планета" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Моя планета
+https://stream.telecomtv101.workers.dev/c/ch0679
+#EXTINF:-1 tvg-id="ch0680" tvg-name="Моя Планета HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Моя Планета HD
+https://stream.telecomtv101.workers.dev/c/ch0680
+#EXTINF:-1 tvg-id="ch0681" tvg-name="Телепутешествия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Телепутешествия
+https://stream.telecomtv101.workers.dev/c/ch0681
+#EXTINF:-1 tvg-id="ch0682" tvg-name="В мире животных HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",В мире животных HD
+https://stream.telecomtv101.workers.dev/c/ch0682
+#EXTINF:-1 tvg-id="ch0683" tvg-name="Первый Космический" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый Космический
+https://stream.telecomtv101.workers.dev/c/ch0683
+#EXTINF:-1 tvg-id="ch0684" tvg-name="ЕГЭ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ЕГЭ
+https://stream.telecomtv101.workers.dev/c/ch0684
+#EXTINF:-1 tvg-id="ch0685" tvg-name="HGTV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",HGTV HD
+https://stream.telecomtv101.workers.dev/c/ch0685
+#EXTINF:-1 tvg-id="ch0686" tvg-name="Приключения HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Приключения HD
+https://stream.telecomtv101.workers.dev/c/ch0686
+#EXTINF:-1 tvg-id="ch0687" tvg-name="Арсенал HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Арсенал HD
+https://stream.telecomtv101.workers.dev/c/ch0687
+#EXTINF:-1 tvg-id="ch0688" tvg-name="Мужской" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мужской
+https://stream.telecomtv101.workers.dev/c/ch0688
+#EXTINF:-1 tvg-id="ch0689" tvg-name="Дикий" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Дикий
+https://stream.telecomtv101.workers.dev/c/ch0689
+#EXTINF:-1 tvg-id="ch0690" tvg-name="Docubox" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Docubox
+https://stream.telecomtv101.workers.dev/c/ch0690
+#EXTINF:-1 tvg-id="ch0691" tvg-name="Fast & FunBox" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Fast & FunBox
+https://stream.telecomtv101.workers.dev/c/ch0691
+#EXTINF:-1 tvg-id="ch0692" tvg-name="Бобер" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Бобер
+https://stream.telecomtv101.workers.dev/c/ch0692
+#EXTINF:-1 tvg-id="ch0693" tvg-name="Оружие" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Оружие
+https://stream.telecomtv101.workers.dev/c/ch0693
+#EXTINF:-1 tvg-id="ch0694" tvg-name="Наша Сибирь" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Наша Сибирь
+https://stream.telecomtv101.workers.dev/c/ch0694
+#EXTINF:-1 tvg-id="ch0695" tvg-name="Insight HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Insight HD
+https://stream.telecomtv101.workers.dev/c/ch0695
+#EXTINF:-1 tvg-id="ch0696" tvg-name="Sea TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sea TV HD
+https://stream.telecomtv101.workers.dev/c/ch0696
+#EXTINF:-1 tvg-id="ch0697" tvg-name="BRODILO.TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BRODILO.TV
+https://stream.telecomtv101.workers.dev/c/ch0697
+#EXTINF:-1 tvg-id="ch0698" tvg-name="NANO HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",NANO HD
+https://stream.telecomtv101.workers.dev/c/ch0698
+#EXTINF:-1 tvg-id="ch0699" tvg-name="Мир вокруг HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мир вокруг HD
+https://stream.telecomtv101.workers.dev/c/ch0699
+#EXTINF:-1 tvg-id="ch0700" tvg-name="Диалоги о рыбалке" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Диалоги о рыбалке
+https://stream.telecomtv101.workers.dev/c/ch0700
+#EXTINF:-1 tvg-id="ch0701" tvg-name="Охотник и рыболов HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Охотник и рыболов HD
+https://stream.telecomtv101.workers.dev/c/ch0701
+#EXTINF:-1 tvg-id="ch0702" tvg-name="Охота и Рыбалка" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Охота и Рыбалка
+https://stream.telecomtv101.workers.dev/c/ch0702
+#EXTINF:-1 tvg-id="ch0703" tvg-name="Дикая охота HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Дикая охота HD
+https://stream.telecomtv101.workers.dev/c/ch0703
+#EXTINF:-1 tvg-id="ch0704" tvg-name="Дикая рыбалка HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Дикая рыбалка HD
+https://stream.telecomtv101.workers.dev/c/ch0704
+#EXTINF:-1 tvg-id="ch0705" tvg-name="Рыбалка HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Рыбалка HD
+https://stream.telecomtv101.workers.dev/c/ch0705
+#EXTINF:-1 tvg-id="ch0706" tvg-name="Рыболов" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Рыболов
+https://stream.telecomtv101.workers.dev/c/ch0706
+#EXTINF:-1 tvg-id="ch0707" tvg-name="Трофей HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Трофей HD
+https://stream.telecomtv101.workers.dev/c/ch0707
+#EXTINF:-1 tvg-id="ch0708" tvg-name="Love Nature 4K" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Love Nature 4K
+https://stream.telecomtv101.workers.dev/c/ch0708
+#EXTINF:-1 tvg-id="ch0709" tvg-name="Авто 24" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Авто 24
+https://stream.telecomtv101.workers.dev/c/ch0709
+#EXTINF:-1 tvg-id="ch0710" tvg-name="MiTV Разрушители легенд" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Разрушители легенд
+https://stream.telecomtv101.workers.dev/c/ch0710
+#EXTINF:-1 tvg-id="ch0711" tvg-name="MiTV Жак-Ив Кусто" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Жак-Ив Кусто
+https://stream.telecomtv101.workers.dev/c/ch0711
+#EXTINF:-1 tvg-id="ch0712" tvg-name="MiTV Наш сад" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Наш сад
+https://stream.telecomtv101.workers.dev/c/ch0712
+#EXTINF:-1 tvg-id="ch0713" tvg-name="Чебур ТВ - ДОКУ Планета Динозавров" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - ДОКУ Планета Динозавров
+https://stream.telecomtv101.workers.dev/c/ch0713
+#EXTINF:-1 tvg-id="ch0714" tvg-name="Чебур ТВ - ДОКУ Univerce" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - ДОКУ Univerce
+https://stream.telecomtv101.workers.dev/c/ch0714
+#EXTINF:-1 tvg-id="ch0715" tvg-name="Чебур ТВ - ДОКУ Science" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - ДОКУ Science
+https://stream.telecomtv101.workers.dev/c/ch0715
+#EXTINF:-1 tvg-id="ch0716" tvg-name="Чебур ТВ - МультЭпоха СССР" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - МультЭпоха СССР
+https://stream.telecomtv101.workers.dev/c/ch0716
+#EXTINF:-1 tvg-id="ch0717" tvg-name="Чебур ТВ - Мультики FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Мультики FHD
+https://stream.telecomtv101.workers.dev/c/ch0717
+#EXTINF:-1 tvg-id="ch0718" tvg-name="Чебур ТВ - Физ-Мульт Привет FHD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Чебур ТВ - Физ-Мульт Привет FHD
+https://stream.telecomtv101.workers.dev/c/ch0718
+#EXTINF:-1 tvg-id="ch1093" tvg-name="Nickelodeon" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Nickelodeon
+https://stream.telecomtv101.workers.dev/c/ch1093
+#EXTINF:-1 tvg-id="ch0720" tvg-name="Nickelodeon HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Nickelodeon HD
+https://stream.telecomtv101.workers.dev/c/ch0720
+#EXTINF:-1 tvg-id="ch0721" tvg-name="Nick Jr" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Nick Jr
+https://stream.telecomtv101.workers.dev/c/ch0721
+#EXTINF:-1 tvg-id="ch0722" tvg-name="JimJam" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",JimJam
+https://stream.telecomtv101.workers.dev/c/ch0722
+#EXTINF:-1 tvg-id="ch0985" tvg-name="Cartoon Network" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Cartoon Network
+https://stream.telecomtv101.workers.dev/c/ch0985
+#EXTINF:-1 tvg-id="ch0724" tvg-name="Gulli" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Gulli
+https://stream.telecomtv101.workers.dev/c/ch0724
+#EXTINF:-1 tvg-id="ch0725" tvg-name="Солнце" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Солнце
+https://stream.telecomtv101.workers.dev/c/ch0725
+#EXTINF:-1 tvg-id="ch0726" tvg-name="TiJi" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TiJi
+https://stream.telecomtv101.workers.dev/c/ch0726
+#EXTINF:-1 tvg-id="ch0727" tvg-name="Детский мир" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Детский мир
+https://stream.telecomtv101.workers.dev/c/ch0727
+#EXTINF:-1 tvg-id="ch0728" tvg-name="Детский мир HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Детский мир HD
+https://stream.telecomtv101.workers.dev/c/ch0728
+#EXTINF:-1 tvg-id="ch0729" tvg-name="Детское кино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Детское кино
+https://stream.telecomtv101.workers.dev/c/ch0729
+#EXTINF:-1 tvg-id="ch0730" tvg-name="2x2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",2x2
+https://stream.telecomtv101.workers.dev/c/ch0730
+#EXTINF:-1 tvg-id="ch0731" tvg-name="СТС Kids HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",СТС Kids HD
+https://stream.telecomtv101.workers.dev/c/ch0731
+#EXTINF:-1 tvg-id="ch0732" tvg-name="В гостях у сказки" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",В гостях у сказки
+https://stream.telecomtv101.workers.dev/c/ch0732
+#EXTINF:-1 tvg-id="ch0733" tvg-name="В гостях у сказки HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",В гостях у сказки HD
+https://stream.telecomtv101.workers.dev/c/ch0733
+#EXTINF:-1 tvg-id="ch0734" tvg-name="Карусель" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Карусель
+https://stream.telecomtv101.workers.dev/c/ch0734
+#EXTINF:-1 tvg-id="ch0735" tvg-name="Мульт" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мульт
+https://stream.telecomtv101.workers.dev/c/ch0735
+#EXTINF:-1 tvg-id="ch0736" tvg-name="Мульт HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мульт HD
+https://stream.telecomtv101.workers.dev/c/ch0736
+#EXTINF:-1 tvg-id="ch0737" tvg-name="Мультимузыка" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мультимузыка
+https://stream.telecomtv101.workers.dev/c/ch0737
+#EXTINF:-1 tvg-id="ch0738" tvg-name="Ani" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ani
+https://stream.telecomtv101.workers.dev/c/ch0738
+#EXTINF:-1 tvg-id="ch0739" tvg-name="О!" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",О!
+https://stream.telecomtv101.workers.dev/c/ch0739
+#EXTINF:-1 tvg-id="ch0740" tvg-name="Мультиландия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Мультиландия
+https://stream.telecomtv101.workers.dev/c/ch0740
+#EXTINF:-1 tvg-id="ch0741" tvg-name="Nicktoons" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Nicktoons
+https://stream.telecomtv101.workers.dev/c/ch0741
+#EXTINF:-1 tvg-id="ch0742" tvg-name="Капитан Фантастика" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Капитан Фантастика
+https://stream.telecomtv101.workers.dev/c/ch0742
+#EXTINF:-1 tvg-id="ch0743" tvg-name="Duck TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Duck TV
+https://stream.telecomtv101.workers.dev/c/ch0743
+#EXTINF:-1 tvg-id="ch0744" tvg-name="Советские мультфильмы" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Советские мультфильмы
+https://stream.telecomtv101.workers.dev/c/ch0744
+#EXTINF:-1 tvg-id="ch0745" tvg-name="Супергерои" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Супергерои
+https://stream.telecomtv101.workers.dev/c/ch0745
+#EXTINF:-1 tvg-id="ch0746" tvg-name="Уникум" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Уникум
+https://stream.telecomtv101.workers.dev/c/ch0746
+#EXTINF:-1 tvg-id="ch0747" tvg-name="Cartoonito" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Cartoonito
+https://stream.telecomtv101.workers.dev/c/ch0747
+#EXTINF:-1 tvg-id="ch0748" tvg-name="Рыжий" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Рыжий
+https://stream.telecomtv101.workers.dev/c/ch0748
+#EXTINF:-1 tvg-id="ch0749" tvg-name="Пингвин Лоло" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Пингвин Лоло
+https://stream.telecomtv101.workers.dev/c/ch0749
+#EXTINF:-1 tvg-id="ch0750" tvg-name="Лёва" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Лёва
+https://stream.telecomtv101.workers.dev/c/ch0750
+#EXTINF:-1 tvg-id="ch0751" tvg-name="Детское Кино International" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Детское Кино International
+https://stream.telecomtv101.workers.dev/c/ch0751
+#EXTINF:-1 tvg-id="ch0752" tvg-name="BCU Kids HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Kids HD
+https://stream.telecomtv101.workers.dev/c/ch0752
+#EXTINF:-1 tvg-id="ch0753" tvg-name="BCU Kids+ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Kids+ HD
+https://stream.telecomtv101.workers.dev/c/ch0753
+#EXTINF:-1 tvg-id="ch0754" tvg-name="BCU Мультсериал" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BCU Мультсериал
+https://stream.telecomtv101.workers.dev/c/ch0754
+#EXTINF:-1 tvg-id="ch0755" tvg-name="MiTV Программа Время" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Программа Время
+https://stream.telecomtv101.workers.dev/c/ch0755
+#EXTINF:-1 tvg-id="ch0756" tvg-name="MiTV Следствие вели" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Следствие вели
+https://stream.telecomtv101.workers.dev/c/ch0756
+#EXTINF:-1 tvg-id="ch0757" tvg-name="MiTV 6 кадров" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV 6 кадров
+https://stream.telecomtv101.workers.dev/c/ch0757
+#EXTINF:-1 tvg-id="ch0758" tvg-name="MiTV Бородач" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Бородач
+https://stream.telecomtv101.workers.dev/c/ch0758
+#EXTINF:-1 tvg-id="ch0759" tvg-name="MiTV Задорнов" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Задорнов
+https://stream.telecomtv101.workers.dev/c/ch0759
+#EXTINF:-1 tvg-id="ch0760" tvg-name="MiTV Comedy Club" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Comedy Club
+https://stream.telecomtv101.workers.dev/c/ch0760
+#EXTINF:-1 tvg-id="ch0761" tvg-name="MiTV Однажды в России" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Однажды в России
+https://stream.telecomtv101.workers.dev/c/ch0761
+#EXTINF:-1 tvg-id="ch0762" tvg-name="MiTV Что Где Когда" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Что Где Когда
+https://stream.telecomtv101.workers.dev/c/ch0762
+#EXTINF:-1 tvg-id="ch0763" tvg-name="MiTV Наша раша" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Наша раша
+https://stream.telecomtv101.workers.dev/c/ch0763
+#EXTINF:-1 tvg-id="ch0764" tvg-name="MiTV Городок" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Городок
+https://stream.telecomtv101.workers.dev/c/ch0764
+#EXTINF:-1 tvg-id="ch0765" tvg-name="MiTV Угадай Мелодию" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Угадай Мелодию
+https://stream.telecomtv101.workers.dev/c/ch0765
+#EXTINF:-1 tvg-id="ch0766" tvg-name="MiTV Песня года" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MiTV Песня года
+https://stream.telecomtv101.workers.dev/c/ch0766
+#EXTINF:-1 tvg-id="ch0767" tvg-name="Музыка первого" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Музыка первого
+https://stream.telecomtv101.workers.dev/c/ch0767
+#EXTINF:-1 tvg-id="ch0768" tvg-name="FON Music" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FON Music
+https://stream.telecomtv101.workers.dev/c/ch0768
+#EXTINF:-1 tvg-id="ch0769" tvg-name="RU.TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",RU.TV
+https://stream.telecomtv101.workers.dev/c/ch0769
+#EXTINF:-1 tvg-id="ch0770" tvg-name="МУЗ ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",МУЗ ТВ
+https://stream.telecomtv101.workers.dev/c/ch0770
+#EXTINF:-1 tvg-id="ch0771" tvg-name="Europa Plus TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Europa Plus TV
+https://stream.telecomtv101.workers.dev/c/ch0771
+#EXTINF:-1 tvg-id="ch0772" tvg-name="MTV Europe" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MTV Europe
+https://stream.telecomtv101.workers.dev/c/ch0772
+#EXTINF:-1 tvg-id="ch0773" tvg-name="MTV Dance" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MTV Dance
+https://stream.telecomtv101.workers.dev/c/ch0773
+#EXTINF:-1 tvg-id="ch0774" tvg-name="MTV Hits" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MTV Hits
+https://stream.telecomtv101.workers.dev/c/ch0774
+#EXTINF:-1 tvg-id="ch0775" tvg-name="MTV 90s" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MTV 90s
+https://stream.telecomtv101.workers.dev/c/ch0775
+#EXTINF:-1 tvg-id="ch0776" tvg-name="MTV 00s" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MTV 00s
+https://stream.telecomtv101.workers.dev/c/ch0776
+#EXTINF:-1 tvg-id="ch0777" tvg-name="MTV Live HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MTV Live HD
+https://stream.telecomtv101.workers.dev/c/ch0777
+#EXTINF:-1 tvg-id="ch0778" tvg-name="Bridge TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bridge TV
+https://stream.telecomtv101.workers.dev/c/ch0778
+#EXTINF:-1 tvg-id="ch0779" tvg-name="Bridge TV Русский Хит" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bridge TV Русский Хит
+https://stream.telecomtv101.workers.dev/c/ch0779
+#EXTINF:-1 tvg-id="ch0780" tvg-name="Bridge TV Classic" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bridge TV Classic
+https://stream.telecomtv101.workers.dev/c/ch0780
+#EXTINF:-1 tvg-id="ch0781" tvg-name="Bridge TV Fresh" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bridge TV Fresh
+https://stream.telecomtv101.workers.dev/c/ch0781
+#EXTINF:-1 tvg-id="ch0782" tvg-name="Bridge Шлягер" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bridge Шлягер
+https://stream.telecomtv101.workers.dev/c/ch0782
+#EXTINF:-1 tvg-id="ch0783" tvg-name="Bridge TV Hits" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bridge TV Hits
+https://stream.telecomtv101.workers.dev/c/ch0783
+#EXTINF:-1 tvg-id="ch0784" tvg-name="Bridge HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bridge HD
+https://stream.telecomtv101.workers.dev/c/ch0784
+#EXTINF:-1 tvg-id="ch0785" tvg-name="MusicBox Russia" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MusicBox Russia
+https://stream.telecomtv101.workers.dev/c/ch0785
+#EXTINF:-1 tvg-id="ch0786" tvg-name="MusicBox Russia HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MusicBox Russia HD
+https://stream.telecomtv101.workers.dev/c/ch0786
+#EXTINF:-1 tvg-id="ch0787" tvg-name="MusicBox Gold" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MusicBox Gold
+https://stream.telecomtv101.workers.dev/c/ch0787
+#EXTINF:-1 tvg-id="ch0788" tvg-name="4ever music HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",4ever music HD
+https://stream.telecomtv101.workers.dev/c/ch0788
+#EXTINF:-1 tvg-id="ch0789" tvg-name="EU.Music HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",EU.Music HD
+https://stream.telecomtv101.workers.dev/c/ch0789
+#EXTINF:-1 tvg-id="ch0790" tvg-name="М1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",М1
+https://stream.telecomtv101.workers.dev/c/ch0790
+#EXTINF:-1 tvg-id="ch0791" tvg-name="М2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",М2
+https://stream.telecomtv101.workers.dev/c/ch0791
+#EXTINF:-1 tvg-id="ch0792" tvg-name="М1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",М1 HD
+https://stream.telecomtv101.workers.dev/c/ch0792
+#EXTINF:-1 tvg-id="ch0793" tvg-name="М2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",М2 HD
+https://stream.telecomtv101.workers.dev/c/ch0793
+#EXTINF:-1 tvg-id="ch0794" tvg-name="UA Music HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",UA Music HD
+https://stream.telecomtv101.workers.dev/c/ch0794
+#EXTINF:-1 tvg-id="ch0795" tvg-name="Mezzo" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Mezzo
+https://stream.telecomtv101.workers.dev/c/ch0795
+#EXTINF:-1 tvg-id="ch0796" tvg-name="VH1 Classic" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VH1 Classic
+https://stream.telecomtv101.workers.dev/c/ch0796
+#EXTINF:-1 tvg-id="ch0797" tvg-name="Mezzo Live HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Mezzo Live HD
+https://stream.telecomtv101.workers.dev/c/ch0797
+#EXTINF:-1 tvg-id="ch0798" tvg-name="Yosso TV Music Hits" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Yosso TV Music Hits
+https://stream.telecomtv101.workers.dev/c/ch0798
+#EXTINF:-1 tvg-id="ch0799" tvg-name="MCM Top" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MCM Top
+https://stream.telecomtv101.workers.dev/c/ch0799
+#EXTINF:-1 tvg-id="ch0800" tvg-name="Шансон-TB" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Шансон-TB
+https://stream.telecomtv101.workers.dev/c/ch0800
+#EXTINF:-1 tvg-id="ch0801" tvg-name="iConcerts HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",iConcerts HD
+https://stream.telecomtv101.workers.dev/c/ch0801
+#EXTINF:-1 tvg-id="ch0802" tvg-name="Stingray CMusic HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Stingray CMusic HD
+https://stream.telecomtv101.workers.dev/c/ch0802
+#EXTINF:-1 tvg-id="ch0803" tvg-name="Megogo Live" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Megogo Live
+https://stream.telecomtv101.workers.dev/c/ch0803
+#EXTINF:-1 tvg-id="ch0804" tvg-name="1HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",1HD
+https://stream.telecomtv101.workers.dev/c/ch0804
+#EXTINF:-1 tvg-id="ch0805" tvg-name="Жара" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Жара
+https://stream.telecomtv101.workers.dev/c/ch0805
+#EXTINF:-1 tvg-id="ch0806" tvg-name="Ля-Минор" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ля-Минор
+https://stream.telecomtv101.workers.dev/c/ch0806
+#EXTINF:-1 tvg-id="ch0807" tvg-name="О2ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",О2ТВ
+https://stream.telecomtv101.workers.dev/c/ch0807
+#EXTINF:-1 tvg-id="ch0808" tvg-name="Black HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Black HD
+https://stream.telecomtv101.workers.dev/c/ch0808
+#EXTINF:-1 tvg-id="ch0809" tvg-name="Телеканал Хабар" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Телеканал Хабар
+https://stream.telecomtv101.workers.dev/c/ch0809
+#EXTINF:-1 tvg-id="ch0810" tvg-name="КТК" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",КТК
+https://stream.telecomtv101.workers.dev/c/ch0810
+#EXTINF:-1 tvg-id="ch0811" tvg-name="QazSport HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",QazSport HD
+https://stream.telecomtv101.workers.dev/c/ch0811
+#EXTINF:-1 tvg-id="ch0812" tvg-name="НТК" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТК
+https://stream.telecomtv101.workers.dev/c/ch0812
+#EXTINF:-1 tvg-id="ch0813" tvg-name="31 канал" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",31 канал
+https://stream.telecomtv101.workers.dev/c/ch0813
+#EXTINF:-1 tvg-id="ch0814" tvg-name="QAZAQSTAN HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",QAZAQSTAN HD
+https://stream.telecomtv101.workers.dev/c/ch0814
+#EXTINF:-1 tvg-id="ch0815" tvg-name="Первый канал Евразия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Первый канал Евразия
+https://stream.telecomtv101.workers.dev/c/ch0815
+#EXTINF:-1 tvg-id="ch0816" tvg-name="ASTANA TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ASTANA TV HD
+https://stream.telecomtv101.workers.dev/c/ch0816
+#EXTINF:-1 tvg-id="ch0817" tvg-name="Jibek Joly HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Jibek Joly HD
+https://stream.telecomtv101.workers.dev/c/ch0817
+#EXTINF:-1 tvg-id="ch0818" tvg-name="Semey TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Semey TV
+https://stream.telecomtv101.workers.dev/c/ch0818
+#EXTINF:-1 tvg-id="ch0819" tvg-name="Ertis" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ertis
+https://stream.telecomtv101.workers.dev/c/ch0819
+#EXTINF:-1 tvg-id="ch0820" tvg-name="Беларусь 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Беларусь 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0820
+#EXTINF:-1 tvg-id="ch0821" tvg-name="Беларусь 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Беларусь 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0821
+#EXTINF:-1 tvg-id="ch0822" tvg-name="Беларусь 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Беларусь 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0822
+#EXTINF:-1 tvg-id="ch0823" tvg-name="Беларусь 4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Беларусь 4 HD
+https://stream.telecomtv101.workers.dev/c/ch0823
+#EXTINF:-1 tvg-id="ch0824" tvg-name="Беларусь 5 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Беларусь 5 HD
+https://stream.telecomtv101.workers.dev/c/ch0824
+#EXTINF:-1 tvg-id="ch0825" tvg-name="Беларусь 24 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Беларусь 24 HD
+https://stream.telecomtv101.workers.dev/c/ch0825
+#EXTINF:-1 tvg-id="ch0826" tvg-name="НТВ HD Беларусь" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",НТВ HD Беларусь
+https://stream.telecomtv101.workers.dev/c/ch0826
+#EXTINF:-1 tvg-id="ch0827" tvg-name="БелРос" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",БелРос
+https://stream.telecomtv101.workers.dev/c/ch0827
+#EXTINF:-1 tvg-id="ch0828" tvg-name="СТВ Беларусь" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",СТВ Беларусь
+https://stream.telecomtv101.workers.dev/c/ch0828
+#EXTINF:-1 tvg-id="ch0829" tvg-name="ОНТ Беларусь" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ОНТ Беларусь
+https://stream.telecomtv101.workers.dev/c/ch0829
+#EXTINF:-1 tvg-id="ch0830" tvg-name="8 канал Беларусь" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",8 канал Беларусь
+https://stream.telecomtv101.workers.dev/c/ch0830
+#EXTINF:-1 tvg-id="ch0831" tvg-name="Яснае ТВ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Яснае ТВ
+https://stream.telecomtv101.workers.dev/c/ch0831
+#EXTINF:-1 tvg-id="ch0832" tvg-name="Скиф" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Скиф
+https://stream.telecomtv101.workers.dev/c/ch0832
+#EXTINF:-1 tvg-id="ch0833" tvg-name="Белсат HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Белсат HD
+https://stream.telecomtv101.workers.dev/c/ch0833
+#EXTINF:-1 tvg-id="ch0834" tvg-name="Звязда" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Звязда
+https://stream.telecomtv101.workers.dev/c/ch0834
+#EXTINF:-1 tvg-id="ch0835" tvg-name="Cheksiz TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Cheksiz TV
+https://stream.telecomtv101.workers.dev/c/ch0835
+#EXTINF:-1 tvg-id="ch0836" tvg-name="Biz TV UZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Biz TV UZ
+https://stream.telecomtv101.workers.dev/c/ch0836
+#EXTINF:-1 tvg-id="ch0837" tvg-name="Biz Cinema UZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Biz Cinema UZ
+https://stream.telecomtv101.workers.dev/c/ch0837
+#EXTINF:-1 tvg-id="ch0838" tvg-name="Biz Music UZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Biz Music UZ
+https://stream.telecomtv101.workers.dev/c/ch0838
+#EXTINF:-1 tvg-id="ch0839" tvg-name="ZOR TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ZOR TV
+https://stream.telecomtv101.workers.dev/c/ch0839
+#EXTINF:-1 tvg-id="ch0840" tvg-name="My 5 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",My 5 HD
+https://stream.telecomtv101.workers.dev/c/ch0840
+#EXTINF:-1 tvg-id="ch0841" tvg-name="Ozbekiston" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ozbekiston
+https://stream.telecomtv101.workers.dev/c/ch0841
+#EXTINF:-1 tvg-id="ch0842" tvg-name="Sport UZ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sport UZ HD
+https://stream.telecomtv101.workers.dev/c/ch0842
+#EXTINF:-1 tvg-id="ch0843" tvg-name="YOSHLAR" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",YOSHLAR
+https://stream.telecomtv101.workers.dev/c/ch0843
+#EXTINF:-1 tvg-id="ch0844" tvg-name="TOSHKENT" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TOSHKENT
+https://stream.telecomtv101.workers.dev/c/ch0844
+#EXTINF:-1 tvg-id="ch0845" tvg-name="BOLAJON" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BOLAJON
+https://stream.telecomtv101.workers.dev/c/ch0845
+#EXTINF:-1 tvg-id="ch0846" tvg-name="Sevimli TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sevimli TV
+https://stream.telecomtv101.workers.dev/c/ch0846
+#EXTINF:-1 tvg-id="ch0847" tvg-name="NAVO" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",NAVO
+https://stream.telecomtv101.workers.dev/c/ch0847
+#EXTINF:-1 tvg-id="ch0848" tvg-name="Namangan" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Namangan
+https://stream.telecomtv101.workers.dev/c/ch0848
+#EXTINF:-1 tvg-id="ch0849" tvg-name="MAHALLA" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MAHALLA
+https://stream.telecomtv101.workers.dev/c/ch0849
+#EXTINF:-1 tvg-id="ch0850" tvg-name="KINOTEATR" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",KINOTEATR
+https://stream.telecomtv101.workers.dev/c/ch0850
+#EXTINF:-1 tvg-id="ch0851" tvg-name="Ozbekiston Tarixi" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ozbekiston Tarixi
+https://stream.telecomtv101.workers.dev/c/ch0851
+#EXTINF:-1 tvg-id="ch0852" tvg-name="Dunyo boylab" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Dunyo boylab
+https://stream.telecomtv101.workers.dev/c/ch0852
+#EXTINF:-1 tvg-id="ch0853" tvg-name="MilliyTV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MilliyTV
+https://stream.telecomtv101.workers.dev/c/ch0853
+#EXTINF:-1 tvg-id="ch0854" tvg-name="NURAFSHON TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",NURAFSHON TV
+https://stream.telecomtv101.workers.dev/c/ch0854
+#EXTINF:-1 tvg-id="ch0855" tvg-name="Renessans TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Renessans TV
+https://stream.telecomtv101.workers.dev/c/ch0855
+#EXTINF:-1 tvg-id="ch0856" tvg-name="Makon HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Makon HD
+https://stream.telecomtv101.workers.dev/c/ch0856
+#EXTINF:-1 tvg-id="ch0857" tvg-name="ITV CINEMA HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ITV CINEMA HD
+https://stream.telecomtv101.workers.dev/c/ch0857
+#EXTINF:-1 tvg-id="ch0858" tvg-name="FTV UZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FTV UZ
+https://stream.telecomtv101.workers.dev/c/ch0858
+#EXTINF:-1 tvg-id="ch0859" tvg-name="Qiziq HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Qiziq HD
+https://stream.telecomtv101.workers.dev/c/ch0859
+#EXTINF:-1 tvg-id="ch0860" tvg-name="OZBEKISTON 24" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",OZBEKISTON 24
+https://stream.telecomtv101.workers.dev/c/ch0860
+#EXTINF:-1 tvg-id="ch0861" tvg-name="Futbol TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Futbol TV
+https://stream.telecomtv101.workers.dev/c/ch0861
+#EXTINF:-1 tvg-id="ch0862" tvg-name="S IKBOL HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",S IKBOL HD
+https://stream.telecomtv101.workers.dev/c/ch0862
+#EXTINF:-1 tvg-id="ch0863" tvg-name="LUX TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",LUX TV HD
+https://stream.telecomtv101.workers.dev/c/ch0863
+#EXTINF:-1 tvg-id="ch0864" tvg-name="NTV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",NTV
+https://stream.telecomtv101.workers.dev/c/ch0864
+#EXTINF:-1 tvg-id="ch0865" tvg-name="Mediabay TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Mediabay TV
+https://stream.telecomtv101.workers.dev/c/ch0865
+#EXTINF:-1 tvg-id="ch0866" tvg-name="Real TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Real TV
+https://stream.telecomtv101.workers.dev/c/ch0866
+#EXTINF:-1 tvg-id="ch0867" tvg-name="BAKU TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BAKU TV HD
+https://stream.telecomtv101.workers.dev/c/ch0867
+#EXTINF:-1 tvg-id="ch0868" tvg-name="Ayaz TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ayaz TV
+https://stream.telecomtv101.workers.dev/c/ch0868
+#EXTINF:-1 tvg-id="ch0869" tvg-name="Azstar TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Azstar TV HD
+https://stream.telecomtv101.workers.dev/c/ch0869
+#EXTINF:-1 tvg-id="ch0870" tvg-name="Az TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Az TV HD
+https://stream.telecomtv101.workers.dev/c/ch0870
+#EXTINF:-1 tvg-id="ch0871" tvg-name="ARB TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ARB TV HD
+https://stream.telecomtv101.workers.dev/c/ch0871
+#EXTINF:-1 tvg-id="ch0872" tvg-name="ARB 24 TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ARB 24 TV HD
+https://stream.telecomtv101.workers.dev/c/ch0872
+#EXTINF:-1 tvg-id="ch0873" tvg-name="Azad TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Azad TV HD
+https://stream.telecomtv101.workers.dev/c/ch0873
+#EXTINF:-1 tvg-id="ch0874" tvg-name="Medeniyyet TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Medeniyyet TV HD
+https://stream.telecomtv101.workers.dev/c/ch0874
+#EXTINF:-1 tvg-id="ch0875" tvg-name="KANAL S HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",KANAL S HD
+https://stream.telecomtv101.workers.dev/c/ch0875
+#EXTINF:-1 tvg-id="ch0876" tvg-name="ARB Gunes HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ARB Gunes HD
+https://stream.telecomtv101.workers.dev/c/ch0876
+#EXTINF:-1 tvg-id="ch0877" tvg-name="Ictimai TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ictimai TV HD
+https://stream.telecomtv101.workers.dev/c/ch0877
+#EXTINF:-1 tvg-id="ch0878" tvg-name="Idman TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Idman TV HD
+https://stream.telecomtv101.workers.dev/c/ch0878
+#EXTINF:-1 tvg-id="ch0879" tvg-name="Sehiyye TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sehiyye TV HD
+https://stream.telecomtv101.workers.dev/c/ch0879
+#EXTINF:-1 tvg-id="ch0880" tvg-name="CBC Sport" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CBC Sport
+https://stream.telecomtv101.workers.dev/c/ch0880
+#EXTINF:-1 tvg-id="ch0881" tvg-name="Xezer Tv" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Xezer Tv
+https://stream.telecomtv101.workers.dev/c/ch0881
+#EXTINF:-1 tvg-id="ch0882" tvg-name="Live TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Live TV HD
+https://stream.telecomtv101.workers.dev/c/ch0882
+#EXTINF:-1 tvg-id="ch0883" tvg-name="Muz Tv Azerbaijan" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Muz Tv Azerbaijan
+https://stream.telecomtv101.workers.dev/c/ch0883
+#EXTINF:-1 tvg-id="ch0884" tvg-name="Retro TV AZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Retro TV AZ
+https://stream.telecomtv101.workers.dev/c/ch0884
+#EXTINF:-1 tvg-id="ch0885" tvg-name="Show Plus" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Show Plus
+https://stream.telecomtv101.workers.dev/c/ch0885
+#EXTINF:-1 tvg-id="ch0886" tvg-name="Vostok TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Vostok TV
+https://stream.telecomtv101.workers.dev/c/ch0886
+#EXTINF:-1 tvg-id="ch0887" tvg-name="Dunya TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Dunya TV
+https://stream.telecomtv101.workers.dev/c/ch0887
+#EXTINF:-1 tvg-id="ch0888" tvg-name="Naxçıvan" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Naxçıvan
+https://stream.telecomtv101.workers.dev/c/ch0888
+#EXTINF:-1 tvg-id="ch0889" tvg-name="Gunaz TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Gunaz TV
+https://stream.telecomtv101.workers.dev/c/ch0889
+#EXTINF:-1 tvg-id="ch0890" tvg-name="Space TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Space TV
+https://stream.telecomtv101.workers.dev/c/ch0890
+#EXTINF:-1 tvg-id="ch0891" tvg-name="Sirius HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sirius HD
+https://stream.telecomtv101.workers.dev/c/ch0891
+#EXTINF:-1 tvg-id="ch0892" tvg-name="CBC TV Azerbaijan" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",CBC TV Azerbaijan
+https://stream.telecomtv101.workers.dev/c/ch0892
+#EXTINF:-1 tvg-id="ch0893" tvg-name="ATV CINEMA" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ATV CINEMA
+https://stream.telecomtv101.workers.dev/c/ch0893
+#EXTINF:-1 tvg-id="ch0894" tvg-name="ATV VIVACE" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ATV VIVACE
+https://stream.telecomtv101.workers.dev/c/ch0894
+#EXTINF:-1 tvg-id="ch0895" tvg-name="AnewZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",AnewZ
+https://stream.telecomtv101.workers.dev/c/ch0895
+#EXTINF:-1 tvg-id="ch0896" tvg-name="Apa TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Apa TV
+https://stream.telecomtv101.workers.dev/c/ch0896
+#EXTINF:-1 tvg-id="ch0897" tvg-name="KATV1 AZ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",KATV1 AZ
+https://stream.telecomtv101.workers.dev/c/ch0897
+#EXTINF:-1 tvg-id="ch0898" tvg-name="Mahni TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Mahni TV
+https://stream.telecomtv101.workers.dev/c/ch0898
+#EXTINF:-1 tvg-id="ch0899" tvg-name="TVNet Sport" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVNet Sport
+https://stream.telecomtv101.workers.dev/c/ch0899
+#EXTINF:-1 tvg-id="ch0900" tvg-name="Sport TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sport TV
+https://stream.telecomtv101.workers.dev/c/ch0900
+#EXTINF:-1 tvg-id="ch0901" tvg-name="Tojikistan HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Tojikistan HD
+https://stream.telecomtv101.workers.dev/c/ch0901
+#EXTINF:-1 tvg-id="ch0902" tvg-name="TV Safina HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV Safina HD
+https://stream.telecomtv101.workers.dev/c/ch0902
+#EXTINF:-1 tvg-id="ch0903" tvg-name="Jahonnamo HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Jahonnamo HD
+https://stream.telecomtv101.workers.dev/c/ch0903
+#EXTINF:-1 tvg-id="ch0905" tvg-name="Dream TURK" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Dream TURK
+https://stream.telecomtv101.workers.dev/c/ch0905
+#EXTINF:-1 tvg-id="ch0906" tvg-name="A2 TV Turkey HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",A2 TV Turkey HD
+https://stream.telecomtv101.workers.dev/c/ch0906
+#EXTINF:-1 tvg-id="ch0907" tvg-name="SHOW HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SHOW HD
+https://stream.telecomtv101.workers.dev/c/ch0907
+#EXTINF:-1 tvg-id="ch0908" tvg-name="Star TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Star TV
+https://stream.telecomtv101.workers.dev/c/ch0908
+#EXTINF:-1 tvg-id="ch0909" tvg-name="SPORSMART HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SPORSMART HD
+https://stream.telecomtv101.workers.dev/c/ch0909
+#EXTINF:-1 tvg-id="ch0988" tvg-name="Kanal D" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Kanal D
+https://stream.telecomtv101.workers.dev/c/ch0988
+#EXTINF:-1 tvg-id="ch0911" tvg-name="Euro D HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Euro D HD
+https://stream.telecomtv101.workers.dev/c/ch0911
+#EXTINF:-1 tvg-id="ch0912" tvg-name="TV 8 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV 8 HD
+https://stream.telecomtv101.workers.dev/c/ch0912
+#EXTINF:-1 tvg-id="ch0913" tvg-name="TV 8 - 5 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV 8 - 5 HD
+https://stream.telecomtv101.workers.dev/c/ch0913
+#EXTINF:-1 tvg-id="ch0914" tvg-name="FOX TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FOX TV
+https://stream.telecomtv101.workers.dev/c/ch0914
+#EXTINF:-1 tvg-id="ch1027" tvg-name="ATV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ATV HD
+https://stream.telecomtv101.workers.dev/c/ch1027
+#EXTINF:-1 tvg-id="ch0918" tvg-name="Haber Global HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Haber Global HD
+https://stream.telecomtv101.workers.dev/c/ch0918
+#EXTINF:-1 tvg-id="ch0919" tvg-name="A Spor" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",A Spor
+https://stream.telecomtv101.workers.dev/c/ch0919
+#EXTINF:-1 tvg-id="ch0920" tvg-name="TRT1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TRT1 HD
+https://stream.telecomtv101.workers.dev/c/ch0920
+#EXTINF:-1 tvg-id="ch0921" tvg-name="KANAL 7 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",KANAL 7 HD
+https://stream.telecomtv101.workers.dev/c/ch0921
+#EXTINF:-1 tvg-id="ch0922" tvg-name="Tivibu Spor 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Tivibu Spor 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0922
+#EXTINF:-1 tvg-id="ch0923" tvg-name="Tivibu Spor 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Tivibu Spor 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0923
+#EXTINF:-1 tvg-id="ch0924" tvg-name="Tivibu Spor 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Tivibu Spor 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0924
+#EXTINF:-1 tvg-id="ch0925" tvg-name="TRT Spor" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TRT Spor
+https://stream.telecomtv101.workers.dev/c/ch0925
+#EXTINF:-1 tvg-id="ch0926" tvg-name="TABii SPOR HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TABii SPOR HD
+https://stream.telecomtv101.workers.dev/c/ch0926
+#EXTINF:-1 tvg-id="ch0927" tvg-name="TABii SPOR 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TABii SPOR 1 HD
+https://stream.telecomtv101.workers.dev/c/ch0927
+#EXTINF:-1 tvg-id="ch0928" tvg-name="TABii SPOR 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TABii SPOR 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0928
+#EXTINF:-1 tvg-id="ch0929" tvg-name="TABii SPOR 3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TABii SPOR 3 HD
+https://stream.telecomtv101.workers.dev/c/ch0929
+#EXTINF:-1 tvg-id="ch0930" tvg-name="TABii SPOR 4 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TABii SPOR 4 HD
+https://stream.telecomtv101.workers.dev/c/ch0930
+#EXTINF:-1 tvg-id="ch0931" tvg-name="S SPORT HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",S SPORT HD
+https://stream.telecomtv101.workers.dev/c/ch0931
+#EXTINF:-1 tvg-id="ch0932" tvg-name="S SPORT2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",S SPORT2 HD
+https://stream.telecomtv101.workers.dev/c/ch0932
+#EXTINF:-1 tvg-id="ch0933" tvg-name="SHOW MAX HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SHOW MAX HD
+https://stream.telecomtv101.workers.dev/c/ch0933
+#EXTINF:-1 tvg-id="ch0934" tvg-name="SINEMA 1001 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SINEMA 1001 HD
+https://stream.telecomtv101.workers.dev/c/ch0934
+#EXTINF:-1 tvg-id="ch0935" tvg-name="SINEMA 1002 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SINEMA 1002 HD
+https://stream.telecomtv101.workers.dev/c/ch0935
+#EXTINF:-1 tvg-id="ch0936" tvg-name="TRT BELGESEL HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TRT BELGESEL HD
+https://stream.telecomtv101.workers.dev/c/ch0936
+#EXTINF:-1 tvg-id="ch0937" tvg-name="Beyaz TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Beyaz TV HD
+https://stream.telecomtv101.workers.dev/c/ch0937
+#EXTINF:-1 tvg-id="ch0938" tvg-name="Sinema HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sinema HD
+https://stream.telecomtv101.workers.dev/c/ch0938
+#EXTINF:-1 tvg-id="ch0939" tvg-name="Sinema 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sinema 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0939
+#EXTINF:-1 tvg-id="ch0940" tvg-name="Sinema Yerli HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sinema Yerli HD
+https://stream.telecomtv101.workers.dev/c/ch0940
+#EXTINF:-1 tvg-id="ch0941" tvg-name="Sinema Yerli 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sinema Yerli 2 HD
+https://stream.telecomtv101.workers.dev/c/ch0941
+#EXTINF:-1 tvg-id="ch0942" tvg-name="TRT Arabi HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TRT Arabi HD
+https://stream.telecomtv101.workers.dev/c/ch0942
+#EXTINF:-1 tvg-id="ch0943" tvg-name="TRT WORLD HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TRT WORLD HD
+https://stream.telecomtv101.workers.dev/c/ch0943
+#EXTINF:-1 tvg-id="ch0944" tvg-name="TRT COCUK HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TRT COCUK HD
+https://stream.telecomtv101.workers.dev/c/ch0944
+#EXTINF:-1 tvg-id="ch0945" tvg-name="m1 HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",m1 HU
+https://stream.telecomtv101.workers.dev/c/ch0945
+#EXTINF:-1 tvg-id="ch0946" tvg-name="M4 HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",M4 HU
+https://stream.telecomtv101.workers.dev/c/ch0946
+#EXTINF:-1 tvg-id="ch0947" tvg-name="m5 HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",m5 HU
+https://stream.telecomtv101.workers.dev/c/ch0947
+#EXTINF:-1 tvg-id="ch0948" tvg-name="Duna HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Duna HU
+https://stream.telecomtv101.workers.dev/c/ch0948
+#EXTINF:-1 tvg-id="ch0949" tvg-name="Duna World / M4 Sport+ HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Duna World / M4 Sport+ HU
+https://stream.telecomtv101.workers.dev/c/ch0949
+#EXTINF:-1 tvg-id="ch0950" tvg-name="TV2 HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV2 HU
+https://stream.telecomtv101.workers.dev/c/ch0950
+#EXTINF:-1 tvg-id="ch0951" tvg-name="SuperTV2 HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SuperTV2 HU
+https://stream.telecomtv101.workers.dev/c/ch0951
+#EXTINF:-1 tvg-id="ch0952" tvg-name="RTL HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",RTL HU
+https://stream.telecomtv101.workers.dev/c/ch0952
+#EXTINF:-1 tvg-id="ch0953" tvg-name="RTL GOLD HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",RTL GOLD HU
+https://stream.telecomtv101.workers.dev/c/ch0953
+#EXTINF:-1 tvg-id="ch0954" tvg-name="RTL KETTO HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",RTL KETTO HU
+https://stream.telecomtv101.workers.dev/c/ch0954
+#EXTINF:-1 tvg-id="ch0955" tvg-name="RTL HAROM HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",RTL HAROM HU
+https://stream.telecomtv101.workers.dev/c/ch0955
+#EXTINF:-1 tvg-id="ch0956" tvg-name="Film+ HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Film+ HU
+https://stream.telecomtv101.workers.dev/c/ch0956
+#EXTINF:-1 tvg-id="ch0957" tvg-name="Mozi+ HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Mozi+ HU
+https://stream.telecomtv101.workers.dev/c/ch0957
+#EXTINF:-1 tvg-id="ch0958" tvg-name="Moziverzum HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Moziverzum HU
+https://stream.telecomtv101.workers.dev/c/ch0958
+#EXTINF:-1 tvg-id="ch0959" tvg-name="HBO HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",HBO HU
+https://stream.telecomtv101.workers.dev/c/ch0959
+#EXTINF:-1 tvg-id="ch0960" tvg-name="HBO 2 HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",HBO 2 HU
+https://stream.telecomtv101.workers.dev/c/ch0960
+#EXTINF:-1 tvg-id="ch0961" tvg-name="HBO 3 HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",HBO 3 HU
+https://stream.telecomtv101.workers.dev/c/ch0961
+#EXTINF:-1 tvg-id="ch0962" tvg-name="Slager TV HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Slager TV HU
+https://stream.telecomtv101.workers.dev/c/ch0962
+#EXTINF:-1 tvg-id="ch0963" tvg-name="Muzsika TV HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Muzsika TV HU
+https://stream.telecomtv101.workers.dev/c/ch0963
+#EXTINF:-1 tvg-id="ch0964" tvg-name="Zenebutik HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Zenebutik HU
+https://stream.telecomtv101.workers.dev/c/ch0964
+#EXTINF:-1 tvg-id="ch0965" tvg-name="Spiler TV HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Spiler TV HU
+https://stream.telecomtv101.workers.dev/c/ch0965
+#EXTINF:-1 tvg-id="ch0966" tvg-name="Spiler 2 TV HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Spiler 2 TV HU
+https://stream.telecomtv101.workers.dev/c/ch0966
+#EXTINF:-1 tvg-id="ch0967" tvg-name="Arena 4 SPORT HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arena 4 SPORT HU
+https://stream.telecomtv101.workers.dev/c/ch0967
+#EXTINF:-1 tvg-id="ch0968" tvg-name="MATCH4 HD HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",MATCH4 HD HU
+https://stream.telecomtv101.workers.dev/c/ch0968
+#EXTINF:-1 tvg-id="ch0969" tvg-name="Sport 1 HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sport 1 HU
+https://stream.telecomtv101.workers.dev/c/ch0969
+#EXTINF:-1 tvg-id="ch0970" tvg-name="Sport 2 HU" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sport 2 HU
+https://stream.telecomtv101.workers.dev/c/ch0970
+#EXTINF:-1 tvg-id="ch0971" tvg-name="TVR SPORT HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVR SPORT HD
+https://stream.telecomtv101.workers.dev/c/ch0971
+#EXTINF:-1 tvg-id="ch0972" tvg-name="TVR International" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVR International
+https://stream.telecomtv101.workers.dev/c/ch0972
+#EXTINF:-1 tvg-id="ch0973" tvg-name="Romane TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Romane TV
+https://stream.telecomtv101.workers.dev/c/ch0973
+#EXTINF:-1 tvg-id="ch0974" tvg-name="Antena 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Antena 1
+https://stream.telecomtv101.workers.dev/c/ch0974
+#EXTINF:-1 tvg-id="ch0975" tvg-name="Antena 3" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Antena 3
+https://stream.telecomtv101.workers.dev/c/ch0975
+#EXTINF:-1 tvg-id="ch0976" tvg-name="Antena Stars HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Antena Stars HD
+https://stream.telecomtv101.workers.dev/c/ch0976
+#EXTINF:-1 tvg-id="ch0977" tvg-name="Bollywood" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Bollywood
+https://stream.telecomtv101.workers.dev/c/ch0977
+#EXTINF:-1 tvg-id="ch0978" tvg-name="Disney channel" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Disney channel
+https://stream.telecomtv101.workers.dev/c/ch0978
+#EXTINF:-1 tvg-id="ch0979" tvg-name="Filmbox Premium" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Filmbox Premium
+https://stream.telecomtv101.workers.dev/c/ch0979
+#EXTINF:-1 tvg-id="ch0980" tvg-name="HBO" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",HBO
+https://stream.telecomtv101.workers.dev/c/ch0980
+#EXTINF:-1 tvg-id="ch0981" tvg-name="HBO 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",HBO 2
+https://stream.telecomtv101.workers.dev/c/ch0981
+#EXTINF:-1 tvg-id="ch0982" tvg-name="HBO 3" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",HBO 3
+https://stream.telecomtv101.workers.dev/c/ch0982
+#EXTINF:-1 tvg-id="ch0983" tvg-name="Jim Jam" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Jim Jam
+https://stream.telecomtv101.workers.dev/c/ch0983
+#EXTINF:-1 tvg-id="ch0984" tvg-name="Disney Junior" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Disney Junior
+https://stream.telecomtv101.workers.dev/c/ch0984
+#EXTINF:-1 tvg-id="ch0986" tvg-name="Music Channel" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Music Channel
+https://stream.telecomtv101.workers.dev/c/ch0986
+#EXTINF:-1 tvg-id="ch0987" tvg-name="National TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",National TV
+https://stream.telecomtv101.workers.dev/c/ch0987
+#EXTINF:-1 tvg-id="ch0989" tvg-name="Romania TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Romania TV
+https://stream.telecomtv101.workers.dev/c/ch0989
+#EXTINF:-1 tvg-id="ch0990" tvg-name="TVR1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVR1
+https://stream.telecomtv101.workers.dev/c/ch0990
+#EXTINF:-1 tvg-id="ch0991" tvg-name="TVR2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVR2
+https://stream.telecomtv101.workers.dev/c/ch0991
+#EXTINF:-1 tvg-id="ch0992" tvg-name="TVR3" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVR3
+https://stream.telecomtv101.workers.dev/c/ch0992
+#EXTINF:-1 tvg-id="ch0993" tvg-name="HGTV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",HGTV
+https://stream.telecomtv101.workers.dev/c/ch0993
+#EXTINF:-1 tvg-id="ch0994" tvg-name="Discovery" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Discovery
+https://stream.telecomtv101.workers.dev/c/ch0994
+#EXTINF:-1 tvg-id="ch0995" tvg-name="Nat Geo" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Nat Geo
+https://stream.telecomtv101.workers.dev/c/ch0995
+#EXTINF:-1 tvg-id="ch0996" tvg-name="Nat Geo Willd" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Nat Geo Willd
+https://stream.telecomtv101.workers.dev/c/ch0996
+#EXTINF:-1 tvg-id="ch0997" tvg-name="Pro Cinema" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Pro Cinema
+https://stream.telecomtv101.workers.dev/c/ch0997
+#EXTINF:-1 tvg-id="ch0998" tvg-name="Silk Universal" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Silk Universal
+https://stream.telecomtv101.workers.dev/c/ch0998
+#EXTINF:-1 tvg-id="ch0999" tvg-name="Rugby" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Rugby
+https://stream.telecomtv101.workers.dev/c/ch0999
+#EXTINF:-1 tvg-id="ch1000" tvg-name="1TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",1TV
+https://stream.telecomtv101.workers.dev/c/ch1000
+#EXTINF:-1 tvg-id="ch1094" tvg-name="2TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",2TV
+https://stream.telecomtv101.workers.dev/c/ch1094
+#EXTINF:-1 tvg-id="ch1002" tvg-name="Formula" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Formula
+https://stream.telecomtv101.workers.dev/c/ch1002
+#EXTINF:-1 tvg-id="ch1003" tvg-name="TV-Pirveli" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV-Pirveli
+https://stream.telecomtv101.workers.dev/c/ch1003
+#EXTINF:-1 tvg-id="ch1004" tvg-name="Imedi TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Imedi TV
+https://stream.telecomtv101.workers.dev/c/ch1004
+#EXTINF:-1 tvg-id="ch1005" tvg-name="Palitra News" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Palitra News
+https://stream.telecomtv101.workers.dev/c/ch1005
+#EXTINF:-1 tvg-id="ch1006" tvg-name="Royal HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Royal HD
+https://stream.telecomtv101.workers.dev/c/ch1006
+#EXTINF:-1 tvg-id="ch1007" tvg-name="Comedy HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Comedy HD
+https://stream.telecomtv101.workers.dev/c/ch1007
+#EXTINF:-1 tvg-id="ch1008" tvg-name="Geo Times TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Geo Times TV
+https://stream.telecomtv101.workers.dev/c/ch1008
+#EXTINF:-1 tvg-id="ch1009" tvg-name="Adjara TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Adjara TV
+https://stream.telecomtv101.workers.dev/c/ch1009
+#EXTINF:-1 tvg-id="ch1010" tvg-name="TV4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV4
+https://stream.telecomtv101.workers.dev/c/ch1010
+#EXTINF:-1 tvg-id="ch1011" tvg-name="GDS TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",GDS TV
+https://stream.telecomtv101.workers.dev/c/ch1011
+#EXTINF:-1 tvg-id="ch1012" tvg-name="Silk Kids HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Silk Kids HD
+https://stream.telecomtv101.workers.dev/c/ch1012
+#EXTINF:-1 tvg-id="ch1013" tvg-name="Qartuli Arkhi" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Qartuli Arkhi
+https://stream.telecomtv101.workers.dev/c/ch1013
+#EXTINF:-1 tvg-id="ch1014" tvg-name="Rustavi 2" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Rustavi 2
+https://stream.telecomtv101.workers.dev/c/ch1014
+#EXTINF:-1 tvg-id="ch1015" tvg-name="POS TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",POS TV
+https://stream.telecomtv101.workers.dev/c/ch1015
+#EXTINF:-1 tvg-id="ch1016" tvg-name="Marao" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Marao
+https://stream.telecomtv101.workers.dev/c/ch1016
+#EXTINF:-1 tvg-id="ch1017" tvg-name="Maestro" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Maestro
+https://stream.telecomtv101.workers.dev/c/ch1017
+#EXTINF:-1 tvg-id="ch1018" tvg-name="Ertsulovneba" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Ertsulovneba
+https://stream.telecomtv101.workers.dev/c/ch1018
+#EXTINF:-1 tvg-id="ch1019" tvg-name="Armenia TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Armenia TV
+https://stream.telecomtv101.workers.dev/c/ch1019
+#EXTINF:-1 tvg-id="ch1020" tvg-name="Armenia 1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Armenia 1
+https://stream.telecomtv101.workers.dev/c/ch1020
+#EXTINF:-1 tvg-id="ch1021" tvg-name="High Video" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",High Video
+https://stream.telecomtv101.workers.dev/c/ch1021
+#EXTINF:-1 tvg-id="ch1022" tvg-name="Comedy" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Comedy
+https://stream.telecomtv101.workers.dev/c/ch1022
+#EXTINF:-1 tvg-id="ch1023" tvg-name="Armenia Premium" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Armenia Premium
+https://stream.telecomtv101.workers.dev/c/ch1023
+#EXTINF:-1 tvg-id="ch1024" tvg-name="Hay Kino" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Hay Kino
+https://stream.telecomtv101.workers.dev/c/ch1024
+#EXTINF:-1 tvg-id="ch1025" tvg-name="Jan TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Jan TV
+https://stream.telecomtv101.workers.dev/c/ch1025
+#EXTINF:-1 tvg-id="ch1026" tvg-name="Kentron TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Kentron TV
+https://stream.telecomtv101.workers.dev/c/ch1026
+#EXTINF:-1 tvg-id="ch1028" tvg-name="ATV Bazmoc" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ATV Bazmoc
+https://stream.telecomtv101.workers.dev/c/ch1028
+#EXTINF:-1 tvg-id="ch1029" tvg-name="ATV Kinoman" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ATV Kinoman
+https://stream.telecomtv101.workers.dev/c/ch1029
+#EXTINF:-1 tvg-id="ch1030" tvg-name="FreeNews" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FreeNews
+https://stream.telecomtv101.workers.dev/c/ch1030
+#EXTINF:-1 tvg-id="ch1031" tvg-name="Shant HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Shant HD
+https://stream.telecomtv101.workers.dev/c/ch1031
+#EXTINF:-1 tvg-id="ch1032" tvg-name="Shant Premium HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Shant Premium HD
+https://stream.telecomtv101.workers.dev/c/ch1032
+#EXTINF:-1 tvg-id="ch1033" tvg-name="Shant Serial HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Shant Serial HD
+https://stream.telecomtv101.workers.dev/c/ch1033
+#EXTINF:-1 tvg-id="ch1034" tvg-name="Shant Comedy" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Shant Comedy
+https://stream.telecomtv101.workers.dev/c/ch1034
+#EXTINF:-1 tvg-id="ch1035" tvg-name="Shant Film" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Shant Film
+https://stream.telecomtv101.workers.dev/c/ch1035
+#EXTINF:-1 tvg-id="ch1036" tvg-name="Shant Kids" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Shant Kids
+https://stream.telecomtv101.workers.dev/c/ch1036
+#EXTINF:-1 tvg-id="ch1037" tvg-name="Shant Music" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Shant Music
+https://stream.telecomtv101.workers.dev/c/ch1037
+#EXTINF:-1 tvg-id="ch1038" tvg-name="SongTV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",SongTV
+https://stream.telecomtv101.workers.dev/c/ch1038
+#EXTINF:-1 tvg-id="ch1039" tvg-name="5 TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",5 TV
+https://stream.telecomtv101.workers.dev/c/ch1039
+#EXTINF:-1 tvg-id="ch1040" tvg-name="5 TV+" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",5 TV+
+https://stream.telecomtv101.workers.dev/c/ch1040
+#EXTINF:-1 tvg-id="ch1041" tvg-name="NOVELAS+" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",NOVELAS+
+https://stream.telecomtv101.workers.dev/c/ch1041
+#EXTINF:-1 tvg-id="ch1042" tvg-name="teleTOON+ HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",teleTOON+ HD
+https://stream.telecomtv101.workers.dev/c/ch1042
+#EXTINF:-1 tvg-id="ch1043" tvg-name="TVP Dokument HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVP Dokument HD
+https://stream.telecomtv101.workers.dev/c/ch1043
+#EXTINF:-1 tvg-id="ch1044" tvg-name="TVP Sport HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVP Sport HD
+https://stream.telecomtv101.workers.dev/c/ch1044
+#EXTINF:-1 tvg-id="ch1045" tvg-name="TVP 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVP 1 HD
+https://stream.telecomtv101.workers.dev/c/ch1045
+#EXTINF:-1 tvg-id="ch1046" tvg-name="Cinemax HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Cinemax HD
+https://stream.telecomtv101.workers.dev/c/ch1046
+#EXTINF:-1 tvg-id="ch1047" tvg-name="AMC HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",AMC HD
+https://stream.telecomtv101.workers.dev/c/ch1047
+#EXTINF:-1 tvg-id="ch1048" tvg-name="Canal+ Seriale HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Canal+ Seriale HD
+https://stream.telecomtv101.workers.dev/c/ch1048
+#EXTINF:-1 tvg-id="ch1049" tvg-name="Polsat Film HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Polsat Film HD
+https://stream.telecomtv101.workers.dev/c/ch1049
+#EXTINF:-1 tvg-id="ch1050" tvg-name="TVP Seriale HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVP Seriale HD
+https://stream.telecomtv101.workers.dev/c/ch1050
+#EXTINF:-1 tvg-id="ch1051" tvg-name="Vox Music TV HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Vox Music TV HD
+https://stream.telecomtv101.workers.dev/c/ch1051
+#EXTINF:-1 tvg-id="ch1052" tvg-name="Filmbox Premium HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Filmbox Premium HD
+https://stream.telecomtv101.workers.dev/c/ch1052
+#EXTINF:-1 tvg-id="ch1054" tvg-name="Adventure HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Adventure HD
+https://stream.telecomtv101.workers.dev/c/ch1054
+#EXTINF:-1 tvg-id="ch1055" tvg-name="Science Channel HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Science Channel HD
+https://stream.telecomtv101.workers.dev/c/ch1055
+#EXTINF:-1 tvg-id="ch1056" tvg-name="BBC Earth HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BBC Earth HD
+https://stream.telecomtv101.workers.dev/c/ch1056
+#EXTINF:-1 tvg-id="ch1057" tvg-name="Viasat Explore HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Viasat Explore HD
+https://stream.telecomtv101.workers.dev/c/ch1057
+#EXTINF:-1 tvg-id="ch1059" tvg-name="Nat Geo People HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Nat Geo People HD
+https://stream.telecomtv101.workers.dev/c/ch1059
+#EXTINF:-1 tvg-id="ch1060" tvg-name="Asgabat" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Asgabat
+https://stream.telecomtv101.workers.dev/c/ch1060
+#EXTINF:-1 tvg-id="ch1061" tvg-name="Turkmenistan Sport" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Turkmenistan Sport
+https://stream.telecomtv101.workers.dev/c/ch1061
+#EXTINF:-1 tvg-id="ch1062" tvg-name="Arkadag" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Arkadag
+https://stream.telecomtv101.workers.dev/c/ch1062
+#EXTINF:-1 tvg-id="ch1063" tvg-name="Turkmen Owazy" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Turkmen Owazy
+https://stream.telecomtv101.workers.dev/c/ch1063
+#EXTINF:-1 tvg-id="ch1064" tvg-name="Turkmenistan" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Turkmenistan
+https://stream.telecomtv101.workers.dev/c/ch1064
+#EXTINF:-1 tvg-id="ch1065" tvg-name="Yaslyk" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Yaslyk
+https://stream.telecomtv101.workers.dev/c/ch1065
+#EXTINF:-1 tvg-id="ch1066" tvg-name="Altyn Asyr" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Altyn Asyr
+https://stream.telecomtv101.workers.dev/c/ch1066
+#EXTINF:-1 tvg-id="ch1067" tvg-name="Miras" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Miras
+https://stream.telecomtv101.workers.dev/c/ch1067
+#EXTINF:-1 tvg-id="ch1068" tvg-name="Turkmen Radio" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Turkmen Radio
+https://stream.telecomtv101.workers.dev/c/ch1068
+#EXTINF:-1 tvg-id="ch1076" tvg-name="TVR" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TVR
+https://stream.telecomtv101.workers.dev/c/ch1076
+#EXTINF:-1 tvg-id="ch1070" tvg-name="Moldova 1 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Moldova 1 HD
+https://stream.telecomtv101.workers.dev/c/ch1070
+#EXTINF:-1 tvg-id="ch1071" tvg-name="Moldova 2 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Moldova 2 HD
+https://stream.telecomtv101.workers.dev/c/ch1071
+#EXTINF:-1 tvg-id="ch1072" tvg-name="Jurnal TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Jurnal TV
+https://stream.telecomtv101.workers.dev/c/ch1072
+#EXTINF:-1 tvg-id="ch1073" tvg-name="Exclusive TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Exclusive TV
+https://stream.telecomtv101.workers.dev/c/ch1073
+#EXTINF:-1 tvg-id="ch1074" tvg-name="Noroc TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Noroc TV
+https://stream.telecomtv101.workers.dev/c/ch1074
+#EXTINF:-1 tvg-id="ch1089" tvg-name="TV8" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV8
+https://stream.telecomtv101.workers.dev/c/ch1089
+#EXTINF:-1 tvg-id="ch1077" tvg-name="ProTV Chișinău" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",ProTV Chișinău
+https://stream.telecomtv101.workers.dev/c/ch1077
+#EXTINF:-1 tvg-id="ch1078" tvg-name="Agro" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Agro
+https://stream.telecomtv101.workers.dev/c/ch1078
+#EXTINF:-1 tvg-id="ch1079" tvg-name="We Sport" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",We Sport
+https://stream.telecomtv101.workers.dev/c/ch1079
+#EXTINF:-1 tvg-id="ch1080" tvg-name="Info TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Info TV
+https://stream.telecomtv101.workers.dev/c/ch1080
+#EXTINF:-1 tvg-id="ch1081" tvg-name="LRT Plius" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",LRT Plius
+https://stream.telecomtv101.workers.dev/c/ch1081
+#EXTINF:-1 tvg-id="ch1082" tvg-name="LRT Televizija" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",LRT Televizija
+https://stream.telecomtv101.workers.dev/c/ch1082
+#EXTINF:-1 tvg-id="ch1083" tvg-name="LNK" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",LNK
+https://stream.telecomtv101.workers.dev/c/ch1083
+#EXTINF:-1 tvg-id="ch1084" tvg-name="TV3 HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV3 HD
+https://stream.telecomtv101.workers.dev/c/ch1084
+#EXTINF:-1 tvg-id="ch1085" tvg-name="Lietuvos Ryto HD TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Lietuvos Ryto HD TV
+https://stream.telecomtv101.workers.dev/c/ch1085
+#EXTINF:-1 tvg-id="ch1086" tvg-name="BTV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",BTV
+https://stream.telecomtv101.workers.dev/c/ch1086
+#EXTINF:-1 tvg-id="ch1087" tvg-name="TV6" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV6
+https://stream.telecomtv101.workers.dev/c/ch1087
+#EXTINF:-1 tvg-id="ch1088" tvg-name="TV1" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",TV1
+https://stream.telecomtv101.workers.dev/c/ch1088
+#EXTINF:-1 tvg-id="ch1090" tvg-name="FIBA TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",FIBA TV
+https://stream.telecomtv101.workers.dev/c/ch1090
+#EXTINF:-1 tvg-id="ch1091" tvg-name="Balticum Auksinis" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Balticum Auksinis
+https://stream.telecomtv101.workers.dev/c/ch1091
+#EXTINF:-1 tvg-id="ch1092" tvg-name="Kidzone Mini" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Kidzone Mini
+https://stream.telecomtv101.workers.dev/c/ch1092
+#EXTINF:-1 tvg-id="ch1095" tvg-name="Kidzone" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Kidzone
+https://stream.telecomtv101.workers.dev/c/ch1095
+#EXTINF:-1 tvg-id="ch1096" tvg-name="Pingviniukas" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Pingviniukas
+https://stream.telecomtv101.workers.dev/c/ch1096
+#EXTINF:-1 tvg-id="ch1097" tvg-name="Sky Cinema Action HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Sky Cinema Action HD
+https://stream.telecomtv101.workers.dev/c/ch1097
+#EXTINF:-1 tvg-id="ch1098" tvg-name="VOX HD" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",VOX HD
+https://stream.telecomtv101.workers.dev/c/ch1098
+#EXTINF:-1 tvg-id="ch1099" tvg-name="n-tv HD DE" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",n-tv HD DE
+https://stream.telecomtv101.workers.dev/c/ch1099
+#EXTINF:-1 tvg-id="ch1100" tvg-name="RTL HD DE" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",RTL HD DE
+https://stream.telecomtv101.workers.dev/c/ch1100
+#EXTINF:-1 tvg-id="ch1101" tvg-name="Puls4" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Puls4
+https://stream.telecomtv101.workers.dev/c/ch1101
+#EXTINF:-1 tvg-id="ch1102" tvg-name="Channel 9" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Channel 9
+https://stream.telecomtv101.workers.dev/c/ch1102
+#EXTINF:-1 tvg-id="ch1103" tvg-name="Fashion TV" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Fashion TV
+https://stream.telecomtv101.workers.dev/c/ch1103
+#EXTINF:-1 tvg-id="ch1104" tvg-name="[Sc] Радио Маяк" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Радио Маяк
+https://stream.telecomtv101.workers.dev/c/ch1104
+#EXTINF:-1 tvg-id="ch1105" tvg-name="[Sc] Вести ФМ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Вести ФМ
+https://stream.telecomtv101.workers.dev/c/ch1105
+#EXTINF:-1 tvg-id="ch1106" tvg-name="[Sc] Радио России" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Радио России
+https://stream.telecomtv101.workers.dev/c/ch1106
+#EXTINF:-1 tvg-id="ch1107" tvg-name="[Sc] Авторадио" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Авторадио
+https://stream.telecomtv101.workers.dev/c/ch1107
+#EXTINF:-1 tvg-id="ch1108" tvg-name="[Sc] Energy FM" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Energy FM
+https://stream.telecomtv101.workers.dev/c/ch1108
+#EXTINF:-1 tvg-id="ch1109" tvg-name="[Sc] DFM" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] DFM
+https://stream.telecomtv101.workers.dev/c/ch1109
+#EXTINF:-1 tvg-id="ch1110" tvg-name="[Sc] HIT FM" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] HIT FM
+https://stream.telecomtv101.workers.dev/c/ch1110
+#EXTINF:-1 tvg-id="ch1111" tvg-name="[Sc] Love Radio" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Love Radio
+https://stream.telecomtv101.workers.dev/c/ch1111
+#EXTINF:-1 tvg-id="ch1112" tvg-name="[Sc] Maximum" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Maximum
+https://stream.telecomtv101.workers.dev/c/ch1112
+#EXTINF:-1 tvg-id="ch1113" tvg-name="[Sc] Русское радио" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Русское радио
+https://stream.telecomtv101.workers.dev/c/ch1113
+#EXTINF:-1 tvg-id="ch1114" tvg-name="[Sc] Романтика" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Романтика
+https://stream.telecomtv101.workers.dev/c/ch1114
+#EXTINF:-1 tvg-id="ch1115" tvg-name="[Sc] Радио Ваня" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Радио Ваня
+https://stream.telecomtv101.workers.dev/c/ch1115
+#EXTINF:-1 tvg-id="ch1116" tvg-name="[Sc] Relax FM" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Relax FM
+https://stream.telecomtv101.workers.dev/c/ch1116
+#EXTINF:-1 tvg-id="ch1117" tvg-name="[Sc] Радио МИР" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Радио МИР
+https://stream.telecomtv101.workers.dev/c/ch1117
+#EXTINF:-1 tvg-id="ch1118" tvg-name="[Sc] Comedy Radio" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Comedy Radio
+https://stream.telecomtv101.workers.dev/c/ch1118
+#EXTINF:-1 tvg-id="ch1119" tvg-name="[Sc] Юмор FM" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Юмор FM
+https://stream.telecomtv101.workers.dev/c/ch1119
+#EXTINF:-1 tvg-id="ch1120" tvg-name="[Sc] Детское Радио" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Детское Радио
+https://stream.telecomtv101.workers.dev/c/ch1120
+#EXTINF:-1 tvg-id="ch1121" tvg-name="[Sc] Милицейская волна" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Милицейская волна
+https://stream.telecomtv101.workers.dev/c/ch1121
+#EXTINF:-1 tvg-id="ch1122" tvg-name="[Sc] Комсомольская правда" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Комсомольская правда
+https://stream.telecomtv101.workers.dev/c/ch1122
+#EXTINF:-1 tvg-id="ch1123" tvg-name="[Sc] Business FM" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Business FM
+https://stream.telecomtv101.workers.dev/c/ch1123
+#EXTINF:-1 tvg-id="ch1124" tvg-name="[Sc] Радио Вера" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Радио Вера
+https://stream.telecomtv101.workers.dev/c/ch1124
+#EXTINF:-1 tvg-id="ch1125" tvg-name="[Sc] Омское радио" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Омское радио
+https://stream.telecomtv101.workers.dev/c/ch1125
+#EXTINF:-1 tvg-id="ch1126" tvg-name="Radio Record" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Radio Record
+https://stream.telecomtv101.workers.dev/c/ch1126
+#EXTINF:-1 tvg-id="ch1127" tvg-name="Record Gold" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Record Gold
+https://stream.telecomtv101.workers.dev/c/ch1127
+#EXTINF:-1 tvg-id="ch1128" tvg-name="Record Progressive" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Record Progressive
+https://stream.telecomtv101.workers.dev/c/ch1128
+#EXTINF:-1 tvg-id="ch1129" tvg-name="Record Rap" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Record Rap
+https://stream.telecomtv101.workers.dev/c/ch1129
+#EXTINF:-1 tvg-id="ch1130" tvg-name="Record Rock" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",Record Rock
+https://stream.telecomtv101.workers.dev/c/ch1130
+#EXTINF:-1 tvg-id="ch1131" tvg-name="1FM Trance" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",1FM Trance
+https://stream.telecomtv101.workers.dev/c/ch1131
+#EXTINF:-1 tvg-id="ch1132" tvg-name="[Sc] Cinema" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Cinema
+https://stream.telecomtv101.workers.dev/c/ch1132
+#EXTINF:-1 tvg-id="ch1133" tvg-name="[Sc] Mult" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Mult
+https://stream.telecomtv101.workers.dev/c/ch1133
+#EXTINF:-1 tvg-id="ch1134" tvg-name="[Sc] Louis de Funes" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Louis de Funes
+https://stream.telecomtv101.workers.dev/c/ch1134
+#EXTINF:-1 tvg-id="ch1135" tvg-name="[Sc] James Bond" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] James Bond
+https://stream.telecomtv101.workers.dev/c/ch1135
+#EXTINF:-1 tvg-id="ch1136" tvg-name="[Sc] Mission Impossible" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Mission Impossible
+https://stream.telecomtv101.workers.dev/c/ch1136
+#EXTINF:-1 tvg-id="ch1137" tvg-name="[Sc] Jurassic Park" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Jurassic Park
+https://stream.telecomtv101.workers.dev/c/ch1137
+#EXTINF:-1 tvg-id="ch1138" tvg-name="[Sc] Pirates of the Caribbean" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Pirates of the Caribbean
+https://stream.telecomtv101.workers.dev/c/ch1138
+#EXTINF:-1 tvg-id="ch1139" tvg-name="[Sc] Harry Potter" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Harry Potter
+https://stream.telecomtv101.workers.dev/c/ch1139
+#EXTINF:-1 tvg-id="ch1140" tvg-name="[Sc] The Lord of the Rings & The Hobbit" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] The Lord of the Rings & The Hobbit
+https://stream.telecomtv101.workers.dev/c/ch1140
+#EXTINF:-1 tvg-id="ch1141" tvg-name="[Sc] Star Wars" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Star Wars
+https://stream.telecomtv101.workers.dev/c/ch1141
+#EXTINF:-1 tvg-id="ch1142" tvg-name="[Sc] Terminator" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Terminator
+https://stream.telecomtv101.workers.dev/c/ch1142
+#EXTINF:-1 tvg-id="ch1143" tvg-name="[Sc] Transformers" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Transformers
+https://stream.telecomtv101.workers.dev/c/ch1143
+#EXTINF:-1 tvg-id="ch1144" tvg-name="[Sc] Форсаж" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Форсаж
+https://stream.telecomtv101.workers.dev/c/ch1144
+#EXTINF:-1 tvg-id="ch1145" tvg-name="[Sc] Такси" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Такси
+https://stream.telecomtv101.workers.dev/c/ch1145
+#EXTINF:-1 tvg-id="ch1146" tvg-name="[Sc] Железный человек" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Железный человек
+https://stream.telecomtv101.workers.dev/c/ch1146
+#EXTINF:-1 tvg-id="ch1147" tvg-name="[Sc] Сумерки. Сага." group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Сумерки. Сага.
+https://stream.telecomtv101.workers.dev/c/ch1147
+#EXTINF:-1 tvg-id="ch1148" tvg-name="[Sc] Хищник" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Хищник
+https://stream.telecomtv101.workers.dev/c/ch1148
+#EXTINF:-1 tvg-id="ch1149" tvg-name="[Sc] Побег из тюрьмы" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Побег из тюрьмы
+https://stream.telecomtv101.workers.dev/c/ch1149
+#EXTINF:-1 tvg-id="ch1150" tvg-name="[Sc] Люди Икс" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Люди Икс
+https://stream.telecomtv101.workers.dev/c/ch1150
+#EXTINF:-1 tvg-id="ch1151" tvg-name="[Sc] Чужой" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Чужой
+https://stream.telecomtv101.workers.dev/c/ch1151
+#EXTINF:-1 tvg-id="ch1152" tvg-name="[Sc] Бэтмен" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Бэтмен
+https://stream.telecomtv101.workers.dev/c/ch1152
+#EXTINF:-1 tvg-id="ch1153" tvg-name="[Sc] Рокки" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Рокки
+https://stream.telecomtv101.workers.dev/c/ch1153
+#EXTINF:-1 tvg-id="ch1154" tvg-name="[Sc] Джон Уик" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Джон Уик
+https://stream.telecomtv101.workers.dev/c/ch1154
+#EXTINF:-1 tvg-id="ch1155" tvg-name="[Sc] Пункт назначения" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Пункт назначения
+https://stream.telecomtv101.workers.dev/c/ch1155
+#EXTINF:-1 tvg-id="ch1156" tvg-name="[Sc] Kolombo" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Kolombo
+https://stream.telecomtv101.workers.dev/c/ch1156
+#EXTINF:-1 tvg-id="ch1157" tvg-name="[Sc] Puaro" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Puaro
+https://stream.telecomtv101.workers.dev/c/ch1157
+#EXTINF:-1 tvg-id="ch1158" tvg-name="[Sc] Полицейская академия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Полицейская академия
+https://stream.telecomtv101.workers.dev/c/ch1158
+#EXTINF:-1 tvg-id="ch1159" tvg-name="[Sc] Секретные материалы" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Секретные материалы
+https://stream.telecomtv101.workers.dev/c/ch1159
+#EXTINF:-1 tvg-id="ch1160" tvg-name="[Sc] Секс в большом городе" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Секс в большом городе
+https://stream.telecomtv101.workers.dev/c/ch1160
+#EXTINF:-1 tvg-id="ch1161" tvg-name="[Sc] Закон каменных джунглей" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Закон каменных джунглей
+https://stream.telecomtv101.workers.dev/c/ch1161
+#EXTINF:-1 tvg-id="ch1162" tvg-name="[Sc] Аутсорс" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Аутсорс
+https://stream.telecomtv101.workers.dev/c/ch1162
+#EXTINF:-1 tvg-id="ch1163" tvg-name="[Sc] Анжелика" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Анжелика
+https://stream.telecomtv101.workers.dev/c/ch1163
+#EXTINF:-1 tvg-id="ch1164" tvg-name="[Sc] Zorro" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Zorro
+https://stream.telecomtv101.workers.dev/c/ch1164
+#EXTINF:-1 tvg-id="ch1165" tvg-name="[Sc] Крепкий орешек" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Крепкий орешек
+https://stream.telecomtv101.workers.dev/c/ch1165
+#EXTINF:-1 tvg-id="ch1166" tvg-name="[Sc] Робин из Шервуда" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Робин из Шервуда
+https://stream.telecomtv101.workers.dev/c/ch1166
+#EXTINF:-1 tvg-id="ch1167" tvg-name="[Sc] Star Trek" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Star Trek
+https://stream.telecomtv101.workers.dev/c/ch1167
+#EXTINF:-1 tvg-id="ch1168" tvg-name="[Sc] Физрук" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Физрук
+https://stream.telecomtv101.workers.dev/c/ch1168
+#EXTINF:-1 tvg-id="ch1169" tvg-name="[Sc] Интерны" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Интерны
+https://stream.telecomtv101.workers.dev/c/ch1169
+#EXTINF:-1 tvg-id="ch1170" tvg-name="[Sc] Жуки" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Жуки
+https://stream.telecomtv101.workers.dev/c/ch1170
+#EXTINF:-1 tvg-id="ch1171" tvg-name="[Sc] Полицейский с Рублёвки" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Полицейский с Рублёвки
+https://stream.telecomtv101.workers.dev/c/ch1171
+#EXTINF:-1 tvg-id="ch1172" tvg-name="[Sc] Девушки с Макаровым" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Девушки с Макаровым
+https://stream.telecomtv101.workers.dev/c/ch1172
+#EXTINF:-1 tvg-id="ch1173" tvg-name="[Sc] Рикошет" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Рикошет
+https://stream.telecomtv101.workers.dev/c/ch1173
+#EXTINF:-1 tvg-id="ch1174" tvg-name="[Sc] ЧОП" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] ЧОП
+https://stream.telecomtv101.workers.dev/c/ch1174
+#EXTINF:-1 tvg-id="ch1175" tvg-name="[Sc] Евгенич" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Евгенич
+https://stream.telecomtv101.workers.dev/c/ch1175
+#EXTINF:-1 tvg-id="ch1176" tvg-name="[Sc] СашаТаня" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] СашаТаня
+https://stream.telecomtv101.workers.dev/c/ch1176
+#EXTINF:-1 tvg-id="ch1177" tvg-name="[Sc] Ольга" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Ольга
+https://stream.telecomtv101.workers.dev/c/ch1177
+#EXTINF:-1 tvg-id="ch1178" tvg-name="[Sc] Патриот" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Патриот
+https://stream.telecomtv101.workers.dev/c/ch1178
+#EXTINF:-1 tvg-id="ch1179" tvg-name="[Sc] Высокие ставки" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Высокие ставки
+https://stream.telecomtv101.workers.dev/c/ch1179
+#EXTINF:-1 tvg-id="ch1180" tvg-name="[Sc] Пять минут тишины" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Пять минут тишины
+https://stream.telecomtv101.workers.dev/c/ch1180
+#EXTINF:-1 tvg-id="ch1181" tvg-name="[Sc] Заповедный спецназ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Заповедный спецназ
+https://stream.telecomtv101.workers.dev/c/ch1181
+#EXTINF:-1 tvg-id="ch1182" tvg-name="[Sc] Мажор" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Мажор
+https://stream.telecomtv101.workers.dev/c/ch1182
+#EXTINF:-1 tvg-id="ch1183" tvg-name="[Sc] Мир! Дружба! Жвачка!" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Мир! Дружба! Жвачка!
+https://stream.telecomtv101.workers.dev/c/ch1183
+#EXTINF:-1 tvg-id="ch1184" tvg-name="[Sc] Полярный" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Полярный
+https://stream.telecomtv101.workers.dev/c/ch1184
+#EXTINF:-1 tvg-id="ch1185" tvg-name="[Sc] Дальнобойщики" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Дальнобойщики
+https://stream.telecomtv101.workers.dev/c/ch1185
+#EXTINF:-1 tvg-id="ch1186" tvg-name="[Sc] Экипаж 314" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Экипаж 314
+https://stream.telecomtv101.workers.dev/c/ch1186
+#EXTINF:-1 tvg-id="ch1187" tvg-name="[Sc] Чернобыль: Зона отчуждения" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Чернобыль: Зона отчуждения
+https://stream.telecomtv101.workers.dev/c/ch1187
+#EXTINF:-1 tvg-id="ch1188" tvg-name="[Sc] Проект Анна Николаевна" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Проект Анна Николаевна
+https://stream.telecomtv101.workers.dev/c/ch1188
+#EXTINF:-1 tvg-id="ch1189" tvg-name="[Sc] Бригада" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Бригада
+https://stream.telecomtv101.workers.dev/c/ch1189
+#EXTINF:-1 tvg-id="ch1190" tvg-name="[Sc] Бумер и Жмурки" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Бумер и Жмурки
+https://stream.telecomtv101.workers.dev/c/ch1190
+#EXTINF:-1 tvg-id="ch1191" tvg-name="[Sc] Друзья" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Друзья
+https://stream.telecomtv101.workers.dev/c/ch1191
+#EXTINF:-1 tvg-id="ch1192" tvg-name="[Sc] Беверли-Хиллз 90210" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Беверли-Хиллз 90210
+https://stream.telecomtv101.workers.dev/c/ch1192
+#EXTINF:-1 tvg-id="ch1193" tvg-name="[Sc] Лесник" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Лесник
+https://stream.telecomtv101.workers.dev/c/ch1193
+#EXTINF:-1 tvg-id="ch1194" tvg-name="[Sc] Сваты" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Сваты
+https://stream.telecomtv101.workers.dev/c/ch1194
+#EXTINF:-1 tvg-id="ch1195" tvg-name="[Sc] Телохранители" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Телохранители
+https://stream.telecomtv101.workers.dev/c/ch1195
+#EXTINF:-1 tvg-id="ch1196" tvg-name="[Sc] Шеф" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Шеф
+https://stream.telecomtv101.workers.dev/c/ch1196
+#EXTINF:-1 tvg-id="ch1197" tvg-name="[Sc] Первый отдел" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Первый отдел
+https://stream.telecomtv101.workers.dev/c/ch1197
+#EXTINF:-1 tvg-id="ch1198" tvg-name="[Sc] Невский" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Невский
+https://stream.telecomtv101.workers.dev/c/ch1198
+#EXTINF:-1 tvg-id="ch1199" tvg-name="[Sc] Морские дьяволы" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Морские дьяволы
+https://stream.telecomtv101.workers.dev/c/ch1199
+#EXTINF:-1 tvg-id="ch1200" tvg-name="[Sc] Ментовские войны" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Ментовские войны
+https://stream.telecomtv101.workers.dev/c/ch1200
+#EXTINF:-1 tvg-id="ch1201" tvg-name="[Sc] Глухарь" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Глухарь
+https://stream.telecomtv101.workers.dev/c/ch1201
+#EXTINF:-1 tvg-id="ch1202" tvg-name="[Sc] Карпов" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Карпов
+https://stream.telecomtv101.workers.dev/c/ch1202
+#EXTINF:-1 tvg-id="ch1203" tvg-name="[Sc] Пятницкий" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Пятницкий
+https://stream.telecomtv101.workers.dev/c/ch1203
+#EXTINF:-1 tvg-id="ch1204" tvg-name="[Sc] Братаны" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Братаны
+https://stream.telecomtv101.workers.dev/c/ch1204
+#EXTINF:-1 tvg-id="ch1205" tvg-name="[Sc] Бандитский Петербург" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Бандитский Петербург
+https://stream.telecomtv101.workers.dev/c/ch1205
+#EXTINF:-1 tvg-id="ch1206" tvg-name="[Sc] Крот" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Крот
+https://stream.telecomtv101.workers.dev/c/ch1206
+#EXTINF:-1 tvg-id="ch1207" tvg-name="[Sc] Реальные пацаны" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Реальные пацаны
+https://stream.telecomtv101.workers.dev/c/ch1207
+#EXTINF:-1 tvg-id="ch1208" tvg-name="[Sc] Солдаты" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Солдаты
+https://stream.telecomtv101.workers.dev/c/ch1208
+#EXTINF:-1 tvg-id="ch1209" tvg-name="[Sc] Короче" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Короче
+https://stream.telecomtv101.workers.dev/c/ch1209
+#EXTINF:-1 tvg-id="ch1210" tvg-name="[Sc] Воронины" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Воронины
+https://stream.telecomtv101.workers.dev/c/ch1210
+#EXTINF:-1 tvg-id="ch1211" tvg-name="[Sc] Восьмидесятые" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Восьмидесятые
+https://stream.telecomtv101.workers.dev/c/ch1211
+#EXTINF:-1 tvg-id="ch1212" tvg-name="[Sc] Будулай" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Будулай
+https://stream.telecomtv101.workers.dev/c/ch1212
+#EXTINF:-1 tvg-id="ch1213" tvg-name="[Sc] Эпидемия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Эпидемия
+https://stream.telecomtv101.workers.dev/c/ch1213
+#EXTINF:-1 tvg-id="ch1214" tvg-name="[Sc] Человек-паук" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Человек-паук
+https://stream.telecomtv101.workers.dev/c/ch1214
+#EXTINF:-1 tvg-id="ch1215" tvg-name="[Sc] Супермэн" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Супермэн
+https://stream.telecomtv101.workers.dev/c/ch1215
+#EXTINF:-1 tvg-id="ch1216" tvg-name="[Sc] Годзилла" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Годзилла
+https://stream.telecomtv101.workers.dev/c/ch1216
+#EXTINF:-1 tvg-id="ch1217" tvg-name="[Sc] Кинг Конг" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Кинг Конг
+https://stream.telecomtv101.workers.dev/c/ch1217
+#EXTINF:-1 tvg-id="ch1218" tvg-name="[Sc] Планета обезьян" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Планета обезьян
+https://stream.telecomtv101.workers.dev/c/ch1218
+#EXTINF:-1 tvg-id="ch1219" tvg-name="[Sc] Мегачелюсти" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Мегачелюсти
+https://stream.telecomtv101.workers.dev/c/ch1219
+#EXTINF:-1 tvg-id="ch1220" tvg-name="[Sc] Гостья из будущего" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Гостья из будущего
+https://stream.telecomtv101.workers.dev/c/ch1220
+#EXTINF:-1 tvg-id="ch1221" tvg-name="[Sc] Приключения Электроника" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Приключения Электроника
+https://stream.telecomtv101.workers.dev/c/ch1221
+#EXTINF:-1 tvg-id="ch1222" tvg-name="[Sc] Куми-Куми" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Куми-Куми
+https://stream.telecomtv101.workers.dev/c/ch1222
+#EXTINF:-1 tvg-id="ch1223" tvg-name="[Sc] Гриззи и лемминги" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Гриззи и лемминги
+https://stream.telecomtv101.workers.dev/c/ch1223
+#EXTINF:-1 tvg-id="ch1224" tvg-name="[Sc] Буба" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Буба
+https://stream.telecomtv101.workers.dev/c/ch1224
+#EXTINF:-1 tvg-id="ch1225" tvg-name="[Sc] Ми-ми-мишки" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Ми-ми-мишки
+https://stream.telecomtv101.workers.dev/c/ch1225
+#EXTINF:-1 tvg-id="ch1226" tvg-name="[Sc] Вспыш и чудо-машинки" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Вспыш и чудо-машинки
+https://stream.telecomtv101.workers.dev/c/ch1226
+#EXTINF:-1 tvg-id="ch1227" tvg-name="[Sc] Маша и медведь" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Маша и медведь
+https://stream.telecomtv101.workers.dev/c/ch1227
+#EXTINF:-1 tvg-id="ch1228" tvg-name="[Sc] Фиксики" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Фиксики
+https://stream.telecomtv101.workers.dev/c/ch1228
+#EXTINF:-1 tvg-id="ch1229" tvg-name="[Sc] Ну Погоди!" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Ну Погоди!
+https://stream.telecomtv101.workers.dev/c/ch1229
+#EXTINF:-1 tvg-id="ch1230" tvg-name="[Sc] ALF" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] ALF
+https://stream.telecomtv101.workers.dev/c/ch1230
+#EXTINF:-1 tvg-id="ch1231" tvg-name="[Sc] Простоквашино" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Простоквашино
+https://stream.telecomtv101.workers.dev/c/ch1231
+#EXTINF:-1 tvg-id="ch1232" tvg-name="[Sc] Том и Джерри" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Том и Джерри
+https://stream.telecomtv101.workers.dev/c/ch1232
+#EXTINF:-1 tvg-id="ch1233" tvg-name="[Sc] Говорящий Том и Друзья" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Говорящий Том и Друзья
+https://stream.telecomtv101.workers.dev/c/ch1233
+#EXTINF:-1 tvg-id="ch1234" tvg-name="[Sc] Приключения Ам Няма" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Приключения Ам Няма
+https://stream.telecomtv101.workers.dev/c/ch1234
+#EXTINF:-1 tvg-id="ch1235" tvg-name="[Sc] Чип и Дейл спешат на помощь" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Чип и Дейл спешат на помощь
+https://stream.telecomtv101.workers.dev/c/ch1235
+#EXTINF:-1 tvg-id="ch1236" tvg-name="[Sc] Утиные истории" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Утиные истории
+https://stream.telecomtv101.workers.dev/c/ch1236
+#EXTINF:-1 tvg-id="ch1237" tvg-name="[Sc] Приключения мишек Гамми" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Приключения мишек Гамми
+https://stream.telecomtv101.workers.dev/c/ch1237
+#EXTINF:-1 tvg-id="ch1238" tvg-name="[Sc] Лунтик и его друзья" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Лунтик и его друзья
+https://stream.telecomtv101.workers.dev/c/ch1238
+#EXTINF:-1 tvg-id="ch1239" tvg-name="[Sc] Розовая пантера" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Розовая пантера
+https://stream.telecomtv101.workers.dev/c/ch1239
+#EXTINF:-1 tvg-id="ch1240" tvg-name="[Sc] Приключения супергероя SamSam" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Приключения супергероя SamSam
+https://stream.telecomtv101.workers.dev/c/ch1240
+#EXTINF:-1 tvg-id="ch1241" tvg-name="[Sc] Приключения кота Леопольда" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Приключения кота Леопольда
+https://stream.telecomtv101.workers.dev/c/ch1241
+#EXTINF:-1 tvg-id="ch1242" tvg-name="[Sc] Русалочка" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Русалочка
+https://stream.telecomtv101.workers.dev/c/ch1242
+#EXTINF:-1 tvg-id="ch1243" tvg-name="[Sc] Футурама" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Футурама
+https://stream.telecomtv101.workers.dev/c/ch1243
+#EXTINF:-1 tvg-id="ch1244" tvg-name="[Sc] Пингвины из Мадагаскара" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Пингвины из Мадагаскара
+https://stream.telecomtv101.workers.dev/c/ch1244
+#EXTINF:-1 tvg-id="ch1245" tvg-name="[Sc] Симпсоны" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Симпсоны
+https://stream.telecomtv101.workers.dev/c/ch1245
+#EXTINF:-1 tvg-id="ch1246" tvg-name="[Sc] Губка Боб" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Губка Боб
+https://stream.telecomtv101.workers.dev/c/ch1246
+#EXTINF:-1 tvg-id="ch1247" tvg-name="[Sc] Щенячий патруль" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Щенячий патруль
+https://stream.telecomtv101.workers.dev/c/ch1247
+#EXTINF:-1 tvg-id="ch1248" tvg-name="[Sc] Барашек Шон" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Барашек Шон
+https://stream.telecomtv101.workers.dev/c/ch1248
+#EXTINF:-1 tvg-id="ch1249" tvg-name="[Sc] Черный плащ" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Черный плащ
+https://stream.telecomtv101.workers.dev/c/ch1249
+#EXTINF:-1 tvg-id="ch1250" tvg-name="[Sc] Три кота" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Три кота
+https://stream.telecomtv101.workers.dev/c/ch1250
+#EXTINF:-1 tvg-id="ch1251" tvg-name="[Sc] Барбоскины" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Барбоскины
+https://stream.telecomtv101.workers.dev/c/ch1251
+#EXTINF:-1 tvg-id="ch1252" tvg-name="[Sc] Белка и стрелка" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Белка и стрелка
+https://stream.telecomtv101.workers.dev/c/ch1252
+#EXTINF:-1 tvg-id="ch1253" tvg-name="[Sc] Грузовичок Лёва" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Грузовичок Лёва
+https://stream.telecomtv101.workers.dev/c/ch1253
+#EXTINF:-1 tvg-id="ch1254" tvg-name="[Sc] Свинка Пеппа" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Свинка Пеппа
+https://stream.telecomtv101.workers.dev/c/ch1254
+#EXTINF:-1 tvg-id="ch1255" tvg-name="[Sc] Лео и Тиг" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Лео и Тиг
+https://stream.telecomtv101.workers.dev/c/ch1255
+#EXTINF:-1 tvg-id="ch1256" tvg-name="[Sc] Как казаки..." group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Как казаки...
+https://stream.telecomtv101.workers.dev/c/ch1256
+#EXTINF:-1 tvg-id="ch1257" tvg-name="[Sc] Мир наизнанку" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Мир наизнанку
+https://stream.telecomtv101.workers.dev/c/ch1257
+#EXTINF:-1 tvg-id="ch1258" tvg-name="[Sc] Следствие вели" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Следствие вели
+https://stream.telecomtv101.workers.dev/c/ch1258
+#EXTINF:-1 tvg-id="ch1259" tvg-name="[Sc] Криминальная Россия" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Криминальная Россия
+https://stream.telecomtv101.workers.dev/c/ch1259
+#EXTINF:-1 tvg-id="ch1260" tvg-name="[Sc] Орёл и решка" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Орёл и решка
+https://stream.telecomtv101.workers.dev/c/ch1260
+#EXTINF:-1 tvg-id="ch1261" tvg-name="[Sc] Mike Tyson Professional fights" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Mike Tyson Professional fights
+https://stream.telecomtv101.workers.dev/c/ch1261
+#EXTINF:-1 tvg-id="ch1262" tvg-name="[Sc] Федор Емельяненко" group-title="❤️ 𝓧𝓪Ль𝓑𝓪",[Sc] Федор Емельяненко
+https://stream.telecomtv101.workers.dev/c/ch1262
+
+
+
+
+
 #EXTINF:-1 group-title="🎞 KinoStream Not24/7",Первый Канал HD
 https://kinostreammedia.hopto.org/PERVY-CHANNEL-HD/index.m3u8
 #EXTINF:-1 group-title="🎞 KinoStream Not24/7",Первый Канал
