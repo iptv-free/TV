@@ -124,328 +124,328 @@ http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 SD
 http://185.57.68.33:8091/110/index.m3u8
 
-#EXTINF:-1 group-title="Спорт (нестабильный)",Eurosport 2
-http://57.128.196.110/10501/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Eurosport 1 HD
-http://57.128.196.110/10446/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Eurosport 2 HD
-http://57.128.196.110/10447/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Eurosport 4K
-http://57.128.196.110/20590/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! HD
-http://57.128.196.110/10451/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Премьер HD
-http://57.128.196.110/10455/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч Футбол 1
-http://57.128.196.110/11950/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч Футбол 2
-http://57.128.196.110/11951/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч Футбол 3
-http://57.128.196.110/11952/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Футбол 1 HD
-http://57.128.196.110/10457/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Футбол 2 HD
-http://57.128.196.110/10458/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Футбол 3 HD
-http://57.128.196.110/10459/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Футбол 1 FHD
-http://57.128.196.110/10462/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Футбол 2 FHD
-http://57.128.196.110/10463/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Футбол 3 FHD
-http://57.128.196.110/10464/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Окко Футбол HD
-http://57.128.196.110/10515/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Окко.Спорт HD
-http://57.128.196.110/10403/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Окко Прайм Спорт
-http://57.128.196.110/10517/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports Ukraine
-http://57.128.196.110/10401/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports+ Ukraine
-http://57.128.196.110/10402/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports Premium
-http://57.128.196.110/10520/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports 1 HD
-http://57.128.196.110/10502/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports 2 HD
-http://57.128.196.110/10503/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports Qazaqstan
-http://57.128.196.110/10412/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports 1 HD UZ
-http://57.128.196.110/20610/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports 2 HD UZ
-http://57.128.196.110/20851/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports Moldova
-http://57.128.196.110/10504/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports 1 Lietuva
-http://57.128.196.110/10505/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports 1 Georgia
-http://57.128.196.110/10466/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports 2 Georgia
-http://57.128.196.110/10467/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Setanta Sports 3 Georgia
-http://57.128.196.110/10468/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Silk Sport 1 HD Georgia
-http://57.128.196.110/20600/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Silk Sport 2 HD Georgia
-http://57.128.196.110/20601/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Silk Sport 3 HD Georgia
-http://57.128.196.110/20602/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Bein Sport 1 HD
-http://57.128.196.110/10422/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Bein Sport 2 HD
-http://57.128.196.110/10423/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Bein Sport 3 HD
-http://57.128.196.110/10424/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Arena Premium 1 HD
-http://57.128.196.110/20603/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Arena Premium 2 HD
-http://57.128.196.110/20604/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Arena Premium 3 HD
-http://57.128.196.110/20605/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Arena Premium 4 HD
-http://57.128.196.110/20606/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Arena Premium 5 HD
-http://57.128.196.110/20607/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Футбол
-http://57.128.196.110/10473/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Футбол HD
-http://57.128.196.110/10474/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Футбольный HD
-http://57.128.196.110/10475/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Q Sport League
-http://57.128.196.110/10410/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Игра
-http://57.128.196.110/10454/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Страна
-http://57.128.196.110/10456/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Боец
-http://57.128.196.110/10453/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Удар HD
-http://57.128.196.110/10507/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Бокс ТВ
-http://57.128.196.110/10506/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Матч! Арена
-http://57.128.196.110/10452/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",MMA-TV!
-http://57.128.196.110/10508/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",UFC
-http://57.128.196.110/10420/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Arena Fight
-http://57.128.196.110/20609/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",FUBO Sports Network HD
-http://57.128.196.110/10426/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",FightBox HD
-http://57.128.196.110/10449/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Extreme Sports
-http://57.128.196.110/10460/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Russian Extreme TV
-http://57.128.196.110/10461/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Старт HD
-http://57.128.196.110/10465/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Старт Триумф HD
-http://57.128.196.110/20621/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Старт Баскет HD
-http://57.128.196.110/20611/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Спортивный HD
-http://57.128.196.110/10476/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Хоккейный HD
-http://57.128.196.110/10477/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",NHL
-http://57.128.196.110/10419/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",KHL
-http://57.128.196.110/10469/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",KHL HD
-http://57.128.196.110/10470/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",KHL Prime
-http://57.128.196.110/10471/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",KHL Prime HD
-http://57.128.196.110/10472/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Мир Баскетбола
-http://57.128.196.110/10513/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Super-Tennis HD
-http://57.128.196.110/10418/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Golf TV HD
-http://57.128.196.110/10417/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Sport 1 Baltic
-http://57.128.196.110/10442/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Sport 1 UA
-http://57.128.196.110/10443/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Sport 2 UA
-http://57.128.196.110/10450/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Спорт 3 Украина
-http://57.128.196.110/20613/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Спорт 4 Украина
-http://57.128.196.110/20614/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Divi Sport HD
-http://57.128.196.110/10588/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Суспільне Спорт
-http://57.128.196.110/10589/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",UPL.TV HD
-http://57.128.196.110/10514/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Dynamo Kyiv TV HD
-http://57.128.196.110/10586/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Equalympic HD
-http://57.128.196.110/10587/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",DAZN 1
-http://57.128.196.110/10404/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",FOX Sport 1 USA
-http://57.128.196.110/10406/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",FOX Sport 2 USA
-http://57.128.196.110/10407/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ESPN 1 USA
-http://57.128.196.110/10408/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Sky Sport Bundesliga 1 HD
-http://57.128.196.110/10416/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Sky Sport 1 HD
-http://57.128.196.110/10413/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Sky Sport 2 HD
-http://57.128.196.110/10414/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Sky Sports F1
-http://57.128.196.110/10415/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",RTVS :Sport HD
-http://57.128.196.110/10425/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Dubai Sports 3
-http://57.128.196.110/10428/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",MAX Sport 1 HD
-http://57.128.196.110/10429/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",MAX Sport 2 HD
-http://57.128.196.110/10430/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",MAX Sport 3 HD
-http://57.128.196.110/10431/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",MAX Sport 4 HD
-http://57.128.196.110/10432/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",PRIMA Sport 1 HD
-http://57.128.196.110/10433/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",PRIMA Sport 2 HD
-http://57.128.196.110/10434/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",PRIMA Sport 3 HD
-http://57.128.196.110/10435/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",PRIMA Sport 4 HD
-http://57.128.196.110/10436/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Digi Sport 1 HD
-http://57.128.196.110/10437/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Digi Sport 2 HD
-http://57.128.196.110/10438/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Digi Sport 3 HD
-http://57.128.196.110/10439/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Digi Sport 4 HD
-http://57.128.196.110/10440/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Nova Sport 1
-http://57.128.196.110/10441/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Viju+ Sport
-http://57.128.196.110/10448/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",SuperSport 1 HD
-http://57.128.196.110/10486/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",SuperSport 2 HD
-http://57.128.196.110/10487/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",SuperSport 3 HD
-http://57.128.196.110/10488/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",SuperSport 4 HD
-http://57.128.196.110/10489/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Arena Sport 2 HD
-http://57.128.196.110/10491/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Arena Sport 4 HD
-http://57.128.196.110/10493/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Arena Sport 6 HD
-http://57.128.196.110/10495/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Arena Sport 8 HD
-http://57.128.196.110/10497/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Go3 Sport
-http://57.128.196.110/10525/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Go3 Sport 2
-http://57.128.196.110/10526/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Go3 Sport 3
-http://57.128.196.110/10527/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Go3 Sport Open
-http://57.128.196.110/10528/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Fint Ga 1
-http://57.128.196.110/10530/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Fint Ga 2
-http://57.128.196.110/10531/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Fint Ga 3
-http://57.128.196.110/10532/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Fint Ga 4
-http://57.128.196.110/10533/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Pimple TV 1
-http://57.128.196.110/10534/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Pimple TV 2
-http://57.128.196.110/10535/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Pimple TV 3
-http://57.128.196.110/10536/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Pimple TV 4
-http://57.128.196.110/10537/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Pimple TV 5
-http://57.128.196.110/10538/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Pimple TV 6
-http://57.128.196.110/10539/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 1
-http://57.128.196.110/10540/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 2
-http://57.128.196.110/10541/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 3
-http://57.128.196.110/10542/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 4
-http://57.128.196.110/10543/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 5
-http://57.128.196.110/10544/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 6
-http://57.128.196.110/10545/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 7
-http://57.128.196.110/10546/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 8
-http://57.128.196.110/10547/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 9
-http://57.128.196.110/10548/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 10
-http://57.128.196.110/10549/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 11
-http://57.128.196.110/10550/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 12
-http://57.128.196.110/10551/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 13
-http://57.128.196.110/10552/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 14
-http://57.128.196.110/10553/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 15
-http://57.128.196.110/10554/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 16
-http://57.128.196.110/10555/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",ViP Sport 17
-http://57.128.196.110/10556/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Betking live 1
-http://57.128.196.110/10557/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Betking live 2
-http://57.128.196.110/10558/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",CANAL+ EXTRA 1 HD
-http://57.128.196.110/10580/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",CANAL+ EXTRA 3 HD
-http://57.128.196.110/10582/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",CANAL+ Sport 2 HD
-http://57.128.196.110/10585/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",CANAL+ Sport 3 HD
-http://57.128.196.110/20586/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",CANAL+ Sport 5 HD
-http://57.128.196.110/20588/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Eleven Sports 1 4K PL
-http://57.128.196.110/10411/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Polsat Sport
-http://57.128.196.110/10590/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Polsat Sport Premium 1
-http://57.128.196.110/10591/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Polsat Sport Premium 2
-http://57.128.196.110/10592/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Tennis channel international
-http://57.128.196.110/10594/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",DAZN Combat
-http://57.128.196.110/10595/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",FIFA TV
-http://57.128.196.110/10596/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",World Poker Tour HD
-http://57.128.196.110/10597/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Спорт (нестабильный)",Red Bull TV HD
-http://57.128.196.110/10599/index.m3u8?token=BF3A82BDF48F
+#EXTINF:-1 xui-id="266" tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="Спортивные",Eurosport 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QCzqf2uV9hVmbTEv1NIJyM/m3u8
+#EXTINF:-1 xui-id="267" tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="Спортивные",Eurosport 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bPrAcEWNOaOtkCXIJl0tHo/m3u8
+#EXTINF:-1 xui-id="268" tvg-id="" tvg-name="Eurosport 2" tvg-logo="" group-title="Спортивные",Eurosport 2
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-faCSdvj35zXccYcQdJVfRg/m3u8
+#EXTINF:-1 xui-id="269" tvg-id="" tvg-name="Eurosport 4K" tvg-logo="" group-title="Спортивные",Eurosport 4K
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fzWsZtJfltijMPFq6FOABg/m3u8
+#EXTINF:-1 xui-id="270" tvg-id="" tvg-name="Матч Футбол 1" tvg-logo="" group-title="Спортивные",Матч Футбол 1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XCVkUrfHanVHk_cfxk2wTw/m3u8
+#EXTINF:-1 xui-id="271" tvg-id="" tvg-name="Матч Футбол 2" tvg-logo="" group-title="Спортивные",Матч Футбол 2
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RlOj966xlyXxcSORwC-zJ8/m3u8
+#EXTINF:-1 xui-id="272" tvg-id="" tvg-name="Матч Футбол 3" tvg-logo="" group-title="Спортивные",Матч Футбол 3
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Q68VDYfvDYcZ7ZgOBqmIHc/m3u8
+#EXTINF:-1 xui-id="273" tvg-id="" tvg-name="Матч! Футбол 1 HD" tvg-logo="" group-title="Спортивные",Матч! Футбол 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Tx0dc3DT5eLGmHqbKswlYE/m3u8
+#EXTINF:-1 xui-id="274" tvg-id="" tvg-name="Матч! Футбол 2 HD" tvg-logo="" group-title="Спортивные",Матч! Футбол 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-X6i8Jn3ajYN5rtP0NFldWo/m3u8
+#EXTINF:-1 xui-id="275" tvg-id="" tvg-name="Матч! Футбол 3 HD" tvg-logo="" group-title="Спортивные",Матч! Футбол 3 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RKr2VuoGF-zS3Iaq66atO0/m3u8
+#EXTINF:-1 xui-id="276" tvg-id="" tvg-name="Матч! Футбол 1 FHD" tvg-logo="" group-title="Спортивные",Матч! Футбол 1 FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XBvSduqQGueCl8-KLnbvZg/m3u8
+#EXTINF:-1 xui-id="277" tvg-id="" tvg-name="Матч! Футбол 2 FHD" tvg-logo="" group-title="Спортивные",Матч! Футбол 2 FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z1_DA7qoBKCVMBDg71yoPY/m3u8
+#EXTINF:-1 xui-id="278" tvg-id="" tvg-name="Матч! Футбол 3 FHD" tvg-logo="" group-title="Спортивные",Матч! Футбол 3 FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Sn9wlwo33ShZ7GEA6gRokw/m3u8
+#EXTINF:-1 xui-id="279" tvg-id="" tvg-name="Матч! Игра" tvg-logo="" group-title="Спортивные",Матч! Игра
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z2-qcex3QUcHwydWMh5mTA/m3u8
+#EXTINF:-1 xui-id="280" tvg-id="" tvg-name="Матч! Страна" tvg-logo="" group-title="Спортивные",Матч! Страна
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fsRFDnTERbt29Doyi55dFY/m3u8
+#EXTINF:-1 xui-id="281" tvg-id="" tvg-name="Матч! Боец" tvg-logo="" group-title="Спортивные",Матч! Боец
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VoXBroUNJynFB6qKOg8t2E/m3u8
+#EXTINF:-1 xui-id="282" tvg-id="" tvg-name="Удар HD" tvg-logo="" group-title="Спортивные",Удар HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cWIL9-93Mbo07yRpGvvfrY/m3u8
+#EXTINF:-1 xui-id="283" tvg-id="" tvg-name="Бокс ТВ" tvg-logo="" group-title="Спортивные",Бокс ТВ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-X5vOIYTKwQLIU3oJLLbvLs/m3u8
+#EXTINF:-1 xui-id="284" tvg-id="" tvg-name="Матч! Арена" tvg-logo="" group-title="Спортивные",Матч! Арена
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XvnYLAxnRR2eqyTkv9boI0/m3u8
+#EXTINF:-1 xui-id="285" tvg-id="" tvg-name="Матч! HD" tvg-logo="" group-title="Спортивные",Матч! HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bMEu0_Z77UlvHvORL8ShDI/m3u8
+#EXTINF:-1 xui-id="286" tvg-id="" tvg-name="Матч! Премьер HD" tvg-logo="" group-title="Спортивные",Матч! Премьер HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UZJDUTcayv_eh9KCLI3dM4/m3u8
+#EXTINF:-1 xui-id="287" tvg-id="" tvg-name="Окко Футбол HD" tvg-logo="" group-title="Спортивные",Окко Футбол HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YvR1iUCQGMjBuAgETrXE54/m3u8
+#EXTINF:-1 xui-id="288" tvg-id="" tvg-name="Окко.Спорт HD" tvg-logo="" group-title="Спортивные",Окко.Спорт HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VTT07SSIsST7tw8rvYz4dY/m3u8
+#EXTINF:-1 xui-id="289" tvg-id="" tvg-name="Окко Прайм Спорт" tvg-logo="" group-title="Спортивные",Окко Прайм Спорт
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UGcNp4P8MwxQUohmZcUpLQ/m3u8
+#EXTINF:-1 xui-id="290" tvg-id="" tvg-name="Setanta Sports Ukraine" tvg-logo="" group-title="Спортивные",Setanta Sports Ukraine
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-U4LpD432k5O_KlgdTUwm8E/m3u8
+#EXTINF:-1 xui-id="291" tvg-id="" tvg-name="Setanta Sports+ Ukraine" tvg-logo="" group-title="Спортивные",Setanta Sports+ Ukraine
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Y2E1yHtLAICyNO2WF12wTo/m3u8
+#EXTINF:-1 xui-id="292" tvg-id="" tvg-name="Setanta Sports Premium" tvg-logo="" group-title="Спортивные",Setanta Sports Premium
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-awHZqbv8lau5Bbl7FvyVKE/m3u8
+#EXTINF:-1 xui-id="293" tvg-id="" tvg-name="Setanta Sports 1 HD" tvg-logo="" group-title="Спортивные",Setanta Sports 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-c6Hcys-rFS2P-J5RVclHho/m3u8
+#EXTINF:-1 xui-id="294" tvg-id="" tvg-name="Setanta Sports 2 HD" tvg-logo="" group-title="Спортивные",Setanta Sports 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RiDkk1Xt2q4gnLA2bUgvmc/m3u8
+#EXTINF:-1 xui-id="295" tvg-id="" tvg-name="Setanta Sports Qazaqstan" tvg-logo="" group-title="Спортивные",Setanta Sports Qazaqstan
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UmhTsPRe1zkzSz2FoPqrx8/m3u8
+#EXTINF:-1 xui-id="296" tvg-id="" tvg-name="Setanta Sports 1 HD UZ" tvg-logo="" group-title="Спортивные",Setanta Sports 1 HD UZ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-e5f2uh_AtvDERisXqjTwOo/m3u8
+#EXTINF:-1 xui-id="297" tvg-id="" tvg-name="Setanta Sports 2 HD UZ" tvg-logo="" group-title="Спортивные",Setanta Sports 2 HD UZ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cXyZZexTlCEs1LDdPw-8Mo/m3u8
+#EXTINF:-1 xui-id="298" tvg-id="" tvg-name="Setanta Sports Moldova" tvg-logo="" group-title="Спортивные",Setanta Sports Moldova
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-e5lRAOYMAaUKaPxCu8DqjY/m3u8
+#EXTINF:-1 xui-id="299" tvg-id="" tvg-name="Setanta Sports 1 Lietuva" tvg-logo="" group-title="Спортивные",Setanta Sports 1 Lietuva
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fr6ELhg36QBu0owCN99PR0/m3u8
+#EXTINF:-1 xui-id="300" tvg-id="" tvg-name="Setanta Sports 1 Georgia" tvg-logo="" group-title="Спортивные",Setanta Sports 1 Georgia
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UX7u7IRq0MiA1Rs6a1Nkig/m3u8
+#EXTINF:-1 xui-id="301" tvg-id="" tvg-name="Setanta Sports 2 Georgia" tvg-logo="" group-title="Спортивные",Setanta Sports 2 Georgia
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dBoq4fPPMxERlrYudLJbYY/m3u8
+#EXTINF:-1 xui-id="302" tvg-id="" tvg-name="Setanta Sports 3 Georgia" tvg-logo="" group-title="Спортивные",Setanta Sports 3 Georgia
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SHlEUNXEDC0iyBJW01csOo/m3u8
+#EXTINF:-1 xui-id="303" tvg-id="" tvg-name="Silk Sport 1 HD Georgia" tvg-logo="" group-title="Спортивные",Silk Sport 1 HD Georgia
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YS4THcA498chIV4Ikp7fnI/m3u8
+#EXTINF:-1 xui-id="304" tvg-id="" tvg-name="Silk Sport 2 HD Georgia" tvg-logo="" group-title="Спортивные",Silk Sport 2 HD Georgia
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eyB0647kmACKIni8ufKF6E/m3u8
+#EXTINF:-1 xui-id="305" tvg-id="" tvg-name="Silk Sport 3 HD Georgia" tvg-logo="" group-title="Спортивные",Silk Sport 3 HD Georgia
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Xc3uEKKiRvsdd1iqeIatus/m3u8
+#EXTINF:-1 xui-id="306" tvg-id="" tvg-name="Bein Sport 1 HD" tvg-logo="" group-title="Спортивные",Bein Sport 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Qr070jwu5D7gHjQd0r4PrQ/m3u8
+#EXTINF:-1 xui-id="307" tvg-id="" tvg-name="Bein Sport 2 HD" tvg-logo="" group-title="Спортивные",Bein Sport 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XGIJfnH1erDFJkZHntvnbo/m3u8
+#EXTINF:-1 xui-id="308" tvg-id="" tvg-name="Bein Sport 3 HD" tvg-logo="" group-title="Спортивные",Bein Sport 3 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-acxUHia00z_RCODTqe2bfM/m3u8
+#EXTINF:-1 xui-id="309" tvg-id="" tvg-name="Arena Premium 1 HD" tvg-logo="" group-title="Спортивные",Arena Premium 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Zdc0esamje23U6wb9_1Yyc/m3u8
+#EXTINF:-1 xui-id="310" tvg-id="" tvg-name="Arena Premium 2 HD" tvg-logo="" group-title="Спортивные",Arena Premium 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RPZCUqE5UvgxkdRTRFpqF0/m3u8
+#EXTINF:-1 xui-id="311" tvg-id="" tvg-name="Arena Premium 3 HD" tvg-logo="" group-title="Спортивные",Arena Premium 3 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VnZVccNb70hF3QeA4nWkSY/m3u8
+#EXTINF:-1 xui-id="312" tvg-id="" tvg-name="Arena Premium 4 HD" tvg-logo="" group-title="Спортивные",Arena Premium 4 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VGjeDj0OYzt3eS9HN3G8nI/m3u8
+#EXTINF:-1 xui-id="313" tvg-id="" tvg-name="Arena Premium 5 HD" tvg-logo="" group-title="Спортивные",Arena Premium 5 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XWcr9MjDyuZOiHvdZGcSt0/m3u8
+#EXTINF:-1 xui-id="314" tvg-id="" tvg-name="Футбол" tvg-logo="" group-title="Спортивные",Футбол
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cxqUZsSS9V4He8qS_GrCyk/m3u8
+#EXTINF:-1 xui-id="315" tvg-id="" tvg-name="Футбол HD" tvg-logo="" group-title="Спортивные",Футбол HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Qt5BbgIw49RtjZe21uzeTE/m3u8
+#EXTINF:-1 xui-id="316" tvg-id="" tvg-name="Футбольный HD" tvg-logo="" group-title="Спортивные",Футбольный HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VE6NIdOgKxuiib1iHa4ECw/m3u8
+#EXTINF:-1 xui-id="317" tvg-id="" tvg-name="Q Sport League" tvg-logo="" group-title="Спортивные",Q Sport League
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dfpnX7NSQBHoJ-TLKgmiNc/m3u8
+#EXTINF:-1 xui-id="318" tvg-id="" tvg-name="MMA-TV!" tvg-logo="" group-title="Спортивные",MMA-TV!
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-flXoNwdOKKGRmi-iXPxHX4/m3u8
+#EXTINF:-1 xui-id="319" tvg-id="" tvg-name="UFC" tvg-logo="" group-title="Спортивные",UFC
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dFhpaIZbd3MpIyDfSSflqg/m3u8
+#EXTINF:-1 xui-id="320" tvg-id="" tvg-name="Arena Fight" tvg-logo="" group-title="Спортивные",Arena Fight
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V2pEQj9o-NixW1LrSHr944/m3u8
+#EXTINF:-1 xui-id="321" tvg-id="" tvg-name="FUBO Sports Network HD" tvg-logo="" group-title="Спортивные",FUBO Sports Network HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-d_vCZCZySUndvRo7DTDYas/m3u8
+#EXTINF:-1 xui-id="322" tvg-id="" tvg-name="FightBox HD" tvg-logo="" group-title="Спортивные",FightBox HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XNIPfIawivrmY4TmlgkLcQ/m3u8
+#EXTINF:-1 xui-id="323" tvg-id="" tvg-name="Extreme Sports" tvg-logo="" group-title="Спортивные",Extreme Sports
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Q-5jgSbXD6WUOA24yLdb7c/m3u8
+#EXTINF:-1 xui-id="324" tvg-id="" tvg-name="Russian Extreme TV" tvg-logo="" group-title="Спортивные",Russian Extreme TV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YhkXvlzpfS1Psk9u27cssQ/m3u8
+#EXTINF:-1 xui-id="325" tvg-id="" tvg-name="Старт HD" tvg-logo="" group-title="Спортивные",Старт HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fNoE600YQbYwvnwb6jTLzc/m3u8
+#EXTINF:-1 xui-id="326" tvg-id="" tvg-name="Старт Триумф HD" tvg-logo="" group-title="Спортивные",Старт Триумф HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bNcVD1AVXmSBo1eBy6X6lw/m3u8
+#EXTINF:-1 xui-id="327" tvg-id="" tvg-name="Старт Баскет HD" tvg-logo="" group-title="Спортивные",Старт Баскет HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eToo_OqNK_GZT1mEsXyTSE/m3u8
+#EXTINF:-1 xui-id="328" tvg-id="" tvg-name="Спортивный HD" tvg-logo="" group-title="Спортивные",Спортивный HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fM8jP5EsUj4_UuyN0TYf80/m3u8
+#EXTINF:-1 xui-id="329" tvg-id="" tvg-name="Хоккейный HD" tvg-logo="" group-title="Спортивные",Хоккейный HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UsnZRqss5RgvRTMKEIsgJ0/m3u8
+#EXTINF:-1 xui-id="330" tvg-id="" tvg-name="NHL" tvg-logo="" group-title="Спортивные",NHL
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cWL5IdVFfkWgnmCs6L2-1g/m3u8
+#EXTINF:-1 xui-id="331" tvg-id="" tvg-name="KHL" tvg-logo="" group-title="Спортивные",KHL
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dO65lIsxDSDuYHR18g4k0s/m3u8
+#EXTINF:-1 xui-id="332" tvg-id="" tvg-name="KHL HD" tvg-logo="" group-title="Спортивные",KHL HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZP_PV3_d9pXXvcCBS514OQ/m3u8
+#EXTINF:-1 xui-id="333" tvg-id="" tvg-name="KHL Prime" tvg-logo="" group-title="Спортивные",KHL Prime
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QGphXj-bfZfMxOSGApsjPE/m3u8
+#EXTINF:-1 xui-id="334" tvg-id="" tvg-name="KHL Prime HD" tvg-logo="" group-title="Спортивные",KHL Prime HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UFymcO87WnJv4BVws5aw9U/m3u8
+#EXTINF:-1 xui-id="335" tvg-id="" tvg-name="Мир Баскетбола" tvg-logo="" group-title="Спортивные",Мир Баскетбола
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TDzMN7Z_q1TC65nSxTsEgs/m3u8
+#EXTINF:-1 xui-id="336" tvg-id="" tvg-name="Super-Tennis HD" tvg-logo="" group-title="Спортивные",Super-Tennis HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QcuSsWZjfykdX_z4BZ5vAU/m3u8
+#EXTINF:-1 xui-id="337" tvg-id="" tvg-name="Golf TV HD" tvg-logo="" group-title="Спортивные",Golf TV HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Xx4wfh3mAnERDZS7gKeJzU/m3u8
+#EXTINF:-1 xui-id="338" tvg-id="" tvg-name="Sport 1 Baltic" tvg-logo="" group-title="Спортивные",Sport 1 Baltic
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Sf30o0YmGg2g0ZsSCYjedc/m3u8
+#EXTINF:-1 xui-id="339" tvg-id="" tvg-name="Sport 1 UA" tvg-logo="" group-title="Спортивные",Sport 1 UA
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-buy15hwfkmAYyI92ZWM4UI/m3u8
+#EXTINF:-1 xui-id="340" tvg-id="" tvg-name="Sport 2 UA" tvg-logo="" group-title="Спортивные",Sport 2 UA
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UapKcMQPmVT5aX5FdTWLug/m3u8
+#EXTINF:-1 xui-id="341" tvg-id="" tvg-name="Спорт 3 Украина" tvg-logo="" group-title="Спортивные",Спорт 3 Украина
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Xg0xivi3U2le0AdRufMIT0/m3u8
+#EXTINF:-1 xui-id="342" tvg-id="" tvg-name="Спорт 4 Украина" tvg-logo="" group-title="Спортивные",Спорт 4 Украина
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RlR8JiNQ7d7x3cKd1uolcs/m3u8
+#EXTINF:-1 xui-id="343" tvg-id="" tvg-name="Divi Sport HD" tvg-logo="" group-title="Спортивные",Divi Sport HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZLtyOu9g9PEeIczDRAO3bM/m3u8
+#EXTINF:-1 xui-id="344" tvg-id="" tvg-name="Суспільне Спорт" tvg-logo="" group-title="Спортивные",Суспільне Спорт
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WKol95PW1D0fNDWFwGYBpA/m3u8
+#EXTINF:-1 xui-id="345" tvg-id="" tvg-name="UPL.TV HD" tvg-logo="" group-title="Спортивные",UPL.TV HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-T4n9KygM5ZaPnd6sTNEKYo/m3u8
+#EXTINF:-1 xui-id="346" tvg-id="" tvg-name="Dynamo Kyiv TV HD" tvg-logo="" group-title="Спортивные",Dynamo Kyiv TV HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RsGHVYRiv5eNwbWugkOt6s/m3u8
+#EXTINF:-1 xui-id="347" tvg-id="" tvg-name="Equalympic HD" tvg-logo="" group-title="Спортивные",Equalympic HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aQwsUOgvjwB3R7DiSLACMY/m3u8
+#EXTINF:-1 xui-id="348" tvg-id="" tvg-name="DAZN 1" tvg-logo="" group-title="Спортивные",DAZN 1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Y__UDbaKIRuWYnzpzsQ9Ro/m3u8
+#EXTINF:-1 xui-id="349" tvg-id="" tvg-name="FOX Sport 1 USA" tvg-logo="" group-title="Спортивные",FOX Sport 1 USA
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z_nxqaK9woPCLVLRjXK-nU/m3u8
+#EXTINF:-1 xui-id="350" tvg-id="" tvg-name="FOX Sport 2 USA" tvg-logo="" group-title="Спортивные",FOX Sport 2 USA
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fqXSc4eB6MiMvCz8hrmF7k/m3u8
+#EXTINF:-1 xui-id="351" tvg-id="" tvg-name="ESPN 1 USA" tvg-logo="" group-title="Спортивные",ESPN 1 USA
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-R4BhtC6_i1eODTE8t2RdlM/m3u8
+#EXTINF:-1 xui-id="352" tvg-id="" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="" group-title="Спортивные",Sky Sport Bundesliga 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dyFlI4iLgn1Kvd5PdfXWw4/m3u8
+#EXTINF:-1 xui-id="353" tvg-id="" tvg-name="Sky Sport 1 HD" tvg-logo="" group-title="Спортивные",Sky Sport 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RDjnqaOLVgGzqXe2N2oSxM/m3u8
+#EXTINF:-1 xui-id="354" tvg-id="" tvg-name="Sky Sport 2 HD" tvg-logo="" group-title="Спортивные",Sky Sport 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZGBBFazufBxUdtFz1JzSxo/m3u8
+#EXTINF:-1 xui-id="355" tvg-id="" tvg-name="Sky Sports F1" tvg-logo="" group-title="Спортивные",Sky Sports F1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XM0S8dnJzDzxj76F8Tkatc/m3u8
+#EXTINF:-1 xui-id="356" tvg-id="" tvg-name="RTVS :Sport HD" tvg-logo="" group-title="Спортивные",RTVS :Sport HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-crSPLdEtDQAp4G6a9DXaDs/m3u8
+#EXTINF:-1 xui-id="357" tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="" group-title="Спортивные",Dubai Sports 3
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bphVSBMxSUUYkBP_K7Xt4E/m3u8
+#EXTINF:-1 xui-id="358" tvg-id="" tvg-name="MAX Sport 1 HD" tvg-logo="" group-title="Спортивные",MAX Sport 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TpTLESaPujB4xyUrGd452s/m3u8
+#EXTINF:-1 xui-id="359" tvg-id="" tvg-name="MAX Sport 2 HD" tvg-logo="" group-title="Спортивные",MAX Sport 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-S3XY0COZuWhgCw6vySZWMI/m3u8
+#EXTINF:-1 xui-id="360" tvg-id="" tvg-name="MAX Sport 3 HD" tvg-logo="" group-title="Спортивные",MAX Sport 3 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bxmCIfS9gmkCp8jYYBRAm0/m3u8
+#EXTINF:-1 xui-id="361" tvg-id="" tvg-name="MAX Sport 4 HD" tvg-logo="" group-title="Спортивные",MAX Sport 4 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-W97Ce3q27bl_ZHkjg9YAo4/m3u8
+#EXTINF:-1 xui-id="362" tvg-id="" tvg-name="PRIMA Sport 1 HD" tvg-logo="" group-title="Спортивные",PRIMA Sport 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z0xxcnxf0rs6IPyFRqyB6w/m3u8
+#EXTINF:-1 xui-id="363" tvg-id="" tvg-name="PRIMA Sport 2 HD" tvg-logo="" group-title="Спортивные",PRIMA Sport 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YGMaLPEVyHVYV_qhNcq0LI/m3u8
+#EXTINF:-1 xui-id="364" tvg-id="" tvg-name="PRIMA Sport 3 HD" tvg-logo="" group-title="Спортивные",PRIMA Sport 3 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SPHBW6TiLgJ8m7EO0VjJIc/m3u8
+#EXTINF:-1 xui-id="365" tvg-id="" tvg-name="PRIMA Sport 4 HD" tvg-logo="" group-title="Спортивные",PRIMA Sport 4 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZNynuKFM-zm6oeLAruJPzs/m3u8
+#EXTINF:-1 xui-id="366" tvg-id="" tvg-name="Digi Sport 1 HD" tvg-logo="" group-title="Спортивные",Digi Sport 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UGK2XqMDPo0YSPhnV6dvW8/m3u8
+#EXTINF:-1 xui-id="367" tvg-id="" tvg-name="Digi Sport 2 HD" tvg-logo="" group-title="Спортивные",Digi Sport 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Tb0zOPX--QjPAd1BWAZfro/m3u8
+#EXTINF:-1 xui-id="368" tvg-id="" tvg-name="Digi Sport 3 HD" tvg-logo="" group-title="Спортивные",Digi Sport 3 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XBNA-h5b2oNERcp-6hckYs/m3u8
+#EXTINF:-1 xui-id="369" tvg-id="" tvg-name="Digi Sport 4 HD" tvg-logo="" group-title="Спортивные",Digi Sport 4 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SvoDignFBSILUhlV8MGKkY/m3u8
+#EXTINF:-1 xui-id="370" tvg-id="" tvg-name="Nova Sport 1" tvg-logo="" group-title="Спортивные",Nova Sport 1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UiJz2d7hI0CSaBp7LcJsvs/m3u8
+#EXTINF:-1 xui-id="371" tvg-id="" tvg-name="Viju+ Sport" tvg-logo="" group-title="Спортивные",Viju+ Sport
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TxXlg714UnxsJD7L6C2mT0/m3u8
+#EXTINF:-1 xui-id="372" tvg-id="" tvg-name="SuperSport 1 HD" tvg-logo="" group-title="Спортивные",SuperSport 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dlQw1b6I6HYoGWeEVzcgb8/m3u8
+#EXTINF:-1 xui-id="373" tvg-id="" tvg-name="SuperSport 2 HD" tvg-logo="" group-title="Спортивные",SuperSport 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-e2adRwYxiCwwWm4QjNrnBw/m3u8
+#EXTINF:-1 xui-id="374" tvg-id="" tvg-name="SuperSport 3 HD" tvg-logo="" group-title="Спортивные",SuperSport 3 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-b8x5WYjVk2iYsUOGNtJnL8/m3u8
+#EXTINF:-1 xui-id="375" tvg-id="" tvg-name="SuperSport 4 HD" tvg-logo="" group-title="Спортивные",SuperSport 4 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V6r2drQtcEZDKgoEDRjgl8/m3u8
+#EXTINF:-1 xui-id="376" tvg-id="" tvg-name="Arena Sport 2 HD" tvg-logo="" group-title="Спортивные",Arena Sport 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VZfqfQ0FaulrDZFLSIGYx4/m3u8
+#EXTINF:-1 xui-id="377" tvg-id="" tvg-name="Arena Sport 4 HD" tvg-logo="" group-title="Спортивные",Arena Sport 4 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Xxf5z7pOr9He3YJQxVIBco/m3u8
+#EXTINF:-1 xui-id="378" tvg-id="" tvg-name="Arena Sport 6 HD" tvg-logo="" group-title="Спортивные",Arena Sport 6 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fGd3Sw4bn1Q_BTeuA2HCMk/m3u8
+#EXTINF:-1 xui-id="379" tvg-id="" tvg-name="Arena Sport 8 HD" tvg-logo="" group-title="Спортивные",Arena Sport 8 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RYncKzeGxu58cZ9x_4AYOg/m3u8
+#EXTINF:-1 xui-id="380" tvg-id="" tvg-name="Go3 Sport" tvg-logo="" group-title="Спортивные",Go3 Sport
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RrzJKhPikLLB_qOkMBkgc0/m3u8
+#EXTINF:-1 xui-id="381" tvg-id="" tvg-name="Go3 Sport 2" tvg-logo="" group-title="Спортивные",Go3 Sport 2
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aYRnIOgCK5Bf2V6RJsBaGM/m3u8
+#EXTINF:-1 xui-id="382" tvg-id="" tvg-name="Go3 Sport 3" tvg-logo="" group-title="Спортивные",Go3 Sport 3
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WOgjXFjmeyylWNKas5GmYs/m3u8
+#EXTINF:-1 xui-id="383" tvg-id="" tvg-name="Go3 Sport Open" tvg-logo="" group-title="Спортивные",Go3 Sport Open
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QfQ-Ce8cZVIFOgcoT1UQNQ/m3u8
+#EXTINF:-1 xui-id="384" tvg-id="" tvg-name="Fint Ga 1" tvg-logo="" group-title="Спортивные",Fint Ga 1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Rl07kePS3x2G0VM5Iel0rM/m3u8
+#EXTINF:-1 xui-id="385" tvg-id="" tvg-name="Fint Ga 2" tvg-logo="" group-title="Спортивные",Fint Ga 2
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eFoh2y0rZQ0XWR8Cc7TF3Q/m3u8
+#EXTINF:-1 xui-id="386" tvg-id="" tvg-name="Fint Ga 3" tvg-logo="" group-title="Спортивные",Fint Ga 3
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SLQP5IahxUWqmbeHyxS2HE/m3u8
+#EXTINF:-1 xui-id="387" tvg-id="" tvg-name="Fint Ga 4" tvg-logo="" group-title="Спортивные",Fint Ga 4
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eIvbMyQ4qBg0jI_OsiL9sU/m3u8
+#EXTINF:-1 xui-id="388" tvg-id="" tvg-name="Pimple TV 1" tvg-logo="" group-title="Спортивные",Pimple TV 1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SDzjggyAriihnIucOywHFc/m3u8
+#EXTINF:-1 xui-id="389" tvg-id="" tvg-name="Pimple TV 2" tvg-logo="" group-title="Спортивные",Pimple TV 2
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Wcx4eohBTFyRAf11Am39Xw/m3u8
+#EXTINF:-1 xui-id="390" tvg-id="" tvg-name="Pimple TV 3" tvg-logo="" group-title="Спортивные",Pimple TV 3
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fHFKu8Xr4lGwOuJp1wr49I/m3u8
+#EXTINF:-1 xui-id="391" tvg-id="" tvg-name="Pimple TV 4" tvg-logo="" group-title="Спортивные",Pimple TV 4
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bXpe6EXTluXFnWRWEjl39s/m3u8
+#EXTINF:-1 xui-id="392" tvg-id="" tvg-name="Pimple TV 5" tvg-logo="" group-title="Спортивные",Pimple TV 5
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WC_xy35RDyDvriTwQxDOXk/m3u8
+#EXTINF:-1 xui-id="393" tvg-id="" tvg-name="Pimple TV 6" tvg-logo="" group-title="Спортивные",Pimple TV 6
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RheR5sEeUb6284-G3MV4po/m3u8
+#EXTINF:-1 xui-id="394" tvg-id="" tvg-name="ViP Sport 1" tvg-logo="" group-title="Спортивные",ViP Sport 1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bPOvOurQofhxhQ9bbIZXrE/m3u8
+#EXTINF:-1 xui-id="395" tvg-id="" tvg-name="ViP Sport 2" tvg-logo="" group-title="Спортивные",ViP Sport 2
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dQJZr6oZtIDvV_Y2aG53ZQ/m3u8
+#EXTINF:-1 xui-id="396" tvg-id="" tvg-name="ViP Sport 3" tvg-logo="" group-title="Спортивные",ViP Sport 3
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aHIMO-sMnXfyKWtjanJyXU/m3u8
+#EXTINF:-1 xui-id="397" tvg-id="" tvg-name="ViP Sport 4" tvg-logo="" group-title="Спортивные",ViP Sport 4
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Yqx__Fh3PGJjtybcg8BTcg/m3u8
+#EXTINF:-1 xui-id="398" tvg-id="" tvg-name="ViP Sport 5" tvg-logo="" group-title="Спортивные",ViP Sport 5
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Q6hCKZQe1QCzwZZ02-0ADc/m3u8
+#EXTINF:-1 xui-id="399" tvg-id="" tvg-name="ViP Sport 6" tvg-logo="" group-title="Спортивные",ViP Sport 6
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VWnk932zs_21ZMX9R0qMtI/m3u8
+#EXTINF:-1 xui-id="400" tvg-id="" tvg-name="ViP Sport 7" tvg-logo="" group-title="Спортивные",ViP Sport 7
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bYIU8KUmV1aXx4J8-qbm28/m3u8
+#EXTINF:-1 xui-id="401" tvg-id="" tvg-name="ViP Sport 8" tvg-logo="" group-title="Спортивные",ViP Sport 8
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Ra9lXh-ZeCgZqqtqKxIWmo/m3u8
+#EXTINF:-1 xui-id="402" tvg-id="" tvg-name="ViP Sport 9" tvg-logo="" group-title="Спортивные",ViP Sport 9
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V9T_om6jufAX79j7OV8diY/m3u8
+#EXTINF:-1 xui-id="403" tvg-id="" tvg-name="ViP Sport 10" tvg-logo="" group-title="Спортивные",ViP Sport 10
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-W98Kuyf2ltPwp6ASEo8wVw/m3u8
+#EXTINF:-1 xui-id="404" tvg-id="" tvg-name="ViP Sport 11" tvg-logo="" group-title="Спортивные",ViP Sport 11
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Vz0xA1M8fk7uQ6k7PXZSGU/m3u8
+#EXTINF:-1 xui-id="405" tvg-id="" tvg-name="ViP Sport 12" tvg-logo="" group-title="Спортивные",ViP Sport 12
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z5aHYZhfigihWECEz_KrTk/m3u8
+#EXTINF:-1 xui-id="406" tvg-id="" tvg-name="ViP Sport 13" tvg-logo="" group-title="Спортивные",ViP Sport 13
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-b0idxWgl8W5TLVxRJLcPPM/m3u8
+#EXTINF:-1 xui-id="407" tvg-id="" tvg-name="ViP Sport 14" tvg-logo="" group-title="Спортивные",ViP Sport 14
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aZLr81WQVxR2eD9QDOVOf0/m3u8
+#EXTINF:-1 xui-id="408" tvg-id="" tvg-name="ViP Sport 15" tvg-logo="" group-title="Спортивные",ViP Sport 15
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Q7EHv_QDYXAqFieiIF6Utk/m3u8
+#EXTINF:-1 xui-id="409" tvg-id="" tvg-name="ViP Sport 16" tvg-logo="" group-title="Спортивные",ViP Sport 16
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eCMWGHVCjx_2nc3PagPF2A/m3u8
+#EXTINF:-1 xui-id="410" tvg-id="" tvg-name="ViP Sport 17" tvg-logo="" group-title="Спортивные",ViP Sport 17
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ddsZGTvgM0dUPW_DV5i3CQ/m3u8
+#EXTINF:-1 xui-id="411" tvg-id="" tvg-name="Betking live 1" tvg-logo="" group-title="Спортивные",Betking live 1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZSrDFq4Lw6_lfBeJUUhw8g/m3u8
+#EXTINF:-1 xui-id="412" tvg-id="" tvg-name="Betking live 2" tvg-logo="" group-title="Спортивные",Betking live 2
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-R_626al8lMSq59FxwFR0bQ/m3u8
+#EXTINF:-1 xui-id="413" tvg-id="" tvg-name="CANAL+ EXTRA 1 HD" tvg-logo="" group-title="Спортивные",CANAL+ EXTRA 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Svu3CSEGqfSkv2R6EaTMJU/m3u8
+#EXTINF:-1 xui-id="414" tvg-id="" tvg-name="CANAL+ EXTRA 3 HD" tvg-logo="" group-title="Спортивные",CANAL+ EXTRA 3 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-e9Q7JYelyFBAHaTCgtQY9g/m3u8
+#EXTINF:-1 xui-id="415" tvg-id="" tvg-name="CANAL+ Sport 2 HD" tvg-logo="" group-title="Спортивные",CANAL+ Sport 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Vfa5_szINS9FSin_zYKJyk/m3u8
+#EXTINF:-1 xui-id="416" tvg-id="" tvg-name="CANAL+ Sport 3 HD" tvg-logo="" group-title="Спортивные",CANAL+ Sport 3 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V9gc2bJ4N5X50Nbc_HqIIA/m3u8
+#EXTINF:-1 xui-id="417" tvg-id="" tvg-name="CANAL+ Sport 5 HD" tvg-logo="" group-title="Спортивные",CANAL+ Sport 5 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-f3ILZ6ZRGTtH086kQ-aglU/m3u8
+#EXTINF:-1 xui-id="418" tvg-id="" tvg-name="Eleven Sports 1 4K PL" tvg-logo="" group-title="Спортивные",Eleven Sports 1 4K PL
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aCGblp2qDUqMvvx5sPFvkg/m3u8
+#EXTINF:-1 xui-id="419" tvg-id="" tvg-name="Polsat Sport" tvg-logo="" group-title="Спортивные",Polsat Sport
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ToFJkt1qOFgwFkvDWShTr4/m3u8
+#EXTINF:-1 xui-id="420" tvg-id="" tvg-name="Polsat Sport Premium 1" tvg-logo="" group-title="Спортивные",Polsat Sport Premium 1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YfrTRAGLUPwOgqBIKIAyeE/m3u8
+#EXTINF:-1 xui-id="421" tvg-id="" tvg-name="Polsat Sport Premium 2" tvg-logo="" group-title="Спортивные",Polsat Sport Premium 2
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XG3zVWADvFXg7lcDOgaOa8/m3u8
+#EXTINF:-1 xui-id="422" tvg-id="" tvg-name="Tennis channel international" tvg-logo="" group-title="Спортивные",Tennis channel international
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VGdC-GJH3USj5xT4BDO9tc/m3u8
+#EXTINF:-1 xui-id="423" tvg-id="" tvg-name="DAZN Combat" tvg-logo="" group-title="Спортивные",DAZN Combat
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RCvQxyj7dkjOaNmEyJw-y0/m3u8
+#EXTINF:-1 xui-id="424" tvg-id="" tvg-name="FIFA TV" tvg-logo="" group-title="Спортивные",FIFA TV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WkGmbCCN0TbTHDbspaWtkA/m3u8
+#EXTINF:-1 xui-id="425" tvg-id="" tvg-name="World Poker Tour HD" tvg-logo="" group-title="Спортивные",World Poker Tour HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ddHWA26W3z6OGwemy_Jt9o/m3u8
+#EXTINF:-1 xui-id="426" tvg-id="" tvg-name="Red Bull TV HD" tvg-logo="" group-title="Спортивные",Red Bull TV HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-filZaZqyL4y-yYBOtrKrc4/m3u8
 
 #EXTINF:-1 group-title="Познавательный",Viasat Explore
 https://flussonic.mkpnet.ru/tv-7c57a4c3f9a896ea/video.m3u8
@@ -1809,432 +1809,435 @@ http://tv.woobl.ru:9090/channel/1bd1532a/index.m3u8?q=644467b6fc61ff1a209adb1122
 http://tv.woobl.ru:9090/channel/19a78a35/index.m3u8?q=644467b6fc61ff1a209adb1122c72720
 #EXTINF:-1 group-title="VF-Кинозал",VF Однажды в России
 http://tv.woobl.ru:9090/channel/n1e05434/index.m3u8?q=644467b6fc61ff1a209adb1122c72720
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Info: info
-https://m3u.usite.pro/1/demo.mp4
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Cinema
-http://57.128.196.110/12000/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Mult
-http://57.128.196.110/11999/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Louis de Funes
-http://57.128.196.110/11997/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] James Bond
-http://57.128.196.110/11998/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Mission Impossible
-http://57.128.196.110/11996/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Jurassic Park
-http://57.128.196.110/11995/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Pirates of the Caribbean
-http://57.128.196.110/11994/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Harry Potter
-http://57.128.196.110/11993/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] The Lord of the Rings & The Hobbit
-http://57.128.196.110/11992/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Star Wars
-http://57.128.196.110/11991/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Terminator
-http://57.128.196.110/11990/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Transformers
-http://57.128.196.110/11989/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Форсаж
-http://57.128.196.110/11988/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Такси
-http://57.128.196.110/11987/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Железный человек
-http://57.128.196.110/11986/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Сумерки. Сага.
-http://57.128.196.110/11985/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Хищник
-http://57.128.196.110/11984/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Побег из тюрьмы
-http://57.128.196.110/11983/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Люди Икс
-http://57.128.196.110/11982/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Чужой
-http://57.128.196.110/11981/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Бэтмен
-http://57.128.196.110/11980/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Рокки
-http://57.128.196.110/11979/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Джон Уик
-http://57.128.196.110/11978/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Пункт назначения
-http://57.128.196.110/11977/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Kolombo
-http://57.128.196.110/11976/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Puaro
-http://57.128.196.110/11975/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Полицейская академия
-http://57.128.196.110/11974/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Секретные материалы
-http://57.128.196.110/11973/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Секс в большом городе
-http://57.128.196.110/11972/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Закон каменных джунглей
-http://57.128.196.110/11971/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Аутсорс
-http://57.128.196.110/11970/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Анжелика
-http://57.128.196.110/11969/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Zorro
-http://57.128.196.110/11968/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Крепкий орешек
-http://57.128.196.110/20622/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Робин из Шервуда
-http://57.128.196.110/20623/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Star Trek
-http://57.128.196.110/20624/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Физрук
-http://57.128.196.110/12001/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Интерны
-http://57.128.196.110/12002/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Жуки
-http://57.128.196.110/12003/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Полицейский с Рублёвки
-http://57.128.196.110/12004/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Девушки с Макаровым
-http://57.128.196.110/12005/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Рикошет
-http://57.128.196.110/12006/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] ЧОП
-http://57.128.196.110/12007/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Евгенич
-http://57.128.196.110/12008/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] СашаТаня
-http://57.128.196.110/12009/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Ольга
-http://57.128.196.110/12010/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Патриот
-http://57.128.196.110/12011/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Высокие ставки
-http://57.128.196.110/12012/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Пять минут тишины
-http://57.128.196.110/12013/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Заповедный спецназ
-http://57.128.196.110/12014/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Мажор
-http://57.128.196.110/12015/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Мир! Дружба! Жвачка!
-http://57.128.196.110/12016/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Полярный
-http://57.128.196.110/12017/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Дальнобойщики
-http://57.128.196.110/12018/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Экипаж 314
-http://57.128.196.110/12019/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Чернобыль: Зона отчуждения
-http://57.128.196.110/12020/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Проект Анна Николаевна
-http://57.128.196.110/12021/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Бригада
-http://57.128.196.110/12022/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Бумер и Жмурки
-http://57.128.196.110/12023/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Друзья
-http://57.128.196.110/12024/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Беверли-Хиллз 90210
-http://57.128.196.110/12025/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Лесник
-http://57.128.196.110/12027/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Сваты
-http://57.128.196.110/12028/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Телохранители
-http://57.128.196.110/12029/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Шеф
-http://57.128.196.110/12030/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Первый отдел
-http://57.128.196.110/12031/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Невский
-http://57.128.196.110/12032/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Морские дьяволы
-http://57.128.196.110/12036/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Ментовские войны
-http://57.128.196.110/12037/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Глухарь
-http://57.128.196.110/12043/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Карпов
-http://57.128.196.110/12039/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Пятницкий
-http://57.128.196.110/12040/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Братаны
-http://57.128.196.110/12041/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Бандитский Петербург
-http://57.128.196.110/12042/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Крот
-http://57.128.196.110/12038/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Реальные пацаны
-http://57.128.196.110/12033/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Солдаты
-http://57.128.196.110/12063/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Короче
-http://57.128.196.110/12034/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Воронины
-http://57.128.196.110/12064/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Восьмидесятые
-http://57.128.196.110/12065/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Будулай
-http://57.128.196.110/12066/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Эпидемия
-http://57.128.196.110/12067/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Человек-паук
-http://57.128.196.110/12068/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Супермэн
-http://57.128.196.110/12069/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Годзилла
-http://57.128.196.110/12070/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Кинг Конг
-http://57.128.196.110/12071/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Планета обезьян
-http://57.128.196.110/12072/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Мегачелюсти
-http://57.128.196.110/12073/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Гостья из будущего
-http://57.128.196.110/12180/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Приключения Электроника
-http://57.128.196.110/12181/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Куми-Куми
-http://57.128.196.110/12100/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Гриззи и лемминги
-http://57.128.196.110/12101/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Буба
-http://57.128.196.110/12102/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Ми-ми-мишки
-http://57.128.196.110/12103/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Вспыш и чудо-машинки
-http://57.128.196.110/12104/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Маша и медведь
-http://57.128.196.110/12105/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Фиксики
-http://57.128.196.110/12106/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Ну Погоди!
-http://57.128.196.110/12107/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] ALF
-http://57.128.196.110/12108/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Простоквашино
-http://57.128.196.110/12109/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Том и Джерри
-http://57.128.196.110/12110/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Говорящий Том и Друзья
-http://57.128.196.110/12111/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Приключения Ам Няма
-http://57.128.196.110/12112/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Чип и Дейл спешат на помощь
-http://57.128.196.110/12113/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Утиные истории
-http://57.128.196.110/12114/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Приключения мишек Гамми
-http://57.128.196.110/12115/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Лунтик и его друзья
-http://57.128.196.110/12116/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Розовая пантера
-http://57.128.196.110/12117/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Приключения супергероя SamSam
-http://57.128.196.110/12118/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Приключения кота Леопольда
-http://57.128.196.110/12119/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Русалочка
-http://57.128.196.110/12120/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Футурама
-http://57.128.196.110/12121/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Пингвины из Мадагаскара
-http://57.128.196.110/12122/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Симпсоны
-http://57.128.196.110/12123/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Губка Боб
-http://57.128.196.110/12124/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Щенячий патруль
-http://57.128.196.110/12125/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Барашек Шон
-http://57.128.196.110/12126/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Черный плащ
-http://57.128.196.110/12127/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Три кота
-http://57.128.196.110/12128/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Барбоскины
-http://57.128.196.110/12129/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Белка и стрелка
-http://57.128.196.110/12130/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Грузовичок Лёва
-http://57.128.196.110/12131/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Свинка Пеппа
-http://57.128.196.110/12132/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Лео и Тиг
-http://57.128.196.110/12133/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Как казаки...
-http://57.128.196.110/12134/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Мир наизнанку
-http://57.128.196.110/12200/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Следствие вели
-http://57.128.196.110/12201/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Криминальная Россия
-http://57.128.196.110/12202/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Орёл и решка
-http://57.128.196.110/12203/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Mike Tyson Professional fights
-http://57.128.196.110/12400/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",[Sc] Федор Емельяненко
-http://57.128.196.110/12401/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",VeleS 60FPS
-http://57.128.196.110/10322/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",VeleS Киноплёнка
-http://57.128.196.110/10323/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",VeleS Киносерия
-http://57.128.196.110/10324/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",VeleS Premiere
-http://57.128.196.110/10325/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",VeleS Страшное
-http://57.128.196.110/10326/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",VeleS СССР
-http://57.128.196.110/10327/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",VeleS Movie Hits
-http://57.128.196.110/10328/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",VeleS Криминальный
-http://57.128.196.110/10329/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - История
-http://57.128.196.110/20318/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Мюзикл
-http://57.128.196.110/20319/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Супергерои
-http://57.128.196.110/20320/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Биография
-http://57.128.196.110/20321/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Анимешки
-http://57.128.196.110/20322/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Пришельцы
-http://57.128.196.110/20323/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Зита-Гита
-http://57.128.196.110/20325/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Космос
-http://57.128.196.110/20326/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Боевичок
-http://57.128.196.110/20330/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Балабол
-http://57.128.196.110/20333/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - На Краю Вселенной
-http://57.128.196.110/20337/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Стрелялки FHD
-http://57.128.196.110/10276/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - ХБ FHD
-http://57.128.196.110/10277/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Фантазия FHD
-http://57.128.196.110/10278/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - RU Комедия FHD
-http://57.128.196.110/10279/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Приключения FHD
-http://57.128.196.110/10280/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Фантастика FHD
-http://57.128.196.110/10281/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Драма FHD
-http://57.128.196.110/10282/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Триллер FHD
-http://57.128.196.110/10283/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Ужастики FHD
-http://57.128.196.110/10284/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Новинки FHD
-http://57.128.196.110/10285/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Криминал FHD
-http://57.128.196.110/10286/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Детектив FHD
-http://57.128.196.110/10287/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Спортивный FHD
-http://57.128.196.110/10290/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Армагеддон FHD
-http://57.128.196.110/10291/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Назад в СССР FHD
-http://57.128.196.110/10292/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Мистика FHD
-http://57.128.196.110/10293/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Series FHD
-http://57.128.196.110/10294/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - MIX FHD
-http://57.128.196.110/10295/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Наше Детство СССР
-http://57.128.196.110/10297/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - RU Мелодрама FHD
-http://57.128.196.110/10298/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Мелодрама FHD
-http://57.128.196.110/10300/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Смешной FHD
-http://57.128.196.110/10301/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Семейное FHD
-http://57.128.196.110/10302/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - RU Кино FHD
-http://57.128.196.110/10303/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Вестерн FHD
-http://57.128.196.110/10305/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Военный FHD
-http://57.128.196.110/10306/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - СССР 20-е
-http://57.128.196.110/10307/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - СССР 30-е
-http://57.128.196.110/10308/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - СССР 40-е
-http://57.128.196.110/10309/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - СССР 50-е
-http://57.128.196.110/10310/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - СССР 60-е
-http://57.128.196.110/10311/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - СССР 70-е
-http://57.128.196.110/10312/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - СССР 80-е
-http://57.128.196.110/10313/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - СССР 90-е
-http://57.128.196.110/10314/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - СССР Нетленка
-http://57.128.196.110/10315/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - ДОКУ Планета Динозавров
-http://57.128.196.110/20334/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - ДОКУ Univerce
-http://57.128.196.110/20335/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - ДОКУ Science
-http://57.128.196.110/20336/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - МультЭпоха СССР
-http://57.128.196.110/10288/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Мультики FHD
-http://57.128.196.110/10299/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",Чебур ТВ - Физ-Мульт Привет FHD
-http://57.128.196.110/10304/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Леонид Гайдай
-http://57.128.196.110/10391/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Фильмы в переводе Гоблина
-http://57.128.196.110/10400/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Сергей Бодров
-http://57.128.196.110/10393/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Улицы разбитых фонарей
-http://57.128.196.110/10394/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Бригада
-http://57.128.196.110/10395/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Эльдар Рязанов
-http://57.128.196.110/10396/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Луи де Фюнес
-http://57.128.196.110/10397/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Джеки Чан
-http://57.128.196.110/10398/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Ментовские войны
-http://57.128.196.110/10399/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Программа Время
-http://57.128.196.110/10861/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Следствие вели
-http://57.128.196.110/10862/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV 6 кадров
-http://57.128.196.110/10863/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Бородач
-http://57.128.196.110/10864/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Задорнов
-http://57.128.196.110/10865/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Comedy Club
-http://57.128.196.110/10866/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Однажды в России
-http://57.128.196.110/10867/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Что Где Когда
-http://57.128.196.110/10868/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Наша раша
-http://57.128.196.110/10869/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Городок
-http://57.128.196.110/10870/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Угадай Мелодию
-http://57.128.196.110/10871/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Кинотеатр (нестабильный)",MiTV Песня года
-http://57.128.196.110/10872/index.m3u8?token=BF3A82BDF48F
+
+#EXTINF:-1 xui-id="53" tvg-id="" tvg-name="VeleS 60FPS" tvg-logo="" group-title="Фильмовые",VeleS 60FPS
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cWJqP80ZyKUAkVQQ9mxgPo/m3u8
+#EXTINF:-1 xui-id="54" tvg-id="" tvg-name="VeleS Киноплёнка" tvg-logo="" group-title="Фильмовые",VeleS Киноплёнка
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WwpuaxngLdKitSg_n5RRcc/m3u8
+#EXTINF:-1 xui-id="55" tvg-id="" tvg-name="VeleS Киносерия" tvg-logo="" group-title="Фильмовые",VeleS Киносерия
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-e3P0FtH8KK6b3YNymx8j6o/m3u8
+#EXTINF:-1 xui-id="56" tvg-id="" tvg-name="VeleS Premiere" tvg-logo="" group-title="Фильмовые",VeleS Premiere
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ROsVjoT4b8_v8hSQGJraX0/m3u8
+#EXTINF:-1 xui-id="57" tvg-id="" tvg-name="VeleS Страшное" tvg-logo="" group-title="Фильмовые",VeleS Страшное
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-e0NmQFnL2VedeEGWIGUXnw/m3u8
+#EXTINF:-1 xui-id="58" tvg-id="" tvg-name="VeleS СССР" tvg-logo="" group-title="Фильмовые",VeleS СССР
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dddd0cZdVmxGbh88JcrKoI/m3u8
+#EXTINF:-1 xui-id="59" tvg-id="" tvg-name="VeleS Movie Hits" tvg-logo="" group-title="Фильмовые",VeleS Movie Hits
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WkzUG_ht6X1Quxrq4k0KJE/m3u8
+#EXTINF:-1 xui-id="60" tvg-id="" tvg-name="VeleS Криминальный" tvg-logo="" group-title="Фильмовые",VeleS Криминальный
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZCdbaq5GTnu6t35ERo9ZJA/m3u8
+#EXTINF:-1 xui-id="61" tvg-id="" tvg-name="MiTV Леонид Гайдай" tvg-logo="" group-title="Фильмовые",MiTV Леонид Гайдай
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VSquEtGg0XiWfmmP2uxgaE/m3u8
+#EXTINF:-1 xui-id="62" tvg-id="" tvg-name="MiTV Фильмы в переводе Гоблина" tvg-logo="" group-title="Фильмовые",MiTV Фильмы в переводе Гоблина
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V66WjHtYvgsZ1A0cAu-uQM/m3u8
+#EXTINF:-1 xui-id="63" tvg-id="" tvg-name="MiTV Сергей Бодров" tvg-logo="" group-title="Фильмовые",MiTV Сергей Бодров
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UvQINA8Q2q4ExPThpvmMFE/m3u8
+#EXTINF:-1 xui-id="64" tvg-id="" tvg-name="MiTV Улицы разбитых фонарей" tvg-logo="" group-title="Фильмовые",MiTV Улицы разбитых фонарей
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UubhT3aINSellU5D6GNNH4/m3u8
+#EXTINF:-1 xui-id="65" tvg-id="" tvg-name="MiTV Бригада" tvg-logo="" group-title="Фильмовые",MiTV Бригада
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Zjl5d8syuUXu_09hOuxSqw/m3u8
+#EXTINF:-1 xui-id="66" tvg-id="" tvg-name="MiTV Эльдар Рязанов" tvg-logo="" group-title="Фильмовые",MiTV Эльдар Рязанов
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fc7Ux-cuOjw_tazMN9MUTo/m3u8
+#EXTINF:-1 xui-id="67" tvg-id="" tvg-name="MiTV Луи де Фюнес" tvg-logo="" group-title="Фильмовые",MiTV Луи де Фюнес
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cxqMQGX6q9e1u0R3W6veZw/m3u8
+#EXTINF:-1 xui-id="68" tvg-id="" tvg-name="MiTV Джеки Чан" tvg-logo="" group-title="Фильмовые",MiTV Джеки Чан
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TB7Cv4gw4MSeei0k5lne2k/m3u8
+#EXTINF:-1 xui-id="69" tvg-id="" tvg-name="MiTV Ментовские войны" tvg-logo="" group-title="Фильмовые",MiTV Ментовские войны
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bzaixkLGpRWtYlK5K3seVo/m3u8
+#EXTINF:-1 xui-id="70" tvg-id="" tvg-name="MiTV Фильмы в переводе Гоблина" tvg-logo="" group-title="Фильмовые",MiTV Фильмы в переводе Гоблина
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UHp63-ZgamHzqqG8yurKGo/m3u8
+#EXTINF:-1 xui-id="71" tvg-id="" tvg-name="MiTV Программа Время" tvg-logo="" group-title="Фильмовые",MiTV Программа Время
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cGnCbGtPU28qC1iu6Gtl_s/m3u8
+#EXTINF:-1 xui-id="72" tvg-id="" tvg-name="MiTV Следствие вели" tvg-logo="" group-title="Фильмовые",MiTV Следствие вели
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z7vMhvO9zPeT-xSvJ7dTlE/m3u8
+#EXTINF:-1 xui-id="73" tvg-id="" tvg-name="MiTV 6 кадров" tvg-logo="" group-title="Фильмовые",MiTV 6 кадров
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-b6LAA8WOQOB09mqK1B3fNc/m3u8
+#EXTINF:-1 xui-id="74" tvg-id="" tvg-name="MiTV Бородач" tvg-logo="" group-title="Фильмовые",MiTV Бородач
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cUjSgBGfSsc4KTjSteWPWk/m3u8
+#EXTINF:-1 xui-id="75" tvg-id="" tvg-name="MiTV Задорнов" tvg-logo="" group-title="Фильмовые",MiTV Задорнов
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZQs-vnd6cR8hMO6J_XfX4U/m3u8
+#EXTINF:-1 xui-id="76" tvg-id="" tvg-name="MiTV Comedy Club" tvg-logo="" group-title="Фильмовые",MiTV Comedy Club
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dnvvv5Lkqxc_-8PxgQm5Ws/m3u8
+#EXTINF:-1 xui-id="77" tvg-id="" tvg-name="MiTV Однажды в России" tvg-logo="" group-title="Фильмовые",MiTV Однажды в России
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cG-tk8kywNocO-ny14BbsQ/m3u8
+#EXTINF:-1 xui-id="78" tvg-id="" tvg-name="MiTV Что Где Когда" tvg-logo="" group-title="Фильмовые",MiTV Что Где Когда
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZM_wYEnH2tJ562NYb5Pt2g/m3u8
+#EXTINF:-1 xui-id="79" tvg-id="" tvg-name="MiTV Наша раша" tvg-logo="" group-title="Фильмовые",MiTV Наша раша
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SyxJOrFsZ96CTx7wYp7Zt0/m3u8
+#EXTINF:-1 xui-id="80" tvg-id="" tvg-name="MiTV Городок" tvg-logo="" group-title="Фильмовые",MiTV Городок
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RUbL-Twndmx_ZITmPqvfGA/m3u8
+#EXTINF:-1 xui-id="81" tvg-id="" tvg-name="MiTV Угадай Мелодию" tvg-logo="" group-title="Фильмовые",MiTV Угадай Мелодию
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-R4VgfdTLkw35GZslFpWn1s/m3u8
+#EXTINF:-1 xui-id="82" tvg-id="" tvg-name="MiTV Песня года" tvg-logo="" group-title="Фильмовые",MiTV Песня года
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bijeL09xC2elNKXL-WG2rs/m3u8
+#EXTINF:-1 xui-id="83" tvg-id="" tvg-name="Чебур ТВ - История" tvg-logo="" group-title="Фильмовые",Чебур ТВ - История
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Q1l1VQvNye_DM4O1GUxkZA/m3u8
+#EXTINF:-1 xui-id="84" tvg-id="" tvg-name="Чебур ТВ - Мюзикл" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Мюзикл
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QX3fVDYiU-I_mEOxnU2Hpg/m3u8
+#EXTINF:-1 xui-id="85" tvg-id="" tvg-name="Чебур ТВ - Супергерои" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Супергерои
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XB6OtcgbgYKPcDqIkC1ecw/m3u8
+#EXTINF:-1 xui-id="86" tvg-id="" tvg-name="Чебур ТВ - Биография" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Биография
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QlzRP8dz-Kj9wt6-jotKqU/m3u8
+#EXTINF:-1 xui-id="87" tvg-id="" tvg-name="Чебур ТВ - Анимешки" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Анимешки
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Yi9DRupCb5i7zUoYxpV7d4/m3u8
+#EXTINF:-1 xui-id="88" tvg-id="" tvg-name="Чебур ТВ - Пришельцы" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Пришельцы
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WMrQJdwx7Fz1hvztdxa1fU/m3u8
+#EXTINF:-1 xui-id="89" tvg-id="" tvg-name="Чебур ТВ - Зита-Гита" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Зита-Гита
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XiqtoMTjCi-p3PFWaOoVoQ/m3u8
+#EXTINF:-1 xui-id="90" tvg-id="" tvg-name="Чебур ТВ - Космос" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Космос
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Rw3Lh7RHFpZa-sJQTV2vUQ/m3u8
+#EXTINF:-1 xui-id="91" tvg-id="" tvg-name="Чебур ТВ - Боевичок" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Боевичок
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-X-KdWfEzlDghIN4jR8tab4/m3u8
+#EXTINF:-1 xui-id="92" tvg-id="" tvg-name="Чебур ТВ - Балабол" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Балабол
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dbyeRVioqaMRId_jDkfp7w/m3u8
+#EXTINF:-1 xui-id="93" tvg-id="" tvg-name="Чебур ТВ - На Краю Вселенной" tvg-logo="" group-title="Фильмовые",Чебур ТВ - На Краю Вселенной
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WobQs-hUUKqaKC61Q9czao/m3u8
+#EXTINF:-1 xui-id="94" tvg-id="" tvg-name="Чебур ТВ - Стрелялки FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Стрелялки FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YlSoBcC6nK_z49MgHvNfsE/m3u8
+#EXTINF:-1 xui-id="95" tvg-id="" tvg-name="Чебур ТВ - ХБ FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - ХБ FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UdHYYeqblNoHZfonJS4Zx0/m3u8
+#EXTINF:-1 xui-id="96" tvg-id="" tvg-name="Чебур ТВ - Фантазия FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Фантазия FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZTviGU4fILcCCBUX7TiDMY/m3u8
+#EXTINF:-1 xui-id="97" tvg-id="" tvg-name="Чебур ТВ - RU Комедия FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - RU Комедия FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YKoC1KwMb6jo6gsaKeW_k8/m3u8
+#EXTINF:-1 xui-id="98" tvg-id="" tvg-name="Чебур ТВ - Приключения FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Приключения FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VhPl_Ns3lDMbeaQ_TadFto/m3u8
+#EXTINF:-1 xui-id="99" tvg-id="" tvg-name="Чебур ТВ - Фантастика FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Фантастика FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WocKPZG9fEYG2hxAs2ecEQ/m3u8
+#EXTINF:-1 xui-id="100" tvg-id="" tvg-name="Чебур ТВ - Драма FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Драма FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eudxQuD_fW4-6yTwiQD1Sk/m3u8
+#EXTINF:-1 xui-id="101" tvg-id="" tvg-name="Чебур ТВ - Триллер FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Триллер FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RDh63sSqG9U8hfDAH8ggVc/m3u8
+#EXTINF:-1 xui-id="102" tvg-id="" tvg-name="Чебур ТВ - Ужастики FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Ужастики FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-We-G1uQBE_msJoL66FG3E0/m3u8
+#EXTINF:-1 xui-id="103" tvg-id="" tvg-name="Чебур ТВ - Новинки FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Новинки FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RAYggfW4BAeL-8QRekqkp4/m3u8
+#EXTINF:-1 xui-id="104" tvg-id="" tvg-name="Чебур ТВ - Криминал FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Криминал FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eUfM9yxZCe0Xq7O10yRll4/m3u8
+#EXTINF:-1 xui-id="105" tvg-id="" tvg-name="Чебур ТВ - Детектив FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Детектив FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WKNKGziZcruFgIjGibpONc/m3u8
+#EXTINF:-1 xui-id="106" tvg-id="" tvg-name="Чебур ТВ - Спортивный FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Спортивный FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fb55ayyypz-6yZyKcnYMKc/m3u8
+#EXTINF:-1 xui-id="107" tvg-id="" tvg-name="Чебур ТВ - Армагеддон FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Армагеддон FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZcWpotmCyubTDia7SSyTlY/m3u8
+#EXTINF:-1 xui-id="108" tvg-id="" tvg-name="Чебур ТВ - Назад в СССР FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Назад в СССР FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RCe_8Mx_if1uud-CrfYkTo/m3u8
+#EXTINF:-1 xui-id="109" tvg-id="" tvg-name="Чебур ТВ - Мистика FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Мистика FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UYy9yECXdJpOONbetvo1kc/m3u8
+#EXTINF:-1 xui-id="110" tvg-id="" tvg-name="Чебур ТВ - Series FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Series FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XnmXWqufGmYvJLSM6eNpXg/m3u8
+#EXTINF:-1 xui-id="111" tvg-id="" tvg-name="Чебур ТВ - MIX FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - MIX FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VTEeHfR4YrHnXQLWEy_GI4/m3u8
+#EXTINF:-1 xui-id="112" tvg-id="" tvg-name="Чебур ТВ - Наше Детство СССР" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Наше Детство СССР
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XI74AOX6I_-CLqUaE4Zenw/m3u8
+#EXTINF:-1 xui-id="113" tvg-id="" tvg-name="Чебур ТВ - RU Мелодрама FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - RU Мелодрама FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-db3U41ocU-qQ01UjzDLdeU/m3u8
+#EXTINF:-1 xui-id="114" tvg-id="" tvg-name="Чебур ТВ - Мелодрама FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Мелодрама FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-b8G0WfRAa-OdWOMJZwZitI/m3u8
+#EXTINF:-1 xui-id="115" tvg-id="" tvg-name="Чебур ТВ - Смешной FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Смешной FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VSKj3yHybDftOCoxuUFc3s/m3u8
+#EXTINF:-1 xui-id="116" tvg-id="" tvg-name="Чебур ТВ - Семейное FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Семейное FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-b6oVBOtE4cBIgjsK9-bDZo/m3u8
+#EXTINF:-1 xui-id="117" tvg-id="" tvg-name="Чебур ТВ - RU Кино FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - RU Кино FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TyEpRMAMqwTuTPBhytWngs/m3u8
+#EXTINF:-1 xui-id="118" tvg-id="" tvg-name="Чебур ТВ - Вестерн FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Вестерн FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-THA22izObsddd0i7S2mAjU/m3u8
+#EXTINF:-1 xui-id="119" tvg-id="" tvg-name="Чебур ТВ - Военный FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Военный FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SmH7Wq4qBdjT4yq7F2Wyeo/m3u8
+#EXTINF:-1 xui-id="120" tvg-id="" tvg-name="Чебур ТВ - СССР 20-е" tvg-logo="" group-title="Фильмовые",Чебур ТВ - СССР 20-е
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eVQTLZkhU-ZeantwM-9gn8/m3u8
+#EXTINF:-1 xui-id="121" tvg-id="" tvg-name="Чебур ТВ - СССР 30-е" tvg-logo="" group-title="Фильмовые",Чебур ТВ - СССР 30-е
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-e7W9Z3A9_Qs_ptdLW-C7CI/m3u8
+#EXTINF:-1 xui-id="122" tvg-id="" tvg-name="Чебур ТВ - СССР 40-е" tvg-logo="" group-title="Фильмовые",Чебур ТВ - СССР 40-е
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fskM_T0NJy4Bf_mYZvfvVE/m3u8
+#EXTINF:-1 xui-id="123" tvg-id="" tvg-name="Чебур ТВ - СССР 50-е" tvg-logo="" group-title="Фильмовые",Чебур ТВ - СССР 50-е
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YvsQZ9RVc_F-GDJT0thRMA/m3u8
+#EXTINF:-1 xui-id="124" tvg-id="" tvg-name="Чебур ТВ - СССР 60-е" tvg-logo="" group-title="Фильмовые",Чебур ТВ - СССР 60-е
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XDOYxo9z4PB4qP3EguVlBA/m3u8
+#EXTINF:-1 xui-id="125" tvg-id="" tvg-name="Чебур ТВ - СССР 70-е" tvg-logo="" group-title="Фильмовые",Чебур ТВ - СССР 70-е
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aJ_yhxLBHsXNcN3hoNo50I/m3u8
+#EXTINF:-1 xui-id="126" tvg-id="" tvg-name="Чебур ТВ - СССР 80-е" tvg-logo="" group-title="Фильмовые",Чебур ТВ - СССР 80-е
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XDk2Yj87uCF_KU6MizC3p0/m3u8
+#EXTINF:-1 xui-id="127" tvg-id="" tvg-name="Чебур ТВ - СССР 90-е" tvg-logo="" group-title="Фильмовые",Чебур ТВ - СССР 90-е
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cvgpOVNrehucXsjQia6bkI/m3u8
+#EXTINF:-1 xui-id="128" tvg-id="" tvg-name="Чебур ТВ - СССР Нетленка" tvg-logo="" group-title="Фильмовые",Чебур ТВ - СССР Нетленка
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XQL3nyfcHOE_sWjXjTq0kE/m3u8
+#EXTINF:-1 xui-id="129" tvg-id="" tvg-name="Чебур ТВ - ДОКУ Планета Динозавров" tvg-logo="" group-title="Фильмовые",Чебур ТВ - ДОКУ Планета Динозавров
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SZkNFN-2l_TPLomU1d7ruE/m3u8
+#EXTINF:-1 xui-id="130" tvg-id="" tvg-name="Чебур ТВ - ДОКУ Univerce" tvg-logo="" group-title="Фильмовые",Чебур ТВ - ДОКУ Univerce
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TLDPhHdsnWF0Lux0TRox9o/m3u8
+#EXTINF:-1 xui-id="131" tvg-id="" tvg-name="Чебур ТВ - ДОКУ Science" tvg-logo="" group-title="Фильмовые",Чебур ТВ - ДОКУ Science
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-buTNcdv5DCkHegqzomUoGY/m3u8
+#EXTINF:-1 xui-id="132" tvg-id="" tvg-name="Чебур ТВ - МультЭпоха СССР" tvg-logo="" group-title="Фильмовые",Чебур ТВ - МультЭпоха СССР
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Xd0HcbYbyDZ4HvUe0VYd6c/m3u8
+#EXTINF:-1 xui-id="133" tvg-id="" tvg-name="Чебур ТВ - Мультики FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Мультики FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XczfuzirEzWS-Iq4kN0LVA/m3u8
+#EXTINF:-1 xui-id="134" tvg-id="" tvg-name="Чебур ТВ - Физ-Мульт Привет FHD" tvg-logo="" group-title="Фильмовые",Чебур ТВ - Физ-Мульт Привет FHD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dx_S1ArDMAcY7WNLvdxYpQ/m3u8
+#EXTINF:-1 xui-id="135" tvg-id="" tvg-name="[Sc] Cinema" tvg-logo="" group-title="Фильмовые",[Sc] Cinema
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YVq6n3FedTIPppXMwH2zrk/m3u8
+#EXTINF:-1 xui-id="136" tvg-id="" tvg-name="[Sc] Mult" tvg-logo="" group-title="Фильмовые",[Sc] Mult
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fLfy5EUr5bJlFdsEd4zNp4/m3u8
+#EXTINF:-1 xui-id="137" tvg-id="" tvg-name="[Sc] Louis de Funes" tvg-logo="" group-title="Фильмовые",[Sc] Louis de Funes
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cDFNHeAQrDCrykS9RTQA8k/m3u8
+#EXTINF:-1 xui-id="138" tvg-id="" tvg-name="[Sc] James Bond" tvg-logo="" group-title="Фильмовые",[Sc] James Bond
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-T7f5EQCeoVvC8Txu-OqRbo/m3u8
+#EXTINF:-1 xui-id="139" tvg-id="" tvg-name="[Sc] Mission Impossible" tvg-logo="" group-title="Фильмовые",[Sc] Mission Impossible
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-W7diGahzsW48ub8ffEPY0M/m3u8
+#EXTINF:-1 xui-id="140" tvg-id="" tvg-name="[Sc] Jurassic Park" tvg-logo="" group-title="Фильмовые",[Sc] Jurassic Park
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Zzg32emBtaANS5p8XHpB9o/m3u8
+#EXTINF:-1 xui-id="141" tvg-id="" tvg-name="[Sc] Pirates of the Caribbean" tvg-logo="" group-title="Фильмовые",[Sc] Pirates of the Caribbean
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-StMDUH-B7lEML9toLTuXW4/m3u8
+#EXTINF:-1 xui-id="142" tvg-id="" tvg-name="[Sc] Harry Potter" tvg-logo="" group-title="Фильмовые",[Sc] Harry Potter
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Wba6ReXm46YQ6EuhBEf_9A/m3u8
+#EXTINF:-1 xui-id="143" tvg-id="" tvg-name="[Sc] The Lord of the Rings & The Hobbit" tvg-logo="" group-title="Фильмовые",[Sc] The Lord of the Rings & The Hobbit
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YzD7w_BnbHzYoi3S1WNpdU/m3u8
+#EXTINF:-1 xui-id="144" tvg-id="" tvg-name="[Sc] Star Wars" tvg-logo="" group-title="Фильмовые",[Sc] Star Wars
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TAYQ0AxAZuysOtNWjwnnro/m3u8
+#EXTINF:-1 xui-id="145" tvg-id="" tvg-name="[Sc] Terminator" tvg-logo="" group-title="Фильмовые",[Sc] Terminator
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Zil_-qp5YNcXygW64QPM4g/m3u8
+#EXTINF:-1 xui-id="146" tvg-id="" tvg-name="[Sc] Transformers" tvg-logo="" group-title="Фильмовые",[Sc] Transformers
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XGMFYADjdI9r0QamJr20wA/m3u8
+#EXTINF:-1 xui-id="147" tvg-id="" tvg-name="[Sc] Форсаж" tvg-logo="" group-title="Фильмовые",[Sc] Форсаж
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-X2JPUT3BdWkWmt1uGQFm2E/m3u8
+#EXTINF:-1 xui-id="148" tvg-id="" tvg-name="[Sc] Такси" tvg-logo="" group-title="Фильмовые",[Sc] Такси
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Ut3-lc65k_ux67cr5uFQxQ/m3u8
+#EXTINF:-1 xui-id="149" tvg-id="" tvg-name="[Sc] Железный человек" tvg-logo="" group-title="Фильмовые",[Sc] Железный человек
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cIDOFdiC6t8ueQSnrNQHOE/m3u8
+#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="[Sc] Сумерки. Сага." tvg-logo="" group-title="Фильмовые",[Sc] Сумерки. Сага.
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dSK6FLFtzFJLSn4SeV4C7s/m3u8
+#EXTINF:-1 xui-id="151" tvg-id="" tvg-name="[Sc] Хищник" tvg-logo="" group-title="Фильмовые",[Sc] Хищник
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QE-K4Scdr9Hd1InpQdEj6s/m3u8
+#EXTINF:-1 xui-id="152" tvg-id="" tvg-name="[Sc] Побег из тюрьмы" tvg-logo="" group-title="Фильмовые",[Sc] Побег из тюрьмы
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cxX53hCFzYNfSU8n6MI0FI/m3u8
+#EXTINF:-1 xui-id="153" tvg-id="" tvg-name="[Sc] Люди Икс" tvg-logo="" group-title="Фильмовые",[Sc] Люди Икс
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fO0PT4Ixm2gFdwPsu3AD9M/m3u8
+#EXTINF:-1 xui-id="154" tvg-id="" tvg-name="[Sc] Чужой" tvg-logo="" group-title="Фильмовые",[Sc] Чужой
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Ra1xErfL2yb3GXrE8MJMnI/m3u8
+#EXTINF:-1 xui-id="155" tvg-id="" tvg-name="[Sc] Бэтмен" tvg-logo="" group-title="Фильмовые",[Sc] Бэтмен
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Q1dpGk3-XZyT-2hzog2ZkU/m3u8
+#EXTINF:-1 xui-id="156" tvg-id="" tvg-name="[Sc] Рокки" tvg-logo="" group-title="Фильмовые",[Sc] Рокки
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V8R2IkxZ9lYi4YKejEay-Y/m3u8
+#EXTINF:-1 xui-id="157" tvg-id="" tvg-name="[Sc] Джон Уик" tvg-logo="" group-title="Фильмовые",[Sc] Джон Уик
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XDJUJQWSas5oRI83SSBO64/m3u8
+#EXTINF:-1 xui-id="158" tvg-id="" tvg-name="[Sc] Пункт назначения" tvg-logo="" group-title="Фильмовые",[Sc] Пункт назначения
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dxvM4zM9LsTglQTdy_YdkY/m3u8
+#EXTINF:-1 xui-id="159" tvg-id="" tvg-name="[Sc] Kolombo" tvg-logo="" group-title="Фильмовые",[Sc] Kolombo
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ac-L9WDAQYt7iXBRUOO_GY/m3u8
+#EXTINF:-1 xui-id="160" tvg-id="" tvg-name="[Sc] Puaro" tvg-logo="" group-title="Фильмовые",[Sc] Puaro
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cZeTr-bbN0M5J0cHTF7Vr0/m3u8
+#EXTINF:-1 xui-id="161" tvg-id="" tvg-name="[Sc] Полицейская академия" tvg-logo="" group-title="Фильмовые",[Sc] Полицейская академия
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-c7Z9Rhan0VEAGiw8gghmcI/m3u8
+#EXTINF:-1 xui-id="162" tvg-id="" tvg-name="[Sc] Секретные материалы" tvg-logo="" group-title="Фильмовые",[Sc] Секретные материалы
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RHGykGzAPj1I0MIiViKxwE/m3u8
+#EXTINF:-1 xui-id="163" tvg-id="" tvg-name="[Sc] Секс в большом городе" tvg-logo="" group-title="Фильмовые",[Sc] Секс в большом городе
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QtIvNL7NBdew3sH4LFZ_pA/m3u8
+#EXTINF:-1 xui-id="164" tvg-id="" tvg-name="[Sc] Закон каменных джунглей" tvg-logo="" group-title="Фильмовые",[Sc] Закон каменных джунглей
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fiXsae86Ry7Cvr7O9lihnU/m3u8
+#EXTINF:-1 xui-id="165" tvg-id="" tvg-name="[Sc] Аутсорс" tvg-logo="" group-title="Фильмовые",[Sc] Аутсорс
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dANNUQBxh1x_yUXoGCsLqs/m3u8
+#EXTINF:-1 xui-id="166" tvg-id="" tvg-name="[Sc] Анжелика" tvg-logo="" group-title="Фильмовые",[Sc] Анжелика
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UyGCWCUcL95yrcbJL37Ya4/m3u8
+#EXTINF:-1 xui-id="167" tvg-id="" tvg-name="[Sc] Zorro" tvg-logo="" group-title="Фильмовые",[Sc] Zorro
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z6vEofRYpshkHDtdgIHoLY/m3u8
+#EXTINF:-1 xui-id="168" tvg-id="" tvg-name="[Sc] Крепкий орешек" tvg-logo="" group-title="Фильмовые",[Sc] Крепкий орешек
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dRrpsF2Pf1r479ASStPL3s/m3u8
+#EXTINF:-1 xui-id="169" tvg-id="" tvg-name="[Sc] Робин из Шервуда" tvg-logo="" group-title="Фильмовые",[Sc] Робин из Шервуда
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RttVBrpcSoPDmzbw4_Qusw/m3u8
+#EXTINF:-1 xui-id="170" tvg-id="" tvg-name="[Sc] Star Trek" tvg-logo="" group-title="Фильмовые",[Sc] Star Trek
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TbVPuz1-8tkg02TnHp_38k/m3u8
+#EXTINF:-1 xui-id="171" tvg-id="" tvg-name="[Sc] Физрук" tvg-logo="" group-title="Фильмовые",[Sc] Физрук
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-coXSi-KQk3iuz-bCnm0n7M/m3u8
+#EXTINF:-1 xui-id="172" tvg-id="" tvg-name="[Sc] Интерны" tvg-logo="" group-title="Фильмовые",[Sc] Интерны
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RVAF4JSTbgcik3UuQ_Xqik/m3u8
+#EXTINF:-1 xui-id="173" tvg-id="" tvg-name="[Sc] Жуки" tvg-logo="" group-title="Фильмовые",[Sc] Жуки
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dX7vLkJ0WgbkOVV3dUvx4s/m3u8
+#EXTINF:-1 xui-id="174" tvg-id="" tvg-name="[Sc] Полицейский с Рублёвки" tvg-logo="" group-title="Фильмовые",[Sc] Полицейский с Рублёвки
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-farQf97LOySDZDdIkY7g-s/m3u8
+#EXTINF:-1 xui-id="175" tvg-id="" tvg-name="[Sc] Девушки с Макаровым" tvg-logo="" group-title="Фильмовые",[Sc] Девушки с Макаровым
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UuQQnImvPIbmsS1UQVxQVg/m3u8
+#EXTINF:-1 xui-id="176" tvg-id="" tvg-name="[Sc] Рикошет" tvg-logo="" group-title="Фильмовые",[Sc] Рикошет
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fM3lsPvBJAtp9qEH3pmrug/m3u8
+#EXTINF:-1 xui-id="177" tvg-id="" tvg-name="[Sc] ЧОП" tvg-logo="" group-title="Фильмовые",[Sc] ЧОП
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cLEqtu2IBVKFjo4nkTT9yg/m3u8
+#EXTINF:-1 xui-id="178" tvg-id="" tvg-name="[Sc] Евгенич" tvg-logo="" group-title="Фильмовые",[Sc] Евгенич
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Wq38X_otxyEGtC1yNqMUBo/m3u8
+#EXTINF:-1 xui-id="179" tvg-id="" tvg-name="[Sc] СашаТаня" tvg-logo="" group-title="Фильмовые",[Sc] СашаТаня
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Sptbgou9okNZUsoDm7i2oM/m3u8
+#EXTINF:-1 xui-id="180" tvg-id="" tvg-name="[Sc] Ольга" tvg-logo="" group-title="Фильмовые",[Sc] Ольга
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-a8RKsZEkECmkh_xdQ7LmTo/m3u8
+#EXTINF:-1 xui-id="181" tvg-id="" tvg-name="[Sc] Патриот" tvg-logo="" group-title="Фильмовые",[Sc] Патриот
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YnVoCKMhiKyqfkt77QpAVw/m3u8
+#EXTINF:-1 xui-id="182" tvg-id="" tvg-name="[Sc] Высокие ставки" tvg-logo="" group-title="Фильмовые",[Sc] Высокие ставки
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XpRvhoyFwhFtGO0158kuJk/m3u8
+#EXTINF:-1 xui-id="183" tvg-id="" tvg-name="[Sc] Пять минут тишины" tvg-logo="" group-title="Фильмовые",[Sc] Пять минут тишины
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fGZdVzQdqQ1qkNbnAzsChE/m3u8
+#EXTINF:-1 xui-id="184" tvg-id="" tvg-name="[Sc] Заповедный спецназ" tvg-logo="" group-title="Фильмовые",[Sc] Заповедный спецназ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WVRUS7sXLtbu0vpZYc3Eow/m3u8
+#EXTINF:-1 xui-id="185" tvg-id="" tvg-name="[Sc] Мажор" tvg-logo="" group-title="Фильмовые",[Sc] Мажор
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bu4jKc2jKjlPt4dJK8hBRI/m3u8
+#EXTINF:-1 xui-id="186" tvg-id="" tvg-name="[Sc] Мир! Дружба! Жвачка!" tvg-logo="" group-title="Фильмовые",[Sc] Мир! Дружба! Жвачка!
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Sk_9zN9yREzNv10jaalGwo/m3u8
+#EXTINF:-1 xui-id="187" tvg-id="" tvg-name="[Sc] Полярный" tvg-logo="" group-title="Фильмовые",[Sc] Полярный
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-erdXVBCRvoQ9Kn0-hEuzC4/m3u8
+#EXTINF:-1 xui-id="188" tvg-id="" tvg-name="[Sc] Дальнобойщики" tvg-logo="" group-title="Фильмовые",[Sc] Дальнобойщики
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VJyZj-YdZt9cCbKtWvzaZ0/m3u8
+#EXTINF:-1 xui-id="189" tvg-id="" tvg-name="[Sc] Экипаж 314" tvg-logo="" group-title="Фильмовые",[Sc] Экипаж 314
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VlpCgKZ3XQ0CQPR8FYgQnc/m3u8
+#EXTINF:-1 xui-id="190" tvg-id="" tvg-name="[Sc] Чернобыль: Зона отчуждения" tvg-logo="" group-title="Фильмовые",[Sc] Чернобыль: Зона отчуждения
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QsM1wsI4026qulpuI4YAFo/m3u8
+#EXTINF:-1 xui-id="191" tvg-id="" tvg-name="[Sc] Проект Анна Николаевна" tvg-logo="" group-title="Фильмовые",[Sc] Проект Анна Николаевна
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SBnWpiiO1vmJJHboqhUt6Q/m3u8
+#EXTINF:-1 xui-id="192" tvg-id="" tvg-name="[Sc] Бригада" tvg-logo="" group-title="Фильмовые",[Sc] Бригада
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-W9DfwUQaqGndbF9U0JEkzQ/m3u8
+#EXTINF:-1 xui-id="193" tvg-id="" tvg-name="[Sc] Бумер и Жмурки" tvg-logo="" group-title="Фильмовые",[Sc] Бумер и Жмурки
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WFpLAOKFxs7UwtCLlylWWE/m3u8
+#EXTINF:-1 xui-id="194" tvg-id="" tvg-name="[Sc] Друзья" tvg-logo="" group-title="Фильмовые",[Sc] Друзья
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XIuW8iP-Ao_k5cQZ0y7JyM/m3u8
+#EXTINF:-1 xui-id="195" tvg-id="" tvg-name="[Sc] Беверли-Хиллз 90210" tvg-logo="" group-title="Фильмовые",[Sc] Беверли-Хиллз 90210
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZbA_NetWOPARaEXo79RDzc/m3u8
+#EXTINF:-1 xui-id="196" tvg-id="" tvg-name="[Sc] Лесник" tvg-logo="" group-title="Фильмовые",[Sc] Лесник
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-e6CJJaAvIVdIvTVkVOZtAY/m3u8
+#EXTINF:-1 xui-id="197" tvg-id="" tvg-name="[Sc] Сваты" tvg-logo="" group-title="Фильмовые",[Sc] Сваты
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QjvoTz_2WYmmFPPBp1ZkHE/m3u8
+#EXTINF:-1 xui-id="198" tvg-id="" tvg-name="[Sc] Телохранители" tvg-logo="" group-title="Фильмовые",[Sc] Телохранители
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-U5UWry8iNzjh_n0vltVF_w/m3u8
+#EXTINF:-1 xui-id="199" tvg-id="" tvg-name="[Sc] Шеф" tvg-logo="" group-title="Фильмовые",[Sc] Шеф
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ckKMzk2_FVgFWtcZSdLqVc/m3u8
+#EXTINF:-1 xui-id="200" tvg-id="" tvg-name="[Sc] Первый отдел" tvg-logo="" group-title="Фильмовые",[Sc] Первый отдел
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fIehRuqJiqmsXuIm0w-2BM/m3u8
+#EXTINF:-1 xui-id="201" tvg-id="" tvg-name="[Sc] Невский" tvg-logo="" group-title="Фильмовые",[Sc] Невский
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UN9Yxmr6E9wP8qEEarLcFY/m3u8
+#EXTINF:-1 xui-id="202" tvg-id="" tvg-name="[Sc] Морские дьяволы" tvg-logo="" group-title="Фильмовые",[Sc] Морские дьяволы
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V6VV4o8_ngq7l8hyYUXgd8/m3u8
+#EXTINF:-1 xui-id="203" tvg-id="" tvg-name="[Sc] Ментовские войны" tvg-logo="" group-title="Фильмовые",[Sc] Ментовские войны
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QrL0h5Aas-k9xJrM8lBvK8/m3u8
+#EXTINF:-1 xui-id="204" tvg-id="" tvg-name="[Sc] Глухарь" tvg-logo="" group-title="Фильмовые",[Sc] Глухарь
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RKzXxVC0BQnv1ExPmQU7XI/m3u8
+#EXTINF:-1 xui-id="205" tvg-id="" tvg-name="[Sc] Карпов" tvg-logo="" group-title="Фильмовые",[Sc] Карпов
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZIB_vRR4QVErqveEIvud2o/m3u8
+#EXTINF:-1 xui-id="206" tvg-id="" tvg-name="[Sc] Пятницкий" tvg-logo="" group-title="Фильмовые",[Sc] Пятницкий
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QX5HY89HoEidejNd8k2h58/m3u8
+#EXTINF:-1 xui-id="207" tvg-id="" tvg-name="[Sc] Братаны" tvg-logo="" group-title="Фильмовые",[Sc] Братаны
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SYPmSlk6TME0o_v7jweXqU/m3u8
+#EXTINF:-1 xui-id="208" tvg-id="" tvg-name="[Sc] Бандитский Петербург" tvg-logo="" group-title="Фильмовые",[Sc] Бандитский Петербург
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fWoAl4oABMh93kDAL_k7co/m3u8
+#EXTINF:-1 xui-id="209" tvg-id="" tvg-name="[Sc] Крот" tvg-logo="" group-title="Фильмовые",[Sc] Крот
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-baZDY9Sr5dff82gOmeFX-8/m3u8
+#EXTINF:-1 xui-id="210" tvg-id="" tvg-name="[Sc] Реальные пацаны" tvg-logo="" group-title="Фильмовые",Sc Реальные пацаны
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-b0l4ZQUmV5uU8jp9BvCD2M/m3u8
+#EXTINF:-1 xui-id="211" tvg-id="" tvg-name="[Sc] Солдаты" tvg-logo="" group-title="Фильмовые",Sc Солдаты
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aQ_3GiLWINDeFM0hR2-53I/m3u8
+#EXTINF:-1 xui-id="212" tvg-id="" tvg-name="[Sc] Короче" tvg-logo="" group-title="Фильмовые",Sc Короче
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cYwmUkoQ0kAfLVF97it-FQ/m3u8
+#EXTINF:-1 xui-id="213" tvg-id="" tvg-name="[Sc] Воронины" tvg-logo="" group-title="Фильмовые",Sc Воронины
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XygQdnMj73WUlOr8Z7JL-c/m3u8
+#EXTINF:-1 xui-id="214" tvg-id="" tvg-name="[Sc] Восьмидесятые" tvg-logo="" group-title="Фильмовые",Sc Восьмидесятые
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-W9F6GfhubhOPiIFww8GLR8/m3u8
+#EXTINF:-1 xui-id="215" tvg-id="" tvg-name="[Sc] Будулай" tvg-logo="" group-title="Фильмовые",Sc Будулай
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fINphbAmcoCMtH_8Z1_ogE/m3u8
+#EXTINF:-1 xui-id="216" tvg-id="" tvg-name="[Sc] Эпидемия" tvg-logo="" group-title="Фильмовые",Sc Эпидемия
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TWqzYyMbjzHcoznGSXDfqs/m3u8
+#EXTINF:-1 xui-id="217" tvg-id="" tvg-name="[Sc] Человек-паук" tvg-logo="" group-title="Фильмовые",Sc Человек-паук
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TJJuzeo7nOdul97wDFLtnU/m3u8
+#EXTINF:-1 xui-id="218" tvg-id="" tvg-name="[Sc] Супермэн" tvg-logo="" group-title="Фильмовые",Sc Супермэн
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-S6KPWHCFdWnybhYffLWxY8/m3u8
+#EXTINF:-1 xui-id="219" tvg-id="" tvg-name="[Sc] Годзилла" tvg-logo="" group-title="Фильмовые",Sc Годзилла
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZU-cSqNcogwaYROb4GnbYc/m3u8
+#EXTINF:-1 xui-id="220" tvg-id="" tvg-name="[Sc] Кинг Конг" tvg-logo="" group-title="Фильмовые",Sc Кинг Конг
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YTye4d7M0eSXRKSVGkI7Ks/m3u8
+#EXTINF:-1 xui-id="221" tvg-id="" tvg-name="[Sc] Планета обезьян" tvg-logo="" group-title="Фильмовые",Sc Планета обезьян
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cOFqwh8eaDmhjsZCw1d4I4/m3u8
+#EXTINF:-1 xui-id="222" tvg-id="" tvg-name="[Sc] Мегачелюсти" tvg-logo="" group-title="Фильмовые",Sc Мегачелюсти
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WJpNC1HUfLs5oV6eFGTbXc/m3u8
+#EXTINF:-1 xui-id="223" tvg-id="" tvg-name="[Sc] Гостья из будущего" tvg-logo="" group-title="Фильмовые",Sc Гостья из будущего
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-d369UEBxn8q7VVyF1fXgL4/m3u8
+#EXTINF:-1 xui-id="224" tvg-id="" tvg-name="[Sc] Приключения Электроника" tvg-logo="" group-title="Фильмовые",Sc Приключения Электроника
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z5iPeY5bhu4FjfnpKwXBVM/m3u8
+#EXTINF:-1 xui-id="225" tvg-id="" tvg-name="[Sc] Куми-Куми" tvg-logo="" group-title="Фильмовые",Sc Куми-Куми
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-c6BJPc3FCrjufbM1ZLsySg/m3u8
+#EXTINF:-1 xui-id="226" tvg-id="" tvg-name="[Sc] Гриззи и лемминги" tvg-logo="" group-title="Фильмовые",Sc Гриззи и лемминги
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fou_ku5oyoJF_BacRc2PwM/m3u8
+#EXTINF:-1 xui-id="227" tvg-id="" tvg-name="[Sc] Буба" tvg-logo="" group-title="Фильмовые",Sc Буба
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UvcIM6oQfT4Gh__fmrAD-k/m3u8
+#EXTINF:-1 xui-id="228" tvg-id="" tvg-name="[Sc] Ми-ми-мишки" tvg-logo="" group-title="Фильмовые",Sc Sc Ми-ми-мишки
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-byaXByWwkcojglE916XbPA/m3u8
+#EXTINF:-1 xui-id="229" tvg-id="" tvg-name="[Sc] Вспыш и чудо-машинки" tvg-logo="" group-title="Фильмовые",Sc Вспыш и чудо-машинки
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UFG9tAunIYvkpOvkvdfKhs/m3u8
+#EXTINF:-1 xui-id="230" tvg-id="" tvg-name="[Sc] Маша и медведь" tvg-logo="" group-title="Фильмовые",Sc Маша и медведь
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XQZSLbHgzrJjvPtTHBQsBQ/m3u8
+#EXTINF:-1 xui-id="231" tvg-id="" tvg-name="[Sc] Фиксики" tvg-logo="" group-title="Фильмовые",Sc Фиксики
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SfBEh5rZDfVhVnD-g-RBOg/m3u8
+#EXTINF:-1 xui-id="232" tvg-id="" tvg-name="[Sc] Ну Погоди!" tvg-logo="" group-title="Фильмовые",Sc Ну Погоди!
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-f-695WjtyotkuQBuLBmEUI/m3u8
+#EXTINF:-1 xui-id="233" tvg-id="" tvg-name="[Sc] ALF" tvg-logo="" group-title="Фильмовые",Sc ALF
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aBAq26828iM1ixzIdW-2yM/m3u8
+#EXTINF:-1 xui-id="234" tvg-id="" tvg-name="[Sc] Простоквашино" tvg-logo="" group-title="Фильмовые",Sc Простоквашино
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Wa_8fxV88NeqWFYS9rxa-Y/m3u8
+#EXTINF:-1 xui-id="235" tvg-id="" tvg-name="[Sc] Том и Джерри" tvg-logo="" group-title="Фильмовые",Sc Том и Джерри
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YSSzcZnp9o6Q-WqRQ98_4I/m3u8
+#EXTINF:-1 xui-id="236" tvg-id="" tvg-name="[Sc] Говорящий Том и Друзья" tvg-logo="" group-title="Фильмовые",Sc Говорящий Том и Друзья
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TCosCludIN_ujbQFIf-TOw/m3u8
+#EXTINF:-1 xui-id="237" tvg-id="" tvg-name="Sc Приключения Ам Няма" tvg-logo="" group-title="Фильмовые",Sc Приключения Ам Няма
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QFAUy3UQj4HuikgBmTryKs/m3u8
+#EXTINF:-1 xui-id="238" tvg-id="" tvg-name="Sc Чип и Дейл спешат на помощь" tvg-logo="" group-title="Фильмовые",Sc Чип и Дейл спешат на помощь
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fggdXNb_cYplJzmryY6agE/m3u8
+#EXTINF:-1 xui-id="239" tvg-id="" tvg-name="Sc Утиные истории" tvg-logo="" group-title="Фильмовые",Sc Утиные истории
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-R2HBxjHf5Ipgap5UCw3H6A/m3u8
+#EXTINF:-1 xui-id="240" tvg-id="" tvg-name="Sc Приключения мишек Гамми" tvg-logo="" group-title="Фильмовые",Sc Приключения мишек Гамми
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UBpa41Ie8U-X_kUpsmOEBg/m3u8
+#EXTINF:-1 xui-id="241" tvg-id="" tvg-name="Sc Лунтик и его друзья" tvg-logo="" group-title="Фильмовые",Sc Лунтик и его друзья
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QefeS4n4iJCk5fNHLg8u1I/m3u8
+#EXTINF:-1 xui-id="242" tvg-id="" tvg-name="Sc Розовая пантера" tvg-logo="" group-title="Фильмовые",Sc Розовая пантера
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-T3pV2uK7hqtSrElVAM7y60/m3u8
+#EXTINF:-1 xui-id="243" tvg-id="" tvg-name="Sc Приключения супергероя SamSam" tvg-logo="" group-title="Фильмовые",Sc Приключения супергероя SamSam
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZkPnSIPxM-r4PVezUdRbj4/m3u8
+#EXTINF:-1 xui-id="244" tvg-id="" tvg-name="Sc Приключения кота Леопольда" tvg-logo="" group-title="Фильмовые",Sc Приключения кота Леопольда
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eF_Bi0bJO5BXipe7maWDgQ/m3u8
+#EXTINF:-1 xui-id="245" tvg-id="" tvg-name="Sc Русалочка" tvg-logo="" group-title="Фильмовые",Sc Русалочка
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VCRCTDQtagSdWkgin3bScg/m3u8
+#EXTINF:-1 xui-id="246" tvg-id="" tvg-name="Sc Футурама" tvg-logo="" group-title="Фильмовые",Sc Футурама
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SAbWG4HXN8jOT2gixtQVdo/m3u8
+#EXTINF:-1 xui-id="247" tvg-id="" tvg-name="Sc Пингвины из Мадагаскара" tvg-logo="" group-title="Фильмовые",Sc Пингвины из Мадагаскара
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Q07OskQH2fnNvnyX5Cl8K4/m3u8
+#EXTINF:-1 xui-id="248" tvg-id="" tvg-name="Sc Симпсоны" tvg-logo="" group-title="Фильмовые",Sc Симпсоны
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dMVLW_fWksGaX2j1e3u0wc/m3u8
+#EXTINF:-1 xui-id="249" tvg-id="" tvg-name="Sc Губка Боб" tvg-logo="" group-title="Фильмовые",Sc Губка Боб
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RJO3CAHjVGrNG7k0PeSoJA/m3u8
+#EXTINF:-1 xui-id="250" tvg-id="" tvg-name="Sc Щенячий патруль" tvg-logo="" group-title="Фильмовые",Sc Щенячий патруль
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RYUD3KQM_BdqqJIaGYyK-Y/m3u8
+#EXTINF:-1 xui-id="251" tvg-id="" tvg-name="Sc Барашек Шон" tvg-logo="" group-title="Фильмовые",Sc Барашек Шон
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-c2VvdgIj9YdZSvNAy0uxg4/m3u8
+#EXTINF:-1 xui-id="252" tvg-id="" tvg-name="Sc Черный плащ" tvg-logo="" group-title="Фильмовые",Sc Черный плащ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bkhF9kxArDAl6VEQjZNhZs/m3u8
+#EXTINF:-1 xui-id="253" tvg-id="" tvg-name="Sc Три кота" tvg-logo="" group-title="Фильмовые",Sc Три кота
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SZYp_F4Myv5ks8XUR5fo_o/m3u8
+#EXTINF:-1 xui-id="254" tvg-id="" tvg-name="Sc Барбоскины" tvg-logo="" group-title="Фильмовые",Sc Барбоскины
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YIJhZoiiLKlGv5O80ytO4g/m3u8
+#EXTINF:-1 xui-id="255" tvg-id="" tvg-name="Sc Белка и стрелка" tvg-logo="" group-title="Фильмовые",Sc Белка и стрелка
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ULdfn1Y6EZ-bBRMeJALYk8/m3u8
+#EXTINF:-1 xui-id="256" tvg-id="" tvg-name="Sc Грузовичок Лёва" tvg-logo="" group-title="Фильмовые",Sc Грузовичок Лёва
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bLpMV3Bu1JQbf1nIhDXnZ8/m3u8
+#EXTINF:-1 xui-id="257" tvg-id="" tvg-name="Sc Свинка Пеппа" tvg-logo="" group-title="Фильмовые",Sc Свинка Пеппа
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aJSH1cYdHz7h0boujLV4hA/m3u8
+#EXTINF:-1 xui-id="258" tvg-id="" tvg-name="Sc Лео и Тиг" tvg-logo="" group-title="Фильмовые",Sc Лео и Тиг
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-X0lIOzZksemaZTc8DiO4FE/m3u8
+#EXTINF:-1 xui-id="259" tvg-id="" tvg-name="Sc Как казаки" tvg-logo="" group-title="Фильмовые",Sc Как казаки
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SIvzl3vRtSr6XcUNhKCrJA/m3u8
+#EXTINF:-1 xui-id="260" tvg-id="" tvg-name="Sc Мир наизнанку" tvg-logo="" group-title="Фильмовые",Sc Мир наизнанку
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Yv_TdrGg5E2r76_dBKB98I/m3u8
+#EXTINF:-1 xui-id="261" tvg-id="" tvg-name="Sc Следствие вели" tvg-logo="" group-title="Фильмовые",Sc Следствие вели
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YygUoDkhVyrUXB00ZHEbnA/m3u8
+#EXTINF:-1 xui-id="262" tvg-id="" tvg-name="Sc Криминальная Россия" tvg-logo="" group-title="Фильмовые",Sc Криминальная Россия
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WqZn1Q6nT8FhQbJISoAY6Y/m3u8
+#EXTINF:-1 xui-id="263" tvg-id="" tvg-name="Sc Орёл и решка" tvg-logo="" group-title="Фильмовые",Sc Орёл и решка
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Zsdi6L1ndMDU1nQmOQzw94/m3u8
+#EXTINF:-1 xui-id="264" tvg-id="" tvg-name="Sc Mike Tyson Professional fights" tvg-logo="" group-title="Фильмовые",Sc Mike Tyson Professional fights
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cvHxrfEpjn4xxTjM8uQx74/m3u8
+#EXTINF:-1 xui-id="265" tvg-id="" tvg-name="Sc Федор Емельяненко" tvg-logo="" group-title="Фильмовые",Sc Федор Емельяненко
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-emIX6kh03s2HZpI9vvRZKs/m3u8
+
+
 #EXTINF:-1 group-title="TV-Line",Euronews
 http://178.134.1.158:8081/Euronews/index.m3u8
 #EXTINF:-1 group-title="TV-Line",Время
