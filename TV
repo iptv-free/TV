@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz, http://178.63.47.178/epg.xml,http://epg.one/epg.xml.gz,http://uztv.su/uploads/channelsarch/channels.xml"
-#EXTINF:-1 group-title="Российские",Info: ZunoTV
-https://m3u.usite.pro/1/demo.mp4
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Российские",Info
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WZdkJpFbL_KVYgBPAm1_qg/m3u8
 #EXTINF:-1 group-title="Российские",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Российские",Россия 1
@@ -124,6 +124,8 @@ http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 group-title="Спортивные",Матч! Футбол 3 SD
 http://185.57.68.33:8091/110/index.m3u8
 
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Спортивные",Info
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WZdkJpFbL_KVYgBPAm1_qg/m3u8
 #EXTINF:-1 xui-id="266" tvg-id="" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="Спортивные",Eurosport 1 HD
 http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QCzqf2uV9hVmbTEv1NIJyM/m3u8
 #EXTINF:-1 xui-id="267" tvg-id="" tvg-name="Eurosport 2 HD" tvg-logo="" group-title="Спортивные",Eurosport 2 HD
@@ -1810,6 +1812,325 @@ http://tv.woobl.ru:9090/channel/19a78a35/index.m3u8?q=644467b6fc61ff1a209adb1122
 #EXTINF:-1 group-title="VF-Кинозал",VF Однажды в России
 http://tv.woobl.ru:9090/channel/n1e05434/index.m3u8?q=644467b6fc61ff1a209adb1122c72720
 
+
+#EXTINF:-1 xui-id="427" tvg-id="" tvg-name="Viju TV1000" tvg-logo="" group-title="Кино ТВ",Viju TV1000
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WrxQgbogw8t84IdGA2THvA/m3u8
+#EXTINF:-1 xui-id="428" tvg-id="" tvg-name="Viju TV1000 HD" tvg-logo="" group-title="Кино ТВ",Viju TV1000 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TM0L-UGcFjPytWTC1pBewY/m3u8
+#EXTINF:-1 xui-id="429" tvg-id="" tvg-name="Viju TV1000 Action" tvg-logo="" group-title="Кино ТВ",Viju TV1000 Action
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UDB92W0mwWGWz0gCdLh0VY/m3u8
+#EXTINF:-1 xui-id="430" tvg-id="" tvg-name="Viju TV1000 Action HD" tvg-logo="" group-title="Кино ТВ",Viju TV1000 Action HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bDVVS_a5SZm0nPhqVJlVKY/m3u8
+#EXTINF:-1 xui-id="431" tvg-id="" tvg-name="Viju TV1000 Русское Кино" tvg-logo="" group-title="Кино ТВ",Viju TV1000 Русское Кино
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SKeEew_Tk5tMFpqE8ABzAU/m3u8
+#EXTINF:-1 xui-id="432" tvg-id="" tvg-name="Viju TV1000 Русское HD" tvg-logo="" group-title="Кино ТВ",Viju TV1000 Русское HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-e96C_jxMOd5n1y46TPiHxI/m3u8
+#EXTINF:-1 xui-id="433" tvg-id="" tvg-name="Viasat Serial HD" tvg-logo="" group-title="Кино ТВ",Viasat Serial HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-W6bZKSn9n8RM8_QyYPC-zw/m3u8
+#EXTINF:-1 xui-id="434" tvg-id="" tvg-name="Viasat Kino Comedy HD" tvg-logo="" group-title="Кино ТВ",Viasat Kino Comedy HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WoxsHRJQy7_KFMroWMkHRw/m3u8
+#EXTINF:-1 xui-id="435" tvg-id="" tvg-name="Viasat Kino World" tvg-logo="" group-title="Кино ТВ",Viasat Kino World
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Xifs4pGEEp3GJyZnS0rbbA/m3u8
+#EXTINF:-1 xui-id="436" tvg-id="" tvg-name="Viasat Kino Megahit HD" tvg-logo="" group-title="Кино ТВ",Viasat Kino Megahit HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YuLumdka6KMEzHZpYAqfUQ/m3u8
+#EXTINF:-1 xui-id="437" tvg-id="" tvg-name="Viasat Kino World HD" tvg-logo="" group-title="Кино ТВ",Viasat Kino World HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fa98Jg7htIIYxDQFuaJ5XU/m3u8
+#EXTINF:-1 xui-id="438" tvg-id="" tvg-name="Viasat Kino Action HD" tvg-logo="" group-title="Кино ТВ",Viasat Kino Action HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XaYOv_lTxfsEJgpnoxbIEg/m3u8
+#EXTINF:-1 xui-id="439" tvg-id="" tvg-name="Viasat Kino HD" tvg-logo="" group-title="Кино ТВ",Viasat Kino HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-foBR-0BPH_7Vnpgfk3Q-kc/m3u8
+#EXTINF:-1 xui-id="440" tvg-id="" tvg-name="Кинопоказ" tvg-logo="" group-title="Кино ТВ",Кинопоказ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Xx6wbUrCYSRswMUAe034oI/m3u8
+#EXTINF:-1 xui-id="441" tvg-id="" tvg-name="Феникс+ Кино" tvg-logo="" group-title="Кино ТВ",Феникс+ Кино
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WCPGKYoR-EUFUp2TD7YQaA/m3u8
+#EXTINF:-1 xui-id="442" tvg-id="" tvg-name="Kinoliving HD" tvg-logo="" group-title="Кино ТВ",Kinoliving HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V5AXHO5mcxMMIDONXEh3Aw/m3u8
+#EXTINF:-1 xui-id="443" tvg-id="" tvg-name="VHS-ка" tvg-logo="" group-title="Кино ТВ",VHS-ка
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SbZ3yT_aCUjm3JIqlVPUkQ/m3u8
+#EXTINF:-1 xui-id="444" tvg-id="" tvg-name="Viju TV1000 Новелла" tvg-logo="" group-title="Кино ТВ",Viju TV1000 Новелла
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cmppXV1Ipa42LjILN-BoXE/m3u8
+#EXTINF:-1 xui-id="445" tvg-id="" tvg-name="viju+ Premiere" tvg-logo="" group-title="Кино ТВ",viju+ Premiere
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cb2WBVMnL5fzKtlgcpe19M/m3u8
+#EXTINF:-1 xui-id="446" tvg-id="" tvg-name="viju+ Premiere HD" tvg-logo="" group-title="Кино ТВ",viju+ Premiere HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Ulu4Sge6aBptKx6IgZKYUg/m3u8
+#EXTINF:-1 xui-id="447" tvg-id="" tvg-name="viju+ Megahit" tvg-logo="" group-title="Кино ТВ",viju+ Megahit
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SdsrMbVlsGHIxLlignwCxw/m3u8
+#EXTINF:-1 xui-id="448" tvg-id="" tvg-name="viju+ Megahit HD" tvg-logo="" group-title="Кино ТВ",viju+ Megahit HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eKBRk7jIlYuzdBn26fY7Z8/m3u8
+#EXTINF:-1 xui-id="449" tvg-id="" tvg-name="viju+ Comedy" tvg-logo="" group-title="Кино ТВ",viju+ Comedy
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-evlLGZelU8KuFq2t2gattA/m3u8
+#EXTINF:-1 xui-id="450" tvg-id="" tvg-name="viju+ Comedy HD" tvg-logo="" group-title="Кино ТВ",viju+ Comedy HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Sx4bm7ubV_LWqz0t1KM7gQ/m3u8
+#EXTINF:-1 xui-id="451" tvg-id="" tvg-name="viju+ Serial" tvg-logo="" group-title="Кино ТВ",viju+ Serial
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VXbAGbub-gs69DjmxU1rI4/m3u8
+#EXTINF:-1 xui-id="452" tvg-id="" tvg-name="Hollywood HD" tvg-logo="" group-title="Кино ТВ",Hollywood HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WUBDxEE3-stqH5dioWwioo/m3u8
+#EXTINF:-1 xui-id="453" tvg-id="" tvg-name="Fox HD" tvg-logo="" group-title="Кино ТВ",Fox HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-c06cebtfvRnKCfHXaxUsPw/m3u8
+#EXTINF:-1 xui-id="454" tvg-id="" tvg-name="Премиальное HD" tvg-logo="" group-title="Кино ТВ",Премиальное HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WycenUniia-7A7onnvoxRY/m3u8
+#EXTINF:-1 xui-id="455" tvg-id="" tvg-name="Остросюжетное HD" tvg-logo="" group-title="Кино ТВ",Остросюжетное HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z9IvnOr8M6MUDbVt37xuio/m3u8
+#EXTINF:-1 xui-id="456" tvg-id="" tvg-name="Дом кино Премиум HD" tvg-logo="" group-title="Кино ТВ",Дом кино Премиум HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-awBTO2sBRSJ_6jwj1JqdDc/m3u8
+#EXTINF:-1 xui-id="457" tvg-id="" tvg-name="Еврокино HD" tvg-logo="" group-title="Кино ТВ",Еврокино HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dPycsKms1bSPZMDIZN7m9w/m3u8
+#EXTINF:-1 xui-id="458" tvg-id="" tvg-name="Amedia Premium HD" tvg-logo="" group-title="Кино ТВ",Amedia Premium HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aVpTo77ZOuRu9YpDFcjtk4/m3u8
+#EXTINF:-1 xui-id="459" tvg-id="" tvg-name="FlixSnip" tvg-logo="" group-title="Кино ТВ",FlixSnip
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SvDv1DhGMQkFXAMTEogrE8/m3u8
+#EXTINF:-1 xui-id="460" tvg-id="" tvg-name="Bollywood HD" tvg-logo="" group-title="Кино ТВ",Bollywood HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fRDBi18nf3JdBwGRXuY9cU/m3u8
+#EXTINF:-1 xui-id="461" tvg-id="" tvg-name="Иллюзион +" tvg-logo="" group-title="Кино ТВ",Иллюзион +
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Viagp4tSy8SL6VrvKVjJHk/m3u8
+#EXTINF:-1 xui-id="462" tvg-id="" tvg-name="Русский иллюзион" tvg-logo="" group-title="Кино ТВ",Русский иллюзион
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VJmpqdgh6mwCqwFbSiYE5g/m3u8
+#EXTINF:-1 xui-id="463" tvg-id="" tvg-name="Индийское кино" tvg-logo="" group-title="Кино ТВ",Индийское кино
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-chGJaLKM36gY6EqxKdNgLM/m3u8
+#EXTINF:-1 xui-id="464" tvg-id="" tvg-name="Кинокомедия" tvg-logo="" group-title="Кино ТВ",Кинокомедия
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-doq1AbGcQnfAoAX8Fxb_gc/m3u8
+#EXTINF:-1 xui-id="465" tvg-id="" tvg-name="Кинокомедия HD" tvg-logo="" group-title="Кино ТВ",Кинокомедия HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Xf3--29GgwsmnzyvdgunJQ/m3u8
+#EXTINF:-1 xui-id="466" tvg-id="" tvg-name="Киномикс" tvg-logo="" group-title="Кино ТВ",Киномикс
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZmUrbBlz1J8AmGlEXReNjg/m3u8
+#EXTINF:-1 xui-id="467" tvg-id="" tvg-name="Киномикс HD" tvg-logo="" group-title="Кино ТВ",Киномикс HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-coLwiFVMCRvbGPbcK2kfmM/m3u8
+#EXTINF:-1 xui-id="468" tvg-id="" tvg-name="Киносвидание" tvg-logo="" group-title="Кино ТВ",Киносвидание
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WFCOvAge72UhIlPSV0sUdY/m3u8
+#EXTINF:-1 xui-id="469" tvg-id="" tvg-name="Киносемья" tvg-logo="" group-title="Кино ТВ",Киносемья
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TCKjnSzAzqBkbCWsj5uo_w/m3u8
+#EXTINF:-1 xui-id="470" tvg-id="" tvg-name="Киносемья HD" tvg-logo="" group-title="Кино ТВ",Киносемья HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dv4F_yOWaFhEnICR7dVrT4/m3u8
+#EXTINF:-1 xui-id="471" tvg-id="" tvg-name="Киносерия" tvg-logo="" group-title="Кино ТВ",Киносерия
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-U3g3fFP0OMD6lVNYOmKUXw/m3u8
+#EXTINF:-1 xui-id="472" tvg-id="" tvg-name="Киносерия HD" tvg-logo="" group-title="Кино ТВ",Киносерия HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RM1V79_n5TJy_OEZTd1xD4/m3u8
+#EXTINF:-1 xui-id="473" tvg-id="" tvg-name="Кинохит" tvg-logo="" group-title="Кино ТВ",Кинохит
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SHzlJ3vauwmbg9oi5jV5es/m3u8
+#EXTINF:-1 xui-id="474" tvg-id="" tvg-name="Кинохит HD" tvg-logo="" group-title="Кино ТВ",Кинохит HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aQ07phT-KuN8VW6rMFo4os/m3u8
+#EXTINF:-1 xui-id="475" tvg-id="" tvg-name="Мир сериала" tvg-logo="" group-title="Кино ТВ",Мир сериала
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RTTrdkg7wMkWTUd-nfSrws/m3u8
+#EXTINF:-1 xui-id="476" tvg-id="" tvg-name="Мир сериала HD" tvg-logo="" group-title="Кино ТВ",Мир сериала HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-S6B_G30cJPNiG9U2VqEgVU/m3u8
+#EXTINF:-1 xui-id="477" tvg-id="" tvg-name="SONY Sci-Fi" tvg-logo="" group-title="Кино ТВ",SONY Sci-Fi
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TS8v36lAmRRJbBVaau5cdo/m3u8
+#EXTINF:-1 xui-id="478" tvg-id="" tvg-name="TV XXI" tvg-logo="" group-title="Кино ТВ",TV XXI
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Yi9DeVQNJocecGGGAmWqww/m3u8
+#EXTINF:-1 xui-id="479" tvg-id="" tvg-name="Любимое Кино" tvg-logo="" group-title="Кино ТВ",Любимое Кино
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YTGkJyammFIb0q6rjoyagY/m3u8
+#EXTINF:-1 xui-id="480" tvg-id="" tvg-name="Любимое Кино HD" tvg-logo="" group-title="Кино ТВ",Любимое Кино HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VPrPKRoCvB9Q3sY6r8WT9k/m3u8
+#EXTINF:-1 xui-id="481" tvg-id="" tvg-name="Кино ТВ" tvg-logo="" group-title="Кино ТВ",Кино ТВ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WBXvobGswAsJ-hIpa-6xKM/m3u8
+#EXTINF:-1 xui-id="482" tvg-id="" tvg-name="Русская Комедия" tvg-logo="" group-title="Кино ТВ",Русская Комедия
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ROuAMF0AMPt1fAPRh3QrmA/m3u8
+#EXTINF:-1 xui-id="483" tvg-id="" tvg-name="Kino 1" tvg-logo="" group-title="Кино ТВ",Kino 1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V9eqw7JNTXADh4LELsraBY/m3u8
+#EXTINF:-1 xui-id="484" tvg-id="" tvg-name="НТВ Сериал" tvg-logo="" group-title="Кино ТВ",НТВ Сериал
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Wov7LlIJfkTi13uryOkaFI/m3u8
+#EXTINF:-1 xui-id="485" tvg-id="" tvg-name="НТВ Хит" tvg-logo="" group-title="Кино ТВ",НТВ Хит
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cZ7lfwQWFWinfP89ZpVQxM/m3u8
+#EXTINF:-1 xui-id="486" tvg-id="" tvg-name="Русский Бестселлер" tvg-logo="" group-title="Кино ТВ",Русский Бестселлер
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZJemA3bwPzZM7Xg8J8W2Bo/m3u8
+#EXTINF:-1 xui-id="487" tvg-id="" tvg-name="Русский Роман" tvg-logo="" group-title="Кино ТВ",Русский Роман
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ROAE_lG579mRY1VmmTGVx4/m3u8
+#EXTINF:-1 xui-id="488" tvg-id="" tvg-name="Русский роман HD" tvg-logo="" group-title="Кино ТВ",Русский роман HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UMi7dKjv0qs0Zx_o9V3-6Q/m3u8
+#EXTINF:-1 xui-id="489" tvg-id="" tvg-name=".red HD" tvg-logo="" group-title="Кино ТВ",.red HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aO4QVDlIcfmLKtJEgaDYjc/m3u8
+#EXTINF:-1 xui-id="490" tvg-id="" tvg-name=".red" tvg-logo="" group-title="Кино ТВ",.red
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TuZLRivdRJiMPuIRPc9qpM/m3u8
+#EXTINF:-1 xui-id="491" tvg-id="" tvg-name=".black" tvg-logo="" group-title="Кино ТВ",.black
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aRxaBYmdeurbOkLLEvUo_Q/m3u8
+#EXTINF:-1 xui-id="492" tvg-id="" tvg-name="Amedia Premium" tvg-logo="" group-title="Кино ТВ",Amedia Premium
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fbL9Dn2HkxXS-5JA4pa_iY/m3u8
+#EXTINF:-1 xui-id="493" tvg-id="" tvg-name="НСТ" tvg-logo="" group-title="Кино ТВ",НСТ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-X4_rhKoEs3nfzgSmx3jgSM/m3u8
+#EXTINF:-1 xui-id="494" tvg-id="" tvg-name="Fox Life" tvg-logo="" group-title="Кино ТВ",Fox Life
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z3RKk5BAvjHTs9QBBTEY8o/m3u8
+#EXTINF:-1 xui-id="495" tvg-id="" tvg-name="Amedia Hit" tvg-logo="" group-title="Кино ТВ",Amedia Hit
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cQ6MhzfQC5fXvzRwKWCEpM/m3u8
+#EXTINF:-1 xui-id="496" tvg-id="" tvg-name="Hollywood" tvg-logo="" group-title="Кино ТВ",Hollywood
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UkF4tZU8HgSwhCsaQtr6aA/m3u8
+#EXTINF:-1 xui-id="497" tvg-id="" tvg-name="Кинопремьера HD" tvg-logo="" group-title="Кино ТВ",Кинопремьера HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aGTKhaDNXiJ0xpa5sTz-w4/m3u8
+#EXTINF:-1 xui-id="498" tvg-id="" tvg-name="Дом Кино" tvg-logo="" group-title="Кино ТВ",Дом Кино
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VwaHQvyO8MufGX6-hsnlyg/m3u8
+#EXTINF:-1 xui-id="499" tvg-id="" tvg-name="Наше новое кино" tvg-logo="" group-title="Кино ТВ",Наше новое кино
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eH-vzfbhNV3IA0sU562VGM/m3u8
+#EXTINF:-1 xui-id="500" tvg-id="" tvg-name="Родное кино" tvg-logo="" group-title="Кино ТВ",Родное кино
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SsaS5Iv4GBoMpeYTMs18-8/m3u8
+#EXTINF:-1 xui-id="501" tvg-id="" tvg-name="A1" tvg-logo="" group-title="Кино ТВ",A1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Z9lsSF6Oh0kUHYibShjRR0/m3u8
+#EXTINF:-1 xui-id="502" tvg-id="" tvg-name="A2" tvg-logo="" group-title="Кино ТВ",A2
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RICtvZ5cUlAnT3i2dZ8uhM/m3u8
+#EXTINF:-1 xui-id="503" tvg-id="" tvg-name="A1 HD" tvg-logo="" group-title="Кино ТВ",A1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RmQy_39J0Yl0XgoWbrAaeU/m3u8
+#EXTINF:-1 xui-id="504" tvg-id="" tvg-name="A2 HD" tvg-logo="" group-title="Кино ТВ",A2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XSLgTzPjDBoKZjQwBoIqbA/m3u8
+#EXTINF:-1 xui-id="505" tvg-id="" tvg-name="Победа" tvg-logo="" group-title="Кино ТВ",Победа
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cDfiqobXrfXd9UDxN6Ml_Q/m3u8
+#EXTINF:-1 xui-id="506" tvg-id="" tvg-name="Победа HD" tvg-logo="" group-title="Кино ТВ",Победа HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TwNPP4L6fzMDo_k0tJES7c/m3u8
+#EXTINF:-1 xui-id="507" tvg-id="" tvg-name="День Победы" tvg-logo="" group-title="Кино ТВ",День Победы
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UpmZYK38yDsRZpfYlWY7SQ/m3u8
+#EXTINF:-1 xui-id="508" tvg-id="" tvg-name="Amedia hit HD" tvg-logo="" group-title="Кино ТВ",Amedia hit HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Yyd9Ze1go3aQEbujtrOh3o/m3u8
+#EXTINF:-1 xui-id="509" tvg-id="" tvg-name="КиноТВ HD" tvg-logo="" group-title="Кино ТВ",КиноТВ HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V833wAi4NtI4tsJVmHmzYg/m3u8
+#EXTINF:-1 xui-id="510" tvg-id="" tvg-name="Мужское кино" tvg-logo="" group-title="Кино ТВ",Мужское кино
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Sj8naHExukbTJ2UsRhEYmc/m3u8
+#EXTINF:-1 xui-id="511" tvg-id="" tvg-name="Мужское кино HD" tvg-logo="" group-title="Кино ТВ",Мужское кино HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Qw1cSGSwQRAgXUVMZOLyOM/m3u8
+#EXTINF:-1 xui-id="512" tvg-id="" tvg-name="Cinema" tvg-logo="" group-title="Кино ТВ",Cinema
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-f6bi8JxLxhIdzio4Q5remI/m3u8
+#EXTINF:-1 xui-id="513" tvg-id="" tvg-name="Cinema HD" tvg-logo="" group-title="Кино ТВ",Cinema HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aOh24kpKkJ6HejnRjucFT4/m3u8
+#EXTINF:-1 xui-id="514" tvg-id="" tvg-name="Тайна" tvg-logo="" group-title="Кино ТВ",Тайна
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fDE0px0PFdDI_kZEFHKem8/m3u8
+#EXTINF:-1 xui-id="515" tvg-id="" tvg-name="Русский детектив" tvg-logo="" group-title="Кино ТВ",Русский детектив
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cQ3mUJwhsygsNmMyZyaABQ/m3u8
+#EXTINF:-1 xui-id="516" tvg-id="" tvg-name="Киноужас" tvg-logo="" group-title="Кино ТВ",Киноужас
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eh_cbVtcD6iy1fid97DNyQ/m3u8
+#EXTINF:-1 xui-id="517" tvg-id="" tvg-name="Киноужас HD" tvg-logo="" group-title="Кино ТВ",Киноужас HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V4kpHYeGpI_-SlVASAxmTQ/m3u8
+#EXTINF:-1 xui-id="518" tvg-id="" tvg-name="Страшное HD" tvg-logo="" group-title="Кино ТВ",Страшное HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-a01pGcxFxp8IwHddnLhol8/m3u8
+#EXTINF:-1 xui-id="519" tvg-id="" tvg-name="Star Cinema" tvg-logo="" group-title="Кино ТВ",Star Cinema
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bxUvSAZeR4sLEv65Bc21LE/m3u8
+#EXTINF:-1 xui-id="520" tvg-id="" tvg-name="Star Cinema HD" tvg-logo="" group-title="Кино ТВ",Star Cinema HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XofnlFR2gJTqEoxvK8TiqU/m3u8
+#EXTINF:-1 xui-id="521" tvg-id="" tvg-name="Star Family" tvg-logo="" group-title="Кино ТВ",Star Family
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fgOhzginA7QpcI9qoHvmjE/m3u8
+#EXTINF:-1 xui-id="522" tvg-id="" tvg-name="Star Family HD" tvg-logo="" group-title="Кино ТВ",Star Family HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QsvdTU9SOEj7HKegEpOJFI/m3u8
+#EXTINF:-1 xui-id="523" tvg-id="" tvg-name="Ретро" tvg-logo="" group-title="Кино ТВ",Ретро
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SNRWhy1-tYmN_NPevSUojg/m3u8
+#EXTINF:-1 xui-id="524" tvg-id="" tvg-name="Шокирующее" tvg-logo="" group-title="Кино ТВ",Шокирующее
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZnipBidRTWvUxCX8LlW2P8/m3u8
+#EXTINF:-1 xui-id="525" tvg-id="" tvg-name="Наше крутое HD" tvg-logo="" group-title="Кино ТВ",Наше крутое HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Qswmukel_qMGAKzsazBNh4/m3u8
+#EXTINF:-1 xui-id="526" tvg-id="" tvg-name="Наш кинороман HD" tvg-logo="" group-title="Кино ТВ",Наш кинороман HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Zrs_FErwSTC-RAJX6hUpeg/m3u8
+#EXTINF:-1 xui-id="527" tvg-id="" tvg-name="Блокбастер HD" tvg-logo="" group-title="Кино ТВ",Блокбастер HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-dtYdKf92iHNGPpeyMvzG9U/m3u8
+#EXTINF:-1 xui-id="528" tvg-id="" tvg-name="Хит HD" tvg-logo="" group-title="Кино ТВ",Хит HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-fBDgRUdP1t6anDn9xcAF84/m3u8
+#EXTINF:-1 xui-id="529" tvg-id="" tvg-name="Наш Кинопоказ HD" tvg-logo="" group-title="Кино ТВ",Наш Кинопоказ HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ccs6mvMcxJ-pu6ZIp0QLlE/m3u8
+#EXTINF:-1 xui-id="530" tvg-id="" tvg-name="Киносат" tvg-logo="" group-title="Кино ТВ",Киносат
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VaOqYD3iIsjV1E7txK-o2U/m3u8
+#EXTINF:-1 xui-id="531" tvg-id="" tvg-name="Про Любовь HD" tvg-logo="" group-title="Кино ТВ",Про Любовь HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UiUnN-zMLvXwPPN7Qouz3o/m3u8
+#EXTINF:-1 xui-id="532" tvg-id="" tvg-name="Наше Мужское HD" tvg-logo="" group-title="Кино ТВ",Наше Мужское HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VJew_IfXXt7U8__NtNj7WA/m3u8
+#EXTINF:-1 xui-id="533" tvg-id="" tvg-name="Камеди HD" tvg-logo="" group-title="Кино ТВ",Камеди HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UkuOfve8jymjeFQ0DoeVuc/m3u8
+#EXTINF:-1 xui-id="534" tvg-id="" tvg-name="Романтичное HD" tvg-logo="" group-title="Кино ТВ",Романтичное HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZN4F7fkCZCHHyQv9jWN5vI/m3u8
+#EXTINF:-1 xui-id="535" tvg-id="" tvg-name="Комедийное HD" tvg-logo="" group-title="Кино ТВ",Комедийное HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-euHBLgmTAzmJkVrQ4Lv4f4/m3u8
+#EXTINF:-1 xui-id="536" tvg-id="" tvg-name="Trash HD" tvg-logo="" group-title="Кино ТВ",Trash HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QDKMNCUUMEpjc1ejdryLDk/m3u8
+#EXTINF:-1 xui-id="537" tvg-id="" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="" group-title="Кино ТВ",Мосфильм. Золотая коллекция
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QcUmwiXmjj0SrgNqOez3UE/m3u8
+#EXTINF:-1 xui-id="538" tvg-id="" tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="" group-title="Кино ТВ",Мосфильм. Золотая коллекция HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ej3ZLXSt6qYnkAI37aoSnM/m3u8
+#EXTINF:-1 xui-id="539" tvg-id="" tvg-name="Kino 24" tvg-logo="" group-title="Кино ТВ",Kino 24
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QZi9wJnMUI-ejJNjFIP9vE/m3u8
+#EXTINF:-1 xui-id="540" tvg-id="" tvg-name="Киносезон" tvg-logo="" group-title="Кино ТВ",Киносезон
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WDQCO0fZFT-cMwK3EEx1Ho/m3u8
+#EXTINF:-1 xui-id="541" tvg-id="" tvg-name="BOLT" tvg-logo="" group-title="Кино ТВ",BOLT
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-b8s7iWtDh9AQk8g6MgYdmg/m3u8
+#EXTINF:-1 xui-id="542" tvg-id="" tvg-name="Bolt HD" tvg-logo="" group-title="Кино ТВ",Bolt HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-T10PbiVdie1Oij1ecGyfUg/m3u8
+#EXTINF:-1 xui-id="543" tvg-id="" tvg-name="Filmbox Russia" tvg-logo="" group-title="Кино ТВ",Filmbox Russia
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UImwr6AVSWTy_o7ET9NsHc/m3u8
+#EXTINF:-1 xui-id="544" tvg-id="" tvg-name="Filmbox Arthouse" tvg-logo="" group-title="Кино ТВ",Filmbox Arthouse
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ReTk8WnCiSw7M6vTiT88BY/m3u8
+#EXTINF:-1 xui-id="545" tvg-id="" tvg-name="Zee-TV" tvg-logo="" group-title="Кино ТВ",Zee-TV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YdkZR--J7_8DEDhD3uoC9s/m3u8
+#EXTINF:-1 xui-id="546" tvg-id="" tvg-name="Plan B" tvg-logo="" group-title="Кино ТВ",Plan B
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Ug4l3fF3DeL4ulPdEOHoeg/m3u8
+#EXTINF:-1 xui-id="547" tvg-id="" tvg-name="SHOT TV" tvg-logo="" group-title="Кино ТВ",SHOT TV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Vf7e6Q7YjiWIlOi_JHrxRA/m3u8
+#EXTINF:-1 xui-id="548" tvg-id="" tvg-name="Дорама" tvg-logo="" group-title="Кино ТВ",Дорама
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-aQWmCWhkeo6MXioipVpZlI/m3u8
+#EXTINF:-1 xui-id="549" tvg-id="" tvg-name="Дорама HD" tvg-logo="" group-title="Кино ТВ",Дорама HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YHgvvA4mP4NqXkesdI-Vk8/m3u8
+#EXTINF:-1 xui-id="550" tvg-id="" tvg-name="КИНЕКО" tvg-logo="" group-title="Кино ТВ",КИНЕКО
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-arvSvSA2Pcwfe4zuQQGNm4/m3u8
+#EXTINF:-1 xui-id="551" tvg-id="" tvg-name="КИНЕКО HD" tvg-logo="" group-title="Кино ТВ",КИНЕКО HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VF6_aw9rrt1KVT6lUdYiPM/m3u8
+#EXTINF:-1 xui-id="552" tvg-id="" tvg-name="САПФИР" tvg-logo="" group-title="Кино ТВ",САПФИР
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TkqT1xCav-ugl8KnV4W6OM/m3u8
+#EXTINF:-1 xui-id="553" tvg-id="" tvg-name="САПФИР HD" tvg-logo="" group-title="Кино ТВ",САПФИР HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UwDS_VJmBS2PrLsmfie1ps/m3u8
+#EXTINF:-1 xui-id="554" tvg-id="" tvg-name="OTV (Латвия)" tvg-logo="" group-title="Кино ТВ",OTV (Латвия)
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-W4nRgCroaq-zO4r_seXtAU/m3u8
+#EXTINF:-1 xui-id="555" tvg-id="" tvg-name="KINOWOOD HD" tvg-logo="" group-title="Кино ТВ",KINOWOOD HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZKKzFvrK-z_CnVVYcU7_Vg/m3u8
+#EXTINF:-1 xui-id="556" tvg-id="" tvg-name="NOW Series HD" tvg-logo="" group-title="Кино ТВ",NOW Series HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cCmWceUb_9EvuJQK6Yr3aU/m3u8
+#EXTINF:-1 xui-id="557" tvg-id="" tvg-name="Криминальное HD" tvg-logo="" group-title="Кино ТВ",Криминальное HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-U6X7DB2c2tFEgkZtGc60W8/m3u8
+#EXTINF:-1 xui-id="558" tvg-id="" tvg-name="Timeless Dizi Channel" tvg-logo="" group-title="Кино ТВ",Timeless Dizi Channel
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eE-Xf4Mq0MYTs_bPWh2M80/m3u8
+#EXTINF:-1 xui-id="559" tvg-id="" tvg-name="КиноБоевик HD KZ" tvg-logo="" group-title="Кино ТВ",КиноБоевик HD KZ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YoajdLM8VOPVSWGaJnDrLI/m3u8
+#EXTINF:-1 xui-id="560" tvg-id="" tvg-name="Семейное Кино HD KZ" tvg-logo="" group-title="Кино ТВ",Семейное Кино HD KZ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WQdXLu2esfTQciVnbeyOHM/m3u8
+#EXTINF:-1 xui-id="561" tvg-id="" tvg-name="Премиум Кино HD KZ" tvg-logo="" group-title="Кино ТВ",Премиум Кино HD KZ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XAQempADs86bECr8MgCPOc/m3u8
+#EXTINF:-1 xui-id="562" tvg-id="" tvg-name="Мировое Кино HD KZ" tvg-logo="" group-title="Кино ТВ",Мировое Кино HD KZ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-doWOBuajLNUOCo04Y8X_N4/m3u8
+#EXTINF:-1 xui-id="563" tvg-id="" tvg-name="Кино 1" tvg-logo="" group-title="Кино ТВ",Кино 1
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VhKvFDjQH9HQ2X2h5ihLdY/m3u8
+#EXTINF:-1 xui-id="564" tvg-id="" tvg-name="Кино 2" tvg-logo="" group-title="Кино ТВ",Кино 2
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Us-Owgj0d8udHaypL97mzk/m3u8
+#EXTINF:-1 xui-id="565" tvg-id="" tvg-name="Военное кино" tvg-logo="" group-title="Кино ТВ",Военное кино
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-TvyNRWKvqW1iehNJCJJa2Y/m3u8
+#EXTINF:-1 xui-id="566" tvg-id="" tvg-name="Киноджем 1 HD" tvg-logo="" group-title="Кино ТВ",Киноджем 1 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WJGaJCekYy0e78m6-yljZQ/m3u8
+#EXTINF:-1 xui-id="567" tvg-id="" tvg-name="Киноджем 2 HD" tvg-logo="" group-title="Кино ТВ",Киноджем 2 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-c2EbFs-nzNU97uCOVvldqw/m3u8
+#EXTINF:-1 xui-id="568" tvg-id="" tvg-name="DetectiveJam" tvg-logo="" group-title="Кино ТВ",DetectiveJam
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-SxyhxOokHouTkiRDBEMJlU/m3u8
+#EXTINF:-1 xui-id="569" tvg-id="" tvg-name="FamilyJam" tvg-logo="" group-title="Кино ТВ",FamilyJam
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-f730KRv4h3rwH53MKPpTM8/m3u8
+#EXTINF:-1 xui-id="570" tvg-id="" tvg-name="KION ХИТ" tvg-logo="" group-title="Кино ТВ",KION ХИТ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Td0Gz9Q1r9RDQRjnoNiuuc/m3u8
+#EXTINF:-1 xui-id="571" tvg-id="" tvg-name="Кино без границ HD" tvg-logo="" group-title="Кино ТВ",Кино без границ HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UwPrFIADZyksMjmDmJJs14/m3u8
+#EXTINF:-1 xui-id="572" tvg-id="" tvg-name="Смотрим HD" tvg-logo="" group-title="Кино ТВ",Смотрим HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-V-CHrGAHgt2vreEQaSfnNk/m3u8
+#EXTINF:-1 xui-id="573" tvg-id="" tvg-name="4ever Cinema HD" tvg-logo="" group-title="Кино ТВ",4ever Cinema HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XWiowP_Mxaw0U_CKy40wtg/m3u8
+#EXTINF:-1 xui-id="574" tvg-id="" tvg-name="4ever Drama HD" tvg-logo="" group-title="Кино ТВ",4ever Drama HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UqZ8-Vi2-j5j03tSmD0ejk/m3u8
+#EXTINF:-1 xui-id="575" tvg-id="" tvg-name="4ever Theater HD" tvg-logo="" group-title="Кино ТВ",4ever Theater HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YGulCp_9yJBBY5UcZG6pOU/m3u8
+#EXTINF:-1 xui-id="576" tvg-id="" tvg-name="Кино 1 International" tvg-logo="" group-title="Кино ТВ",Кино 1 International
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-YU0K7Op6CbFNLFm7WGH5TY/m3u8
+#EXTINF:-1 xui-id="577" tvg-id="" tvg-name="START AIR" tvg-logo="" group-title="Кино ТВ",START AIR
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QX5rrGNkE2DjqdeIV4dPyk/m3u8
+#EXTINF:-1 xui-id="578" tvg-id="" tvg-name="START WORLD" tvg-logo="" group-title="Кино ТВ",START WORLD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-bfUFPuSeZckiW3vIhmI4q0/m3u8
+#EXTINF:-1 xui-id="579" tvg-id="" tvg-name="Индия HD" tvg-logo="" group-title="Кино ТВ",Индия HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cWVK_FDxOdpXISmNVd9Qh0/m3u8
+#EXTINF:-1 xui-id="580" tvg-id="" tvg-name="CINEMAN Marvel" tvg-logo="" group-title="Кино ТВ",CINEMAN Marvel
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-UnrODN5yUoFr-__skoQNtQ/m3u8
+#EXTINF:-1 xui-id="581" tvg-id="" tvg-name="Кино 24" tvg-logo="" group-title="Кино ТВ",Кино 24
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RBPbeXfCPDoFIgwVbxK3T8/m3u8
+#EXTINF:-1 xui-id="582" tvg-id="" tvg-name="Легенда HD" tvg-logo="" group-title="Кино ТВ",Легенда HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-foFzWvuJ22T_7XINVdTRk0/m3u8
+#EXTINF:-1 xui-id="583" tvg-id="" tvg-name="FOX" tvg-logo="" group-title="Кино ТВ",FOX
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZZO7_BQokLoP-JoT1z8qhs/m3u8
+
+
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Фильмовые",Info
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WZdkJpFbL_KVYgBPAm1_qg/m3u8
 #EXTINF:-1 xui-id="53" tvg-id="" tvg-name="VeleS 60FPS" tvg-logo="" group-title="Фильмовые",VeleS 60FPS
 http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-cWJqP80ZyKUAkVQQ9mxgPo/m3u8
 #EXTINF:-1 xui-id="54" tvg-id="" tvg-name="VeleS Киноплёнка" tvg-logo="" group-title="Фильмовые",VeleS Киноплёнка
@@ -3306,42 +3627,43 @@ https://st1.uzdigital.tv/FutbolTV/tracks-v1a1a2/mono.m3u8
 https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1 group-title="Узбекистан",MiMi
 https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Узбекистан-2",Cheksiz TV
-http://57.128.196.110/11399/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",Biz TV UZ
-http://57.128.196.110/11400/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",Biz Music UZ
-http://57.128.196.110/11402/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",ZOR TV
-http://57.128.196.110/11403/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",My 5 HD
-http://57.128.196.110/11404/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",Ozbekiston
-http://57.128.196.110/11405/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",BOLAJON
-http://57.128.196.110/11409/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",Sevimli TV
-http://57.128.196.110/11410/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",NAVO
-http://57.128.196.110/11411/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",Namangan
-http://57.128.196.110/11412/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",KINOTEATR
-http://57.128.196.110/11414/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",Uzreport TV
-http://57.128.196.110/11415/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",Dunyo boylab
-http://57.128.196.110/11416/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",MilliyTV
-http://57.128.196.110/11417/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",NURAFSHON TV
-http://57.128.196.110/11418/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",Renessans TV
-http://57.128.196.110/11419/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",OZBEKISTON 24
-http://57.128.196.110/11800/index.m3u8?token=BF3A82BDF48F
-#EXTINF:-1 group-title="Узбекистан-2",LUX TV HD
-http://57.128.196.110/11803/index.m3u8?token=BF3A82BDF48F
+#EXTINF:-1 xui-id="584" tvg-id="" tvg-name="Cheksiz TV" tvg-logo="" group-title="Узбекистан",Cheksiz TV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-XZOCz29LfyxKvdojzbEgPo/m3u8
+#EXTINF:-1 xui-id="585" tvg-id="" tvg-name="Biz TV UZ" tvg-logo="" group-title="Узбекистан",Biz TV UZ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-ZJtozAVOy1gBKpSV7R0DRs/m3u8
+#EXTINF:-1 xui-id="586" tvg-id="" tvg-name="Biz Music UZ" tvg-logo="" group-title="Узбекистан",Biz Music UZ
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-QWu1qJmyABUNEH-qeyO2O0/m3u8
+#EXTINF:-1 xui-id="587" tvg-id="" tvg-name="ZOR TV" tvg-logo="" group-title="Узбекистан",ZOR TV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-eFsgd71HHDcXlJEpW6Ov9k/m3u8
+#EXTINF:-1 xui-id="588" tvg-id="" tvg-name="My 5 HD" tvg-logo="" group-title="Узбекистан",My 5 HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-erkTEdSLJPDeVYfvGU-dlA/m3u8
+#EXTINF:-1 xui-id="589" tvg-id="" tvg-name="Ozbekiston" tvg-logo="" group-title="Узбекистан",Ozbekiston
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Qk8MHXqLaSQHhJ24-RMSNQ/m3u8
+#EXTINF:-1 xui-id="590" tvg-id="" tvg-name="BOLAJON" tvg-logo="" group-title="Узбекистан",BOLAJON
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-T4GJGofuOjAkxPRPiA99HU/m3u8
+#EXTINF:-1 xui-id="591" tvg-id="" tvg-name="Sevimli TV" tvg-logo="" group-title="Узбекистан",Sevimli TV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RrHgkb_G83xSMY37-OGJTQ/m3u8
+#EXTINF:-1 xui-id="592" tvg-id="" tvg-name="NAVO" tvg-logo="" group-title="Узбекистан",NAVO
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-T9vEz1y2B7l5f0qCid8Vfk/m3u8
+#EXTINF:-1 xui-id="593" tvg-id="" tvg-name="Namangan" tvg-logo="" group-title="Узбекистан",Namangan
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-R5vMZ2TsCOtHUu8qn2bb7E/m3u8
+#EXTINF:-1 xui-id="594" tvg-id="" tvg-name="KINOTEATR" tvg-logo="" group-title="Узбекистан",KINOTEATR
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-akLGz4iRiIcZeKQA3b3ro8/m3u8
+#EXTINF:-1 xui-id="595" tvg-id="" tvg-name="Uzreport TV" tvg-logo="" group-title="Узбекистан",Uzreport TV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-Rj3e9YFNbaCVHpOIcFCtQ4/m3u8
+#EXTINF:-1 xui-id="596" tvg-id="" tvg-name="Dunyo boylab" tvg-logo="" group-title="Узбекистан",Dunyo boylab
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-crPoEtQtiIOFyFwH6Y0Pew/m3u8
+#EXTINF:-1 xui-id="597" tvg-id="" tvg-name="MilliyTV" tvg-logo="" group-title="Узбекистан",MilliyTV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-b7XKnvdlOqyx5ZDWqtyZDA/m3u8
+#EXTINF:-1 xui-id="598" tvg-id="" tvg-name="NURAFSHON TV" tvg-logo="" group-title="Узбекистан",NURAFSHON TV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-StGjbHM8Pi-izZmY4S4yKU/m3u8
+#EXTINF:-1 xui-id="599" tvg-id="" tvg-name="Renessans TV" tvg-logo="" group-title="Узбекистан",Renessans TV
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-RNkn6ohbL-c9QaxYVAbDDg/m3u8
+#EXTINF:-1 xui-id="600" tvg-id="" tvg-name="OZBEKISTON 24" tvg-logo="" group-title="Узбекистан",OZBEKISTON 24
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WGq3l9w-iFvz3Re_rot3C0/m3u8
+#EXTINF:-1 xui-id="601" tvg-id="" tvg-name="LUX TV HD" tvg-logo="" group-title="Узбекистан",LUX TV HD
+http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-VrtFO0SaM23CiFjPeG1WgI/m3u8
+
 #EXTINF:-1 group-title="Украина",Info: info
 https://m3u.usite.pro/1/demo.mp4
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00578.png?1712838085" group-title="Украина",Cinema Megahit HD
