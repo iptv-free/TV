@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="🏆 TOP-Kinolar",Info
 https://m3u.usite.pro/1/demo.mp4 
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-04/1775501405-1340717313-otvazhnaya-3.webp" group-title="🏆 TOP-Kinolar",Dovyurak 3 (2026)
+https://s1.kxcdn.ru/Dovyurak_3_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-04/1775293867-1473501520-mexicali.webp" group-title="🏆 TOP-Kinolar",Mexikali 2026
+https://s1.kxcdn.ru/Mexikali_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-04/1775066383-784745907-ostrye-kozyrki-bessmertnyy-chelovek.webp" group-title="🏆 TOP-Kinolar",Shelbilar Oilasi : O'lmas Odam 2026
+https://s1.kxcdn.ru/Shelbilar_Oilasi_Olmas_Odam_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-04/1775196840-1650451158-dzeta.webp" group-title="🏆 TOP-Kinolar",Agent Zeta 2026
 https://s1.kxcdn.ru/Zeta_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2025-05/1747470675_qutqaruv.jpg" group-title="🏆 TOP-Kinolar",Qutqaruv zarbasi 2024
@@ -110,6 +116,10 @@ https://zuno.surge.sh/demo/donat.mp4
 #EXTINF:-1 tvg-logo="" group-title="📁 Tarjima Kinolar",❤️ Телеграм
 https://zuno.surge.sh/demo/telegram.mp4
 #EXTINF:-1 tvg-logo="" group-title="📁 Tarjima Kinolar",
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-04/1775066383-784745907-ostrye-kozyrki-bessmertnyy-chelovek.webp" group-title="📁 Tarjima Kinolar",Shelbilar Oilasi : O'lmas Odam 2026
+https://s1.kxcdn.ru/Shelbilar_Oilasi_Olmas_Odam_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-04/1775293867-1473501520-mexicali.webp" group-title="📁 Tarjima Kinolar",Mexikali 2026
+https://s1.kxcdn.ru/Mexikali_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774640482_jekrana-2026-03-28-004344.jpg" group-title="📁 Tarjima Kinolar",Tavakkalchi 2026
 https://s1.kxcdn.ru/Tavakkalchi_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774275421_1146834-subedaar-2026-0-230-0-345-crop.jpg" group-title="📁 Tarjima Kinolar",Otangni Kechir 2026
@@ -956,6 +966,8 @@ https://s1.kxcdn.ru/Dilbandlarim_1984_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-02/1772218619-380006890-doroga.webp" group-title="📁 Turk Kinolari",Yo'l 1982
 https://s1.kxcdn.ru/Yo%27l_1982_HD_Daxshat.Net.mp4
 
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-04/1775501405-1340717313-otvazhnaya-3.webp" group-title="📁 Hind Kinolari",Dovyurak 3 (2026)
+https://s1.kxcdn.ru/Dovyurak_3_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774673258_jekrana-2026-03-28-094852.jpg" group-title="📁 Hind Kinolari",Karantindagi qiz 2026
 https://s1.kxcdn.ru/Lokdaun_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-03/1774774719_jekrana-2026-03-29-135940.jpg" group-title="📁 Hind Kinolari",Qahramon Qiz 2 (2026)
