@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz, http://178.63.47.178/epg.xml,http://epg.one/epg.xml.gz,http://uztv.su/uploads/channelsarch/channels.xml"
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Российские",Info
-http://204.168.188.162:80/play/Wdm8QBMGDX3Jvw8KU_N_-WZdkJpFbL_KVYgBPAm1_qg/m3u8
+https://m3u.usite.pro/1/demo.mp4
 #EXTINF:-1 group-title="Российские",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Российские",Россия 1
@@ -64,7 +64,7 @@ https://flussonic.mkpnet.ru/tv-2e0a7cc949958b60/video.m3u8
 #EXTINF:-1 group-title="Российские",Успех
 https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Фильмовые",Info
-http://zunotv.duckdns.org:80/play/Wdm8QBMGDX3Jvw8KU_N_-WZdkJpFbL_KVYgBPAm1_qg/m3u8
+https://m3u.usite.pro/1/demo.mp4
 #EXTINF:-1 group-title="Фильмовые",Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia 2
@@ -100,7 +100,7 @@ https://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
 #EXTINF:-1 group-title="Фильмовые",No Name
 http://185.57.68.33:8091/255/index.m3u8
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Спортивные",Info
-http://zunotv.duckdns.org:80/play/Wdm8QBMGDX3Jvw8KU_N_-WZdkJpFbL_KVYgBPAm1_qg/m3u8
+https://m3u.usite.pro/1/demo.mp4
 #EXTINF:-1 group-title="Спортивные",Extreme Sports
 https://flussonic.mkpnet.ru/tv-1a9441fd32d63873/video.m3u8
 #EXTINF:-1 group-title="Спортивные",КХЛ
