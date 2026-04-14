@@ -1035,6 +1035,82 @@ https://flussonic.mkpnet.ru/tv-695a246cce5fb820/video.m3u8
 https://flussonic.mkpnet.ru/tv-a651b413f5cb4c44/video.m3u8
 #EXTINF:-1 group-title="Познавательный",Мужской
 https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
+
+
+#EXTINF:-1 group-title="Познавательный",365 дней
+https://100.free-iptvchannel.workers.dev/365_dnej_tv/index.m3u8
+#EXTINF:-1 group-title="Познавательный",#КтоКуда
+https://100.free-iptvchannel.workers.dev/kto_kuda/index.m3u8
+#EXTINF:-1 tvg-id="animal-planet-eu" catchup="flussonic" tvg-name="Animal Planet HD" catchup-days="1" group-title="Познавательный",Animal Planet HD
+https://100.free-iptvchannel.workers.dev/animal_planet_hd/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",Big Planet HD
+https://100.free-iptvchannel.workers.dev/big_planet_hd/index.m3u8
+#EXTINF:-1 tvg-id="curiosity-stream" group-title="Познавательный",Curiosity Stream HD
+https://100.free-iptvchannel.workers.dev/curiosity_stream_hd/index.m3u8
+#EXTINF:-1 tvg-id="discovery-channel" catchup="flussonic" tvg-name="Discovery Channel HD" catchup-days="1" group-title="Познавательный",Discovery Channel HD
+https://100.free-iptvchannel.workers.dev/discovery_channel_hd/index.m3u8
+#EXTINF:-1 tvg-id="eda" group-title="Познавательный",Еда
+https://100.free-iptvchannel.workers.dev/eda/index.m3u8
+#EXTINF:-1 tvg-id="history" tvg-name="History HD" group-title="Познавательный",History HD
+https://100.free-iptvchannel.workers.dev/history_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",National Geographic
+https://100.free-iptvchannel.workers.dev/national_geographic/index.m3u8
+#EXTINF:-1 tvg-id="ocean-tv" group-title="Познавательный",Океан TV HD
+https://100.free-iptvchannel.workers.dev/ocean_hd/index.m3u8
+#EXTINF:-1 tvg-id="rtg-hd" group-title="Познавательный",RTG HD
+https://100.free-iptvchannel.workers.dev/RTG_HD/index.m3u8
+#EXTINF:-1 tvg-id="terra-ru" group-title="Познавательный",Terra HD
+https://100.free-iptvchannel.workers.dev/terra_hd/index.m3u8
+#EXTINF:-1 tvg-id="the-explorers" tvg-name="The Explorers HD" group-title="Познавательный",The Explorers HD
+https://100.free-iptvchannel.workers.dev/the_explorers_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",viju+ Planet HD
+https://100.free-iptvchannel.workers.dev/viju_plus_planet_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",viju Nature HD
+https://100.free-iptvchannel.workers.dev/viju_plus_nature_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",viju Explore HD
+https://100.free-iptvchannel.workers.dev/viju_explore_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",viju History HD
+https://100.free-iptvchannel.workers.dev/viju_history_hd/index.m3u8
+#EXTINF:-1 tvg-id="appetitny" group-title="Познавательный",Аппетитный HD
+https://100.free-iptvchannel.workers.dev/appetitniy_hd/index.m3u8
+#EXTINF:-1 tvg-id="akwatv" group-title="Познавательный",Аква ТВ
+https://100.free-iptvchannel.workers.dev/akva_tv/index.m3u8
+#EXTINF:-1 tvg-id="moto-drive" group-title="Познавательный",Мото Драйв ТВ HD
+https://100.free-iptvchannel.workers.dev/moto_drajv/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Глазами Туриста HD
+https://100.free-iptvchannel.workers.dev/glazami_turista_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Домашние животные
+https://100.free-iptvchannel.workers.dev/domashnie_zhivotnye/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Живая планета
+https://100.free-iptvchannel.workers.dev/zhivaja_planeta/index.m3u8
+#EXTINF:-1 tvg-id="zagorodny" group-title="Познавательный",Загородный
+https://100.free-iptvchannel.workers.dev/zagorodniy/index.m3u8
+#EXTINF:-1 tvg-id="doktor" group-title="Познавательный",Доктор HD
+https://100.free-iptvchannel.workers.dev/doktor_hd/index.m3u8
+#EXTINF:-1 tvg-id="kuxnia-tv" group-title="Познавательный",Кухня ТВ
+https://100.free-iptvchannel.workers.dev/kuhnja_tv/index.m3u8
+#EXTINF:-1 tvg-id="kuxnia-tv" group-title="Познавательный",Кухня ТВ HD
+https://100.free-iptvchannel.workers.dev/kuhnya_hd/index.m3u8
+#EXTINF:-1 tvg-id="epic" group-title="Познавательный",Epic HD
+https://100.free-iptvchannel.workers.dev/epic_hd/index.m3u8
+#EXTINF:-1 tvg-id="ntv-style" group-title="Познавательный",НТВ Стиль HD
+https://100.free-iptvchannel.workers.dev/ntv_stil_hd/index.m3u8
+#EXTINF:-1 tvg-id="nauchpop" group-title="Познавательный",Научпоп HD
+https://100.free-iptvchannel.workers.dev/nauchpop_hd/index.m3u8
+#EXTINF:-1 tvg-id="eureka-hd" group-title="Познавательный",Первый Космический HD
+https://100.free-iptvchannel.workers.dev/pervyy_kosmicheskiy_hd/index.m3u8
+#EXTINF:-1 tvg-id="poliottv" group-title="Познавательный",Полёт ТВ HD
+https://100.free-iptvchannel.workers.dev/polet_tv/index.m3u8
+#EXTINF:-1 tvg-id="rus-istoria" group-title="Познавательный",Русская история HD
+https://100.free-iptvchannel.workers.dev/russkaja_istorija_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Усадьба HD
+https://100.free-iptvchannel.workers.dev/usadba_hd/index.m3u8
+#EXTINF:-1 tvg-id="tlc" catchup="flussonic" tvg-name="TLC Россия HD" catchup-days="1" group-title="Познавательный",TLC HD
+https://100.free-iptvchannel.workers.dev/tlc_hd/index.m3u8
+
+
+
+
 #EXTINF:-1 group-title="Детский",CTC kids
 https://flussonic.mkpnet.ru/tv-4af112c31b77e2a8/video.m3u8
 #EXTINF:-1 group-title="Детский",DuckTV
