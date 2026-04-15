@@ -3,6 +3,8 @@
 https://m3u.usite.pro/1/demo.mp4
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Российские",test
 https://live.mediabaytv.workers.dev/?ID=395
+#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="https://boevikx1.kinobolt.net/uploads/posts/2026-03/thumbs/tamerlan-2026.webp" group-title="Премьера",Taмepлaн 2026 🔥
+https://github.com/iptv-free/TV/releases/download/kino2026/output.mp4
 #EXTINF:-1 group-title="Российские",Первый канал
 https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 group-title="Российские",Россия 1
