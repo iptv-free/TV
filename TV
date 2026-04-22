@@ -70,140 +70,139 @@ https://flussonic.mkpnet.ru/tv-324fe9acc597fbc1/video.m3u8
 
 
 #EXTINF:-1 tvg-id="pervy-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Первый канал (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9091/769dda33/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9091/769dda33/index.m3u8
 #EXTINF:-1 tvg-id="pervy-pl4" catchup="append" tvg-name="Первый канал (+4)" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Первый канал (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9091/n57169a4c/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9091/n57169a4c/index.m3u8
 #EXTINF:-1 tvg-id="pervy-pl6" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Первый канал (+6)
-https://plus.free-iptvchannel.workers.dev/channel/9091/n57169a0e/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9091/n57169a0e/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl1" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+1)
-https://plus.free-iptvchannel.workers.dev/channel/9091/n5d4bb32d/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9091/n5d4bb32d/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/1edf0438/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/1edf0438/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl3" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+3)
-https://plus.free-iptvchannel.workers.dev/channel/9090/6226106/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/6226106/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/1edf0476/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/1edf0476/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl5" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+5)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n352eff50/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n352eff50/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl6" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+6)
-https://plus.free-iptvchannel.workers.dev/channel/9090/1edf04b4/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/1edf04b4/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl8" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+8)
-https://plus.free-iptvchannel.workers.dev/channel/9090/4c6e7a31/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/4c6e7a31/index.m3u8
 #EXTINF:-1 tvg-id="rossia1-pl9" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия 1 (+9)
-https://plus.free-iptvchannel.workers.dev/channel/9090/4c6e7a50/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/4c6e7a50/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",НТВ (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9091/34151a29/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9091/34151a29/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",НТВ (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9091/34151a67/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9091/34151a67/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",НТВ (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9091/34151ac4/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9091/34151ac4/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Пятый канал (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n57169a4c/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n57169a4c/index.m3u8
 #EXTINF:-1 tvg-id="5kanal-ru-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Пятый канал (+6)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n57169a0e/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n57169a0e/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия К (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n34fdf611/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n34fdf611/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия К (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n34fdf5d3/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n34fdf5d3/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Россия К (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n34fdf576/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n34fdf576/index.m3u8
 #EXTINF:-1 tvg-id="karusel-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Карусель (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/47f7f280/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/47f7f280/index.m3u8
 #EXTINF:-1 tvg-id="karusel-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Карусель (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/47f7f2be/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/47f7f2be/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Карусель (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/47f7f31b/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/47f7f31b/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТВЦ (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/797d434f/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/797d434f/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr-pl7" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТВЦ (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/797d4352/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/797d4352/index.m3u8
 #EXTINF:-1 tvg-id="rentv-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Рен ТВ (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n632916ea/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n632916ea/index.m3u8
 #EXTINF:-1 tvg-id="rentv-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Рен ТВ (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n2272ecfb/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n2272ecfb/index.m3u8
 #EXTINF:-1 tvg-id="rentv-pl7" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Рен ТВ (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n2272ecf8/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n2272ecf8/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",СТС (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n12cd810a/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n12cd810a/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",СТС (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n12cd80cc/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n12cd80cc/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",СТС (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n12cd806f/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n12cd806f/index.m3u8
 #EXTINF:-1 tvg-id="domashny-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Домашний (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/1807d3b7/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/1807d3b7/index.m3u8
 #EXTINF:-1 tvg-id="domashny-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Домашний (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/1807d3b9/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/1807d3b9/index.m3u8
 #EXTINF:-1 tvg-id="domashny-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Домашний (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/1807d3bc/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/1807d3bc/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТВ3 (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/5204b6f3/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/5204b6f3/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТВ3 (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/5204b731/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/5204b731/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТВ3 (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/5204b78e/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/5204b78e/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Пятница (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n64007e6c/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n64007e6c/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Пятница (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n64007e2e/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n64007e2e/index.m3u8
 #EXTINF:-1 tvg-id="piatnica-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Пятница (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n2bb57401/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n2bb57401/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Звезда (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n472715db/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n472715db/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Звезда (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n4727159d/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n4727159d/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Звезда (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n47271540/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n47271540/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Мир (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n2ce68a8e/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n2ce68a8e/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Мир (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n2ce68a50/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n2ce68a50/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Мир (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n2ce689f3/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n2ce689f3/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТНТ (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/4e495c2f/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/4e495c2f/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТНТ (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/4e495c6d/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/4e495c6d/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТНТ (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/4e495cca/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/4e495cca/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Муз ТВ (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/2badb3be/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/2badb3be/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Муз ТВ (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/2badb3fc/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/2badb3fc/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Муз ТВ (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/2badb459/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/2badb459/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Ю (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/548e46a8/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/548e46a8/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Ю (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/548e46e6/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/548e46e6/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Ю (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/548e4743/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/548e4743/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",ТНТ4 (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/4e495c6d/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/4e495c6d/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",2x2 (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n3b8237d6/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n3b8237d6/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",2x2 (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n3b823798/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n3b823798/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",2x2 (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n3b82373b/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n3b82373b/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Суббота (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4aa92/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n60b4aa92/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Суббота (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4aa54/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n60b4aa54/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Суббота (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n60b4a9f7/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n60b4a9f7/index.m3u8
 #EXTINF:-1 tvg-id="che-pl2" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Че! (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/1769f2d8/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/1769f2d8/index.m3u8
 #EXTINF:-1 tvg-id="che-pl4" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Че (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/762d7641/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/762d7641/index.m3u8
 #EXTINF:-1 tvg-id="che-pl7" catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Че! (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/762d769e/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/762d769e/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Солнце (+2)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n3a70dbd0/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n3a70dbd0/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Солнце (+4)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n3a70db92/index.m3u8
+https://stream.zuno-tv.workers.dev/channel/9090/n3a70db92/index.m3u8
 #EXTINF:-1 catchup="append" timeshift="3" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Плюсовые",Солнце (+7)
-https://plus.free-iptvchannel.workers.dev/channel/9090/n3a70db35/index.m3u8
-
+https://stream.zuno-tv.workers.dev/channel/9090/n3a70db35/index.m3u8
 
 
 
@@ -632,6 +631,263 @@ https://kino.zunotv.workers.dev/SKY_HIGH_HORROR_4K_HDR/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Фильмовые",SKY HIGH LOFI HD
 https://kino.zunotv.workers.dev/SKY_HIGH_LO_FIHD/index.m3u8
 
+
+#EXTINF:-1 group-title="Фильмовые",VF Сериалы Турции
+https://stream.zuno-tv.workers.dev/channel/9090/1a838d17/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Вестерн
+https://stream.zuno-tv.workers.dev/channel/9090/n528273d6/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Счастливы Вместе
+https://stream.zuno-tv.workers.dev/channel/9090/n7accaef4/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Бесстыжие
+https://stream.zuno-tv.workers.dev/channel/9090/n50f17f9e/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Владимир Высоцкий
+https://stream.zuno-tv.workers.dev/channel/9090/1c358a0e/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Два с половиной человека
+https://stream.zuno-tv.workers.dev/channel/9090/n61eb0115/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Новогодний
+https://stream.zuno-tv.workers.dev/channel/9090/d65b946/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Ёлки
+https://stream.zuno-tv.workers.dev/channel/9090/19a06d1c/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF New Year
+https://stream.zuno-tv.workers.dev/channel/9090/753b1d01/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF С новым годом!
+https://stream.zuno-tv.workers.dev/channel/9090/174fc91b/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Гарри Поттер
+https://stream.zuno-tv.workers.dev/channel/9091/75b2c293/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Секс в большом городе
+https://stream.zuno-tv.workers.dev/channel/9090/3981b951/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Карточный домик
+https://stream.zuno-tv.workers.dev/channel/9090/n36d4b5a6/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Disney Movie
+https://stream.zuno-tv.workers.dev/channel/9090/n156c5598/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Теория большого взрыва
+https://stream.zuno-tv.workers.dev/channel/9090/63fad5f/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Adventure
+https://stream.zuno-tv.workers.dev/channel/9090/n7b2b1a94/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Anime
+https://stream.zuno-tv.workers.dev/channel/9090/n1c340330/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Cartoon
+https://stream.zuno-tv.workers.dev/channel/9090/74dfb4ca/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Comedy
+https://stream.zuno-tv.workers.dev/channel/9090/n66d2e643/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Family
+https://stream.zuno-tv.workers.dev/channel/9090/n62799578/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Fantasy
+https://stream.zuno-tv.workers.dev/channel/9090/1359d482/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Melodrama
+https://stream.zuno-tv.workers.dev/channel/9090/n2090b378/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Mystic
+https://stream.zuno-tv.workers.dev/channel/9090/n553291f5/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Ужасы
+https://stream.zuno-tv.workers.dev/channel/9090/1c49ef83/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF VHS MIX
+https://stream.zuno-tv.workers.dev/channel/9090/357166f9/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Ужасы VHS
+https://stream.zuno-tv.workers.dev/channel/9090/nffb23c/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Премьера
+https://stream.zuno-tv.workers.dev/channel/9090/79c36785/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Premiere
+https://stream.zuno-tv.workers.dev/channel/9090/n25c46863/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Классика
+https://stream.zuno-tv.workers.dev/channel/9090/6197a3c3/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Classic
+https://stream.zuno-tv.workers.dev/channel/9090/n794af212/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Комедия
+https://stream.zuno-tv.workers.dev/channel/9090/63bea0ca/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Катастрофы
+https://stream.zuno-tv.workers.dev/channel/9090/n39976b52/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Marvel
+https://stream.zuno-tv.workers.dev/channel/9090/n5685335d/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Военные
+https://stream.zuno-tv.workers.dev/channel/9090/n43d216d1/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Наша победа
+https://stream.zuno-tv.workers.dev/channel/9090/n30e8cca0/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Мосфильм
+https://stream.zuno-tv.workers.dev/channel/9090/n12cab184/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Фильмы СССР
+https://stream.zuno-tv.workers.dev/channel/9090/n6aabccf9/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Мультфильмы СССР
+https://stream.zuno-tv.workers.dev/channel/9090/dd63185/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Боевик
+https://stream.zuno-tv.workers.dev/channel/9090/4eaf9130/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Кино 4K
+https://stream.zuno-tv.workers.dev/channel/9090/5983ec54/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Сериал 4K
+https://stream.zuno-tv.workers.dev/channel/9090/n52012c64/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF TOP Series
+https://stream.zuno-tv.workers.dev/channel/9090/313bb8e6/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Art house
+https://stream.zuno-tv.workers.dev/channel/9090/5343ad7f/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Detective
+http://tv.woobl.ru:9090/channel/3f1bb9b1/index.m3u
+#EXTINF:-1 group-title="Фильмовые",VF Fantastic
+https://stream.zuno-tv.workers.dev/channel/9090/n5bc949a9/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Оскар
+https://stream.zuno-tv.workers.dev/channel/9090/1c089d83/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Сваты
+https://stream.zuno-tv.workers.dev/channel/9090/1c2bef24/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Солдаты
+https://stream.zuno-tv.workers.dev/channel/9090/n2a045a21/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Тайны следствия
+https://stream.zuno-tv.workers.dev/channel/9090/1443d724/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Воронины
+https://stream.zuno-tv.workers.dev/channel/9090/n239d9f09/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Универ
+https://stream.zuno-tv.workers.dev/channel/9090/6d5a11a3/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Series
+https://stream.zuno-tv.workers.dev/channel/9090/n4c0ff265/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF След
+https://stream.zuno-tv.workers.dev/channel/9090/19aef85d/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Сериал
+https://stream.zuno-tv.workers.dev/channel/9090/69835d3b/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Мыльные оперы
+https://stream.zuno-tv.workers.dev/channel/9090/5fcebda2/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Thriller
+https://stream.zuno-tv.workers.dev/channel/9090/7eba127c/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Индия
+https://stream.zuno-tv.workers.dev/channel/9090/1bb22982/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF История
+https://stream.zuno-tv.workers.dev/channel/9090/n967a72/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Comics
+https://stream.zuno-tv.workers.dev/channel/9090/n66d2d764/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Криминал
+https://stream.zuno-tv.workers.dev/channel/9090/777315be/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Клиника
+https://stream.zuno-tv.workers.dev/channel/9090/5e6b6b04/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Луи де Фюнес
+https://stream.zuno-tv.workers.dev/channel/9090/d84cd4/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Чернобыль
+https://stream.zuno-tv.workers.dev/channel/9090/30f28c5a/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF The X-Files
+https://stream.zuno-tv.workers.dev/channel/9090/n5e77a0b1/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Сверхъестественное
+https://stream.zuno-tv.workers.dev/channel/9090/n59fe43e1/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Леонид Гайдай
+https://stream.zuno-tv.workers.dev/channel/9090/n378da818/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Американская история ужасов
+https://stream.zuno-tv.workers.dev/channel/9090/n1b025ffc/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Друзья
+https://stream.zuno-tv.workers.dev/channel/9090/53f0bc87/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF СашаТаня
+https://stream.zuno-tv.workers.dev/channel/9090/1ad1dc5b/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Джеки Чан
+https://stream.zuno-tv.workers.dev/channel/9090/4a8e1aa1/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Наша Раша
+https://stream.zuno-tv.workers.dev/channel/9090/n4a29b367/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Привет из 90х
+https://stream.zuno-tv.workers.dev/channel/9090/9b95461/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Эльдар Рязанов
+https://stream.zuno-tv.workers.dev/channel/9090/2392d973/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Универ новая общага
+https://stream.zuno-tv.workers.dev/channel/9090/n6d1e893c/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Ходячие мертвецы
+https://stream.zuno-tv.workers.dev/channel/9090/n55c845c9/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Реальные пацаны
+https://stream.zuno-tv.workers.dev/channel/9090/3c4b5f0a/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Доктор Хаус
+https://stream.zuno-tv.workers.dev/channel/9090/n4b454c4f/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Без цензуры
+https://stream.zuno-tv.workers.dev/channel/9090/207a9134/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Городок
+https://stream.zuno-tv.workers.dev/channel/9090/ne5087fd/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Comedy Woman
+https://stream.zuno-tv.workers.dev/channel/9090/8c9433f/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Игра престолов
+https://stream.zuno-tv.workers.dev/channel/9090/3a3c06b5/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Одесская киностудия
+https://stream.zuno-tv.workers.dev/channel/9090/17ce964a/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Ленфильм
+https://stream.zuno-tv.workers.dev/channel/9090/n5d975628/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Киностудия им. Горького
+https://stream.zuno-tv.workers.dev/channel/9090/19d8650/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Рижская киностудия
+https://stream.zuno-tv.workers.dev/channel/9090/n2782a1ca/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Свердловская киностудия
+https://stream.zuno-tv.workers.dev/channel/9090/2ca97b95/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Беларусьфильм
+https://stream.zuno-tv.workers.dev/channel/9090/n29c744b4/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF HBO
+https://stream.zuno-tv.workers.dev/channel/9090/n5a118def/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Michael Jackson
+https://stream.zuno-tv.workers.dev/channel/9090/n68a02a6a/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Король и Шут
+https://stream.zuno-tv.workers.dev/channel/9090/n4439966a/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Легенды Ретро ФМ
+https://stream.zuno-tv.workers.dev/channel/9090/n64eef067/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Музыкальный Новый год!
+https://stream.zuno-tv.workers.dev/channel/9090/4f5a2cf4/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Modern Talking
+https://stream.zuno-tv.workers.dev/channel/9090/n309c3147/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Britney Spears
+https://stream.zuno-tv.workers.dev/channel/9090/58c7ef7/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Музыка
+https://stream.zuno-tv.workers.dev/channel/9090/61bc9c55/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Music
+https://stream.zuno-tv.workers.dev/channel/9090/n1b87957f/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Rock
+https://stream.zuno-tv.workers.dev/channel/9090/17e50789/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Караоке
+https://stream.zuno-tv.workers.dev/channel/9090/4c1105ef/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Шансон
+https://stream.zuno-tv.workers.dev/channel/9090/752d9a6f/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Музсоюз
+https://stream.zuno-tv.workers.dev/channel/9090/n2a2d868e/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Metal
+https://stream.zuno-tv.workers.dev/channel/9090/n1b8ed89d/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Rap
+https://stream.zuno-tv.workers.dev/channel/9090/n5a116483/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Хит-парад
+https://stream.zuno-tv.workers.dev/channel/9090/n44c8e20f/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Русский рок
+https://stream.zuno-tv.workers.dev/channel/9090/718b3db0/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Disney Cartoon
+https://stream.zuno-tv.workers.dev/channel/9090/6b3d5ca6/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Союзмультфильм
+https://stream.zuno-tv.workers.dev/channel/9090/n2d6853a9/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Ералаш
+https://stream.zuno-tv.workers.dev/channel/9090/559cfdb2/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF VHS Cartoon
+https://stream.zuno-tv.workers.dev/channel/9090/n2661f275/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Малыш
+https://stream.zuno-tv.workers.dev/channel/9090/1be4bb40/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Мультуб
+https://stream.zuno-tv.workers.dev/channel/9090/n29f01acc/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Новогодние мультфильмы
+https://stream.zuno-tv.workers.dev/channel/9090/292969e0/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Скуби-Ду
+https://stream.zuno-tv.workers.dev/channel/9090/2350f52f/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Авто
+https://stream.zuno-tv.workers.dev/channel/9090/19a71de2/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Охота
+https://stream.zuno-tv.workers.dev/channel/9090/1c0a8021/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Домашний повар
+https://stream.zuno-tv.workers.dev/channel/9090/n7af86f45/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Путешествия
+https://stream.zuno-tv.workers.dev/channel/9090/74270aa0/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Рыбалка
+https://stream.zuno-tv.workers.dev/channel/9090/n494a299d/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Стройка
+https://stream.zuno-tv.workers.dev/channel/9090/n22e5d5b4/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Маски Шоу
+https://stream.zuno-tv.workers.dev/channel/9090/n7caae0c/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Каламбур
+https://stream.zuno-tv.workers.dev/channel/9090/2d867841/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Орел и решка
+https://stream.zuno-tv.workers.dev/channel/9090/2f3d9d6d/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Концерты
+https://stream.zuno-tv.workers.dev/channel/9090/16ba75c5/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF КВН
+https://stream.zuno-tv.workers.dev/channel/9090/n5a02bc9f/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Юмор 18+
+https://stream.zuno-tv.workers.dev/channel/9090/n3604f928/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Уральские пельмени
+https://stream.zuno-tv.workers.dev/channel/9090/124864a5/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Кухня
+https://stream.zuno-tv.workers.dev/channel/9090/1bd1532a/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Баня
+https://stream.zuno-tv.workers.dev/channel/9090/19a78a35/index.m3u8
+#EXTINF:-1 group-title="Фильмовые",VF Однажды в России
+https://stream.zuno-tv.workers.dev/channel/9090/n1e05434/index.m3u8
 
 
 
