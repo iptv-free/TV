@@ -2896,601 +2896,601 @@ https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Украина",Info: info
 https://m3u.usite.pro/1/demo.mp4
-#EXTM3U
+
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00578.png?1712838085" group-title="Украина",Cinema Megahit HD
-https://prosto.free-iptvchannel.workers.dev/stream/id578/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id578/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00579.png?1712837780" group-title="Украина",Cinema Comedy HD
-https://prosto.free-iptvchannel.workers.dev/stream/id579/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id579/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00589.png?1712837819" group-title="Украина",Cinema Family HD
-https://prosto.free-iptvchannel.workers.dev/stream/id589/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id589/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00726.png?1712838166" group-title="Украина",Cinema Prime
-https://prosto.free-iptvchannel.workers.dev/stream/id726/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id726/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00727.png?1712838027" group-title="Украина",Cinema Legend HD
-https://prosto.free-iptvchannel.workers.dev/stream/id727/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id727/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00728.png?1712837987" group-title="Украина",Сinema kinohit HD
-https://prosto.free-iptvchannel.workers.dev/stream/id728/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id728/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00865.png?1716881658" group-title="Украина",ICTV серіали HD
-https://prosto.free-iptvchannel.workers.dev/stream/id865/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id865/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00567.png" group-title="Украина",Cine+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id567/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id567/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00568.png" group-title="Украина",Cine+ Legend
-https://prosto.free-iptvchannel.workers.dev/stream/id568/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id568/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00560.png" group-title="Украина",Kinoliving HD
-https://prosto.free-iptvchannel.workers.dev/stream/id560/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id560/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00558.png" group-title="Украина",4ever Theater HD
-https://prosto.free-iptvchannel.workers.dev/stream/id558/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id558/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00566.png" group-title="Украина",NOW series HD
-https://prosto.free-iptvchannel.workers.dev/stream/id566/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id566/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00539.png?1767979984" group-title="Украина",демо | Cine+ Hit HD
-https://prosto.free-iptvchannel.workers.dev/stream/id539/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id539/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00521.png" group-title="Украина",4ever Cinema HD
-https://prosto.free-iptvchannel.workers.dev/stream/id521/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id521/video.m3u8
 #EXTINF:-1 tvg-id="249" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00249.png" tvg-name="VIP Comedy HD" group-title="Украина",Viasat Kino Comedy
-https://prosto.free-iptvchannel.workers.dev/stream/id249/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id249/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00599.png?1700729510" group-title="Украина",Viasat Serial HD
-https://prosto.free-iptvchannel.workers.dev/stream/id599/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id599/video.m3u8
 #EXTINF:-1 tvg-id="104" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00104.png" tvg-name="TV 1000" group-title="Украина",Viasat Kino
-https://prosto.free-iptvchannel.workers.dev/stream/id104/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id104/video.m3u8
 #EXTINF:-1 tvg-id="105" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00105.png" tvg-name="TV 1000 Action" group-title="Украина",Viasat Kino Action
-https://prosto.free-iptvchannel.workers.dev/stream/id105/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id105/video.m3u8
 #EXTINF:-1 tvg-id="103" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00103.png" tvg-name="TV 1000 World Kino" group-title="Украина",Viasat Kino World
-https://prosto.free-iptvchannel.workers.dev/stream/id103/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id103/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00557.png" group-title="Украина",4ever Drama HD
-https://prosto.free-iptvchannel.workers.dev/stream/id557/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id557/video.m3u8
 #EXTINF:-1 tvg-id="182" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00182.png" tvg-name="Hollywood HD" group-title="Украина",Hollywood HD
-https://prosto.free-iptvchannel.workers.dev/stream/id182/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id182/video.m3u8
 #EXTINF:-1 tvg-id="179" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00179.png" tvg-name="Fox" group-title="Украина",Fox HD
-https://prosto.free-iptvchannel.workers.dev/stream/id179/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id179/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00370.png" group-title="Украина",Epic Drama HD
-https://prosto.free-iptvchannel.workers.dev/stream/id370/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id370/video.m3u8
 #EXTINF:-1 tvg-id="98" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00098.png" tvg-name="Bolt" group-title="Украина",Bolt HD
-https://prosto.free-iptvchannel.workers.dev/stream/id98/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id98/video.m3u8
 #EXTINF:-1 tvg-id="57" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00057.png" tvg-name="Enter-фильм" group-title="Украина",Enter-фильм HD
-https://prosto.free-iptvchannel.workers.dev/stream/id57/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id57/video.m3u8
 #EXTINF:-1 tvg-id="160" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00160.png" tvg-name="Star Cinema" group-title="Украина",Star Cinema HD
-https://prosto.free-iptvchannel.workers.dev/stream/id160/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id160/video.m3u8
 #EXTINF:-1 tvg-id="97" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00097.png" tvg-name="Film Ua Drama" group-title="Украина",FILMUA Drama HD
-https://prosto.free-iptvchannel.workers.dev/stream/id97/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id97/video.m3u8
 #EXTINF:-1 tvg-id="183" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00183.png" tvg-name="Bollywood HD" group-title="Украина",Bollywood HD
-https://prosto.free-iptvchannel.workers.dev/stream/id183/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id183/video.m3u8
 #EXTINF:-1 tvg-id="111" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00111.png" tvg-name="FilmBox Arthouse" group-title="Украина",FilmBox Arthouse
-https://prosto.free-iptvchannel.workers.dev/stream/id111/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id111/video.m3u8
 #EXTINF:-1 tvg-id="109" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00109.png" tvg-name="FilmBox" group-title="Украина",FilmBox
-https://prosto.free-iptvchannel.workers.dev/stream/id109/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id109/video.m3u8
 #EXTINF:-1 tvg-id="180" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00180.png" tvg-name="Квартал ТВ" group-title="Украина",Квартал ТВ
-https://prosto.free-iptvchannel.workers.dev/stream/id180/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id180/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00718.png?1700828364" group-title="Украина",Твій серіал HD
-https://prosto.free-iptvchannel.workers.dev/stream/id718/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id718/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00587.png?1693500292" group-title="Украина",ProKino HD
-https://prosto.free-iptvchannel.workers.dev/stream/id587/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id587/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00581.png?1693500241" group-title="Украина",Kinosweet HD
-https://prosto.free-iptvchannel.workers.dev/stream/id581/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id581/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00374.png" group-title="Украина",Дорама HD
-https://prosto.free-iptvchannel.workers.dev/stream/id374/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id374/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00402.png" group-title="Украина",TLC
-https://prosto.free-iptvchannel.workers.dev/stream/id402/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id402/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00423.png" group-title="Украина",Viasat Kino SD
-https://prosto.free-iptvchannel.workers.dev/stream/id423/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id423/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00424.png" group-title="Украина",Viasat Kino Action SD
-https://prosto.free-iptvchannel.workers.dev/stream/id424/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id424/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00323.png" group-title="Украина",ТрейлерON
-https://prosto.free-iptvchannel.workers.dev/stream/id323/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id323/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00596.png?1736850981" group-title="Украина",Dorama Hit HD
-https://prosto.free-iptvchannel.workers.dev/stream/id596/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id596/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00855.png?1715757639" group-title="Украина",Опер за викликом+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id855/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id855/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00930.png?1754394448" group-title="Украина",Твоє кіно Relax
-https://prosto.free-iptvchannel.workers.dev/stream/id930/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id930/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00931.png?1754394472" group-title="Украина",Твоє кіно Хіт HD
-https://prosto.free-iptvchannel.workers.dev/stream/id931/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id931/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00932.png?1754394495" group-title="Украина",Твоє кіно Action HD
-https://prosto.free-iptvchannel.workers.dev/stream/id932/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id932/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch01080.png?1755002673" group-title="Украина",Розпакуй ТБ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id1080/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id1080/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch01079.png?1755004998" group-title="Украина",Твоя Пара
-https://prosto.free-iptvchannel.workers.dev/stream/id1079/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id1079/video.m3u8
 #EXTINF:-1 tvg-id="63" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00063.png" tvg-name="ПлюсПлюс" group-title="Украина",ПлюсПлюс HD
-https://prosto.free-iptvchannel.workers.dev/stream/id63/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id63/video.m3u8
 #EXTINF:-1 tvg-id="64" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00064.png" tvg-name="Пиксель" group-title="Украина",Пиксель HD
-https://prosto.free-iptvchannel.workers.dev/stream/id64/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id64/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00274.png" group-title="Украина",NIKI Kids HD
-https://prosto.free-iptvchannel.workers.dev/stream/id274/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id274/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00273.png" group-title="Украина",NIKI Junior HD
-https://prosto.free-iptvchannel.workers.dev/stream/id273/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id273/video.m3u8
 #EXTINF:-1 tvg-id="181" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00181.png" tvg-name="Tiji" group-title="Украина",Tiji
-https://prosto.free-iptvchannel.workers.dev/stream/id181/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id181/video.m3u8
 #EXTINF:-1 tvg-id="198" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00198.png" tvg-name="Gulli Girl" group-title="Украина",Gulli Girl
-https://prosto.free-iptvchannel.workers.dev/stream/id198/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id198/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00540.png" group-title="Украина",Cine+ Kids HD
-https://prosto.free-iptvchannel.workers.dev/stream/id540/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id540/video.m3u8
 #EXTINF:-1 tvg-id="62" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00062.png" tvg-name="LaLe" group-title="Украина",LaLe
-https://prosto.free-iptvchannel.workers.dev/stream/id62/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id62/video.m3u8
 #EXTINF:-1 tvg-id="69" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00069.png" tvg-name="Da Vinci" group-title="Украина",Da Vinci HD
-https://prosto.free-iptvchannel.workers.dev/stream/id69/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id69/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00439.png" group-title="Украина",KinoKazka HD
-https://prosto.free-iptvchannel.workers.dev/stream/id439/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id439/video.m3u8
 #EXTINF:-1 tvg-id="324" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00324.png" tvg-name="Cartoon Network" group-title="Украина",Cartoon Network
-https://prosto.free-iptvchannel.workers.dev/stream/id324/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id324/video.m3u8
 #EXTINF:-1 tvg-id="325" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00325.png?1681306234" tvg-name="Boomerang" group-title="Украина",Cartoonito HD
-https://prosto.free-iptvchannel.workers.dev/stream/id325/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id325/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00388.png" group-title="Украина",Duck TV HD
-https://prosto.free-iptvchannel.workers.dev/stream/id388/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id388/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00317.png" group-title="Украина",МультStream
-https://prosto.free-iptvchannel.workers.dev/stream/id317/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id317/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00517.jpg" group-title="Украина",Повний Мульт
-https://prosto.free-iptvchannel.workers.dev/stream/id517/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id517/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00552.png" group-title="Украина",ICTV 2 HD
-https://prosto.free-iptvchannel.workers.dev/stream/id552/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id552/video.m3u8
 #EXTINF:-1 tvg-id="5" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00005.png" tvg-name="СТБ" group-title="Украина",СТБ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id5/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id5/video.m3u8
 #EXTINF:-1 tvg-id="2" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00002.png" tvg-name="Интер" group-title="Украина",Интер
-https://prosto.free-iptvchannel.workers.dev/stream/id2/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id2/video.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00006.png" tvg-name="Новый канал" group-title="Украина",Новый канал HD
-https://prosto.free-iptvchannel.workers.dev/stream/id6/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id6/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00485.png?1714577792" group-title="Украина",Дом HD
-https://prosto.free-iptvchannel.workers.dev/stream/id485/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id485/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00412.png" group-title="Украина",СТБ SD
-https://prosto.free-iptvchannel.workers.dev/stream/id412/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id412/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00413.png" group-title="Украина",Новий канал SD
-https://prosto.free-iptvchannel.workers.dev/stream/id413/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id413/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00293.jpg?1692113837" group-title="Украина",ТрансМІСІЯ
-https://prosto.free-iptvchannel.workers.dev/stream/id293/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id293/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch01094.png?1771579945" group-title="Украина",нов. | FASHION (world) HD
-https://prosto.free-iptvchannel.workers.dev/stream/id1094/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id1094/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch01095.png?1771596587" group-title="Украина",нов. | Euronews eng HD
-https://prosto.free-iptvchannel.workers.dev/stream/id1095/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id1095/video.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00017.png" tvg-name="24" group-title="Украина",Телеканал новостей 24
-https://prosto.free-iptvchannel.workers.dev/stream/id17/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id17/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00879.png?1725200602" group-title="Украина",Супермама HD
-https://prosto.free-iptvchannel.workers.dev/stream/id879/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id879/video.m3u8
 #EXTINF:-1 tvg-id="239" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00239.png?1681296709" tvg-name="UA Перший" group-title="Украина",UA:Перший HD
-https://prosto.free-iptvchannel.workers.dev/stream/id239/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id239/video.m3u8
 #EXTINF:-1 tvg-id="8" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00008.png" tvg-name="5 канал" group-title="Украина",5 канал HD
-https://prosto.free-iptvchannel.workers.dev/stream/id8/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id8/video.m3u8
 #EXTINF:-1 tvg-id="159" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00159.png" tvg-name="Рада" group-title="Украина",Рада HD
-https://prosto.free-iptvchannel.workers.dev/stream/id159/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id159/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00477.png" group-title="Украина",Inter + HD
-https://prosto.free-iptvchannel.workers.dev/stream/id477/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id477/video.m3u8
 #EXTINF:-1 tvg-id="10" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00010.png" tvg-name="Прямой" group-title="Украина",Прямой HD
-https://prosto.free-iptvchannel.workers.dev/stream/id10/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id10/video.m3u8
 #EXTINF:-1 tvg-id="28" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00028.png?1694782406" tvg-name="ТК Киев" group-title="Украина",КИЇВ24 HD
-https://prosto.free-iptvchannel.workers.dev/stream/id28/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id28/video.m3u8
 #EXTINF:-1 tvg-id="29" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00029.png?1681297582" tvg-name="UA Киев" group-title="Украина",Суспільне Київ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id29/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id29/video.m3u8
 #EXTINF:-1 tvg-id="169" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00169.png" tvg-name="Espresso HD" group-title="Украина",Espresso TV HD
-https://prosto.free-iptvchannel.workers.dev/stream/id169/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id169/video.m3u8
 #EXTINF:-1 tvg-id="22" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00022.png?1755005110" tvg-name="УНІАН" group-title="Украина",УНІАН Серіал HD
-https://prosto.free-iptvchannel.workers.dev/stream/id22/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id22/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00917.png?1739524233" group-title="Украина",Про Київ
-https://prosto.free-iptvchannel.workers.dev/stream/id917/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id917/video.m3u8
 #EXTINF:-1 tvg-id="24" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00024.png" tvg-name="Euronews" group-title="Украина",Euronews
-https://prosto.free-iptvchannel.workers.dev/stream/id24/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id24/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00354.png" group-title="Украина",Суспільне Івано-Франківськ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id354/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id354/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00916.png?1729862320" group-title="Украина",Music Box Classic
-https://prosto.free-iptvchannel.workers.dev/stream/id916/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id916/video.m3u8
 #EXTINF:-1 tvg-id="4" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00004.png" tvg-name="UA Перший" group-title="Украина",UA:Перший
-https://prosto.free-iptvchannel.workers.dev/stream/id4/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id4/video.m3u8
 #EXTINF:-1 tvg-id="20" tvg-logo="https://img.prosto.tv/storage/channel/logo/espressoTV.png" tvg-name="Еспресо TV" group-title="Украина",Espresso TV
-https://prosto.free-iptvchannel.workers.dev/stream/id20/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id20/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00375.png" group-title="Украина",English Club
-https://prosto.free-iptvchannel.workers.dev/stream/id375/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id375/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00502.png" group-title="Украина",Utravel HD
-https://prosto.free-iptvchannel.workers.dev/stream/id502/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id502/video.m3u8
 #EXTINF:-1 tvg-id="70" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00070.png" tvg-name="Сварожичи" group-title="Украина",Сварожичи
-https://prosto.free-iptvchannel.workers.dev/stream/id70/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id70/video.m3u8
 #EXTINF:-1 tvg-id="46" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00046.png" tvg-name="8 Канал" group-title="Украина",8 Канал HD
-https://prosto.free-iptvchannel.workers.dev/stream/id46/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id46/video.m3u8
 #EXTINF:-1 tvg-id="285" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00285.png" tvg-name="БелСат" group-title="Украина",БелСат
-https://prosto.free-iptvchannel.workers.dev/stream/id285/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id285/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00518.jpg" group-title="Украина",CNN
-https://prosto.free-iptvchannel.workers.dev/stream/id518/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id518/video.m3u8
 #EXTINF:-1 tvg-id="35" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00035.png" tvg-name="Перший Захiдний" group-title="Украина",Перший Захiдний HD
-https://prosto.free-iptvchannel.workers.dev/stream/id35/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id35/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00880.png?1725959266" group-title="Украина",Канал D1
-https://prosto.free-iptvchannel.workers.dev/stream/id880/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id880/video.m3u8
 #EXTINF:-1 tvg-id="352" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00352.png" tvg-name="UA Житомир" group-title="Украина",Суспільне Житомир HD
-https://prosto.free-iptvchannel.workers.dev/stream/id352/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id352/video.m3u8
 #EXTINF:-1 tvg-id="170" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00170.png" tvg-name="Вита" group-title="Украина",Вита HD
-https://prosto.free-iptvchannel.workers.dev/stream/id170/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id170/video.m3u8
 #EXTINF:-1 tvg-id="135" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00135.png" tvg-name="Днiпро" group-title="Украина",Суспільне ДНІПРО HD
-https://prosto.free-iptvchannel.workers.dev/stream/id135/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id135/video.m3u8
 #EXTINF:-1 tvg-id="137" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00137.png" tvg-name="Запорожье" group-title="Украина",Суспільне Запорожье HD
-https://prosto.free-iptvchannel.workers.dev/stream/id137/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id137/video.m3u8
 #EXTINF:-1 tvg-id="171" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00171.png" tvg-name="UA Винница" group-title="Украина",Суспільне Винница HD
-https://prosto.free-iptvchannel.workers.dev/stream/id171/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id171/video.m3u8
 #EXTINF:-1 tvg-id="163" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00163.png" tvg-name="UA Крым" group-title="Украина",Суспільне Крим HD
-https://prosto.free-iptvchannel.workers.dev/stream/id163/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id163/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00036.png" group-title="Украина",Суспільне Ужгород HD
-https://prosto.free-iptvchannel.workers.dev/stream/id36/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id36/video.m3u8
 #EXTINF:-1 tvg-id="211" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00211.png" tvg-name="UA Донбасс" group-title="Украина",Суспільне Донбас HD
-https://prosto.free-iptvchannel.workers.dev/stream/id211/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id211/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00300.png" group-title="Украина",Правда ТУТ Львов HD
-https://prosto.free-iptvchannel.workers.dev/stream/id300/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id300/video.m3u8
 #EXTINF:-1 tvg-id="134" tvg-logo="https://img.prosto.tv/storage/channel/logo/rudana.png" tvg-name="Рудана" group-title="Украина",Рудана
-https://prosto.free-iptvchannel.workers.dev/stream/id134/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id134/video.m3u8
 #EXTINF:-1 tvg-id="257" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00257.png" tvg-name="Навигатор ТВ" group-title="Украина",Навигатор ТВ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id257/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id257/video.m3u8
 #EXTINF:-1 tvg-id="148" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00148.png" tvg-name="Натали" group-title="Украина",Натали
-https://prosto.free-iptvchannel.workers.dev/stream/id148/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id148/video.m3u8
 #EXTINF:-1 tvg-id="121" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00121.png" tvg-name="Настоящее время" group-title="Украина",Настоящее время HD
-https://prosto.free-iptvchannel.workers.dev/stream/id121/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id121/video.m3u8
 #EXTINF:-1 tvg-id="34" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00034.png" tvg-name="ATR" group-title="Украина",ATR
-https://prosto.free-iptvchannel.workers.dev/stream/id34/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id34/video.m3u8
 #EXTINF:-1 tvg-id="188" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00188.png" tvg-name="France 24" group-title="Украина",France 24
-https://prosto.free-iptvchannel.workers.dev/stream/id188/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id188/video.m3u8
 #EXTINF:-1 tvg-id="110" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00110.png" tvg-name="ENGLISH CLUB TV" group-title="Украина",ENGLISH CLUB TV HD
-https://prosto.free-iptvchannel.workers.dev/stream/id110/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id110/video.m3u8
 #EXTINF:-1 tvg-id="355" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00355.png" tvg-name="UA Николаев" group-title="Украина",Суспільне Николаев HD
-https://prosto.free-iptvchannel.workers.dev/stream/id355/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id355/video.m3u8
 #EXTINF:-1 tvg-id="356" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00356.png" tvg-name="UA Львов" group-title="Украина",Суспільне  Львов HD
-https://prosto.free-iptvchannel.workers.dev/stream/id356/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id356/video.m3u8
 #EXTINF:-1 tvg-id="357" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00357.png" tvg-name="UA ПОЛТАВА" group-title="Украина",Суспільне ПОЛТАВА HD
-https://prosto.free-iptvchannel.workers.dev/stream/id357/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id357/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00346.png?1753117280" group-title="Украина",Апостроф HD
-https://prosto.free-iptvchannel.workers.dev/stream/id346/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id346/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00486.png" group-title="Украина",Equalympic
-https://prosto.free-iptvchannel.workers.dev/stream/id486/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id486/video.m3u8
 #EXTINF:-1 tvg-id="219" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00219.png" tvg-name="OBOZ TV" group-title="Украина",OBOZREVATEL TV HD
-https://prosto.free-iptvchannel.workers.dev/stream/id219/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id219/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00335.png" group-title="Украина",Дитинець
-https://prosto.free-iptvchannel.workers.dev/stream/id335/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id335/video.m3u8
 #EXTINF:-1 tvg-id="358" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00358.png" tvg-name="UA ОДЕСCА" group-title="Украина",Суспільне ОДЕСCА HD
-https://prosto.free-iptvchannel.workers.dev/stream/id358/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id358/video.m3u8
 #EXTINF:-1 tvg-id="338" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00338.png" tvg-name="UA БУКОВИНА" group-title="Украина",Суспільне Чернівці HD
-https://prosto.free-iptvchannel.workers.dev/stream/id338/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id338/video.m3u8
 #EXTINF:-1 tvg-id="351" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00351.png" tvg-name="UA ВОЛЫНЬ" group-title="Украина",Суспільне Луцьк HD
-https://prosto.free-iptvchannel.workers.dev/stream/id351/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id351/video.m3u8
 #EXTINF:-1 tvg-id="359" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00359.png" tvg-name="UA Тернополь" group-title="Украина",Суспільне Тернополь HD
-https://prosto.free-iptvchannel.workers.dev/stream/id359/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id359/video.m3u8
 #EXTINF:-1 tvg-id="360" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00360.png" tvg-name="UA РІВНЕ" group-title="Украина",Суспільне РІВНЕ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id360/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id360/video.m3u8
 #EXTINF:-1 tvg-id="361" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00361.png" tvg-name="UA СУМИ" group-title="Украина",Суспільне СУМИ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id361/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id361/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00362.png" group-title="Украина",Суспільне Хмельницький HD
-https://prosto.free-iptvchannel.workers.dev/stream/id362/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id362/video.m3u8
 #EXTINF:-1 tvg-id="363" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00363.png" tvg-name="UA ХАРКІВ" group-title="Украина",Суспільне ХАРКІВ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id363/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id363/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00364.png" group-title="Украина",Суспільне ХЕРСОН HD
-https://prosto.free-iptvchannel.workers.dev/stream/id364/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id364/video.m3u8
 #EXTINF:-1 tvg-id="365" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00365.png" tvg-name="UA ЧЕРНІГОВ" group-title="Украина",Суспільне ЧЕРНІГОВ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id365/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id365/video.m3u8
 #EXTINF:-1 tvg-id="366" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00366.png" tvg-name="UA ЧЕРКАСЫ" group-title="Украина",Суспільне ЧЕРКАСЫ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id366/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id366/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00212.png" group-title="Украина",Sea TV HD
-https://prosto.free-iptvchannel.workers.dev/stream/id212/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id212/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00373.png" group-title="Украина",Галичина
-https://prosto.free-iptvchannel.workers.dev/stream/id373/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id373/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00376.png" group-title="Украина",Исландия HD
-https://prosto.free-iptvchannel.workers.dev/stream/id376/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id376/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00487.png" group-title="Украина",Миргород
-https://prosto.free-iptvchannel.workers.dev/stream/id487/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id487/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00478.png" group-title="Украина",Первый городской HD
-https://prosto.free-iptvchannel.workers.dev/stream/id478/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id478/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00385.png" group-title="Украина",Deutsche Welle
-https://prosto.free-iptvchannel.workers.dev/stream/id385/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id385/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00392.png" group-title="Украина",EWTN
-https://prosto.free-iptvchannel.workers.dev/stream/id392/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id392/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00399.png?1753116933" group-title="Украина",MEGOGO MUSIC
-https://prosto.free-iptvchannel.workers.dev/stream/id399/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id399/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00400.png" group-title="Украина",NTA
-https://prosto.free-iptvchannel.workers.dev/stream/id400/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id400/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00401.png" group-title="Украина",Provence
-https://prosto.free-iptvchannel.workers.dev/stream/id401/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id401/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00520.png" group-title="Украина",МТМ Запорожье HD
-https://prosto.free-iptvchannel.workers.dev/stream/id520/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id520/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00406.png" group-title="Украина",TVP Info HD
-https://prosto.free-iptvchannel.workers.dev/stream/id406/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id406/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00407.png" group-title="Украина",TVP Polonia
-https://prosto.free-iptvchannel.workers.dev/stream/id407/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id407/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00573.png?1686039421" group-title="Украина",Армія ТБ
-https://prosto.free-iptvchannel.workers.dev/stream/id573/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id573/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00418.png" group-title="Украина",5 канал SD
-https://prosto.free-iptvchannel.workers.dev/stream/id418/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id418/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00241.jpg?1761056063" group-title="Украина",Prosto.TV
-https://prosto.free-iptvchannel.workers.dev/stream/id241/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id241/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00564.jpg" group-title="Украина",Полонина
-https://prosto.free-iptvchannel.workers.dev/stream/id564/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id564/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00563.jpg" group-title="Украина",Prosto Ukraine
-https://prosto.free-iptvchannel.workers.dev/stream/id563/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id563/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00562.jpg" group-title="Украина",Просто Дощ
-https://prosto.free-iptvchannel.workers.dev/stream/id562/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id562/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00561.jpg" group-title="Украина",Підводний світ
-https://prosto.free-iptvchannel.workers.dev/stream/id561/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id561/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00549.jpg" group-title="Украина",AviaStream
-https://prosto.free-iptvchannel.workers.dev/stream/id549/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id549/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00548.jpg" group-title="Украина",Кримський міст В ОГНІ
-https://prosto.free-iptvchannel.workers.dev/stream/id548/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id548/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00547.jpg" group-title="Украина",москва ПАЛАЄ
-https://prosto.free-iptvchannel.workers.dev/stream/id547/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id547/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00545.jpg" group-title="Украина",ПАЛАЄ кремль
-https://prosto.free-iptvchannel.workers.dev/stream/id545/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id545/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00295.jpg" group-title="Украина",Катастрофа ONLINE
-https://prosto.free-iptvchannel.workers.dev/stream/id295/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id295/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00302.png" group-title="Украина",ЕкоСистема
-https://prosto.free-iptvchannel.workers.dev/stream/id302/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id302/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00318.png" group-title="Украина",Stream CITY
-https://prosto.free-iptvchannel.workers.dev/stream/id318/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id318/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00348.png" group-title="Украина",Аквариум
-https://prosto.free-iptvchannel.workers.dev/stream/id348/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id348/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00492.jpg" group-title="Украина",Просто Релакс
-https://prosto.free-iptvchannel.workers.dev/stream/id492/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id492/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00500.jpg" group-title="Украина",Просто Водоспад
-https://prosto.free-iptvchannel.workers.dev/stream/id500/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id500/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00503.jpg" group-title="Украина",Просто Лес
-https://prosto.free-iptvchannel.workers.dev/stream/id503/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id503/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00504.jpg" group-title="Украина",Просто Вогонь
-https://prosto.free-iptvchannel.workers.dev/stream/id504/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id504/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00505.jpg" group-title="Украина",Просто Пляж
-https://prosto.free-iptvchannel.workers.dev/stream/id505/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id505/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00506.png?1686039500" group-title="Украина",Хроника Войны
-https://prosto.free-iptvchannel.workers.dev/stream/id506/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id506/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00508.jpg" group-title="Украина",Просто Тропіки
-https://prosto.free-iptvchannel.workers.dev/stream/id508/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id508/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00509.jpg" group-title="Украина",Просто Тераса
-https://prosto.free-iptvchannel.workers.dev/stream/id509/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id509/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00511.jpg" group-title="Украина",Просто Осень
-https://prosto.free-iptvchannel.workers.dev/stream/id511/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id511/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00512.jpg" group-title="Украина",Просто Ріка
-https://prosto.free-iptvchannel.workers.dev/stream/id512/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id512/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00513.jpg" group-title="Украина",Просто Джунглі
-https://prosto.free-iptvchannel.workers.dev/stream/id513/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id513/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00514.jpg" group-title="Украина",Просто Гори
-https://prosto.free-iptvchannel.workers.dev/stream/id514/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id514/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00515.jpg" group-title="Украина",Просто Озеро
-https://prosto.free-iptvchannel.workers.dev/stream/id515/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id515/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00532.jpg" group-title="Украина",Prosto Fishing
-https://prosto.free-iptvchannel.workers.dev/stream/id532/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id532/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00533.jpg" group-title="Украина",Просто Басейн
-https://prosto.free-iptvchannel.workers.dev/stream/id533/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id533/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00536.jpg" group-title="Украина",Флора
-https://prosto.free-iptvchannel.workers.dev/stream/id536/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id536/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00537.jpg" group-title="Украина",Просто Сад
-https://prosto.free-iptvchannel.workers.dev/stream/id537/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id537/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00544.jpg" group-title="Украина",TrainStream
-https://prosto.free-iptvchannel.workers.dev/stream/id544/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id544/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00555.jpg" group-title="Украина",Prosto Night
-https://prosto.free-iptvchannel.workers.dev/stream/id555/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id555/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00580.jpg?1689751221" group-title="Украина",Prosto Park
-https://prosto.free-iptvchannel.workers.dev/stream/id580/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id580/video.m3u8
 #EXTINF:-1 tvg-id="353" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00353.png" tvg-name="UA КРОПИВНИЦЬКИЙ" group-title="Украина",Суспільне Кропивницький HD
-https://prosto.free-iptvchannel.workers.dev/stream/id353/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id353/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00725.png?1708408618" group-title="Украина",Ми–Україна+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id725/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id725/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00955.png?1755002780" group-title="Украина",TVii.TV HD
-https://prosto.free-iptvchannel.workers.dev/stream/id955/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id955/video.m3u8
 #EXTINF:-1 tvg-id="117" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00117.png" tvg-name="М1" group-title="Украина",М1 HD
-https://prosto.free-iptvchannel.workers.dev/stream/id117/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id117/video.m3u8
 #EXTINF:-1 tvg-id="118" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00118.png" tvg-name="М2" group-title="Украина",М2 HD
-https://prosto.free-iptvchannel.workers.dev/stream/id118/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id118/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00554.png" group-title="Украина",MUZVAR TV HD
-https://prosto.free-iptvchannel.workers.dev/stream/id554/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id554/video.m3u8
 #EXTINF:-1 tvg-id="271" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00271.jpg?1738234826" tvg-name="4EVER" group-title="Украина",4ever music hd
-https://prosto.free-iptvchannel.workers.dev/stream/id271/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id271/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00559.png" group-title="Украина",UA Music HD
-https://prosto.free-iptvchannel.workers.dev/stream/id559/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id559/video.m3u8
 #EXTINF:-1 tvg-id="272" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00272.png" tvg-name="EUMUSIC" group-title="Украина",EU.Music HD
-https://prosto.free-iptvchannel.workers.dev/stream/id272/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id272/video.m3u8
 #EXTINF:-1 tvg-id="191" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00191.png" tvg-name="Mcm top" group-title="Украина",Mcm top
-https://prosto.free-iptvchannel.workers.dev/stream/id191/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id191/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00488.png" group-title="Украина",Classic Music HD
-https://prosto.free-iptvchannel.workers.dev/stream/id488/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id488/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00350.png" group-title="Украина",InRating HD
-https://prosto.free-iptvchannel.workers.dev/stream/id350/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id350/video.m3u8
 #EXTINF:-1 tvg-id="124" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00124.png" tvg-name="360 Tune Box" group-title="Украина",360 Tune Box
-https://prosto.free-iptvchannel.workers.dev/stream/id124/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id124/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00556.png" group-title="Украина",Медичний HD
-https://prosto.free-iptvchannel.workers.dev/stream/id556/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id556/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00178.png" group-title="Украина",National Geographic Channel HD
-https://prosto.free-iptvchannel.workers.dev/stream/id178/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id178/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00408.png" group-title="Украина",Nat Geo Wild
-https://prosto.free-iptvchannel.workers.dev/stream/id408/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id408/video.m3u8
 #EXTINF:-1 tvg-id="77" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00077.png" tvg-name="Viasat Nature" group-title="Украина",Viasat Nature
-https://prosto.free-iptvchannel.workers.dev/stream/id77/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id77/video.m3u8
 #EXTINF:-1 tvg-id="79" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00079.png" tvg-name="Viasat Explore" group-title="Украина",Viasat Explore
-https://prosto.free-iptvchannel.workers.dev/stream/id79/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id79/video.m3u8
 #EXTINF:-1 tvg-id="78" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00078.png" tvg-name="Viasat History" group-title="Украина",Viasat History HD
-https://prosto.free-iptvchannel.workers.dev/stream/id78/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id78/video.m3u8
 #EXTINF:-1 tvg-id="275" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00275.png" tvg-name="History" group-title="Украина",History HD
-https://prosto.free-iptvchannel.workers.dev/stream/id275/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id275/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00881.png?1727087805" group-title="Украина",TinyTeen HD
-https://prosto.free-iptvchannel.workers.dev/stream/id881/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id881/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00861.png?1715758383" group-title="Украина",Investigation Discovery
-https://prosto.free-iptvchannel.workers.dev/stream/id861/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id861/video.m3u8
 #EXTINF:-1 tvg-id="279" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00279.jpg?1744635916" tvg-name="Эпоха HD" group-title="Украина",Світло HD
-https://prosto.free-iptvchannel.workers.dev/stream/id279/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id279/video.m3u8
 #EXTINF:-1 tvg-id="277" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00277.png" tvg-name="Дача" group-title="Украина",Дача HD
-https://prosto.free-iptvchannel.workers.dev/stream/id277/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id277/video.m3u8
 #EXTINF:-1 tvg-id="85" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00085.png" tvg-name="DocuBox HD" group-title="Украина",DocuBox HD
-https://prosto.free-iptvchannel.workers.dev/stream/id85/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id85/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00882.png?1727087951" group-title="Украина",LangLab HD
-https://prosto.free-iptvchannel.workers.dev/stream/id882/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id882/video.m3u8
 #EXTINF:-1 tvg-id="43" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00043.png" tvg-name="Эко-ТВ" group-title="Украина",Эко-ТВ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id43/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id43/video.m3u8
 #EXTINF:-1 tvg-id="260" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00260.png" tvg-name="36.6" group-title="Украина",36.6 HD
-https://prosto.free-iptvchannel.workers.dev/stream/id260/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id260/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00426.png" group-title="Украина",Travel channel Европа HD
-https://prosto.free-iptvchannel.workers.dev/stream/id426/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id426/video.m3u8
 #EXTINF:-1 tvg-id="232" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00232.png" tvg-name="Animal Planet" group-title="Украина",Animal Planet
-https://prosto.free-iptvchannel.workers.dev/stream/id232/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id232/video.m3u8
 #EXTINF:-1 tvg-id="209" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00209.png" tvg-name="Discovery Channel" group-title="Украина",Discovery Channel
-https://prosto.free-iptvchannel.workers.dev/stream/id209/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id209/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00550.png" group-title="Украина",One Planet HD
-https://prosto.free-iptvchannel.workers.dev/stream/id550/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id550/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00524.png" group-title="Украина",Travel XP HD
-https://prosto.free-iptvchannel.workers.dev/stream/id524/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id524/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00395.png" group-title="Украина",H2 HD
-https://prosto.free-iptvchannel.workers.dev/stream/id395/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id395/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00297.png" group-title="Украина",Space Stream
-https://prosto.free-iptvchannel.workers.dev/stream/id297/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id297/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00301.png" group-title="Украина",ПРО-ФАКТ
-https://prosto.free-iptvchannel.workers.dev/stream/id301/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id301/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00314.png" group-title="Украина",ZOO Stream
-https://prosto.free-iptvchannel.workers.dev/stream/id314/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id314/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00864.jpg?1716291735" group-title="Украина",Процес
-https://prosto.free-iptvchannel.workers.dev/stream/id864/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id864/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00598.jpg?1696314480" group-title="Украина",Світ Навколо
-https://prosto.free-iptvchannel.workers.dev/stream/id598/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id598/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00659.png?1698426815" group-title="Украина",One Planet+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id659/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id659/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00151.png" group-title="Украина",Перший канал Українського радіо
-https://prosto.free-iptvchannel.workers.dev/stream/id151/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id151/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00152.png" group-title="Украина",Радіо Промінь
-https://prosto.free-iptvchannel.workers.dev/stream/id152/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id152/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00153.png" group-title="Украина",Радио Культура
-https://prosto.free-iptvchannel.workers.dev/stream/id153/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id153/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00431.jpg" group-title="Украина",Hit FM
-https://prosto.free-iptvchannel.workers.dev/stream/id431/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id431/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00432.png" group-title="Украина",Radio ROKS
-https://prosto.free-iptvchannel.workers.dev/stream/id432/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id432/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00434.png" group-title="Украина",Melodia FM
-https://prosto.free-iptvchannel.workers.dev/stream/id434/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id434/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00435.png" group-title="Украина",Radio Relax
-https://prosto.free-iptvchannel.workers.dev/stream/id435/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id435/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00436.png" group-title="Украина",Kiss FM
-https://prosto.free-iptvchannel.workers.dev/stream/id436/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id436/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00437.png" group-title="Украина",Nashe Radio
-https://prosto.free-iptvchannel.workers.dev/stream/id437/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id437/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00438.png" group-title="Украина",RadioJazz
-https://prosto.free-iptvchannel.workers.dev/stream/id438/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id438/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00499.png" group-title="Украина",Classic Radio
-https://prosto.free-iptvchannel.workers.dev/stream/id499/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id499/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00462.png" group-title="Украина",SunFM Rock
-https://prosto.free-iptvchannel.workers.dev/stream/id462/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id462/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00463.png" group-title="Украина",SunFM Gold
-https://prosto.free-iptvchannel.workers.dev/stream/id463/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id463/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00460.png" group-title="Украина",Радио Пятница
-https://prosto.free-iptvchannel.workers.dev/stream/id460/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id460/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00455.png" group-title="Украина",Захід FM+
-https://prosto.free-iptvchannel.workers.dev/stream/id455/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id455/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00442.png" group-title="Украина",Lounge FM
-https://prosto.free-iptvchannel.workers.dev/stream/id442/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id442/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00444.png" group-title="Украина",Авторадио Украина
-https://prosto.free-iptvchannel.workers.dev/stream/id444/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id444/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00496.png" group-title="Украина",Стрий FM
-https://prosto.free-iptvchannel.workers.dev/stream/id496/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id496/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00446.png" group-title="Украина",NRJ Ukraine
-https://prosto.free-iptvchannel.workers.dev/stream/id446/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id446/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00495.png" group-title="Украина",Фреш FM
-https://prosto.free-iptvchannel.workers.dev/stream/id495/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id495/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00493.png" group-title="Украина",Прямой ФМ
-https://prosto.free-iptvchannel.workers.dev/stream/id493/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id493/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00723.png?1715757715" group-title="Украина",Стосується кожного+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id723/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id723/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00722.png?1708408772" group-title="Украина",Готуємо разом+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id722/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id722/video.m3u8
 #EXTINF:-1 tvg-id="11" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00011.png" tvg-name="ТЕТ" group-title="Украина",ТЕТ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id11/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id11/video.m3u8
 #EXTINF:-1 tvg-id="12" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00012.png" tvg-name="К1" group-title="Украина",К1 HD
-https://prosto.free-iptvchannel.workers.dev/stream/id12/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id12/video.m3u8
 #EXTINF:-1 tvg-id="13" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00013.png" tvg-name="К2" group-title="Украина",К2 HD
-https://prosto.free-iptvchannel.workers.dev/stream/id13/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id13/video.m3u8
 #EXTINF:-1 tvg-id="56" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00056.png" tvg-name="Мега" group-title="Украина",Мега HD
-https://prosto.free-iptvchannel.workers.dev/stream/id56/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id56/video.m3u8
 #EXTINF:-1 tvg-id="9" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00009.png" tvg-name="НТН" group-title="Украина",НТН HD
-https://prosto.free-iptvchannel.workers.dev/stream/id9/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id9/video.m3u8
 #EXTINF:-1 tvg-id="53" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00053.png" tvg-name="Zoom" group-title="Украина",Zoom HD
-https://prosto.free-iptvchannel.workers.dev/stream/id53/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id53/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00553.png" group-title="Украина",1+1 Украина HD
-https://prosto.free-iptvchannel.workers.dev/stream/id553/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id553/video.m3u8
 #EXTINF:-1 tvg-id="59" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00059.png" tvg-name="Бигуди ТВ" group-title="Украина",Бигуди ТВ
-https://prosto.free-iptvchannel.workers.dev/stream/id59/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id59/video.m3u8
 #EXTINF:-1 tvg-id="51" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00051.png" tvg-name="Солнце" group-title="Украина",Солнце
-https://prosto.free-iptvchannel.workers.dev/stream/id51/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id51/video.m3u8
 #EXTINF:-1 tvg-id="65" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00065.png" tvg-name="ОЦЕ" group-title="Украина",ОЦЕ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id65/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id65/video.m3u8
 #EXTINF:-1 tvg-id="304" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00304.png" tvg-name="Кус-Кус" group-title="Украина",Кус-Кус
-https://prosto.free-iptvchannel.workers.dev/stream/id304/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id304/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00541.png" group-title="Украина",Continent E HD
-https://prosto.free-iptvchannel.workers.dev/stream/id541/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id541/video.m3u8
 #EXTINF:-1 tvg-id="55" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00055.png" tvg-name="Телевсесвит" group-title="Украина",Телевсесвит HD
-https://prosto.free-iptvchannel.workers.dev/stream/id55/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id55/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00853.png?1715757970" group-title="Украина",ЖВЛ+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id853/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id853/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00854.png?1715757878" group-title="Украина",Світ навиворіт+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id854/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id854/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00393.png" group-title="Украина",FilmUA LIVE HD
-https://prosto.free-iptvchannel.workers.dev/stream/id393/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id393/video.m3u8
 #EXTINF:-1 tvg-id="203" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00203.png" tvg-name="Gametoon" group-title="Украина",Gametoon HD
-https://prosto.free-iptvchannel.workers.dev/stream/id203/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id203/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00414.png" group-title="Украина",ТЕТ SD
-https://prosto.free-iptvchannel.workers.dev/stream/id414/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id414/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00291.png" group-title="Украина",АкваSTREAM
-https://prosto.free-iptvchannel.workers.dev/stream/id291/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id291/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00319.png" group-title="Украина",Prosto GAME
-https://prosto.free-iptvchannel.workers.dev/stream/id319/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id319/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00334.png" group-title="Украина",RecreatiON
-https://prosto.free-iptvchannel.workers.dev/stream/id334/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id334/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00491.jpg" group-title="Украина",Просто Зима
-https://prosto.free-iptvchannel.workers.dev/stream/id491/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id491/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00921.png?1733156183" group-title="Украина",Super+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id921/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id921/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00856.png?1715757562" group-title="Украина",Панянка-селянка+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id856/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id856/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00859.png?1715757257" group-title="Украина",Одруження наосліп+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id859/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id859/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00860.png?1715757131" group-title="Украина",Загублений світ+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id860/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id860/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00884.png?1727088565" group-title="Украина",Машина часу HD
-https://prosto.free-iptvchannel.workers.dev/stream/id884/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id884/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00885.png?1727088593" group-title="Украина",Невигадані історії HD
-https://prosto.free-iptvchannel.workers.dev/stream/id885/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id885/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00943.png?1738333166" group-title="Украина",демо | Хроніка+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id943/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id943/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00951.png?1740143546" group-title="Украина",Орел & Решка: Морський сезон HD
-https://prosto.free-iptvchannel.workers.dev/stream/id951/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id951/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00962.png?1743511530" group-title="Украина",Світ+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id962/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id962/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch01052.png?1750329523" group-title="Украина",Игра судьбы HD
-https://prosto.free-iptvchannel.workers.dev/stream/id1052/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id1052/video.m3u8
 #EXTINF:-1 tvg-id="316" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00316.png" tvg-name="Рыбалка" group-title="Украина",Рыбалка HD
-https://prosto.free-iptvchannel.workers.dev/stream/id316/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id316/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00371.png" group-title="Украина",Setanta Sports+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id371/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id371/video.m3u8
 #EXTINF:-1 tvg-id="313" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00313.png" tvg-name="Setanta" group-title="Украина",Setanta Sports HD
-https://prosto.free-iptvchannel.workers.dev/stream/id313/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id313/video.m3u8
 #EXTINF:-1 tvg-id="86" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00086.png" tvg-name="Xsport" group-title="Украина",Xsport
-https://prosto.free-iptvchannel.workers.dev/stream/id86/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id86/video.m3u8
 #EXTINF:-1 tvg-id="164" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00164.png" tvg-name="Xsport" group-title="Украина",XSport HD
-https://prosto.free-iptvchannel.workers.dev/stream/id164/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id164/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00343.png" group-title="Украина",Cars  Stars TV HD
-https://prosto.free-iptvchannel.workers.dev/stream/id343/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id343/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00501.png" group-title="Украина",Xsport+ HD
-https://prosto.free-iptvchannel.workers.dev/stream/id501/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id501/video.m3u8
 #EXTINF:-1 tvg-id="87" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00087.png" tvg-name="FightBox HD" group-title="Украина",FightBox HD
-https://prosto.free-iptvchannel.workers.dev/stream/id87/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id87/video.m3u8
 #EXTINF:-1 tvg-id="88" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00088.png" tvg-name="Fast & FunBox HD" group-title="Украина",Fast & FunBox HD
-https://prosto.free-iptvchannel.workers.dev/stream/id88/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id88/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00091.png" group-title="Украина",Eurosport 1
-https://prosto.free-iptvchannel.workers.dev/stream/id91/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id91/video.m3u8
 #EXTINF:-1 tvg-id="92" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00092.png" tvg-name="Eurosport 2" group-title="Украина",Eurosport 2
-https://prosto.free-iptvchannel.workers.dev/stream/id92/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id92/video.m3u8
 #EXTINF:-1 tvg-id="344" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00344.png" tvg-name="Eurosport 1 HD" group-title="Украина",Eurosport 1 HD
-https://prosto.free-iptvchannel.workers.dev/stream/id344/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id344/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00296.png" group-title="Украина",X-Stream
-https://prosto.free-iptvchannel.workers.dev/stream/id296/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id296/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00349.png" group-title="Украина",PROSTO DRIVE
-https://prosto.free-iptvchannel.workers.dev/stream/id349/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id349/video.m3u8
 #EXTINF:-1 tvg-id="41" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00041.png" tvg-name="CNL" group-title="Украина",GNC
-https://prosto.free-iptvchannel.workers.dev/stream/id41/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id41/video.m3u8
 #EXTINF:-1 tvg-id="52" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00052.png" tvg-name="UA Культура" group-title="Украина",Суспільне Культура HD
-https://prosto.free-iptvchannel.workers.dev/stream/id52/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id52/video.m3u8
 #EXTINF:-1 tvg-id="60" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00060.png" tvg-name="Milady Television" group-title="Украина",Milady Television
-https://prosto.free-iptvchannel.workers.dev/stream/id60/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id60/video.m3u8
 #EXTINF:-1 tvg-id="168" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00168.png" tvg-name="Караван ТВ" group-title="Украина",Караван ТВ
-https://prosto.free-iptvchannel.workers.dev/stream/id168/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id168/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00345.png" group-title="Украина",UA Fashion TV HD
-https://prosto.free-iptvchannel.workers.dev/stream/id345/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id345/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" group-title="Украина",RELAXON
-https://prosto.free-iptvchannel.workers.dev/stream/id307/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id307/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="Украина",КАМІН
-https://prosto.free-iptvchannel.workers.dev/stream/id310/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id310/video.m3u8
 #EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00522.jpg" group-title="Украина",Краєвид
-https://prosto.free-iptvchannel.workers.dev/stream/id522/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id522/video.m3u8
 #EXTINF:-1 tvg-id="161" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00161.png" tvg-name="Fashion TV" group-title="Украина",Fashion TV
-https://prosto.free-iptvchannel.workers.dev/stream/id161/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id161/video.m3u8
 #EXTINF:-1 tvg-id="115" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00115.png" tvg-name="FashionBox HD" group-title="Украина",FashionBox HD
-https://prosto.free-iptvchannel.workers.dev/stream/id115/video.m3u8
+https://prosto.zuno-tv.workers.dev/stream/id115/video.m3u8
 
 
 
