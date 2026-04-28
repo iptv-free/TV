@@ -890,243 +890,44 @@ https://stream.zuno-tv.workers.dev/channel/9090/19a78a35/index.m3u8
 https://stream.zuno-tv.workers.dev/channel/9090/n1e05434/index.m3u8
 
 
-
-#EXTINF:-1 tvg-id="Kernel TV Бумажный дом HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_bum_dom.png", Kernel TV Бумажный дом HD
-https://dark.videon.workers.dev/395?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Время HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_time.png", Kernel TV Время HD
-https://dark.videon.workers.dev/396?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Герой HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_geroy.png", Kernel TV Герой HD
-https://dark.videon.workers.dev/397?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Доктор HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_doctor.png", Kernel TV Доктор HD
-https://dark.videon.workers.dev/398?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Интерны HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_interny.png", Kernel TV Интерны HD
-https://dark.videon.workers.dev/399?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Комедия HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_comedy.png"com/9063, Kernel TV Комедия HD
-https://dark.videon.workers.dev/400?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Космос HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_kosmoc.png", Kernel TV Космос HD
-https://dark.videon.workers.dev/401?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Новинки HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_new_movies.png", Kernel TV Новинки HD
-https://dark.videon.workers.dev/402?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Сваты HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_svaty.png", Kernel TV Сваты HD
-https://dark.videon.workers.dev/403?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Счастливого нового года HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_happy_new_year.png", Kernel TV Счастливого нового года HD
-https://dark.videon.workers.dev/404?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Аладдин HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_aladdin.png", Kernel TV Аладдин HD
-https://dark.videon.workers.dev/405?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Алиса HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_alice.png", Kernel TV Алиса HD
-https://dark.videon.workers.dev/406?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Аниме HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_anime.png"com/9048, Kernel TV Аниме HD
-https://dark.videon.workers.dev/407?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Барбоскины HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_barboskiny.png", Kernel TV Барбоскины HD
-https://dark.videon.workers.dev/408?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Бен 10 HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_ben_ten.png", Kernel TV Бен 10 HD
-https://dark.videon.workers.dev/409?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Буба HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_buba.png", Kernel TV Буба HD
-https://dark.videon.workers.dev/410?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Винни и его друзья HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_vini_i_ego_druzya.png", Kernel TV Винни и его друзья HD
-https://dark.videon.workers.dev/411?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Гравити Фолз HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_gravity_falls.png", Kernel TV Гравити Фолз HD
-https://dark.videon.workers.dev/412?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Губка Боб Квадратные Штаны HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_gubob.png", Kernel TV Губка Боб Квадратные Штаны HD
-https://dark.videon.workers.dev/413?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Драконы и всадники Олуха HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_dracony_i_vsadniki.png", Kernel TV Драконы и всадники Олуха HD
-https://dark.videon.workers.dev/414?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Звёздные войны HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_star_wars_the_clone_wars_series.png", Kernel TV Звёздные войны HD
-https://dark.videon.workers.dev/415?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Команда Турбо HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_turbo.png", Kernel TV Команда Турбо HD
-https://dark.videon.workers.dev/416?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Лего HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_lego.png"com/9065, Kernel TV Лего HD
-https://dark.videon.workers.dev/417?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Леди Баг и супер Кот HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_ledi_bag.png", Kernel TV Леди Баг и супер Кот HD
-https://dark.videon.workers.dev/418?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Лило и Стич HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_lilo_i_stith.png", Kernel TV Лило и Стич HD
-https://dark.videon.workers.dev/419?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Лунтик и его друзья HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_luntik.png", Kernel TV Лунтик и его друзья HD
-https://dark.videon.workers.dev/420?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Люк путешественник во времени HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_luk_time.png", Kernel TV Люк путешественник во времени HD
-https://dark.videon.workers.dev/421?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Магия HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_magik.png", Kernel TV Магия HD
-https://dark.videon.workers.dev/422?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Маша и Медведь HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_masha_i_medved.png", Kernel TV Маша и Медведь HD
-https://dark.videon.workers.dev/423?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Марвел сериалы HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_marvser.png", Kernel TV Марвел сериалы HD
-https://dark.videon.workers.dev/424?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Ми-ми-мишки HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_mimimihki.png", Kernel TV Ми-ми-мишки HD
-https://dark.videon.workers.dev/425?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV МиниФорс HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_miniforce.png", Kernel TV МиниФорс HD
-https://dark.videon.workers.dev/426?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Мой маленький Пони HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_my_litle_pony.png", Kernel TV Мой маленький Пони HD
-https://dark.videon.workers.dev/427?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Пушистики HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_puhustici.png", Kernel TV Пушистики HD
-https://dark.videon.workers.dev/428?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Русалочка HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_rusalochka.png", Kernel TV Русалочка HD
-https://dark.videon.workers.dev/429?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Смешарики HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_smeshariki.png", Kernel TV Смешарики HD
-https://dark.videon.workers.dev/430?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Сонник Бум HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_sonic_bum.png", Kernel TV Сонник Бум HD
-https://dark.videon.workers.dev/431?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Супер крылья HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_super_wings.png", Kernel TV Супер крылья HD
-https://dark.videon.workers.dev/432?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Тимон и Пумба HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_timon_i_pumba.png", Kernel TV Тимон и Пумба HD
-https://dark.videon.workers.dev/433?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Том и Джерри HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_tom_i_djerri.png", Kernel TV Том и Джерри HD
-https://dark.videon.workers.dev/434?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Утиные истории HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_ductles.png", Kernel TV Утиные истории HD
-https://dark.videon.workers.dev/435?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Фиксики HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_fixiki.png", Kernel TV Фиксики HD
-https://dark.videon.workers.dev/436?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Финес и Ферб HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_fines_i_ferb.png", Kernel TV Финес и Ферб HD
-https://dark.videon.workers.dev/437?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Футурама HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_futurama.png", Kernel TV Футурама HD
-https://dark.videon.workers.dev/438?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Царевны HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_carevny.png", Kernel TV Царевны HD
-https://dark.videon.workers.dev/439?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Человек-паук HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_grand_spider_man.png", Kernel TV Человек-паук HD
-https://dark.videon.workers.dev/440?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Черепашки ниндзя HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_turtles_ninja.png", Kernel TV Черепашки ниндзя HD
-https://dark.videon.workers.dev/441?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Чип и Дейл HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_chip_i_deyl.png", Kernel TV Чип и Дейл HD
-https://dark.videon.workers.dev/442?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Чёрный плащ HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_chernyy_plashch.png", Kernel TV Чёрный плащ HD
-https://dark.videon.workers.dev/443?key=Tv_Za_Tak
-#EXTINF:-1 tvg-id="Kernel TV Щенячий патруль HD" group-title="Kernel✨Тв"  tvg-logo="https://icon.biluspeh.com/icon/kernel_pups_patrol.png", Kernel TV Щенячий патруль HD
-https://dark.videon.workers.dev/444?key=Tv_Za_Tak
+#EXTINF:-1 tvg-id="4778" tvg-logo="http://epg.one/img/4778.png" group-title="StrahTV",StrahTV Космо HD
+http://video.entar.workers.dev/?key=k70707k&id=29
+#EXTINF:-1 tvg-id="11311" tvg-logo="http://epg.one/img/11311.png" group-title="StrahTV",StrahTV Sky2000 HD
+http://video.entar.workers.dev/?key=k70707k&id=30
+#EXTINF:-1 tvg-id="4693" tvg-logo="http://epg.one/img/4693.png" group-title="StrahTV",StrahTV The X-Files
+http://video.entar.workers.dev/?key=k70707k&id=31
+#EXTINF:-1 tvg-id="4777" tvg-logo="http://epg.one/img/4777.png" group-title="StrahTV",StrahTV Хит HD
+http://video.entar.workers.dev/?key=k70707k&id=32
+#EXTINF:-1 tvg-id="4776" tvg-logo="http://epg.one/img/4776.png" group-title="StrahTV",StrahTV VHS HD
+http://video.entar.workers.dev/?key=k70707k&id=33
+#EXTINF:-1 tvg-id="4694" tvg-logo="http://epg.one/img/4694.png" group-title="StrahTV",StrahTV Интерны ТВ
+http://video.entar.workers.dev/?key=k70707k&id=34
+#EXTINF:-1 tvg-id="4697" tvg-logo="http://epg.one/img/4697.png" group-title="StrahTV",StrahTV Универ ТВ
+http://video.entar.workers.dev/?key=k70707k&id=35
+#EXTINF:-1 tvg-id="4695" tvg-logo="http://epg.one/img/4695.png" group-title="StrahTV",StrahTV СССР
+http://video.entar.workers.dev/?key=k70707k&id=36
+#EXTINF:-1 tvg-id="4696" tvg-logo="http://epg.one/img/4696.png" group-title="StrahTV",StrahTV Сваты
+http://video.entar.workers.dev/?key=k70707k&id=37
+#EXTINF:-1 tvg-id="4779" tvg-logo="http://epg.one/img/4779.png" group-title="StrahTV",StrahTV Страх HD
+http://video.entar.workers.dev/?key=k70707k&id=38
+#EXTINF:-1 tvg-id="4780" tvg-logo="http://epg.one/img/4780.png" group-title="StrahTV",StrahTV Фантастика HD
+http://video.entar.workers.dev/?key=k70707k&id=39
+#EXTINF:-1 tvg-id="4733" tvg-logo="http://epg.one/img/4733.png" group-title="StrahTV",StrahTV Назад в 90-e
+http://video.entar.workers.dev/?key=k70707k&id=40
+#EXTINF:-1 tvg-id="4734" tvg-logo="http://epg.one/img/4734.png" group-title="StrahTV",StrahTV WWE Russian
+http://video.entar.workers.dev/?key=k70707k&id=41
+#EXTINF:-1 tvg-id="4774" tvg-logo="http://epg.one/img/4774.png" group-title="StrahTV",StrahTV Весёлая Карусель HD
+http://video.entar.workers.dev/?key=k70707k&id=42
+#EXTINF:-1 tvg-id="4775" tvg-logo="http://epg.one/img/4775.png" group-title="StrahTV",StrahTV Ералаш HD
+http://video.entar.workers.dev/?key=k70707k&id=43
+#EXTINF:-1 tvg-id="4731" tvg-logo="http://epg.one/img/4731.png" group-title="StrahTV",StrahTV Кроха ТВ
+http://video.entar.workers.dev/?key=k70707k&id=44
 
 
-#EXTINF:-1 group-title="Кино✨Тв",KBC-В.О.В. HD
-https://ksiomi.xalva.workers.dev/287?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Comics HD
-https://ksiomi.xalva.workers.dev/288?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Elite comedy's HD
-https://ksiomi.xalva.workers.dev/289?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Fantastic HD
-https://ksiomi.xalva.workers.dev/290?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-History HD
-https://ksiomi.xalva.workers.dev/291?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Newfilm HD
-https://ksiomi.xalva.workers.dev/292?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-WAR HD
-https://ksiomi.xalva.workers.dev/293?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Russian Комедия HD
-https://ksiomi.xalva.workers.dev/294?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Видак HD
-https://ksiomi.xalva.workers.dev/295?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-ГАЙ Ritchie & Tarantino
-https://ksiomi.xalva.workers.dev/296?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-ДрамаTic HD
-https://ksiomi.xalva.workers.dev/297?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Вестерн HD
-https://ksiomi.xalva.workers.dev/298?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Кошмарное HD
-https://ksiomi.xalva.workers.dev/299?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-ГОБЛИН HD
-https://ksiomi.xalva.workers.dev/300?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Шпионское HD
-https://ksiomi.xalva.workers.dev/301?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Легендарное HD
-https://ksiomi.xalva.workers.dev/302?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-Animals HD
-https://ksiomi.xalva.workers.dev/303?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-MusKino HD
-https://ksiomi.xalva.workers.dev/304?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",KBC-СпортМикс HD
-https://ksiomi.xalva.workers.dev/305?key=Tv.Za.Tak
 
 
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Soviet
-https://ksiomi.xalva.workers.dev/273?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Series
-https://ksiomi.xalva.workers.dev/274?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Fantastic
-https://ksiomi.xalva.workers.dev/275?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh VHS
-https://ksiomi.xalva.workers.dev/276?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Rating
-https://ksiomi.xalva.workers.dev/277?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Family
-https://ksiomi.xalva.workers.dev/278?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Premiere
-https://ksiomi.xalva.workers.dev/279?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Comedy
-https://ksiomi.xalva.workers.dev/280?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Kids
-https://ksiomi.xalva.workers.dev/281?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Cinema
-https://ksiomi.xalva.workers.dev/282?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Adventure
-https://ksiomi.xalva.workers.dev/283?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Romantic
-https://ksiomi.xalva.workers.dev/284?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Russian
-https://ksiomi.xalva.workers.dev/285?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Fresh Thriller
-https://ksiomi.xalva.workers.dev/286?key=Tv.Za.Tak
 
-#EXTINF:-1 group-title="Кино✨Тв",Magic Adventure
-https://ksiomi.xalva.workers.dev/322?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic Russian
-https://ksiomi.xalva.workers.dev/323?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic Premiere
-https://ksiomi.xalva.workers.dev/324?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic Action
-https://ksiomi.xalva.workers.dev/325?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic Comedy
-https://ksiomi.xalva.workers.dev/326?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic Family
-https://ksiomi.xalva.workers.dev/327?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic Galaxy
-https://ksiomi.xalva.workers.dev/328?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic Horror
-https://ksiomi.xalva.workers.dev/329?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic Karate
-https://ksiomi.xalva.workers.dev/330?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic Love
-https://ksiomi.xalva.workers.dev/331?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic Thriller
-https://ksiomi.xalva.workers.dev/332?key=Tv.Za.Tak
-#EXTINF:-1 group-title="Кино✨Тв",Magic VHS
-https://ksiomi.xalva.workers.dev/333?key=Tv.Za.Tak
 
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Volt
-https://ksiomi.xalva.workers.dev/395?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Blaze
-https://ksiomi.xalva.workers.dev/396?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Spark
-https://ksiomi.xalva.workers.dev/397?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Mythic
-https://ksiomi.xalva.workers.dev/398?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Shadow
-https://ksiomi.xalva.workers.dev/399?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Nova
-https://ksiomi.xalva.workers.dev/400?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Vibe
-https://ksiomi.xalva.workers.dev/401?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Aura
-https://ksiomi.xalva.workers.dev/402?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Venture
-https://ksiomi.xalva.workers.dev/403?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Epic
-https://ksiomi.xalva.workers.dev/404?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Horizon
-https://ksiomi.xalva.workers.dev/405?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Joy
-https://ksiomi.xalva.workers.dev/406?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Echo
-https://ksiomi.xalva.workers.dev/407?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Fusion
-https://ksiomi.xalva.workers.dev/408?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Vision
-https://ksiomi.xalva.workers.dev/409?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Bolt
-https://ksiomi.xalva.workers.dev/410?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Pulse
-https://ksiomi.xalva.workers.dev/411?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Strike
-https://ksiomi.xalva.workers.dev/412?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Quest
-https://ksiomi.xalva.workers.dev/413?key=Tv.Za.Tak
-#EXTINF:-1 group-title="TvZaTak📍Тв",NEXT Peak
-https://ksiomi.xalva.workers.dev/414?key=Tv.Za.Tak
 
 
 
