@@ -3720,3 +3720,46 @@ https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u
 http://85.234.33.63/stream/c11.m3u8
 #EXTINF:-1 group-title="Региональный",sХузур ТВ
 https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",HiTFm
+http://live.hitfm.uz/hitfmuz
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",TempFm
+http://tempradio-live.uz/live
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Radio Grand
+https://str1.tvcom.uz/RADIO-GRAND/shoutcast
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",TruckFm
+http://fm.truckfm.uz:8000/128
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Qalbim Navosi
+http://tabassum.uz:9000/alo_low
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Navro'z
+http://navruzfm.uz:9000/navruz_low
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",I-Kbol Fm
+http://oriat.mediabay.uz:8012/ikbol
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",AvtoRadio
+https://fm102.uz:8443/autoradio
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Ruxsor FM
+http://oriat.mediabay.uz:8012/RuxsorFM
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Oriat Dono
+http://194.5.152.248:8000/dono
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Super Radio
+https://stream.zeno.fm/b7ye4q0k3zhvv
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Parvoz FM
+https://stream.zeno.fm/p38kes0t498uv
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",No'kis Fm
+http://185.196.214.70:8000/live
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Mars FM
+https://stream.zeno.fm/ugzz955srnhvv
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",BiZFm
+http://fm.bizfm.uz:8443/128
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Nostalgia Fm
+https://classicfm.uz:8444/nostalgie.ogg
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Retro Fm
+https://classicfm.uz:8444/retrofm.ogg
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Classic FM
+https://classicfm.uz:8444/classic.ogg
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Poytaxt Uz
+https://st4.mediabay.uz/Poytaxt/PoytaxtUz/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Radio Markaz
+http://mediamarkaz.com:8000/radiomarkaz
