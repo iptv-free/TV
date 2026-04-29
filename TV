@@ -3761,5 +3761,7 @@ https://classicfm.uz:8444/retrofm.ogg
 https://classicfm.uz:8444/classic.ogg
 #EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Poytaxt Uz
 https://st4.mediabay.uz/Poytaxt/PoytaxtUz/tracks-a1/mono.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Poytaxt Ru
+https://st4.mediabay.uz/Poytaxt/Poytaxt/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Uz-Radio",Radio Markaz
 http://mediamarkaz.com:8000/radiomarkaz
