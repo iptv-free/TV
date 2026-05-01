@@ -21,8 +21,10 @@ https://fayllar1.ru/24/kinolar/Bishriy%20Hofiy%20Hazratlari%20-%20Bir%20Zamonlar
 https://fayllar1.ru/24/kinolar/Aziz%20Mahmud%20Hudoyi%20Hazartlari%20Hudoyi%20Yo'li%201993%20480p%20O'zbek%20tilida%20(asilmedia.net).mp4
 #EXTINF:-1 group-title="📂 ISLOMIY FILMLAR",Abdulqodir Jiyloniy Hazratlari Botmagan Quyosh (1993)
 https://fayllar1.ru/24/kinolar/Abdulqodir%20Jiyloniy%20Hazratlari%20Botmagan%20Quyosh%20(1993)%20720p%20O'zbek%20tilida%20(asilmedia.net).mp4
-#EXTINF:-1 tvg-logo="" group-title="📁 TOP KINOLAR",Info
+#EXTINF:-1 tvg-logo="https://zvukoff.usite.pro/apps/zunotv.jpg" group-title="📁 TOP KINOLAR",Info
 https://m3u.usite.pro/1/demo.mp4
+#EXTINF:-1 tvg-logo="https://asilmedia.org/uploads/mini/shortstory/44/e40e1aa928cc5fb2f19bfd634261c1.webp" group-title="📁 TOP KINOLAR",Super Mario 2
+https://l.uzbeklar.biz/film/mario2.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-04/1777237939-172843585-kali.webp" group-title="📁 TOP KINOLAR",Kali 2024
 https://s1.kxcdn.ru/Kali_2024_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-04/1777074167-1778624994-pastbischa-bogov.webp" group-title="📁 TOP KINOLAR",Pomirdagi Ov 2025
@@ -139,7 +141,7 @@ https://s1.kxcdn.ru/Opa_Singil_Qizil_Ilonlar_2019_HD_Daxshat.Net.mp4
 https://s1.kxcdn.ru/Qutqaruv_Kuni_2024_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2021-02/1612376997_89as959q.jpg" group-title="📁 TOP KINOLAR",Qutqarish vaqti 2021
 https://kxcdn.ru/Qutqaruvchi_2021_HD_Daxshat.Net.mp4
-#EXTINF:-1 tvg-logo="" group-title="📁 TARJIMA KINOLAR",Info
+#EXTINF:-1 tvg-logo="https://zvukoff.usite.pro/apps/zunotv.jpg" group-title="📁 TARJIMA KINOLAR",Info
 https://m3u.usite.pro/1/demo.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-04/1777016392-1892246416-hischnyy-ryvok.webp" group-title="📁 TARJIMA KINOLAR",Yirtqich To'fon 2026
 https://s1.kxcdn.ru/Yirtqich_Tofon_2026_HD_Daxshat.Net.mp4
@@ -2239,7 +2241,8 @@ https://kxcdn.ru/Oqchi_2007_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2025-01/1736403694-1551001401-vrag-u-vorot.webp" group-title="📁 SNAYPERLAR",Ostonadagi Dushman 2001
 https://kxcdn.ru/Ostonadagi_Dushman_2001_HD_Daxshat.Net.mp4
 
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://zvukoff.usite.pro/apps/zunotv.jpg" group-title="📁 SSSR KINOLAR",Info
+https://m3u.usite.pro/1/demo.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1636216365-503020767.jpg" group-title="📁 SSSR KINOLAR",Brilliant qo'l 1968
 https://v.uzbeklar.biz/film44/brilliant-qol.mp4
 #EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2021-11/1636215576-843527273.jpg" group-title="📁 SSSR KINOLAR",If qal'asi maxbusi 1988
