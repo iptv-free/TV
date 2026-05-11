@@ -1,4 +1,12 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2025-02/1740774598-137363509-2067-petlya-vremeni.webp" group-title="carusel",111
+https://kxcdn.ru/2067_davr_tuynugi_2020_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2024-07/1722344189_48y4f8yj.jpg" group-title="carusel", 222
+https://kxcdn.ru/2067_davr_tuynugi_2020_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://uzbeklar.biz/uploads/posts/2026-05/1777620983_amirtemur.jpg" group-title="carusel", 333
+https://kxcdn.ru/2067_davr_tuynugi_2020_HD_Daxshat.Net.mp4
+
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2025-02/1740774598-137363509-2067-petlya-vremeni.webp",2067-Yil : Davr Tuynugi 2020
 https://kxcdn.ru/2067_davr_tuynugi_2020_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2023-03/1678446760_0sa8s88q.jpg",Tig' Ustida Yuguruvchilar 2049 / Tig'dor Ovchilar 2017
