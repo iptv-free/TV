@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz, http://178.63.47.178/epg.xml,http://epg.one/epg.xml.gz,http://uztv.su/uploads/channelsarch/channels.xml"
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Super Mario 2: Galaktika 🔥" tvg-logo="https://uzbeklar.biz/uploads/posts/2026-04/1777183437_mario2.jpg" group-title="Премьера",Super Mario 2: Galaktika 2026 🔥
-https://l.uzbeklar.biz/film/mario2.mp4
 #EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Российские",Info
 https://m3u.usite.pro/1/demo.mp4
 #EXTINF:-1 group-title="Российские",Первый канал
@@ -890,38 +888,6 @@ https://stream.zuno-tv.workers.dev/channel/9090/19a78a35/index.m3u8
 https://stream.zuno-tv.workers.dev/channel/9090/n1e05434/index.m3u8
 
 
-#EXTINF:-1 tvg-id="4778" tvg-logo="http://epg.one/img/4778.png" group-title="StrahTV",StrahTV Космо HD
-http://video.entar.workers.dev/?key=k70707k&id=29
-#EXTINF:-1 tvg-id="11311" tvg-logo="http://epg.one/img/11311.png" group-title="StrahTV",StrahTV Sky2000 HD
-http://video.entar.workers.dev/?key=k70707k&id=30
-#EXTINF:-1 tvg-id="4693" tvg-logo="http://epg.one/img/4693.png" group-title="StrahTV",StrahTV The X-Files
-http://video.entar.workers.dev/?key=k70707k&id=31
-#EXTINF:-1 tvg-id="4777" tvg-logo="http://epg.one/img/4777.png" group-title="StrahTV",StrahTV Хит HD
-http://video.entar.workers.dev/?key=k70707k&id=32
-#EXTINF:-1 tvg-id="4776" tvg-logo="http://epg.one/img/4776.png" group-title="StrahTV",StrahTV VHS HD
-http://video.entar.workers.dev/?key=k70707k&id=33
-#EXTINF:-1 tvg-id="4694" tvg-logo="http://epg.one/img/4694.png" group-title="StrahTV",StrahTV Интерны ТВ
-http://video.entar.workers.dev/?key=k70707k&id=34
-#EXTINF:-1 tvg-id="4697" tvg-logo="http://epg.one/img/4697.png" group-title="StrahTV",StrahTV Универ ТВ
-http://video.entar.workers.dev/?key=k70707k&id=35
-#EXTINF:-1 tvg-id="4695" tvg-logo="http://epg.one/img/4695.png" group-title="StrahTV",StrahTV СССР
-http://video.entar.workers.dev/?key=k70707k&id=36
-#EXTINF:-1 tvg-id="4696" tvg-logo="http://epg.one/img/4696.png" group-title="StrahTV",StrahTV Сваты
-http://video.entar.workers.dev/?key=k70707k&id=37
-#EXTINF:-1 tvg-id="4779" tvg-logo="http://epg.one/img/4779.png" group-title="StrahTV",StrahTV Страх HD
-http://video.entar.workers.dev/?key=k70707k&id=38
-#EXTINF:-1 tvg-id="4780" tvg-logo="http://epg.one/img/4780.png" group-title="StrahTV",StrahTV Фантастика HD
-http://video.entar.workers.dev/?key=k70707k&id=39
-#EXTINF:-1 tvg-id="4733" tvg-logo="http://epg.one/img/4733.png" group-title="StrahTV",StrahTV Назад в 90-e
-http://video.entar.workers.dev/?key=k70707k&id=40
-#EXTINF:-1 tvg-id="4734" tvg-logo="http://epg.one/img/4734.png" group-title="StrahTV",StrahTV WWE Russian
-http://video.entar.workers.dev/?key=k70707k&id=41
-#EXTINF:-1 tvg-id="4774" tvg-logo="http://epg.one/img/4774.png" group-title="StrahTV",StrahTV Весёлая Карусель HD
-http://video.entar.workers.dev/?key=k70707k&id=42
-#EXTINF:-1 tvg-id="4775" tvg-logo="http://epg.one/img/4775.png" group-title="StrahTV",StrahTV Ералаш HD
-http://video.entar.workers.dev/?key=k70707k&id=43
-#EXTINF:-1 tvg-id="4731" tvg-logo="http://epg.one/img/4731.png" group-title="StrahTV",StrahTV Кроха ТВ
-http://video.entar.workers.dev/?key=k70707k&id=44
 
 
 
@@ -932,154 +898,8 @@ http://video.entar.workers.dev/?key=k70707k&id=44
 
 
 
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="Info" tvg-logo="" group-title="Кинозал (ТЕСТ)",Info
-https://github.com/iptv-free/TV/releases/download/demo/demo2.mp4
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Cartoons_90
-http://178.63.98.119:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Cartoons_BIG
-http://178.63.98.119:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Cartoons_Short
-http://178.63.98.119:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan
-http://178.63.98.119:8000/play/a00j/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Action
-http://178.63.98.119:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Comedy
-http://178.63.98.119:8000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Katasrofi
-http://178.63.98.119:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Marvel
-http://178.63.98.119:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Melodrama
-http://178.63.98.119:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_MiniSeries
-http://178.63.98.119:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Pes
-http://178.63.98.119:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Premium
-http://178.63.98.119:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Rukino
-http://178.63.98.119:8000/play/a00u/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Simpson
-http://178.63.98.119:8000/play/a00x/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Skoraya_pomosh
-http://178.63.98.119:8000/play/a00w/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Svati
-http://178.63.98.119:8000/play/a00v/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Thriller
-http://178.63.98.119:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Top
-http://178.63.98.119:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_Ujasi
-http://178.63.98.119:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_VHS
-http://178.63.98.119:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_lesnik
-http://178.63.98.119:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",CineMan_mentovskiye_voyni
-http://178.63.98.119:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Cinema_fitness
-http://178.63.98.119:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Cineman_Gluhar_Karpov
-http://178.63.98.119:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Cineman_Katastrofi_doc
-http://178.63.98.119:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Cineman_relax_4k
-http://178.63.98.119:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Liberty Netflix
-http://178.63.98.119:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Liberty RuFilm
-http://178.63.98.119:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Liberty Thriller
-http://178.63.98.119:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Liberty Индия
-http://178.63.98.119:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Liberty Турк фильм
-http://178.63.98.119:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Liberty аванпост
-http://178.63.98.119:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Liberty драма
-http://178.63.98.119:8000/play/a01y/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Liberty киномикс
-http://178.63.98.119:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Liberty криминал
-http://178.63.98.119:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Liberty сериал
-http://178.63.98.119:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_Agata
-http://178.63.98.119:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_NEWRUS
-http://178.63.98.119:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_007
-http://178.63.98.119:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_Classic
-http://178.63.98.119:8000/play/a007/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_Drama
-http://178.63.98.119:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_FILM1
-http://178.63.98.119:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_FILM2
-http://178.63.98.119:8000/play/a002/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_FILM3
-http://178.63.98.119:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_Fantastika
-http://178.63.98.119:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_Istoriya
-http://178.63.98.119:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_MAKROMIR
-http://178.63.98.119:8000/play/a022/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_MEGAMIR
-http://178.63.98.119:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_MIKROMIR
-http://178.63.98.119:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_Pogrujeniye
-http://178.63.98.119:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_Priklyucheniya
-http://178.63.98.119:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_Scorost
-http://178.63.98.119:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_Triller
-http://178.63.98.119:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_UFO
-http://178.63.98.119:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",MiniMax_New_Western
-http://178.63.98.119:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",NHL Network
-http://178.63.98.119:8000/play/a01p/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Natgeo WILD
-http://178.63.98.119:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",National_Geographic_HD
-http://178.63.98.119:8000/play/a01o/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Setanta_Sports_1_HD
-http://178.63.98.119:8000/play/a01m/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Setanta_Sports_2_HD
-http://178.63.98.119:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_Adrenaline
-http://178.63.98.119:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_Adventure
-http://178.63.98.119:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_Best
-http://178.63.98.119:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_Grand
-http://178.63.98.119:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_New_kino
-http://178.63.98.119:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_Oblivion
-http://178.63.98.119:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_Rus_Film
-http://178.63.98.119:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_Tragichnoye
-http://178.63.98.119:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_Triller
-http://178.63.98.119:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_Zabavnoye
-http://178.63.98.119:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_drama_!
-http://178.63.98.119:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_kovboyskoye
-http://178.63.98.119:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="Кинозал (ТЕСТ)",Yosso_melodramma
-http://178.63.98.119:8000/play/a01f/index.m3u8
+
+
 
 
 
@@ -1646,168 +1466,26 @@ http://5.188.158.65:4040/IPTVPLAYTEST.tv/video.m3u8?token=lqRGka5-YwwqF0
 
 #EXTINF:-1 group-title="TV-Line",Euronews
 http://178.134.1.158:8081/Euronews/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Время
-https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
 #EXTINF:-1 group-title="TV-Line",Rossiya24
 http://176.118.197.101/Rossiya24/mono.m3u8
 #EXTINF:-1 group-title="TV-Line",RBK
 http://178.134.1.158:8081/RBK/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Мир
-https://a3569457567-s70378.cdn.ngenix.net/mir/1/index.m3u8
 #EXTINF:-1 group-title="TV-Line",NTV
 http://176.118.197.101/NTV/mono.m3u8
 #EXTINF:-1 group-title="TV-Line",THT
 http://94.230.128.107:8080/THT/video.m3u8
-#EXTINF:-1 group-title="TV-Line",ТВ3
-https://a3569457567-s70378.cdn.ngenix.net/tv_3/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Hollywood HD
-https://a3569457567-s70378.cdn.ngenix.net/amc/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Amedia 1
-https://a3569457567-s70378.cdn.ngenix.net/amedia_1/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Amedia 2
-https://a3569457567-s70378.cdn.ngenix.net/amedia_2/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Amedia Hit
-https://a3569457567-s70378.cdn.ngenix.net/amedia_hit/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Amedia Premium HD
-https://a3569457567-s70378.cdn.ngenix.net/amedia_premium_hd/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Bloomberg
-https://a3569457567-s70378.cdn.ngenix.net/bloomberg/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",.sci-fi
-https://a3569457567-s70378.cdn.ngenix.net/sony_sci_fi/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",.Black
-https://a3569457567-s70378.cdn.ngenix.net/sony_turbo/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Индийское кино
-https://a3569457567-s70378.cdn.ngenix.net/india_tv/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Индия
-https://a3569457567-s70378.cdn.ngenix.net/zee_tv/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Наше новое кино
-https://a3569457567-s70378.cdn.ngenix.net/nashe_novoe_kino/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Киноужас
-https://a3569457567-s70378.cdn.ngenix.net/kinouzhas/1/index.m3u8
 #EXTINF:-1 group-title="TV-Line",Киносерия
 http://176.118.197.101/Kinoseria/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Киносвидание
-https://a3569457567-s70378.cdn.ngenix.net/kinoklub/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Дом Кино Премиум
-https://a3569457567-s70378.cdn.ngenix.net/dom_kino_premium_hd/3/index.m3u8
-#EXTINF:-1 group-title="TV-Line",TV XXI
-https://a3569457567-s70378.cdn.ngenix.net/tv_xxi/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",VIP Comedy
-https://a3569457567-s70378.cdn.ngenix.net/vip_comedy/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",VIP Megahit
-https://a3569457567-s70378.cdn.ngenix.net/vip_megahit/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",VIP Premiere
-https://a3569457567-s70378.cdn.ngenix.net/vip_premiere/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",VIP Serial
-https://a3569457567-s70378.cdn.ngenix.net/vip_serial/2/index.m3u8
 #EXTINF:-1 group-title="TV-Line",Дом Кино
 http://176.118.197.101/Dom_kino/index.m3u8
 #EXTINF:-1 group-title="TV-Line",Еврокино
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 group-title="TV-Line",Мир сериала
 http://176.118.197.101/MirSeriala/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Filmbox
-https://a3569457567-s70378.cdn.ngenix.net/filmbox/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Filmbox Arthouse
-https://a3569457567-s70378.cdn.ngenix.net/filmbox_arthouse/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Fox life
-https://a3569457567-s70378.cdn.ngenix.net/fox_life/1/index.m3u8
 #EXTINF:-1 group-title="TV-Line",Иллюзион+
 http://176.118.197.101/Illuzion+/index.m3u8
-#EXTINF:-1 group-title="TV-Line",kinoman
-https://a3569457567-s70378.cdn.ngenix.net/kinoman/1/index.m3u8
 #EXTINF:-1 group-title="TV-Line",Ностальгия
 http://176.118.197.101/Nostalgiya/index.m3u8
-#EXTINF:-1 group-title="TV-Line",National geographic
-https://a3569457567-s70378.cdn.ngenix.net/national_geographic/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Terra
-https://a3569457567-s70378.cdn.ngenix.net/terra/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Ocean TV
-https://a3569457567-s70378.cdn.ngenix.net/ocean_tv/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",History
-https://a3569457567-s70378.cdn.ngenix.net/history/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",H2
-https://a3569457567-s70378.cdn.ngenix.net/history_2/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Дикий
-https://a3569457567-s70378.cdn.ngenix.net/dikiy/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",RTG HD
-https://a3569457567-s70378.cdn.ngenix.net/rtg_hd/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Зоопарк
-https://a3569457567-s70378.cdn.ngenix.net/zoopark/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",DocuBox
-https://a3569457567-s70378.cdn.ngenix.net/docubox/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Galaxy
-https://a3569457567-s70378.cdn.ngenix.net/galaxy/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Глазами туриста
-https://a3569457567-s70378.cdn.ngenix.net/glazami_turista/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Travel+Adventure
-https://a3569457567-s70378.cdn.ngenix.net/travel_and_adventure/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",The explorers
-https://a3569457567-s70378.cdn.ngenix.net/the_explorers/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Viasat Explore
-https://a3569457567-s70378.cdn.ngenix.net/viasat_explore/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Viasat History
-https://a3569457567-s70378.cdn.ngenix.net/viasat_history/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Viasat Nature
-https://a3569457567-s70378.cdn.ngenix.net/viasat_nature/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Baby TV
-https://a3569457567-s70378.cdn.ngenix.net/baby_tv/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Tiji
-https://a3569457567-s70378.cdn.ngenix.net/tiji/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",СТС Kids
-https://a3569457567-s70378.cdn.ngenix.net/ctc_kids/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Nickelodeon
-https://a3569457567-s70378.cdn.ngenix.net/nickelodeon/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Nicktoons
-https://a3569457567-s70378.cdn.ngenix.net/nicktoons/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Малыш
-https://a3569457567-s70378.cdn.ngenix.net/malish/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Gulli Girl
-https://a3569457567-s70378.cdn.ngenix.net/gulli/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Карусель
-https://a3569457567-s70378.cdn.ngenix.net/karusel/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Da Vinci
-https://a3569457567-s70378.cdn.ngenix.net/da_vinci/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Детский мир
-https://a3569457567-s70378.cdn.ngenix.net/detskij_mir/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",MMA-TV.com
-https://a3569457567-s70378.cdn.ngenix.net/m1_global/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",UDAR
-https://a3569457567-s70378.cdn.ngenix.net/ufc/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Shant music
-https://a3569457567-s70378.cdn.ngenix.net/shant_music/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Muzzone
-https://a3569457567-s70378.cdn.ngenix.net/muzzone/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Mezzo
-https://a3569457567-s70378.cdn.ngenix.net/mezzo/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Живи!
-https://a3569457567-s70378.cdn.ngenix.net/jivi/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",РЕН ТВ
-https://a3569457567-s70378.cdn.ngenix.net/ren_tv/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",НТВ Право
-https://a3569457567-s70378.cdn.ngenix.net/ntv_pravo/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",НТВ Сериал
-https://a3569457567-s70378.cdn.ngenix.net/ntv_serial/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Точка РФ
-https://a3569457567-s70378.cdn.ngenix.net/hd_life/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",365 Дней
-https://a3569457567-s70378.cdn.ngenix.net/365_dney_tv/2/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Телекафе
-http://176.118.197.101/Telekafe/index.m3u8
-#EXTINF:-1 group-title="TV-Line",FashionBox
-https://a3569457567-s70378.cdn.ngenix.net/fashion_box/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Flixsnip
-https://a3569457567-s70378.cdn.ngenix.net/flixsnip/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",КВН ТВ
-https://a3569457567-s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",RTVI
-https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Dar21
-https://a3569457567-s70378.cdn.ngenix.net/dar21/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Бокс ТВ
-https://a3569457567-s70378.cdn.ngenix.net/boks_tv/1/index.m3u8
-#EXTINF:-1 group-title="TV-Line",Матч! Планета
-https://a3569457567-s70378.cdn.ngenix.net/match_planeta/1/index.m3u8
 #EXTINF:-1 group-title="TV-Line",KHL
 http://176.118.197.101/KHL/mono.m3u8
 #EXTINF:-1 group-title="TV-Line",Nostalgiya
