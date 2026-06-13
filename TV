@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 group-title="Фильмовые",Amedia HIT
 https://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
 #EXTINF:-1 group-title="Фильмовые",Amedia 2
@@ -838,6 +839,9 @@ http://91.221.252.12:82/tv114
 http://91.221.252.12:82/tv113
 #EXTINF:-1 group-title="СИТИ-НЕТ",Футбол
 http://91.221.252.12:82/tv115
+
+#EXTINF:-1 group-title="КиноСтрим Not24/7",Таржима Кинолар 24/7
+https://pub-4eb1081a88bf41e0a9513e818ad14e15.r2.dev/hls/stream.m3u8 
 #EXTINF:-1 group-title="КиноСтрим Not24/7",ВК Кино 2ᴴᴰ
 rtmp://vkvsd202.okcdn.ru/playback/10472252320626?stkn=55ZiY3uqOcLbjh8YLZ654EGxTQCPkjoczCP4KcuqIiVY4Xvydx7GLhpzKW3_9I0RZtVa3gKqHM4&uid=0&sp=uid,sp&sig=vlibqm4nyu&fromCache=1
 #EXTINF:-1 group-title="КиноСтрим Not24/7",ВК Кино и сериалыᴴᴰ
