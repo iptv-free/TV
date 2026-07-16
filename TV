@@ -341,26 +341,6 @@ http://158.101.222.193:88/georgia_play.php?id=kinokomediya
 http://158.101.222.193:88/georgia_play.php?id=kinoseria
 #EXTINF:-1 group-title="Кино",Киносвидание
 http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
-#EXTINF:-1 group-title="Кино",Наше крутое HD
-http://stream-tv-digital.hf.space/channel/900.m3u8
-#EXTINF:-1 group-title="Кино",Премиальное HD
-http://stream-tv-digital.hf.space/channel/901.m3u8
-#EXTINF:-1 group-title="Кино",Остросюжетное HD
-http://stream-tv-digital.hf.space/channel/902.m3u8
-#EXTINF:-1 group-title="Кино",Душевное HD
-http://stream-tv-digital.hf.space/channel/903.m3u8
-#EXTINF:-1 group-title="Кино",Кинопоказ HD
-http://stream-tv-digital.hf.space/channel/904.m3u8
-#EXTINF:-1 group-title="Кино",Шокирующее HD
-http://stream-tv-digital.hf.space/channel/905.m3u8
-#EXTINF:-1 group-title="Кино",Комедийное HD
-http://stream-tv-digital.hf.space/channel/906.m3u8
-#EXTINF:-1 group-title="Кино",KINO 24
-http://stream-tv-digital.hf.space/channel/886.m3u8
-#EXTINF:-1 group-title="Кино",Детское кино
-http://stream-tv-digital.hf.space/channel/894.m3u8
-#EXTINF:-1 group-title="Кино",Маша и Медведь
-http://stream-tv-digital.hf.space/channel/897.m3u8
 #EXTINF:-1 group-title="Кино",Мосфильм
 http://hls127.freeott.top:8080/Mosfilm/mono.m3u8
 #EXTINF:-1 group-title="Кино",Zvezda
@@ -381,12 +361,6 @@ http://176.118.197.101/LubimoeKino/index.m3u8
 http://176.118.197.101/Nostalgiya/mono.m3u8
 #EXTINF:-1 group-title="Кино",Про любовь HD
 http://hls127.freeott.top:8080/ProLubovHD/mono.m3u8
-#EXTINF:-1 group-title="Кино",День победы HD
-http://stream-tv-digital.hf.space/channel/907.m3u8
-#EXTINF:-1 group-title="Кино",Кино 1 INT
-http://stream-tv-digital.hf.space/channel/883.m3u8
-#EXTINF:-1 group-title="Кино",PRO100 TV
-http://stream-tv-digital.hf.space/channel/885.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Факты
 https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Детское
