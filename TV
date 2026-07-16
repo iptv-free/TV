@@ -400,646 +400,813 @@ https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 group-title="Кино",Смотрим 100% Любовь
 https://stream.smotrim.ru/hls/fasttv01/playlist_3.m3u8
 
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/87.png",AMEDIA HIT HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzg3Lm0zdTg.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/88.png",Amedia Premium HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzg4Lm0zdTg.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/89.png",CINEMA
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzg5Lm0zdTg.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/90.png",FilmBox
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkwLm0zdTg.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/91.png",Filmbox Arthouse
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkxLm0zdTg.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/92.png",FX
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkyLm0zdTg.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/93.png",FX Life
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkzLm0zdTg.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/97.png",.Red
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzk3Lm0zdTg.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/99.png",.Sci-Fi
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzk5Lm0zdTg.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/100.png",ТВ 21
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/101.png",Viju TV1000 Action
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/102.png",Viju TV1000 Русское
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/103.png",Viju TV1000
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/104.png",Viju+ comedy HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwNC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/105.png",Viju+ megahit HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwNS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/106.png",Viju+ premiere HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwNi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/107.png",Viju+ serial HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwNy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/108.png",ZEE TV
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwOC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/109.png",A1
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwOS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/111.png",Дом Кино
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExMS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/112.png",Дом кино Премиум HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExMi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/113.png",Еврокино
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExMy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/114.png",Иллюзион+
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExNC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/115.png",Индийское кино
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExNS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/116.png",Калейдоскоп ТВ
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExNi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/117.png",Кино ТВ HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExNy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/118.png",КиноХит
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExOC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/119.png",Кинокомедия
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExOS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/120.png",Киномикс
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyMC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/122.png",Киносвидание
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyMi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/123.png",Киносемья
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyMy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/124.png",Классика Кино HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/127.png",Мир сериала
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/128.png",Мужское Кино
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyOC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/129.png",НТВ сериал
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyOS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/130.png",НТВ хит
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzMC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/131.png",Настоящее страшное ТВ
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzMS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/132.png",Наше новое кино
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzMi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/135.png",Русский Бестселлер
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzNS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/136.png",Русский Роман
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzNi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/137.png",Русский детектив
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzNy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/138.png",Русский иллюзион
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzOC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/139.png",Советское кино
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzOS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/346.png",Победа
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzM0Ni5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/379.png",Победа HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzM3OS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/387.png",Ultra HD cinema (4K)
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzM4Ny5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/401.png",A1 HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQwMS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/402.png",A2 HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQwMi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/404.png",FAN HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQwNC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/406.png",Comedy Central
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQwNi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/409.png",Viju TV1000 Action HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQwOS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/410.png",Viju TV1000 HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQxMC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/411.png",Viju TV1000 Русское HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQxMS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/414.png",Киносемья HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQxNC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/416.png",Русский роман HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQxNi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/418.png",Bollywood HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQxOC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/434.png",Ultra HD Cinema
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQzNC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/475.png",Тайна
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQ3NS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/498.png",A2
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQ5OC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/499.png",Amedia Hit
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzQ5OS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/500.png",Amedia Premium
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzUwMC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/502.png",Hollywood
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzUwMi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/503.png",Hollywood HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzUwMy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/506.png",.Black
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzUwNi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/509.png",Киноужас
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzUwOS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/510.png",Комедия
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzUxMC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/513.png",Ретро ТВ
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzUxMy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/514.png",Родное кино
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzUxNC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/515.png",Феникс + кино
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzUxNS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/900.png",Наше крутое HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkwMC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/901.png",Премиальное HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkwMS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/902.png",Остросюжетное HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkwMi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/903.png",Душевное HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkwMy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/904.png",Кинопоказ HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkwNC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/905.png",Шокирующее HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkwNS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/906.png",Комедийное HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkwNi5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/907.png",День победы HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkwNy5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1025.png",Хит HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMjUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1026.png",Наш Кинопоказ HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMjYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1027.png",Дорама
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMjcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1028.png",Романтичное HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMjgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1029.png",Наше Мужское HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMjkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1030.png",КиноСат
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMzAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1031.png",Блокбастер HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMzEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1032.png",Арсенал HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwMzIubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1095.png",Мосфильм HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwOTUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1098.png",Trash HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwOTgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1099.png",Про любовь HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEwOTkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1100.png",Камеди HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExMDAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1101.png",Кино UHD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExMDEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1103.png",Кино Ultra HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExMDMubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1149.png",Любимое HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExNDkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1490.png",Киносерия
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE0OTAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1491.png",Аниме ТВ HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE0OTEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1492.png",Ужас ТВ HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE0OTIubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1507.png",Криминальное HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MDcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1590.png",Советская киноклассика
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1OTAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/1641.png",START Air
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NDEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/2067.png",Start World HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNjcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/2070.png",Патриот
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNzAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/2197.png",САПФИР
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIxOTcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.cdntv.online/img/2291.png",КИНЕКО
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyOTEubTN1OA.m3u8?k=12345
 
 
 
 
 
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/846.png",Аквариум HD
-https://vip.zuno-tv.workers.dev/live/846.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/847.png",Камин HD
-https://vip.zuno-tv.workers.dev/live/847.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/883.png",Кино 1 INT
-https://vip.zuno-tv.workers.dev/live/883.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/885.png",PRO100 TV
-https://vip.zuno-tv.workers.dev/live/885.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/886.png",KINO 24
-https://vip.zuno-tv.workers.dev/live/886.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/894.png",Детское кино
-https://vip.zuno-tv.workers.dev/live/894.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/897.png",Маша и Медведь
-https://vip.zuno-tv.workers.dev/live/897.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1168.png",Твое ТВ
-https://vip.zuno-tv.workers.dev/live/1168.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1252.png",Cartoons 90
-https://vip.zuno-tv.workers.dev/live/1252.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1253.png",Cartoons Short
-https://vip.zuno-tv.workers.dev/live/1253.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1254.png",Cartoons Big
-https://vip.zuno-tv.workers.dev/live/1254.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1255.png",CineMan
-https://vip.zuno-tv.workers.dev/live/1255.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1256.png",CineMan Top
-https://vip.zuno-tv.workers.dev/live/1256.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1257.png",CineMan Action
-https://vip.zuno-tv.workers.dev/live/1257.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1258.png",CineMan Thriller
-https://vip.zuno-tv.workers.dev/live/1258.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1259.png",CineMan Melodrama
-https://vip.zuno-tv.workers.dev/live/1259.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1260.png",CineMan Marvel
-https://vip.zuno-tv.workers.dev/live/1260.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1261.png",CineMan Ужасы
-https://vip.zuno-tv.workers.dev/live/1261.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1262.png",CineMan Комедия
-https://vip.zuno-tv.workers.dev/live/1262.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1263.png",CineMan VHS
-https://vip.zuno-tv.workers.dev/live/1263.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1264.png",CineMan РуКино
-https://vip.zuno-tv.workers.dev/live/1264.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1265.png",CineMan Сваты
-https://vip.zuno-tv.workers.dev/live/1265.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1266.png",Сериал "Скорая помощь"
-https://vip.zuno-tv.workers.dev/live/1266.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1267.png",Сериал "Симпсоны"
-https://vip.zuno-tv.workers.dev/live/1267.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1271.png",CineMan Катастрофы
-https://vip.zuno-tv.workers.dev/live/1271.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1295.png",CineMan Ментовские войны
-https://vip.zuno-tv.workers.dev/live/1295.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1296.png",CineMan ПёС
-https://vip.zuno-tv.workers.dev/live/1296.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1297.png",CineMan Лесник
-https://vip.zuno-tv.workers.dev/live/1297.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1347.png",VL Comedy
-https://vip.zuno-tv.workers.dev/live/1347.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1348.png",VL Cartoons
-https://vip.zuno-tv.workers.dev/live/1348.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1349.png",VL Fantastic
-https://vip.zuno-tv.workers.dev/live/1349.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1350.png",VL Holiday
-https://vip.zuno-tv.workers.dev/live/1350.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1351.png",VL Horror
-https://vip.zuno-tv.workers.dev/live/1351.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1379.png",Z!Channel HD
-https://vip.zuno-tv.workers.dev/live/1379.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1380.png",Z!Action HD
-https://vip.zuno-tv.workers.dev/live/1380.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1381.png",Z!Adventure HD
-https://vip.zuno-tv.workers.dev/live/1381.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1382.png",Z!Biography HD
-https://vip.zuno-tv.workers.dev/live/1382.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1383.png",Z!Comedy HD
-https://vip.zuno-tv.workers.dev/live/1383.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1384.png",Z!Crime HD
-https://vip.zuno-tv.workers.dev/live/1384.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1385.png",Z!Detective HD
-https://vip.zuno-tv.workers.dev/live/1385.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1386.png",Z!Drama HD
-https://vip.zuno-tv.workers.dev/live/1386.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1387.png",Z!Family HD
-https://vip.zuno-tv.workers.dev/live/1387.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1388.png",Z!Fantastic HD
-https://vip.zuno-tv.workers.dev/live/1388.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1389.png",Z!Fantasy HD
-https://vip.zuno-tv.workers.dev/live/1389.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1390.png",Z!History HD
-https://vip.zuno-tv.workers.dev/live/1390.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1391.png",Z!Horror HD
-https://vip.zuno-tv.workers.dev/live/1391.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1392.png",Z!Russian HD
-https://vip.zuno-tv.workers.dev/live/1392.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1393.png",Z!Serial HD
-https://vip.zuno-tv.workers.dev/live/1393.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1394.png",Z!Sitcom HD
-https://vip.zuno-tv.workers.dev/live/1394.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1395.png",Z!Smile HD
-https://vip.zuno-tv.workers.dev/live/1395.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1396.png",Z!Thriller HD
-https://vip.zuno-tv.workers.dev/live/1396.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1397.png",Z!Travel HD
-https://vip.zuno-tv.workers.dev/live/1397.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1398.png",Z!Fun HD
-https://vip.zuno-tv.workers.dev/live/1398.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1399.png",Z!Musiс HD
-https://vip.zuno-tv.workers.dev/live/1399.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1400.png",Z!Rock HD
-https://vip.zuno-tv.workers.dev/live/1400.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1413.png",CineMan Miniseries
-https://vip.zuno-tv.workers.dev/live/1413.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1415.png",Z!Military HD
-https://vip.zuno-tv.workers.dev/live/1415.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1416.png",Z!Science HD
-https://vip.zuno-tv.workers.dev/live/1416.m3u8
-#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1426.png",CineMan Premium
-https://vip.zuno-tv.workers.dev/live/1426.m3u8
+
+
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1511.png",Твое ТВ Юмор
-https://vip.zuno-tv.workers.dev/live/1511.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1512.png",Sky High Scream HD
-https://vip.zuno-tv.workers.dev/live/1512.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1513.png",Sky High Fear VHS
-https://vip.zuno-tv.workers.dev/live/1513.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1514.png",Sky High Jetix HD
-https://vip.zuno-tv.workers.dev/live/1514.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1515.png",Sky High RedRoom FHD
-https://vip.zuno-tv.workers.dev/live/1515.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1516.png",Sky High Undead FHD
-https://vip.zuno-tv.workers.dev/live/1516.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1517.png",Sky High Brick S FHD
-https://vip.zuno-tv.workers.dev/live/1517.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1518.png",Sky High Dust S FHD
-https://vip.zuno-tv.workers.dev/live/1518.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1519.png",Sky High Concert HD
-https://vip.zuno-tv.workers.dev/live/1519.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MTkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1520.png",Sky High Strike VHS FHD
-https://vip.zuno-tv.workers.dev/live/1520.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1521.png",Sky High Firezone FHD
-https://vip.zuno-tv.workers.dev/live/1521.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1522.png",Sky High Bunny HD
-https://vip.zuno-tv.workers.dev/live/1522.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1523.png",Sky High Gunrush FHD
-https://vip.zuno-tv.workers.dev/live/1523.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1524.png",Sky High Quant S FHD
-https://vip.zuno-tv.workers.dev/live/1524.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1525.png",Sky High DRAMA 4K
-https://vip.zuno-tv.workers.dev/live/1525.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1526.png",Sky High Tanos S FHD
-https://vip.zuno-tv.workers.dev/live/1526.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1527.png",Sky High Bat S FHD
-https://vip.zuno-tv.workers.dev/live/1527.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1528.png",Sky High Nature HDR 4K
-https://vip.zuno-tv.workers.dev/live/1528.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MjgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1530.png",Sky High Neon VHS FHD
-https://vip.zuno-tv.workers.dev/live/1530.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1531.png",Sky High Future FHD
-https://vip.zuno-tv.workers.dev/live/1531.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1532.png",Sky High Nick S FHD
-https://vip.zuno-tv.workers.dev/live/1532.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1533.png",Sky High Toon S FHD
-https://vip.zuno-tv.workers.dev/live/1533.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1534.png",Sky High Junior FHD
-https://vip.zuno-tv.workers.dev/live/1534.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1535.png",Sky High Teen FHD
-https://vip.zuno-tv.workers.dev/live/1535.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1536.png",Sky High Boom FHD
-https://vip.zuno-tv.workers.dev/live/1536.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1537.png",Sky High Civil S FHD
-https://vip.zuno-tv.workers.dev/live/1537.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1538.png",Sky High Doc HD
-https://vip.zuno-tv.workers.dev/live/1538.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1539.png",Sky High Brain HD
-https://vip.zuno-tv.workers.dev/live/1539.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1MzkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1540.png",Sky High Nature FHD
-https://vip.zuno-tv.workers.dev/live/1540.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NDAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1541.png",Sky High Archive FHD
-https://vip.zuno-tv.workers.dev/live/1541.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NDEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1542.png",Sky High Trace S FHD
-https://vip.zuno-tv.workers.dev/live/1542.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NDIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1543.png",Sky High LO FI HD
-https://vip.zuno-tv.workers.dev/live/1543.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NDMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1545.png",MS Animated
-https://vip.zuno-tv.workers.dev/live/1545.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NDUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1551.png",Sky High Music HD
-https://vip.zuno-tv.workers.dev/live/1551.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NTEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1552.png",MS Animated HD
-https://vip.zuno-tv.workers.dev/live/1552.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NTIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1553.png",MS Crime HD
-https://vip.zuno-tv.workers.dev/live/1553.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NTMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1554.png",MS Prisons HD
-https://vip.zuno-tv.workers.dev/live/1554.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NTQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1555.png",MS Toons HD
-https://vip.zuno-tv.workers.dev/live/1555.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NTUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1556.png",MS Young Blood HD
-https://vip.zuno-tv.workers.dev/live/1556.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NTYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1557.png",MS Magic HD
-https://vip.zuno-tv.workers.dev/live/1557.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1558.png",Clarity4K Netflix
-https://vip.zuno-tv.workers.dev/live/1558.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NTgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1559.png",Clarity4K Кино СССР
-https://vip.zuno-tv.workers.dev/live/1559.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NTkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1560.png",Clarity4K Приключения
-https://vip.zuno-tv.workers.dev/live/1560.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NjAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1561.png",Clarity4K Ужасы
-https://vip.zuno-tv.workers.dev/live/1561.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NjEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1562.png",Clarity4K Фантастика
-https://vip.zuno-tv.workers.dev/live/1562.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NjIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1563.png",Clarity4k Драмы
-https://vip.zuno-tv.workers.dev/live/1563.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NjMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1564.png",Clarity4k Русские сериалы
-https://vip.zuno-tv.workers.dev/live/1564.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NjQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1565.png",Clarity4k Классика кино
-https://vip.zuno-tv.workers.dev/live/1565.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NjUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1566.png",Clarity4k Единоборства
-https://vip.zuno-tv.workers.dev/live/1566.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NjYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1567.png",Clarity4K Семейный
-https://vip.zuno-tv.workers.dev/live/1567.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NjcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1568.png",Clarity4K Travel blog
-https://vip.zuno-tv.workers.dev/live/1568.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NjgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1569.png",Clarity4K Звериный мир
-https://vip.zuno-tv.workers.dev/live/1569.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NjkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1570.png",Clarity4K КосмоМир
-https://vip.zuno-tv.workers.dev/live/1570.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NzAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1571.png",Clarity4K Ужасы  VHS
-https://vip.zuno-tv.workers.dev/live/1571.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NzEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1572.png",Clarity4k КиноФраншизы
-https://vip.zuno-tv.workers.dev/live/1572.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NzIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1573.png",Clarity4K Комедия
-https://vip.zuno-tv.workers.dev/live/1573.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NzMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1574.png",Clarity4k Боевик
-https://vip.zuno-tv.workers.dev/live/1574.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NzQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1575.png",Clarity4K Фэнтези
-https://vip.zuno-tv.workers.dev/live/1575.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NzUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1576.png",Clarity4K Walt Disney
-https://vip.zuno-tv.workers.dev/live/1576.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NzYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1577.png",Clarity4K Мультимир
-https://vip.zuno-tv.workers.dev/live/1577.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1NzcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1580.png",CineMan Криминальные сериалы
-https://vip.zuno-tv.workers.dev/live/1580.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1ODAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1581.png",CineMan Комедийные сериалы
-https://vip.zuno-tv.workers.dev/live/1581.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1ODEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1583.png",Clarity4K Комедия СССР 2
-https://vip.zuno-tv.workers.dev/live/1583.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1ODMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1584.png",Clarity4K Комедия СССР 1
-https://vip.zuno-tv.workers.dev/live/1584.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1ODQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1585.png",Clarity4k Боевик VHS
-https://vip.zuno-tv.workers.dev/live/1585.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1ODUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1587.png",Clarity4K UrbanBlack
-https://vip.zuno-tv.workers.dev/live/1587.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1ODcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1588.png",CineMan Фитнес
-https://vip.zuno-tv.workers.dev/live/1588.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE1ODgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1629.png",CineMan Relax 4K
-https://vip.zuno-tv.workers.dev/live/1629.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2MjkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1631.png",KANAL 61
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2MzEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1632.png",Euro Indie Music Chart TV
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2MzIubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1634.png",Diyanet TV
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2MzQubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1636.png",Power Love
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2MzYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1637.png",PowerTurk Taptaze
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2MzcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1638.png",kANAL Z
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2MzgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1639.png",Kanal 15
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2MzkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1642.png",Clarity4k UFO
-https://vip.zuno-tv.workers.dev/live/1642.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NDIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1643.png",Clarity4K Молодежные комедии
-https://vip.zuno-tv.workers.dev/live/1643.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NDMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1644.png",Clarity4K Триллер
-https://vip.zuno-tv.workers.dev/live/1644.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NDQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1645.png",Clarity4K Мультляндия
-https://vip.zuno-tv.workers.dev/live/1645.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NDUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1646.png",Clarity4K Театр
-https://vip.zuno-tv.workers.dev/live/1646.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NDYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1647.png",Clarity4K France music
-https://vip.zuno-tv.workers.dev/live/1647.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NDcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1648.png",Clarity4k Сумеречный Эфир
-https://vip.zuno-tv.workers.dev/live/1648.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NDgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1649.png",Clarity4K Asia
-https://vip.zuno-tv.workers.dev/live/1649.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NDkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1650.png",Clarity4K Galaxy Films
-https://vip.zuno-tv.workers.dev/live/1650.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NTAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1651.png",Clarity4K Latin music
-https://vip.zuno-tv.workers.dev/live/1651.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NTEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1652.png",Clarity4K BluesString
-https://vip.zuno-tv.workers.dev/live/1652.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NTIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1653.png",Clarity4K World Music
-https://vip.zuno-tv.workers.dev/live/1653.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NTMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1654.png",Clarity4K Города
-https://vip.zuno-tv.workers.dev/live/1654.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NTQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1655.png",Clarity4K Ukrainian music
-https://vip.zuno-tv.workers.dev/live/1655.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NTUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1656.png",Clarity4K Korean music
-https://vip.zuno-tv.workers.dev/live/1656.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NTYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1657.png",Clarity4K Avto Blog
-https://vip.zuno-tv.workers.dev/live/1657.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1658.png",Clarity4K Bollywood music
-https://vip.zuno-tv.workers.dev/live/1658.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NTgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1659.png",Clarity4K Russian music
-https://vip.zuno-tv.workers.dev/live/1659.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NTkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1660.png",Clarity4k Anime
-https://vip.zuno-tv.workers.dev/live/1660.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NjAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1661.png",Clarity4K Heavy metal
-https://vip.zuno-tv.workers.dev/live/1661.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NjEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1662.png",Clarity4K КиноНовинки
-https://vip.zuno-tv.workers.dev/live/1662.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NjIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1663.png",Clarity4K Киношарм
-https://vip.zuno-tv.workers.dev/live/1663.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NjMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1664.png",Clarity4k Deep House
-https://vip.zuno-tv.workers.dev/live/1664.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NjQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1665.png",Clarity4K Kинодети CССР
-https://vip.zuno-tv.workers.dev/live/1665.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NjUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1666.png",Clarity4k DeepMe
-https://vip.zuno-tv.workers.dev/live/1666.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NjYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1667.png",Clarity4K Запал
-https://vip.zuno-tv.workers.dev/live/1667.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NjcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1668.png",Clarity4K RemasterWave
-https://vip.zuno-tv.workers.dev/live/1668.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NjgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1670.png",Clarity4K HBO series
-https://vip.zuno-tv.workers.dev/live/1670.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NzAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1675.png",Сити Эдем - КиноЭкшен
-https://vip.zuno-tv.workers.dev/live/1675.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2NzUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1681.png",CineMan Air Crash
-https://vip.zuno-tv.workers.dev/live/1681.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2ODEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1682.png",CineMan СССР 4К
-https://vip.zuno-tv.workers.dev/live/1682.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE2ODIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1975.png",CineMan KIDS 4K
-https://vip.zuno-tv.workers.dev/live/1975.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5NzUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1983.png",Fresh Soviet
-https://vip.zuno-tv.workers.dev/live/1983.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5ODMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1984.png",Fresh Series
-https://vip.zuno-tv.workers.dev/live/1984.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5ODQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1985.png",Fresh Fantastic
-https://vip.zuno-tv.workers.dev/live/1985.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5ODUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1986.png",Fresh VHS
-https://vip.zuno-tv.workers.dev/live/1986.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5ODYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1987.png",Fresh Rating
-https://vip.zuno-tv.workers.dev/live/1987.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5ODcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1988.png",Fresh Family
-https://vip.zuno-tv.workers.dev/live/1988.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5ODgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1989.png",Fresh Premiere
-https://vip.zuno-tv.workers.dev/live/1989.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5ODkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1990.png",Fresh Comedy
-https://vip.zuno-tv.workers.dev/live/1990.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5OTAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1991.png",Fresh Kids
-https://vip.zuno-tv.workers.dev/live/1991.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5OTEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1992.png",Fresh Cinema
-https://vip.zuno-tv.workers.dev/live/1992.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5OTIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1993.png",Fresh Horror
-https://vip.zuno-tv.workers.dev/live/1993.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5OTMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1994.png",Fresh Adventure
-https://vip.zuno-tv.workers.dev/live/1994.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5OTQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1995.png",Fresh Romantic
-https://vip.zuno-tv.workers.dev/live/1995.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5OTUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1996.png",Fresh Russian
-https://vip.zuno-tv.workers.dev/live/1996.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5OTYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1997.png",Fresh Thriller
-https://vip.zuno-tv.workers.dev/live/1997.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE5OTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2005.png",LIBERTY DC
-https://vip.zuno-tv.workers.dev/live/2005.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMDUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2006.png",LIBERTY Короткометражное
-https://vip.zuno-tv.workers.dev/live/2006.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMDYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2007.png",LIBERTY Пиксар
-https://vip.zuno-tv.workers.dev/live/2007.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMDcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2008.png",LIBERTY DISNEY
-https://vip.zuno-tv.workers.dev/live/2008.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMDgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2009.png",LIBERTY Мелодрамы
-https://vip.zuno-tv.workers.dev/live/2009.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMDkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2010.png",LIBERTY Боевики
-https://vip.zuno-tv.workers.dev/live/2010.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMTAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2011.png",LIBERTY BBC
-https://vip.zuno-tv.workers.dev/live/2011.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMTEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2012.png",LIBERTY Симпсоны
-https://vip.zuno-tv.workers.dev/live/2012.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMTIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2013.png",LIBERTY Сваты
-https://vip.zuno-tv.workers.dev/live/2013.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMTMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2014.png",LIBERTY Южный парк
-https://vip.zuno-tv.workers.dev/live/2014.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMTQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2015.png",LIBERTY Комедии
-https://vip.zuno-tv.workers.dev/live/2015.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMTUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2017.png",LIBERTY Планета 360
-https://vip.zuno-tv.workers.dev/live/2017.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2018.png",LIBERTY BEBIMULT
-https://vip.zuno-tv.workers.dev/live/2018.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMTgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2019.png",LIBERTY Занавес
-https://vip.zuno-tv.workers.dev/live/2019.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMTkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2020.png",LIBERTY ANIME
-https://vip.zuno-tv.workers.dev/live/2020.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMjAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2021.png",LIBERTY Шоу
-https://vip.zuno-tv.workers.dev/live/2021.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMjEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2022.png",LIBERTY Легенда 4K
-https://vip.zuno-tv.workers.dev/live/2022.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMjIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2023.png",LIBERTY MULT UKR 4K
-https://vip.zuno-tv.workers.dev/live/2023.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMjMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2024.png",LIBERTY KINO UKR 4K
-https://vip.zuno-tv.workers.dev/live/2024.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMjQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2025.png",LIBERTY RUS FILM 4K
-https://vip.zuno-tv.workers.dev/live/2025.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMjUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2026.png",LIBERTY Кино Микс 4K
-https://vip.zuno-tv.workers.dev/live/2026.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMjYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2027.png",LIBERTY Мульт 4K
-https://vip.zuno-tv.workers.dev/live/2027.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMjcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2028.png",LIBERTY Индия 4K
-https://vip.zuno-tv.workers.dev/live/2028.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMjgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2029.png",LIBERTY NETFLIX 4K
-https://vip.zuno-tv.workers.dev/live/2029.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMjkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2030.png",LIBERTY CUBE 4K
-https://vip.zuno-tv.workers.dev/live/2030.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMzAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2031.png",LIBERTY Семейный
-https://vip.zuno-tv.workers.dev/live/2031.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMzEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2032.png",LIBERTY Сказки
-https://vip.zuno-tv.workers.dev/live/2032.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMzIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2033.png",LIBERTY МиМ
-https://vip.zuno-tv.workers.dev/live/2033.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMzMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2034.png",LIBERTY Союз 4K
-https://vip.zuno-tv.workers.dev/live/2034.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMzQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2035.png",LIBERTY FAN
-https://vip.zuno-tv.workers.dev/live/2035.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMzUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2036.png",LIBERTY KINO ENG FHD
-https://vip.zuno-tv.workers.dev/live/2036.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMzYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2037.png",LIBERTY MULT ENG
-https://vip.zuno-tv.workers.dev/live/2037.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMzcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2038.png",LIBERTY AVTO GIR
-https://vip.zuno-tv.workers.dev/live/2038.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMzgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2039.png",LIBERTY MARVEL 4K
-https://vip.zuno-tv.workers.dev/live/2039.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwMzkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2040.png",LIBERTY Триллеры
-https://vip.zuno-tv.workers.dev/live/2040.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNDAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2041.png",LIBERTY Ужасы 4K
-https://vip.zuno-tv.workers.dev/live/2041.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNDEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2042.png",LIBERTY Крош
-https://vip.zuno-tv.workers.dev/live/2042.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNDIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2043.png",LIBERTY PLANKTON
-https://vip.zuno-tv.workers.dev/live/2043.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNDMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2044.png",LIBERTY Сериалы
-https://vip.zuno-tv.workers.dev/live/2044.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNDQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2045.png",LIBERTY Криминал
-https://vip.zuno-tv.workers.dev/live/2045.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNDUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2046.png",LIBERTY Наука
-https://vip.zuno-tv.workers.dev/live/2046.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNDYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2047.png",LIBERTY XX Век 4K
-https://vip.zuno-tv.workers.dev/live/2047.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNDcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2048.png",LIBERTY Аванпост
-https://vip.zuno-tv.workers.dev/live/2048.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNDgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2049.png",LIBERTY Кино UKR
-https://vip.zuno-tv.workers.dev/live/2049.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNDkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2050.png",LIBERTY Мульт UKR
-https://vip.zuno-tv.workers.dev/live/2050.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNTAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2051.png",LIBERTY TURK FILM 4K
-https://vip.zuno-tv.workers.dev/live/2051.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNTEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2052.png",LIBERTY SERIAL FHD
-https://vip.zuno-tv.workers.dev/live/2052.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNTIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2053.png",LIBERTY DREAM WORKS
-https://vip.zuno-tv.workers.dev/live/2053.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNTMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2054.png",LIBERTY MYUZIKL
-https://vip.zuno-tv.workers.dev/live/2054.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNTQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2055.png",LIBERTY MUZYKA DJ
-https://vip.zuno-tv.workers.dev/live/2055.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNTUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2056.png",LIBERTY Микс Музыка
-https://vip.zuno-tv.workers.dev/live/2056.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNTYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2057.png",LIBERTY Рок
-https://vip.zuno-tv.workers.dev/live/2057.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2058.png",LIBERTY Джаз
-https://vip.zuno-tv.workers.dev/live/2058.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNTgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2059.png",LIBERTY К-ПОП
-https://vip.zuno-tv.workers.dev/live/2059.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNTkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2060.png",LIBERTY  ХИП-ХОП
-https://vip.zuno-tv.workers.dev/live/2060.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNjAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2061.png",LIBERTY Хиты 90-х
-https://vip.zuno-tv.workers.dev/live/2061.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNjEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2062.png",LIBERTY Поп-Музыка
-https://vip.zuno-tv.workers.dev/live/2062.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNjIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2063.png",LIBERTY Латино
-https://vip.zuno-tv.workers.dev/live/2063.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNjMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2064.png",LIBERTY Инди
-https://vip.zuno-tv.workers.dev/live/2064.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNjQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2065.png",LIBERTY Документалки
-https://vip.zuno-tv.workers.dev/live/2065.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNjUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2066.png",CineMan Военные Сериалы
-https://vip.zuno-tv.workers.dev/live/2066.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNjYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2068.png",LIBERTY МЕДИВАЛ 4К
-https://vip.zuno-tv.workers.dev/live/2068.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNjgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2072.png",МУЛЬТВЕРСИЯ
-https://vip.zuno-tv.workers.dev/live/2072.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIwNzIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2198.png",LIBERTY Музыка DJ FHD
-https://vip.zuno-tv.workers.dev/live/2198.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIxOTgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2199.png",LIBERTY Музыка Рок FHD
-https://vip.zuno-tv.workers.dev/live/2199.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIxOTkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2200.png",LIBERTY MUZYKA DZHAZ FHD
-https://vip.zuno-tv.workers.dev/live/2200.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMDAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2201.png",LIBERTY MUZYKA K-POP FHD
-https://vip.zuno-tv.workers.dev/live/2201.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMDEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2202.png",LIBERTY MUZYKA KHIP-KHOP FHD
-https://vip.zuno-tv.workers.dev/live/2202.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMDIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2203.png",LIBERTY MUZYKA KHITY90-X FHD
-https://vip.zuno-tv.workers.dev/live/2203.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMDMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2204.png",LIBERTY MUZYKA POP-MUZYKA FHD
-https://vip.zuno-tv.workers.dev/live/2204.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMDQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2205.png",LIBERTY MUZYKA LATINO FHD
-https://vip.zuno-tv.workers.dev/live/2205.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMDUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2206.png",LIBERTY MUZYKA INDI FHD
-https://vip.zuno-tv.workers.dev/live/2206.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMDYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2207.png",LIBERTY MUZYKA DE FHD
-https://vip.zuno-tv.workers.dev/live/2207.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMDcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2210.png",Clarity4k Вселенная
-https://vip.zuno-tv.workers.dev/live/2210.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMTAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2211.png",Clarity4K Комедия (VHS)
-https://vip.zuno-tv.workers.dev/live/2211.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMTEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2212.png",Clarity4K Gamefilm
-https://vip.zuno-tv.workers.dev/live/2212.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMTIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2214.png",CineMan СССР
-https://vip.zuno-tv.workers.dev/live/2214.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMTQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2215.png",Play-x Тайны Чапман HD
-https://vip.zuno-tv.workers.dev/live/2215.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMTUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2216.png",Play-x Про людей и войну HD
-https://vip.zuno-tv.workers.dev/live/2216.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMTYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2217.png",Play-x География уральских пельменей HD
-https://vip.zuno-tv.workers.dev/live/2217.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2218.png",Play-x Военная приемка HD
-https://vip.zuno-tv.workers.dev/live/2218.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMTgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2219.png",Play-x Импровизаторы HD
-https://vip.zuno-tv.workers.dev/live/2219.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMTkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2220.png",Play-x 6 кадров HD
-https://vip.zuno-tv.workers.dev/live/2220.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMjAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2221.png",Play-x music Enigmatic HD
-https://vip.zuno-tv.workers.dev/live/2221.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMjEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2222.png",Play-x Между нами HD
-https://vip.zuno-tv.workers.dev/live/2222.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMjIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2223.png",Play-x Beast Games HD
-https://vip.zuno-tv.workers.dev/live/2223.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMjMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2224.png",Play-x Последний герой HD
-https://vip.zuno-tv.workers.dev/live/2224.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMjQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2225.png",Play-x Русская дорога HD
-https://vip.zuno-tv.workers.dev/live/2225.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMjUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2226.png",Play-x Уральские пельмени HD
-https://vip.zuno-tv.workers.dev/live/2226.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMjYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2227.png",Play-x (90-е) HD
-https://vip.zuno-tv.workers.dev/live/2227.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMjcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2228.png",Play-x Кинозал 1 HD
-https://vip.zuno-tv.workers.dev/live/2228.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMjgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2229.png",Play-x Женский стендап HD
-https://vip.zuno-tv.workers.dev/live/2229.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMjkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2230.png",Play-x Кинозал 23 HD
-https://vip.zuno-tv.workers.dev/live/2230.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMzAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2231.png",Play-x Пограничный HD
-https://vip.zuno-tv.workers.dev/live/2231.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMzEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2232.png",Play-x Кинозал 2 HD
-https://vip.zuno-tv.workers.dev/live/2232.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMzIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2233.png",Play-x Кинозал 3 HD
-https://vip.zuno-tv.workers.dev/live/2233.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMzMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2234.png",Play-x Кинозал 4 HD
-https://vip.zuno-tv.workers.dev/live/2234.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMzQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2235.png",Play-x Кинозал 5 HD
-https://vip.zuno-tv.workers.dev/live/2235.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMzUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2236.png",Play-x Кинозал 6 HD
-https://vip.zuno-tv.workers.dev/live/2236.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMzYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2237.png",Play-x Кинозал 7 HD
-https://vip.zuno-tv.workers.dev/live/2237.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMzcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2238.png",Play-x Кинозал 8 HD
-https://vip.zuno-tv.workers.dev/live/2238.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMzgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2239.png",Play-x Кинозал 9 HD
-https://vip.zuno-tv.workers.dev/live/2239.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyMzkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2240.png",Play-x Кинозал 12 HD
-https://vip.zuno-tv.workers.dev/live/2240.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNDAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2241.png",Play-x Кинозал 13 HD
-https://vip.zuno-tv.workers.dev/live/2241.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNDEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2242.png",Play-x Кинозал 14 HD
-https://vip.zuno-tv.workers.dev/live/2242.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNDIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2243.png",Play-x Кинозал 15 HD
-https://vip.zuno-tv.workers.dev/live/2243.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNDMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2244.png",Play-x Кинозал 11 HD
-https://vip.zuno-tv.workers.dev/live/2244.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNDQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2245.png",Play-x Кинозал 10 HD
-https://vip.zuno-tv.workers.dev/live/2245.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNDUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2246.png",Play-x Кинозал 16 HD
-https://vip.zuno-tv.workers.dev/live/2246.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNDYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2247.png",Play-x Кинозал 17 HD
-https://vip.zuno-tv.workers.dev/live/2247.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNDcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2248.png",Play-x Кинозал 18 HD
-https://vip.zuno-tv.workers.dev/live/2248.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNDgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2249.png",Play-x Кинозал 19 HD
-https://vip.zuno-tv.workers.dev/live/2249.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNDkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2250.png",Play-x Кинозал 20 HD
-https://vip.zuno-tv.workers.dev/live/2250.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNTAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2251.png",Play-x Кинозал 21 HD
-https://vip.zuno-tv.workers.dev/live/2251.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNTEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2252.png",Play-x Кинозал 22 HD
-https://vip.zuno-tv.workers.dev/live/2252.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNTIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2253.png",Play-x Баскетбол USA HD
-https://vip.zuno-tv.workers.dev/live/2253.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNTMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2254.png",Play-x Муз Блатной Хит HD
-https://vip.zuno-tv.workers.dev/live/2254.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNTQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2255.png",Play-x Муз Golden Hits 90s HD
-https://vip.zuno-tv.workers.dev/live/2255.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNTUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2256.png",Play-x Муз Music 80s HD
-https://vip.zuno-tv.workers.dev/live/2256.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNTYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2257.png",Play-x Муз Rock Pop Ballads HD
-https://vip.zuno-tv.workers.dev/live/2257.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2258.png",Play-x Муз Муз Золотой век HD
-https://vip.zuno-tv.workers.dev/live/2258.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNTgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2259.png",Play-x Муз Old School Hits HD
-https://vip.zuno-tv.workers.dev/live/2259.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNTkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2260.png",Play-x Игра (тнт) HD
-https://vip.zuno-tv.workers.dev/live/2260.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2263.png",Sky High Beyonds FHD
-https://vip.zuno-tv.workers.dev/live/2263.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2264.png",Sky High Nord S FHD
-https://vip.zuno-tv.workers.dev/live/2264.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2265.png",Sky High Votum S FHD
-https://vip.zuno-tv.workers.dev/live/2265.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2266.png",Sky High Case VHS FHD
-https://vip.zuno-tv.workers.dev/live/2266.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2267.png",Sky High Mono FHD
-https://vip.zuno-tv.workers.dev/live/2267.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2268.png",Sky High Zippy S FHD
-https://vip.zuno-tv.workers.dev/live/2268.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2269.png",Sky High Heart S FHD
-https://vip.zuno-tv.workers.dev/live/2269.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNjkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2270.png",Sky High Joke FHD
-https://vip.zuno-tv.workers.dev/live/2270.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2271.png",Sky High Medy VHS FHD
-https://vip.zuno-tv.workers.dev/live/2271.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2272.png",Sky High Romix FHD
-https://vip.zuno-tv.workers.dev/live/2272.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2273.png",Sky High Red S FHD
-https://vip.zuno-tv.workers.dev/live/2273.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2274.png",Sky High Ring S FHD
-https://vip.zuno-tv.workers.dev/live/2274.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2275.png",Sky High Wizz VHS FHD
-https://vip.zuno-tv.workers.dev/live/2275.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2276.png",Sky High Dragon FHD
-https://vip.zuno-tv.workers.dev/live/2276.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2277.png",Sky High Woonder FHD
-https://vip.zuno-tv.workers.dev/live/2277.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2278.png",Sky High Space 4K HDR
-https://vip.zuno-tv.workers.dev/live/2278.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2279.png",Sky High Horror 4K HDR
-https://vip.zuno-tv.workers.dev/live/2279.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyNzkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2297.png",CineMan OLD 4K
-https://vip.zuno-tv.workers.dev/live/2297.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyOTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2298.png",CineMan расследование авиакатастроф
-https://vip.zuno-tv.workers.dev/live/2298.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIyOTgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/2300.png",CineMan Дубляж СССР
-https://vip.zuno-tv.workers.dev/live/2300.m3u8
-
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIzMDAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1168.png",Твое ТВ
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExNjgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/1187.png",Setanta Qazaqstan HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExODcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/1251.png",Qazaqstan
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1252.png",Cartoons 90
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTIubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1253.png",Cartoons Short
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTMubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1254.png",Cartoons Big
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTQubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1255.png",CineMan
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1256.png",CineMan Top
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1257.png",CineMan Action
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1258.png",CineMan Thriller
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1259.png",CineMan Melodrama
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNTkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1260.png",CineMan Marvel
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1261.png",CineMan Ужасы
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1262.png",CineMan Комедия
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjIubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1263.png",CineMan VHS
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjMubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1264.png",CineMan РуКино
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjQubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1265.png",CineMan Сваты
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1266.png",Сериал "Скорая помощь"
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1267.png",Сериал "Симпсоны"
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNjcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1271.png",CineMan Катастрофы
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyNzEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1295.png",CineMan Ментовские войны
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyOTUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1296.png",CineMan ПёС
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyOTYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1297.png",CineMan Лесник
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEyOTcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/1329.png",Balapan
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzMjkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1347.png",VL Comedy
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzNDcubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1348.png",VL Cartoons
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzNDgubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1349.png",VL Fantastic
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzNDkubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1350.png",VL Holiday
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzNTAubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1351.png",VL Horror
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzEzNTEubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1413.png",CineMan Miniseries
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE0MTMubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1415.png",Z!Military HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE0MTUubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1416.png",Z!Science HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE0MTYubTN1OA.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/1426.png",CineMan Premium
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE0MjYubTN1OA.m3u8?k=12345
 
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://iptv-content.rv77.pw/336x192/20810.png",BCU ACTION HD
 https://sh.kinolar.workers.dev/stream/aHR0cDovL2FtMDEucGxpbmstcGlsZS5jaC8yMDgxMC9pbmRleC5tM3U4P3Rva2VuPVVSZURuNFl0bkJQRXg0.m3u8?k=12345
@@ -2242,182 +2409,126 @@ https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 
 
 #EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/232.png",Новое телевидение
-https://vip.zuno-tv.workers.dev/live/232.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzIzMi5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/685.png",Хабар 24
-https://vip.zuno-tv.workers.dev/live/685.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzY4NS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/846.png",Аквариум HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzg0Ni5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/847.png",Камин HD
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzg0Ny5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/883.png",Кино 1 INT
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzg4My5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/885.png",PRO100 TV
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzg4NS5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/886.png",KINO 24
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzg4Ni5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/894.png",Детское кино
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzg5NC5tM3U4.m3u8?k=12345
+#EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.cdntv.online/img/897.png",Маша и Медведь
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzg5Ny5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/936.png",31 Канал
-https://vip.zuno-tv.workers.dev/live/936.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkzNi5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/937.png",7 канал
-https://vip.zuno-tv.workers.dev/live/937.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzkzNy5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/940.png",Atameken Business TV
-https://vip.zuno-tv.workers.dev/live/940.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzk0MC5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/941.png",Ел Арна
-https://vip.zuno-tv.workers.dev/live/941.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzk0MS5tM3U4.m3u8?k=12345
 #EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/1143.png",QAZSPORT HD
-https://vip.zuno-tv.workers.dev/live/1143.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExNDMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/1146.png",КТК
-https://vip.zuno-tv.workers.dev/live/1146.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExNDYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/1148.png",TDK 42
-https://vip.zuno-tv.workers.dev/live/1148.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/1187.png",Setanta Qazaqstan HD
-https://vip.zuno-tv.workers.dev/live/1187.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/1251.png",Qazaqstan
-https://vip.zuno-tv.workers.dev/live/1251.m3u8
-#EXTINF:-1 group-title="Казахстан" tvg-logo="http://epg.cdntv.online/img/1329.png",Balapan
-https://vip.zuno-tv.workers.dev/live/1329.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzExNDgubTN1OA.m3u8?k=12345
 
 
 
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1272.png",A Haber
-https://vip.zuno-tv.workers.dev/live/1272.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1274.png",TRT Cocuk
-https://vip.zuno-tv.workers.dev/live/1274.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1276.png",TRT Arapca
-https://vip.zuno-tv.workers.dev/live/1276.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1277.png",Power TV
-https://vip.zuno-tv.workers.dev/live/1277.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1278.png",TRT Muzik
-https://vip.zuno-tv.workers.dev/live/1278.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1280.png",TRT World
-https://vip.zuno-tv.workers.dev/live/1280.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1282.png",Power Turk
-https://vip.zuno-tv.workers.dev/live/1282.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1283.png",Can TV
-https://vip.zuno-tv.workers.dev/live/1283.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1428.png",Akit TV
-https://vip.zuno-tv.workers.dev/live/1428.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1432.png",Cekmeköy TV
-https://vip.zuno-tv.workers.dev/live/1432.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1435.png",ETB Basque
-https://vip.zuno-tv.workers.dev/live/1435.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1441.png",Sat7 Türk
-https://vip.zuno-tv.workers.dev/live/1441.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1442.png",Tempo TV
-https://vip.zuno-tv.workers.dev/live/1442.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1444.png",AS TV
-https://vip.zuno-tv.workers.dev/live/1444.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1448.png",TRT EBA Ortaokul
-https://vip.zuno-tv.workers.dev/live/1448.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1449.png",TRT Haber
-https://vip.zuno-tv.workers.dev/live/1449.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1450.png",TRT Kurdî
-https://vip.zuno-tv.workers.dev/live/1450.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1451.png",TRT Türk
-https://vip.zuno-tv.workers.dev/live/1451.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1453.png",TV4
-https://vip.zuno-tv.workers.dev/live/1453.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1454.png",TVnet
-https://vip.zuno-tv.workers.dev/live/1454.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1493.png",Kanal 7
-https://vip.zuno-tv.workers.dev/live/1493.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1631.png",KANAL 61
-https://vip.zuno-tv.workers.dev/live/1631.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1632.png",Euro Indie Music Chart TV
-https://vip.zuno-tv.workers.dev/live/1632.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1634.png",Diyanet TV
-https://vip.zuno-tv.workers.dev/live/1634.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1636.png",Power Love
-https://vip.zuno-tv.workers.dev/live/1636.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1637.png",PowerTurk Taptaze
-https://vip.zuno-tv.workers.dev/live/1637.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1638.png",kANAL Z
-https://vip.zuno-tv.workers.dev/live/1638.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1639.png",Kanal 15
-https://vip.zuno-tv.workers.dev/live/1639.m3u8
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1735.png",FBTV
-https://vip.zuno-tv.workers.dev/live/1735.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3MzUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1736.png",SPORTS TV HD
-https://vip.zuno-tv.workers.dev/live/1736.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3MzYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1739.png",Show TV
-https://vip.zuno-tv.workers.dev/live/1739.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3MzkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1740.png",Kanal D
-https://vip.zuno-tv.workers.dev/live/1740.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NDAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1741.png",EuroD HD
-https://vip.zuno-tv.workers.dev/live/1741.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NDEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1749.png",TEVE 2 HD
-https://vip.zuno-tv.workers.dev/live/1749.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NDkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1751.png",TV8
-https://vip.zuno-tv.workers.dev/live/1751.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NTEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1752.png",CiNE 1
-https://vip.zuno-tv.workers.dev/live/1752.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NTIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1753.png",360 TV
-https://vip.zuno-tv.workers.dev/live/1753.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NTMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1756.png",Isvicre TV
-https://vip.zuno-tv.workers.dev/live/1756.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NTYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1757.png",Slow Karadeniz
-https://vip.zuno-tv.workers.dev/live/1757.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1760.png",Kanal 53
-https://vip.zuno-tv.workers.dev/live/1760.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NjAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1761.png",VRT TV
-https://vip.zuno-tv.workers.dev/live/1761.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NjEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1765.png",HOSEN TV
-https://vip.zuno-tv.workers.dev/live/1765.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NjUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1775.png",ON4
-https://vip.zuno-tv.workers.dev/live/1775.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NzUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1776.png",Dost TV
-https://vip.zuno-tv.workers.dev/live/1776.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NzYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1777.png",Lalegul TV
-https://vip.zuno-tv.workers.dev/live/1777.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NzcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1778.png",AL ZEHRA TV
-https://vip.zuno-tv.workers.dev/live/1778.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NzgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1779.png",DMAX
-https://vip.zuno-tv.workers.dev/live/1779.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3NzkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1780.png",TLC
-https://vip.zuno-tv.workers.dev/live/1780.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3ODAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1781.png",TRT DIYANET COCUK
-https://vip.zuno-tv.workers.dev/live/1781.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3ODEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1782.png",CiNE 5
-https://vip.zuno-tv.workers.dev/live/1782.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3ODIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1783.png",RiZE TURK TV
-https://vip.zuno-tv.workers.dev/live/1783.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3ODMubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1784.png",Tivi 6
-https://vip.zuno-tv.workers.dev/live/1784.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3ODQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1785.png",Sat7 Turk
-https://vip.zuno-tv.workers.dev/live/1785.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3ODUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1786.png",LUYS
-https://vip.zuno-tv.workers.dev/live/1786.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3ODYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1787.png",TRT TURK
-https://vip.zuno-tv.workers.dev/live/1787.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3ODcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1788.png",TRT Avaz
-https://vip.zuno-tv.workers.dev/live/1788.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3ODgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1789.png",Kanal S
-https://vip.zuno-tv.workers.dev/live/1789.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3ODkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1790.png",Cay TV
-https://vip.zuno-tv.workers.dev/live/1790.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3OTAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1791.png",Tatlises TV
-https://vip.zuno-tv.workers.dev/live/1791.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3OTEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1794.png",TRT MUZiK
-https://vip.zuno-tv.workers.dev/live/1794.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3OTQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1795.png",NUMBER 1
-https://vip.zuno-tv.workers.dev/live/1795.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3OTUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1796.png",Nr1 Turk
-https://vip.zuno-tv.workers.dev/live/1796.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3OTYubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1797.png",NR1 DANCE HD
-https://vip.zuno-tv.workers.dev/live/1797.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3OTcubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1798.png",NR1 DAMAR HD
-https://vip.zuno-tv.workers.dev/live/1798.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3OTgubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1799.png",POWER TURK TAPTAZE
-https://vip.zuno-tv.workers.dev/live/1799.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE3OTkubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1800.png",DREAM TURK HD
-https://vip.zuno-tv.workers.dev/live/1800.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE4MDAubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1801.png",ERCIS TV
-https://vip.zuno-tv.workers.dev/live/1801.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE4MDEubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1802.png",Ocko Expres
-https://vip.zuno-tv.workers.dev/live/1802.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE4MDIubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1804.png",Ocko TV
-https://vip.zuno-tv.workers.dev/live/1804.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE4MDQubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1805.png",Ocko Gold
-https://vip.zuno-tv.workers.dev/live/1805.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE4MDUubTN1OA.m3u8?k=12345
 #EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/1807.png",Trace Urban HD
-https://vip.zuno-tv.workers.dev/live/1807.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/2080.png",Kanal 12
-https://vip.zuno-tv.workers.dev/live/2080.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/2081.png",Power Dance
-https://vip.zuno-tv.workers.dev/live/2081.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/2082.png",PowerTurk Akustik
-https://vip.zuno-tv.workers.dev/live/2082.m3u8
-#EXTINF:-1 group-title="Турция" tvg-logo="http://epg.cdntv.online/img/2083.png",POWER TURK SLOW
-https://vip.zuno-tv.workers.dev/live/2083.m3u8
+https://2tv.zuno-tv.workers.dev/stream/aHR0cDovL3UudmlwbC5vbmUvaGlnaC93aWg0c3J5ZWZtLzE4MDcubTN1OA.m3u8?k=12345
 
 
 
@@ -3197,3 +3308,49 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1330452&e
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1330453&extension=ts&play_token=DzaQTdhnr4
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/bein/1330454.png" group-title="𝓧𝓪Ль𝓑𝓪 | BEIN SPORTS HD",AR| BEIN SPORTS NBA HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:0A:AC:C0&stream=1330454&extension=ts&play_token=0XGPRyLozh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
