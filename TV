@@ -1890,12 +1890,7 @@ http://stream-tv-prostar.hf.space/ch/AA3586W?key=AB001829BB
 
 
 
-#EXTINF:-1 group-title="HighQuality",History HD
-http://stream-tv-prostar.hf.space/ch/HQ065W?key=AB001829BB
-#EXTINF:-1 group-title="HighQuality",Viasat Explore HD
-http://stream-tv-prostar.hf.space/ch/HQ066W?key=AB001829BB
-#EXTINF:-1 group-title="HighQuality",Discovery Science HD
-http://stream-tv-prostar.hf.space/ch/HQ067W?key=AB001829BB
+
 #EXTINF:-1 group-title="Познавательные",Yosso TV Travel
 http://stream-tv-prostar.hf.space/ch/AA1101W?key=AB001829BB
 #EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
