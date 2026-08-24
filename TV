@@ -585,7 +585,36 @@ http://scottadkins-index2.hf.space/play/demo/demo123/2259.m3u8?key=AB001829BB
 #EXTINF:0 tvg-id="2260" tvg-logo="http://epg.cdntv.online/img/2260.png" group-title="Play-x", Play-x Игра (тнт) HD
 http://scottadkins-index2.hf.space/play/demo/demo123/2260.m3u8?key=AB001829BB
 
-
+#EXTINF:0 tvg-id="1983" tvg-logo="http://epg.cdntv.online/img/1983.png" group-title="Fresh", Fresh Soviet
+http://scottadkins-index2.hf.space/play/demo/demo123/1983.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1984" tvg-logo="http://epg.cdntv.online/img/1984.png" group-title="Fresh", Fresh Series
+http://scottadkins-index2.hf.space/play/demo/demo123/1984.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1985" tvg-logo="http://epg.cdntv.online/img/1985.png" group-title="Fresh", Fresh Fantastic
+http://scottadkins-index2.hf.space/play/demo/demo123/1985.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1986" tvg-logo="http://epg.cdntv.online/img/1986.png" group-title="Fresh", Fresh VHS
+http://scottadkins-index2.hf.space/play/demo/demo123/1986.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1987" tvg-logo="http://epg.cdntv.online/img/1987.png" group-title="Fresh", Fresh Rating
+http://scottadkins-index2.hf.space/play/demo/demo123/1987.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1988" tvg-logo="http://epg.cdntv.online/img/1988.png" group-title="Fresh", Fresh Family
+http://scottadkins-index2.hf.space/play/demo/demo123/1988.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1989" tvg-logo="http://epg.cdntv.online/img/1989.png" group-title="Fresh", Fresh Premiere
+http://scottadkins-index2.hf.space/play/demo/demo123/1989.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1990" tvg-logo="http://epg.cdntv.online/img/1990.png" group-title="Fresh", Fresh Comedy
+http://scottadkins-index2.hf.space/play/demo/demo123/1990.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1991" tvg-logo="http://epg.cdntv.online/img/1991.png" group-title="Fresh", Fresh Kids
+http://scottadkins-index2.hf.space/play/demo/demo123/1991.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1992" tvg-logo="http://epg.cdntv.online/img/1992.png" group-title="Fresh", Fresh Cinema
+http://scottadkins-index2.hf.space/play/demo/demo123/1992.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1993" tvg-logo="http://epg.cdntv.online/img/1993.png" group-title="Fresh", Fresh Horror
+http://scottadkins-index2.hf.space/play/demo/demo123/1993.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1994" tvg-logo="http://epg.cdntv.online/img/1994.png" group-title="Fresh", Fresh Adventure
+http://scottadkins-index2.hf.space/play/demo/demo123/1994.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1995" tvg-logo="http://epg.cdntv.online/img/1995.png" group-title="Fresh", Fresh Romantic
+http://scottadkins-index2.hf.space/play/demo/demo123/1995.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1996" tvg-logo="http://epg.cdntv.online/img/1996.png" group-title="Fresh", Fresh Russian
+http://scottadkins-index2.hf.space/play/demo/demo123/1996.m3u8?key=AB001829BB
+#EXTINF:0 tvg-id="1997" tvg-logo="http://epg.cdntv.online/img/1997.png" group-title="Fresh", Fresh Thriller
+http://scottadkins-index2.hf.space/play/demo/demo123/1997.m3u8?key=AB001829BB
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg" group-title="Уз (VPN)",iTV Cinema
 http://itvuz-live.hf.space/play/Mg?key=AB001829BB
