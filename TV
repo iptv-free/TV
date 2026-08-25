@@ -521,10 +521,34 @@ http://hls127.freeott.top:8080/CPS_Investigation/video.m3u8
 http://hls127.freeott.top:8080/CPS_Cartoon/video.m3u8
 #EXTINF:-1 group-title="Free.Тв", CPS FreshUA 
 http://hls127.freeott.top:8080/CPS_Fresh_UA/video.m3u8
+#EXTINF:-1 group-title="Free.Тв", MyTV
+http://hls127.freeott.top:8080/MyTV/video.m3u8
+#EXTINF:-1 group-title="Free.Тв", MyTV2
+http://hls127.freeott.top:8080/MyTV2/video.m3u8
+#EXTINF:-1 group-title="Free.Тв", MyTV3
+http://hls127.freeott.top:8080/MyTV3/video.m3u8
+#EXTINF:-1 group-title="Free.Тв",PG Premium HD
+http://hls127.freeott.top:8080/PG_Premium_HD/mono.m3u8
+#EXTINF:-1 group-title="Free.Тв",PG Premiere HD
+http://hls127.freeott.top:8080/PG_Premiere_HD/mono.m3u8
+#EXTINF:-1 group-title="Free.Тв",PG Paradise HD
+http://hls127.freeott.top:8080/PG_Paradise_HD/mono.m3u8
+#EXTINF:-1 group-title="Free.Тв",PG Thriller HD
+http://hls127.freeott.top:8080/PG_Thriller_HD/mono.m3u8
+#EXTINF:-1 group-title="Free.Тв",PG Paradox HD
+http://hls127.freeott.top:8080/PG_Paradox_HD/mono.m3u8
+#EXTINF:-1 group-title="Free.Тв",PG USSR HD
+http://hls127.freeott.top:8080/PG_USSR_HD/mono.m3u8
+#EXTINF:-1 group-title="Free.Тв",PG VHS HD
+http://hls127.freeott.top:8080/PG_VHS_HD/mono.m3u8
+#EXTINF:-1 group-title="Free.Тв",PG Insomnia HD
+http://hls127.freeott.top:8080/PG_Insomnia_HD/mono.m3u8
 #EXTINF:-1 group-title="Free.Тв", BOX Anime HD
 http://hls127.freeott.top:8080/box_anime_hd/video.m3u8
 #EXTINF:-1 group-title="Free.Тв", BOX Metall HD
 http://hls127.freeott.top:8080/BOX_Metall_HD/video.m3u8
+#EXTINF:-1 group-title="Free.Тв", BOX Game HD
+http://hls127.freeott.top:8080/box_game_hd/mono.m3u8
 #EXTINF:-1 group-title="Free.Тв", Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 group-title="Free.Тв", НСТ
@@ -541,8 +565,6 @@ http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 http://hls127.freeott.top:8080/Maydan/video.m3u8
 #EXTINF:-1 group-title="Free.Тв", Мосфильм. Золотая коллекция
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
-#EXTINF:-1 group-title="Free.Тв", MyTV
-http://hls127.freeott.top:8080/MyTV/video.m3u8
 #EXTINF:-1 group-title="Free.Тв", Наше HD
 http://hls127.freeott.top:8080/Nashe_HD/video.m3u8
 #EXTINF:-1 group-title="Free.Тв", Ностальгия
