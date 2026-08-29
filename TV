@@ -321,6 +321,728 @@ http://stream-tv-prostar.hf.space/ch/AA258W?key=AB001829BB
 http://stream-tv-prostar.hf.space/ch/AA4564W?key=AB001829BB
 #EXTINF:-1 group-title="Фильмовые",Комедийное HD
 http://stream-tv-prostar.hf.space/ch/DO002F?key=AB001829BB
+
+
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/403.png" group-title="Фильмовые",CineMan Relax 4K
+https://cdn.kinolar.workers.dev/CineMan-Relax4k/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/178.png" group-title="Фильмовые",4 Ever Drama HD
+https://cdn.kinolar.workers.dev/4Ever_Drama_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1809.png" group-title="Фильмовые",YOSSO TV Трагичное
+https://cdn.kinolar.workers.dev/YOSSO-TRAGIK/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2563.png" group-title="Фильмовые",4 Ever Theater HD
+https://cdn.kinolar.workers.dev/4Ever_Theater_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/104.png" group-title="Фильмовые",Мосфильм Золотая коллекция
+https://cdn.kinolar.workers.dev/Mosfilm_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Історичні серіали HD
+https://cdn.kinolar.workers.dev/1plus1_Kino/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Premium Family HD
+https://cdn.kinolar.workers.dev/Premium_Family_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/25.png" group-title="Фильмовые",Кіно та Серіали
+https://cdn.kinolar.workers.dev/Kino_ta_Serialy_GGDDrrtBDf56546GBGGFFV5GGDd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/69.png" group-title="Фильмовые",Kino Hit HD
+https://cdn.kinolar.workers.dev/Kino_Hit_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/159.png" group-title="Фильмовые",BCU Сваты HD
+https://cdn.kinolar.workers.dev/BCUSvatiHD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Дорами Українською HD
+https://cdn.kinolar.workers.dev/Doramy_Ukrainskoty_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/81.png" group-title="Фильмовые",Речдок HD
+https://cdn.kinolar.workers.dev/Veshdok_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/219.png" group-title="Фильмовые",Timeless Dizi Channel HD
+https://cdn.kinolar.workers.dev/Timel_Dizi_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Premium COMEDY HD
+https://cdn.kinolar.workers.dev/Premium_COMEDY_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Premium ACTION HD
+https://cdn.kinolar.workers.dev/Premium_ACTION_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/76.png" group-title="Фильмовые",Trash HD
+https://cdn.kinolar.workers.dev/Trash_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/745.png" group-title="Фильмовые",Viasat Kino Action HD
+https://cdn.kinolar.workers.dev/TV1000_Action_HD_CEE/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Хіт Комедія HD
+https://cdn.kinolar.workers.dev/Xit_Komedy_UA/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Твоє Кінозал 1 (тест)
+https://cdn.kinolar.workers.dev/Tvoe_Kino_Zal_1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/396.png" group-title="Фильмовые",CineMan Фитнес
+https://cdn.kinolar.workers.dev/CineMan-Fitnes/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/681.png" group-title="Фильмовые",Kinosweet HD
+https://cdn.kinolar.workers.dev/Kinosweet_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/19.png" group-title="Фильмовые",Индия
+https://cdn.kinolar.workers.dev/Zee_TV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/669.png" group-title="Фильмовые",Kino 2 HD
+https://cdn.kinolar.workers.dev/Kino2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/668.png" group-title="Фильмовые",Кино24
+https://cdn.kinolar.workers.dev/Kino24_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/683.png" group-title="Фильмовые",Боевики HD
+https://cdn.kinolar.workers.dev/Boeviki_Hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/673.png" group-title="Фильмовые",Sumiko HD
+https://cdn.kinolar.workers.dev/Sumiko_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/418.png" group-title="Фильмовые",FlixSnip (Test)
+https://cdn.kinolar.workers.dev/FlixSnip_FRF/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/409.png" group-title="Фильмовые",Твій серіал HD
+https://cdn.kinolar.workers.dev/Tvoy_Serial_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/661.png" group-title="Фильмовые",Kino Comedy +1 HD
+https://cdn.kinolar.workers.dev/Kino_Comedy_plus1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/773.png" group-title="Фильмовые",Viasat Serial HD
+https://cdn.kinolar.workers.dev/Viasat_Serial_HD_UA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/258.png" group-title="Фильмовые",Epic Drama HD LT|LV
+https://cdn.kinolar.workers.dev/EpicDrama_HD_LT_LV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/369.png" group-title="Фильмовые",CineMan OLD 4K
+https://cdn.kinolar.workers.dev/CineMan-Old4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/263.png" group-title="Фильмовые",НТВ Сериал HD
+https://cdn.kinolar.workers.dev/NTV_Serial_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/233.png" group-title="Фильмовые",ProKino HD
+https://cdn.kinolar.workers.dev/PROKINO_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/232.png" group-title="Фильмовые",Kino Dorama HD
+https://cdn.kinolar.workers.dev/Kino_Dorama_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1669.png" group-title="Фильмовые",Cine+ HD
+https://cdn.kinolar.workers.dev/CINE_HD_LW/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2520.png" group-title="Фильмовые",AMC HD
+https://cdn.kinolar.workers.dev/AMC_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1670.png" group-title="Фильмовые",Cine+ Hit HD
+https://cdn.kinolar.workers.dev/CINE_HIT_HD_LW/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1811.png" group-title="Фильмовые",KION Хит HD
+https://cdn.kinolar.workers.dev/KION_HIT_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/141.png" group-title="Фильмовые",VHSka
+https://cdn.kinolar.workers.dev/VHSka/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/151.png" group-title="Фильмовые",Dorama +
+https://cdn.kinolar.workers.dev/Dorama_plus/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/227.png" group-title="Фильмовые",Кино 7 HD Latvia
+https://cdn.kinolar.workers.dev/Kino7_LV_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/485.png" group-title="Фильмовые",A1
+https://cdn.kinolar.workers.dev/A1_RU/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/624.png" group-title="Фильмовые",A1 HD
+https://cdn.kinolar.workers.dev/a1hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/484.png" group-title="Фильмовые",A2
+https://cdn.kinolar.workers.dev/A2_RU/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/881.png" group-title="Фильмовые",A2 HD
+https://cdn.kinolar.workers.dev/A2HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/483.png" group-title="Фильмовые",A home of HBO 1
+https://cdn.kinolar.workers.dev/AHOMEOFHBO1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/656.png" group-title="Фильмовые",A home of HBO 1 HD
+https://cdn.kinolar.workers.dev/amediahithd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/488.png" group-title="Фильмовые",A home of HBO 2
+https://cdn.kinolar.workers.dev/AHOMEOFHBO2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/487.png" group-title="Фильмовые",A home of HBO 2 HD
+https://cdn.kinolar.workers.dev/AHOMEOFHBO2HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/946.png" group-title="Фильмовые",AMC
+https://cdn.kinolar.workers.dev/AMCRUS/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/490.png" group-title="Фильмовые",Bollywood
+https://cdn.kinolar.workers.dev/BOLLYWOOD_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/489.png" group-title="Фильмовые",Bollywood HD
+https://cdn.kinolar.workers.dev/BollywoodHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/486.png" group-title="Фильмовые",Hollywood
+https://cdn.kinolar.workers.dev/HollywoodSD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/482.png" group-title="Фильмовые",Hollywood HD
+https://cdn.kinolar.workers.dev/HollywoodHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/753.png" group-title="Фильмовые",Fan
+https://cdn.kinolar.workers.dev/FAN/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1089.png" group-title="Фильмовые",Fan HD
+https://cdn.kinolar.workers.dev/FanHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/564.png" group-title="Фильмовые",Epic Drama HD
+https://cdn.kinolar.workers.dev/EpicDramaHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/492.png" group-title="Фильмовые",.Red
+https://cdn.kinolar.workers.dev/red_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/630.png" group-title="Фильмовые",.Red HD
+https://cdn.kinolar.workers.dev/RED_TV_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/500.png" group-title="Фильмовые",.Sci-Fi
+https://cdn.kinolar.workers.dev/Sony_SciFi/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/499.png" group-title="Фильмовые",.Black
+https://cdn.kinolar.workers.dev/Sony_Turbo/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1066.png" group-title="Фильмовые",Duo 3 Baltic
+https://cdn.kinolar.workers.dev/LT_SONY_CHANNEL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1067.png" group-title="Фильмовые",Duo 6 Baltic
+https://cdn.kinolar.workers.dev/LT_SONY_TURBO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1210.png" group-title="Фильмовые",FilmUA Drama
+https://cdn.kinolar.workers.dev/FilmUADrama/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1211.png" group-title="Фильмовые",FilmUA Drama HD
+https://cdn.kinolar.workers.dev/FilmUADramaHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1212.png" group-title="Фильмовые",FilmBox
+https://cdn.kinolar.workers.dev/FilmBox/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/480.png" group-title="Фильмовые",Кинеко
+https://cdn.kinolar.workers.dev/FOXRU/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/5.png" group-title="Фильмовые",Кинеко HD
+https://cdn.kinolar.workers.dev/FOX_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/478.png" group-title="Фильмовые",Сапфир
+https://cdn.kinolar.workers.dev/Fox_Life/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/651.png" group-title="Фильмовые",FX Life HD
+https://cdn.kinolar.workers.dev/foxlifehd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2521.png" group-title="Фильмовые",START Air HD
+https://cdn.kinolar.workers.dev/STARTAIRHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2522.png" group-title="Фильмовые",START World HD
+https://cdn.kinolar.workers.dev/STARTWORLDHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/879.png" group-title="Фильмовые",Viasat Kino
+https://cdn.kinolar.workers.dev/TV_1000_CEE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/217.png" group-title="Фильмовые",Star Cinema
+https://cdn.kinolar.workers.dev/StarCinema_UA_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/18.png" group-title="Фильмовые",Star Cinema HD
+https://cdn.kinolar.workers.dev/Star_Cinema_HD_UA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/935.png" group-title="Фильмовые",Star Cinema HD Россия
+https://cdn.kinolar.workers.dev/STARCinemaHDSM/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/906.png" group-title="Фильмовые",Star Family HD Россия
+https://cdn.kinolar.workers.dev/STARFamilyHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/494.png" group-title="Фильмовые",YOSSO TV 4K HDR
+https://cdn.kinolar.workers.dev/YOSSO_4K_HDR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1090.png" group-title="Фильмовые",Русский Иллюзион HD
+https://cdn.kinolar.workers.dev/RU_ILLUSION_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1091.png" group-title="Фильмовые",Иллюзион + HD
+https://cdn.kinolar.workers.dev/ILLUSION_PLUS_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1094.png" group-title="Фильмовые",Еврокино HD
+https://cdn.kinolar.workers.dev/EUROKINO_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/623.png" group-title="Фильмовые",Cinema
+https://cdn.kinolar.workers.dev/cinema/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/731.png" group-title="Фильмовые",Kino Sat
+https://cdn.kinolar.workers.dev/SM_Kinosat/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/6.png" group-title="Фильмовые",Viju TV 1000 HD
+https://cdn.kinolar.workers.dev/tv100hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/177.png" group-title="Фильмовые",Viju TV 1000 Action
+https://cdn.kinolar.workers.dev/TV1000Action/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/213.png" group-title="Фильмовые",Viasat Kino World
+https://cdn.kinolar.workers.dev/TV1000WorldKino/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/174.png" group-title="Фильмовые",Viju TV 1000
+https://cdn.kinolar.workers.dev/TV1000/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/621.png" group-title="Фильмовые",Viju TV 1000 Русское HD
+https://cdn.kinolar.workers.dev/tv1000rukinohd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1065.png" group-title="Фильмовые",Go3 Films HD
+https://cdn.kinolar.workers.dev/TV1000PremiumHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/34.png" group-title="Фильмовые",Viasat Kino Comedy HD
+https://cdn.kinolar.workers.dev/ViPComedyHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/497.png" group-title="Фильмовые",Viju Comedy HD
+https://cdn.kinolar.workers.dev/VIPComedy/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/496.png" group-title="Фильмовые",Viju Megahit HD
+https://cdn.kinolar.workers.dev/ViPMegahitHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/495.png" group-title="Фильмовые",Viju Premiere HD
+https://cdn.kinolar.workers.dev/ViPPremiereHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/640.png" group-title="Фильмовые",Viju Serial HD
+https://cdn.kinolar.workers.dev/VIPSerial/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/397.png" group-title="Фильмовые",Romance HD
+https://cdn.kinolar.workers.dev/Romance_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1061.png" group-title="Фильмовые",Болт HD
+https://cdn.kinolar.workers.dev/BoltHDUKR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/712.png" group-title="Фильмовые",Болт HD Россия
+https://cdn.kinolar.workers.dev/BOLT_HD_RU/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/511.png" group-title="Фильмовые",Дорама
+https://cdn.kinolar.workers.dev/Dorama_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/708.png" group-title="Фильмовые",Дорама HD
+https://cdn.kinolar.workers.dev/DoramaHDSM/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/501.png" group-title="Фильмовые",Дом кино
+https://cdn.kinolar.workers.dev/Domkino/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/502.png" group-title="Фильмовые",Дом кино Премиум HD
+https://cdn.kinolar.workers.dev/DomkinoPremiumHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/510.png" group-title="Фильмовые",Индийское кино
+https://cdn.kinolar.workers.dev/INDIYSKOE_KINO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/508.png" group-title="Фильмовые",Киномикс
+https://cdn.kinolar.workers.dev/Kinomix/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/796.png" group-title="Фильмовые",Киномикс HD
+https://cdn.kinolar.workers.dev/KinomiksHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/505.png" group-title="Фильмовые",Киносемья
+https://cdn.kinolar.workers.dev/Kinosemya/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/606.png" group-title="Фильмовые",Киносемья HD
+https://cdn.kinolar.workers.dev/Kinosemya_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/506.png" group-title="Фильмовые",Киносвидание
+https://cdn.kinolar.workers.dev/KINOSVIDANIE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/615.png" group-title="Фильмовые",Киносвидание HD
+https://cdn.kinolar.workers.dev/KinosvidanieHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/512.png" group-title="Фильмовые",Кинохит
+https://cdn.kinolar.workers.dev/Kinohit/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/554.png" group-title="Фильмовые",Кинохит HD
+https://cdn.kinolar.workers.dev/Kinohit_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/519.png" group-title="Фильмовые",Мужское кино
+https://cdn.kinolar.workers.dev/Muzskoekino/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/581.png" group-title="Фильмовые",Мужское кино HD
+https://cdn.kinolar.workers.dev/MuzskoekinoHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/518.png" group-title="Фильмовые",Наше новое кино
+https://cdn.kinolar.workers.dev/Nashenovoekino/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/521.png" group-title="Фильмовые",Родное кино
+https://cdn.kinolar.workers.dev/Rodnoekino/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/504.png" group-title="Фильмовые",Киносерия
+https://cdn.kinolar.workers.dev/KINOSERIYA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/509.png" group-title="Фильмовые",Кинокомедия
+https://cdn.kinolar.workers.dev/KINOKOMEDIYA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/507.png" group-title="Фильмовые",Кинопремьера HD
+https://cdn.kinolar.workers.dev/KinopremieraHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/513.png" group-title="Фильмовые",Кино ТВ
+https://cdn.kinolar.workers.dev/KINO_TV_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/587.png" group-title="Фильмовые",Кино ТВ HD
+https://cdn.kinolar.workers.dev/KinoHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/101.png" group-title="Фильмовые",Наше улюблене кіно HD
+https://cdn.kinolar.workers.dev/Nashe_Lubimoe_Kino_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/112.png" group-title="Фильмовые",Еврокино
+https://cdn.kinolar.workers.dev/EUROKINO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/547.png" group-title="Фильмовые",Премиальное HD
+https://cdn.kinolar.workers.dev/KinoPremiumHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/560.png" group-title="Фильмовые",Душевное HD
+https://cdn.kinolar.workers.dev/NashKinoromanHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/555.png" group-title="Фильмовые",Комедийное HD
+https://cdn.kinolar.workers.dev/KomedijnoeHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/561.png" group-title="Фильмовые",Наше Крутое HD
+https://cdn.kinolar.workers.dev/NasheKrutoeHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2333.png" group-title="Фильмовые",Любимое HD
+https://cdn.kinolar.workers.dev/NasheLubimoeHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/556.png" group-title="Фильмовые",Шокирующее HD
+https://cdn.kinolar.workers.dev/ShokirujucheHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/559.png" group-title="Фильмовые",Остросюжетное HD
+https://cdn.kinolar.workers.dev/OstrosuzetnoeHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/806.png" group-title="Фильмовые",Романтичное HD
+https://cdn.kinolar.workers.dev/Romanticheskoe_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/627.png" group-title="Фильмовые",Страшное HD
+https://cdn.kinolar.workers.dev/strashnoehd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/517.png" group-title="Фильмовые",НСТ
+https://cdn.kinolar.workers.dev/NST/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/520.png" group-title="Фильмовые",Мир сериала
+https://cdn.kinolar.workers.dev/MIR_SERIALA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/161.png" group-title="Фильмовые",TV XXI
+https://cdn.kinolar.workers.dev/TV-21/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/516.png" group-title="Фильмовые",НТВ Сериал
+https://cdn.kinolar.workers.dev/NTVSerial/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/244.png" group-title="Фильмовые",НТВ Хит
+https://cdn.kinolar.workers.dev/NTV_HIT/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/780.png" group-title="Фильмовые",Иллюзион +
+https://cdn.kinolar.workers.dev/ILLUSION_PLUS/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/679.png" group-title="Фильмовые",Феникс + Кино
+https://cdn.kinolar.workers.dev/FENIXKINO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/525.png" group-title="Фильмовые",Русский Иллюзион
+https://cdn.kinolar.workers.dev/RU_ILLUSION/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/503.png" group-title="Фильмовые",Русская Комедия
+https://cdn.kinolar.workers.dev/RussianComedy/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/636.png" group-title="Фильмовые",Русский Детектив
+https://cdn.kinolar.workers.dev/Russian_detektiv/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/526.png" group-title="Фильмовые",Русский Бестселлер
+https://cdn.kinolar.workers.dev/RussianBestseller/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/524.png" group-title="Фильмовые",Русский Роман
+https://cdn.kinolar.workers.dev/RussianRoman/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/616.png" group-title="Фильмовые",Русский Роман HD
+https://cdn.kinolar.workers.dev/russianromanhd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/677.png" group-title="Фильмовые",YOSSO TV Мелодрама
+https://cdn.kinolar.workers.dev/yossomdrama_yosso/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Твоє Кінозал 2 (тест)
+https://cdn.kinolar.workers.dev/Tvoe_Kino_Zal_2/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Euro Drama HD
+https://cdn.kinolar.workers.dev/Euro_Drama_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2336.png" group-title="Фильмовые",KINOWOOD HD
+https://cdn.kinolar.workers.dev/KINOWOOD_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/470.png" group-title="Фильмовые",NOW Series HD
+https://cdn.kinolar.workers.dev/NOWSeriesHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/389.png" group-title="Фильмовые",Kino Megahit HD
+https://cdn.kinolar.workers.dev/Cinema_Megahit/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1727.png" group-title="Фильмовые",Euro Channel HD
+https://cdn.kinolar.workers.dev/Euro_Channel_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Classic Movies&Cartoons+ HD
+https://cdn.kinolar.workers.dev/Classic_Movies_Cartoons_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/327.png" group-title="Фильмовые",BCU Criminal HD
+https://cdn.kinolar.workers.dev/BCUCriminalHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/340.png" group-title="Фильмовые",Сапфир HD
+https://cdn.kinolar.workers.dev/NatGeoWildHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/51.png" group-title="Фильмовые",Світло
+https://cdn.kinolar.workers.dev/Epoque/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",ТВІЙ СВІТ HD
+https://cdn.kinolar.workers.dev/Tviy_Svit_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/567.png" group-title="Фильмовые",BCU Premiere Ultra 4K
+https://cdn.kinolar.workers.dev/BCUPremiereUltra4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/529.png" group-title="Фильмовые",Ретро
+https://cdn.kinolar.workers.dev/retro/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/739.png" group-title="Фильмовые",Kino 1 HD
+https://cdn.kinolar.workers.dev/Kino_1_HDUA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/398.png" group-title="Фильмовые",Shot TV
+https://cdn.kinolar.workers.dev/ShotTV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1111.png" group-title="Фильмовые",Duo 3 Baltic HD
+https://cdn.kinolar.workers.dev/SONYCHANNELHDLT/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1112.png" group-title="Фильмовые",Duo 6 Baltic HD
+https://cdn.kinolar.workers.dev/SONYTURBOHDLT/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1120.png" group-title="Фильмовые",CineMan Ужасы
+https://cdn.kinolar.workers.dev/CineMan_Uzasy/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Хіт Бойовик HD
+https://cdn.kinolar.workers.dev/Xit_Boevik_UA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1129.png" group-title="Фильмовые",Киноужас HD
+https://cdn.kinolar.workers.dev/KinouzasHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1127.png" group-title="Фильмовые",FilmUA Live HD
+https://cdn.kinolar.workers.dev/FilmUALiveHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1107.png" group-title="Фильмовые",Premiere HD 1
+https://cdn.kinolar.workers.dev/Premiere_1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1202.png" group-title="Фильмовые",Кинокомедия HD
+https://cdn.kinolar.workers.dev/Kinokomedya_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1204.png" group-title="Фильмовые",Киносерия HD
+https://cdn.kinolar.workers.dev/KINOSERIYAHD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Kino Plus HD
+https://cdn.kinolar.workers.dev/Kino_Plus_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Kino Horrors HD
+https://cdn.kinolar.workers.dev/Cinema_Horrors_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Точка Ризику HD
+https://cdn.kinolar.workers.dev/Tochka_Riziky/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1252.png" group-title="Фильмовые",Dlia Ciebie TV
+https://cdn.kinolar.workers.dev/DliaCiebie_TV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1851.png" group-title="Фильмовые",CineMan Катастрофы
+https://cdn.kinolar.workers.dev/CineMan_Katastrophe/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1823.png" group-title="Фильмовые",CineMan ПёС + ЛИХАЧ
+https://cdn.kinolar.workers.dev/CineMan_Pes/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1265.png" group-title="Фильмовые",КиноКульт HD
+https://cdn.kinolar.workers.dev/KINOKULT_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1394.png" group-title="Фильмовые",CineMan Air Crash
+https://cdn.kinolar.workers.dev/Cineman-AirCrash/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1275.png" group-title="Фильмовые",Cinema HD
+https://cdn.kinolar.workers.dev/Cinema_RU_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1396.png" group-title="Фильмовые",Твоє кіно. Relax
+https://cdn.kinolar.workers.dev/Tvoye_Kino_Relax/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1398.png" group-title="Фильмовые",Наше новое кино HD
+https://cdn.kinolar.workers.dev/Nashe_Novoe_Kino_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1290.png" group-title="Фильмовые",Дорама HD UA
+https://cdn.kinolar.workers.dev/Dorama_HD_UA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1297.png" group-title="Фильмовые",TV XXI HD
+https://cdn.kinolar.workers.dev/TV21_HD_Kino/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1327.png" group-title="Фильмовые",FX HD Estonia
+https://cdn.kinolar.workers.dev/FX_HD_EE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1333.png" group-title="Фильмовые",Kino Family HD
+https://cdn.kinolar.workers.dev/Kino_Family_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1364.png" group-title="Фильмовые",Kino Prime HD
+https://cdn.kinolar.workers.dev/Kino_Prime_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1410.png" group-title="Фильмовые",FlixSnip HD
+https://cdn.kinolar.workers.dev/FlixSnipHDSM/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1413.png" group-title="Фильмовые",Киносериал HD [KZ]
+https://cdn.kinolar.workers.dev/Q_Alem_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1416.png" group-title="Фильмовые",Premiere HD 3
+https://cdn.kinolar.workers.dev/Premiere_3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1434.png" group-title="Фильмовые",CineMan
+https://cdn.kinolar.workers.dev/CineMan/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1442.png" group-title="Фильмовые",Premiere HD 4
+https://cdn.kinolar.workers.dev/Premiere_4_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1440.png" group-title="Фильмовые",CineMan VHS
+https://cdn.kinolar.workers.dev/CineMan-VHS/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1439.png" group-title="Фильмовые",CineMan Marvel
+https://cdn.kinolar.workers.dev/CineMan-MARVEL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1438.png" group-title="Фильмовые",CineMan Thriller
+https://cdn.kinolar.workers.dev/CineMan-Thiller/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1437.png" group-title="Фильмовые",CineMan Melodrama
+https://cdn.kinolar.workers.dev/CineManMelodrama/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1436.png" group-title="Фильмовые",CineMan Action
+https://cdn.kinolar.workers.dev/CineManAction/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1435.png" group-title="Фильмовые",CineMan Top
+https://cdn.kinolar.workers.dev/CineMan-TOP/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1441.png" group-title="Фильмовые",CineMan Рукино
+https://cdn.kinolar.workers.dev/CineMan-RuKino/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1443.png" group-title="Фильмовые",CineMan Сваты
+https://cdn.kinolar.workers.dev/CineMan-Svaty/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1913.png" group-title="Фильмовые",Киноужас
+https://cdn.kinolar.workers.dev/KINOUZAS_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1459.png" group-title="Фильмовые",Индия HD
+https://cdn.kinolar.workers.dev/ZEE_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1460.png" group-title="Фильмовые",Shot TV HD
+https://cdn.kinolar.workers.dev/Shot_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1915.png" group-title="Фильмовые",FlixSnip
+https://cdn.kinolar.workers.dev/FlixSnip_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1425.png" group-title="Фильмовые",C-History HD
+https://cdn.kinolar.workers.dev/Y-C-HISTORY/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2820.png" group-title="Фильмовые",Лавстори HD
+https://cdn.kinolar.workers.dev/lovestory/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1918.png" group-title="Фильмовые",DetektivJam HD
+https://cdn.kinolar.workers.dev/DetektivJam_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1465.png" group-title="Фильмовые",CineMan MiniSeries
+https://cdn.kinolar.workers.dev/CineMan_miniseries/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1529.png" group-title="Фильмовые",CineMan Комедия
+https://cdn.kinolar.workers.dev/CinaMan_Comedy/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1528.png" group-title="Фильмовые",Криминальное HD
+https://cdn.kinolar.workers.dev/Kriminalnoe_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1589.png" group-title="Фильмовые",Viju TV1000 Romantica HD
+https://cdn.kinolar.workers.dev/Viju_tv_1000_romantic/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1595.png" group-title="Фильмовые",Хит HD
+https://cdn.kinolar.workers.dev/XitHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1596.png" group-title="Фильмовые",Блокбастер HD
+https://cdn.kinolar.workers.dev/BlokbasterHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1597.png" group-title="Фильмовые",Наш кинопоказ HD
+https://cdn.kinolar.workers.dev/NashKinopokazHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1598.png" group-title="Фильмовые",Кинопоказ HD
+https://cdn.kinolar.workers.dev/KinopokazHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1599.png" group-title="Фильмовые",Про любовь HD
+https://cdn.kinolar.workers.dev/ProLubovHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1600.png" group-title="Фильмовые",Наше мужское HD
+https://cdn.kinolar.workers.dev/NasheMuzskoeHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1601.png" group-title="Фильмовые",Камеди HD
+https://cdn.kinolar.workers.dev/KamedyHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2320.png" group-title="Фильмовые",BCU TruMotion HD
+https://cdn.kinolar.workers.dev/BCU_TruMotion_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1649.png" group-title="Фильмовые",Premiere HD 2
+https://cdn.kinolar.workers.dev/Premiere_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1651.png" group-title="Фильмовые",Киноджем 2 HD
+https://cdn.kinolar.workers.dev/Kinojem_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1652.png" group-title="Фильмовые",Киноджем 1 HD
+https://cdn.kinolar.workers.dev/Kinojem_1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1663.png" group-title="Фильмовые",Scream
+https://cdn.kinolar.workers.dev/Scream/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1666.png" group-title="Фильмовые",Viasat Kino HD
+https://cdn.kinolar.workers.dev/TV_1000_HD_CEE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1672.png" group-title="Фильмовые",Cine+ Legend
+https://cdn.kinolar.workers.dev/CINE_LEGEND_LW/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1674.png" group-title="Фильмовые",FilmBox Arthouse HD
+https://cdn.kinolar.workers.dev/FilmBox_Arthaus_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1676.png" group-title="Фильмовые",Timeless Dizi Channel
+https://cdn.kinolar.workers.dev/TimelDiziCh_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1680.png" group-title="Фильмовые",Світло HD
+https://cdn.kinolar.workers.dev/Epoque_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1684.png" group-title="Фильмовые",BCU Кинозал Premiere 1 HD
+https://cdn.kinolar.workers.dev/BCUPremiere1HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1685.png" group-title="Фильмовые",BCU Кинозал Premiere 2 HD
+https://cdn.kinolar.workers.dev/BCUPremiere2HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1686.png" group-title="Фильмовые",BCU Кинозал Premiere 3 HD
+https://cdn.kinolar.workers.dev/BCUPremiere3HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1687.png" group-title="Фильмовые",BCU Reality HD
+https://cdn.kinolar.workers.dev/BCURealityHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1689.png" group-title="Фильмовые",BCU СССР HD
+https://cdn.kinolar.workers.dev/BCUSSSRHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1690.png" group-title="Фильмовые",BCU Action HD
+https://cdn.kinolar.workers.dev/BCUActionHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1691.png" group-title="Фильмовые",BCU Ultra 4K
+https://cdn.kinolar.workers.dev/BCUUltra4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1692.png" group-title="Фильмовые",BCU Kinozakaz HD
+https://cdn.kinolar.workers.dev/BCUMEDIAHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1693.png" group-title="Фильмовые",BCU Catastrophe HD
+https://cdn.kinolar.workers.dev/BCUCatastropheHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1694.png" group-title="Фильмовые",BCU Comedy HD
+https://cdn.kinolar.workers.dev/BCUComedyHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1695.png" group-title="Фильмовые",BCU Fantastic HD
+https://cdn.kinolar.workers.dev/BCUFantasticHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1696.png" group-title="Фильмовые",BCU FilMystic HD
+https://cdn.kinolar.workers.dev/BCUFilMysticHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1697.png" group-title="Фильмовые",BCU History HD
+https://cdn.kinolar.workers.dev/BCUHistoryHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1698.png" group-title="Фильмовые",BCU Marvel HD
+https://cdn.kinolar.workers.dev/BCUMarvelHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1699.png" group-title="Фильмовые",BCU Premiere HD
+https://cdn.kinolar.workers.dev/BCUPremiereHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1700.png" group-title="Фильмовые",BCU Romantic HD
+https://cdn.kinolar.workers.dev/BCURomanticHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1701.png" group-title="Фильмовые",BCU Stars HD
+https://cdn.kinolar.workers.dev/BCUStarsHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1702.png" group-title="Фильмовые",BCU Cinema HD
+https://cdn.kinolar.workers.dev/BCUCinemaHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1703.png" group-title="Фильмовые",BCU Cinema+ HD
+https://cdn.kinolar.workers.dev/BCUCinemaplusHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1706.png" group-title="Фильмовые",BCU Kinorating HD
+https://cdn.kinolar.workers.dev/BCUKinoratingHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1707.png" group-title="Фильмовые",BCU Russian HD
+https://cdn.kinolar.workers.dev/BCURussianHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1708.png" group-title="Фильмовые",BCU VHS HD
+https://cdn.kinolar.workers.dev/BCUVHSHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1709.png" group-title="Фильмовые",BCU RUSerial HD
+https://cdn.kinolar.workers.dev/BCURUSERIALHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1827.png" group-title="Фильмовые",.Black HD
+https://cdn.kinolar.workers.dev/Black_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1828.png" group-title="Фильмовые",.Sci-Fi HD
+https://cdn.kinolar.workers.dev/Sci_fi_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1829.png" group-title="Фильмовые",Кино 7 HD Eesti
+https://cdn.kinolar.workers.dev/Kino7_EE_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1717.png" group-title="Фильмовые",Мосфильм Золотая коллекция HD
+https://cdn.kinolar.workers.dev/MosFilm_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1721.png" group-title="Фильмовые",Твоє кіно. Хіт
+https://cdn.kinolar.workers.dev/Tvoye_Kino_Hit/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1901.png" group-title="Фильмовые",BCU Little HD
+https://cdn.kinolar.workers.dev/BCU_Little_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2445.png" group-title="Фильмовые",CineMan Premium
+https://cdn.kinolar.workers.dev/CineMan_Premium/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1759.png" group-title="Фильмовые",Твоє кіно. Action
+https://cdn.kinolar.workers.dev/Tvoye_Kino_Action/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1772.png" group-title="Фильмовые",Kino Fantasy HD
+https://cdn.kinolar.workers.dev/Kino_Fantasy_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1789.png" group-title="Фильмовые",YOSSO TV Grand
+https://cdn.kinolar.workers.dev/YOSSO-GRAND/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1791.png" group-title="Фильмовые",YOSSO TV Music Hits
+https://cdn.kinolar.workers.dev/YOSSO-MUSIC-HITS/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1792.png" group-title="Фильмовые",YOSSO TV NEW Кино
+https://cdn.kinolar.workers.dev/YOSSO-NEW/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1794.png" group-title="Фильмовые",YOSSO TV VHS
+https://cdn.kinolar.workers.dev/YOSSOVHS/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1795.png" group-title="Фильмовые",YOSSO TV Русские фильмы
+https://cdn.kinolar.workers.dev/Yossorus/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1796.png" group-title="Фильмовые",YOSSO TV Советские фильмы
+https://cdn.kinolar.workers.dev/YOSSO-SSSR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1797.png" group-title="Фильмовые",YOSSO TV Союзмульт
+https://cdn.kinolar.workers.dev/YOSSO-MULT/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1846.png" group-title="Фильмовые",Star Cinema HD LV
+https://cdn.kinolar.workers.dev/Star_Cinema_HD_LV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1847.png" group-title="Фильмовые",YOSSO TV Забавное
+https://cdn.kinolar.workers.dev/YOSSO-ZABAVNOE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1848.png" group-title="Фильмовые",YOSSO TV Ковбойское
+https://cdn.kinolar.workers.dev/YOSSO-KOWBOYSKOE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1849.png" group-title="Фильмовые",YOSSO TV BEST
+https://cdn.kinolar.workers.dev/YOSSO-BEST/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1853.png" group-title="Фильмовые",YOSSO TV Adrenaline
+https://cdn.kinolar.workers.dev/ADRENALINE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1854.png" group-title="Фильмовые",YOSSO TV Oblivion
+https://cdn.kinolar.workers.dev/Yosso-OBLIVION/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Dorama +1
+https://cdn.kinolar.workers.dev/Dorama_plus1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1860.png" group-title="Фильмовые",YOSSO TV Adventure
+https://cdn.kinolar.workers.dev/Y-ADVENTURE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1861.png" group-title="Фильмовые",YOSSO TV Thriller
+https://cdn.kinolar.workers.dev/YOSSOTHRILLER/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1863.png" group-title="Фильмовые",BCU Survival HD
+https://cdn.kinolar.workers.dev/BCUSurvivalHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1870.png" group-title="Фильмовые",Пес HD
+https://cdn.kinolar.workers.dev/Pes_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1877.png" group-title="Фильмовые",Sweet Кіно HD
+https://cdn.kinolar.workers.dev/SW_M_K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1888.png" group-title="Фильмовые",YOSSO-4K
+https://cdn.kinolar.workers.dev/YOSSO-UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1890.png" group-title="Фильмовые",C-Marvel
+https://cdn.kinolar.workers.dev/CITRUS-marvel/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1895.png" group-title="Фильмовые",Plan B
+https://cdn.kinolar.workers.dev/PlanB/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1896.png" group-title="Фильмовые",Plan B HD
+https://cdn.kinolar.workers.dev/PlanB_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1898.png" group-title="Фильмовые",FX
+https://cdn.kinolar.workers.dev/FOX_CEE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1902.png" group-title="Фильмовые",TV1000 Russian Kino Global
+https://cdn.kinolar.workers.dev/BG_TV1000_RKG/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1905.png" group-title="Фильмовые",Феникс + Кино HD
+https://cdn.kinolar.workers.dev/FENIXKINO_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1932.png" group-title="Фильмовые",Канал 7 Baltic
+https://cdn.kinolar.workers.dev/LT_DUO7/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1970.png" group-title="Фильмовые",KinoLiving HD
+https://cdn.kinolar.workers.dev/Kino_Living_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1984.png" group-title="Фильмовые",BOX Ghost HD
+https://cdn.kinolar.workers.dev/BOX_GHOST_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1992.png" group-title="Фильмовые",BOX Premiere 4K
+https://cdn.kinolar.workers.dev/BOX_Premiere_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1993.png" group-title="Фильмовые",FX HD
+https://cdn.kinolar.workers.dev/FOX_CEE_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2824.png" group-title="Фильмовые",Романтичний марафон HD
+https://cdn.kinolar.workers.dev/Romantychniy_Marafon/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2627.png" group-title="Фильмовые",Дом Кино HD
+https://cdn.kinolar.workers.dev/DomKino_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",JK Cinema 2
+https://cdn.kinolar.workers.dev/jk_Cinema2/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",JK Cinema
+https://cdn.kinolar.workers.dev/jk_Cinema/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",JK Cinema 3
+https://cdn.kinolar.workers.dev/jk_Cinema3/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",JK Serial
+https://cdn.kinolar.workers.dev/jk_Heroes/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2090.png" group-title="Фильмовые",Кіно та серіали+ HD
+https://cdn.kinolar.workers.dev/Kinotaserialy_plus/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2109.png" group-title="Фильмовые",Duo Drama HD
+https://cdn.kinolar.workers.dev/DUO_4_HD_EE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2113.png" group-title="Фильмовые",C-Inquest
+https://cdn.kinolar.workers.dev/Y-C-INQUEST/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2114.png" group-title="Фильмовые",C-Comedy
+https://cdn.kinolar.workers.dev/Y-C-COMEDY/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2119.png" group-title="Фильмовые",BCU Cosmo HD
+https://cdn.kinolar.workers.dev/BCUCosmoHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2120.png" group-title="Фильмовые",Star Family HD LV
+https://cdn.kinolar.workers.dev/Star_Family_HD_LV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2129.png" group-title="Фильмовые",Ужасы HD
+https://cdn.kinolar.workers.dev/uzasi_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2276.png" group-title="Фильмовые",FX Life
+https://cdn.kinolar.workers.dev/foxlife_sd_tv/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2283.png" group-title="Фильмовые",BOX Remast 4K
+https://cdn.kinolar.workers.dev/BOX_Remast_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2284.png" group-title="Фильмовые",Кинобоевик HD
+https://cdn.kinolar.workers.dev/KinoBoevik_HD_KZ/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2285.png" group-title="Фильмовые",BOX Fantasy HD
+https://cdn.kinolar.workers.dev/BOX_fantasy_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2287.png" group-title="Фильмовые",Семейное Кино HD
+https://cdn.kinolar.workers.dev/SemeinoeKino_HD_KZ/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2289.png" group-title="Фильмовые",BOX Mayday HD
+https://cdn.kinolar.workers.dev/BOX_mayday_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2290.png" group-title="Фильмовые",BOX Stories HD
+https://cdn.kinolar.workers.dev/BOX_STORIES_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2295.png" group-title="Фильмовые",Премиум кино HD
+https://cdn.kinolar.workers.dev/KinoPremiera_HD_KZ/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2178.png" group-title="Фильмовые",Мировое Кино HD
+https://cdn.kinolar.workers.dev/MirovoeKino_HD_KZ/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2216.png" group-title="Фильмовые",4Y Baltic
+https://cdn.kinolar.workers.dev/4Y_Baltia/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2239.png" group-title="Фильмовые",Saga HD
+https://cdn.kinolar.workers.dev/SAGA_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2242.png" group-title="Фильмовые",BOX Serial 4K
+https://cdn.kinolar.workers.dev/BOX_SERIAL_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2263.png" group-title="Фильмовые",YOSSO TV Netflix
+https://cdn.kinolar.workers.dev/YOSSO-NETFLIX/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2299.png" group-title="Фильмовые",CineMan Скорая помощь
+https://cdn.kinolar.workers.dev/CineMan_Ambylace/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2312.png" group-title="Фильмовые",YOSSO TV BEST 60 FPS
+https://cdn.kinolar.workers.dev/YOSSOY-BEST_60FPS/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2825.png" group-title="Фильмовые",Viju TV1000 Новелла HD
+https://cdn.kinolar.workers.dev/viju_novella/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2329.png" group-title="Фильмовые",Kino Legend HD
+https://cdn.kinolar.workers.dev/Kino_Legend_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2330.png" group-title="Фильмовые",Kino Action +1 HD
+https://cdn.kinolar.workers.dev/Kino_Action_plus1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2479.png" group-title="Фильмовые",Suspense HD
+https://cdn.kinolar.workers.dev/Suspence_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2489.png" group-title="Фильмовые",Viju TV1000 Новелла
+https://cdn.kinolar.workers.dev/VIJU_TV1000_Novella/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2495.png" group-title="Фильмовые",Viasat Kino World HD
+https://cdn.kinolar.workers.dev/TV_1000_world_kino_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2533.png" group-title="Фильмовые",4 Ever Cinema HD
+https://cdn.kinolar.workers.dev/4Ever_Cinema_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Кріпосна HD
+https://cdn.kinolar.workers.dev/Kriposna_TV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2548.png" group-title="Фильмовые",Юрчишини HD
+https://cdn.kinolar.workers.dev/Yurchyshyny_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Киноман
+https://cdn.kinolar.workers.dev/Kinoman_Tv/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2600.png" group-title="Фильмовые",Sweet Megahit HD
+https://cdn.kinolar.workers.dev/SW_Megahit/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2607.png" group-title="Фильмовые",BOX Franchise HD
+https://cdn.kinolar.workers.dev/box_franchise_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2608.png" group-title="Фильмовые",BOX Hybrid HD
+https://cdn.kinolar.workers.dev/box_hybrid_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2610.png" group-title="Фильмовые",BOX Gangster HD
+https://cdn.kinolar.workers.dev/box_gangster_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2611.png" group-title="Фильмовые",BOX Oscar HD
+https://cdn.kinolar.workers.dev/box_oscar_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2612.png" group-title="Фильмовые",BOX Memory HD
+https://cdn.kinolar.workers.dev/box_memory_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2613.png" group-title="Фильмовые",BOX M.Serial HD
+https://cdn.kinolar.workers.dev/box_mserial_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2615.png" group-title="Фильмовые",BOX Relax 4K
+https://cdn.kinolar.workers.dev/box_relax_4k/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2616.png" group-title="Фильмовые",BOX Game HD
+https://cdn.kinolar.workers.dev/box_game_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2617.png" group-title="Фильмовые",BOX Spy HD
+https://cdn.kinolar.workers.dev/box_spy_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2619.png" group-title="Фильмовые",BOX Western HD
+https://cdn.kinolar.workers.dev/box_western_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2620.png" group-title="Фильмовые",BOX ZOMBIE HD
+https://cdn.kinolar.workers.dev/box_zombie_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2621.png" group-title="Фильмовые",BOX Cyber HD
+https://cdn.kinolar.workers.dev/box_cyber_hd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2625.png" group-title="Фильмовые",BOX Serial HD
+https://cdn.kinolar.workers.dev/BOX_SERIAL_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2635.png" group-title="Фильмовые",Любимое кино HD
+https://cdn.kinolar.workers.dev/Nashe_Lubimoe_Kino/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",Киноджем 3 HD
+https://cdn.kinolar.workers.dev/test_sled_veli/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2682.png" group-title="Фильмовые",Опер за викликом+ HD
+https://cdn.kinolar.workers.dev/Oper_za_vyklykom_plus_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2722.png" group-title="Фильмовые",Кинодрама HD [KZ]
+https://cdn.kinolar.workers.dev/Q_Alem_1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2743.png" group-title="Фильмовые",Легенда HD
+https://cdn.kinolar.workers.dev/LEGENDA_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2748.png" group-title="Фильмовые",Твій серіал
+https://cdn.kinolar.workers.dev/Tvoy_Serial_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2752.png" group-title="Фильмовые",Класика кінематографу HD
+https://cdn.kinolar.workers.dev/Klassica_kinomatografu_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2758.png" group-title="Фильмовые",Kino Premiere HD
+https://cdn.kinolar.workers.dev/KinoPremiere_HD_GFFVdfBF56FGVVFDBCfv/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2759.png" group-title="Фильмовые",Kino Action HD
+https://cdn.kinolar.workers.dev/KinoAction_HD_FBlkJHQWXCcsEFFVXD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2760.png" group-title="Фильмовые",Kino Comedy HD
+https://cdn.kinolar.workers.dev/KinoComedy_HD_VDFssaxxWRD56FGaqqZ/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2762.png" group-title="Фильмовые",НТВ Хит HD
+https://cdn.kinolar.workers.dev/NTV_Hit_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1104.png" group-title="Фильмовые",Кинопоказ
+https://cdn.kinolar.workers.dev/Kinopokaz/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Фильмовые",VHS-сериал HD
+https://cdn.kinolar.workers.dev/VHS_SERIAL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1055.png" group-title="Фильмовые",Film Zone
+https://cdn.kinolar.workers.dev/SDI_FILMZONE_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/4.png" group-title="Фильмовые",Viju TV 1000 Action HD
+https://cdn.kinolar.workers.dev/tv1000actionhd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1029.png" group-title="Фильмовые",Film Zone+ HD
+https://cdn.kinolar.workers.dev/FILMZONE_PLUS_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/498.png" group-title="Фильмовые",Viju TV 1000 Русское
+https://cdn.kinolar.workers.dev/TV1000RusKino/mono.m3u8?key=halvatv
+
+
+
+
 #EXTINF:-1 group-title="BCU",BCU Кинозал Premiere 1 HD
 http://stream-tv-prostar.hf.space/ch/AA3511W?key=AB001829BB
 #EXTINF:-1 group-title="BCU",BCU Кинозал Premiere 2 HD
@@ -491,169 +1213,163 @@ http://stream-tv-prostar.hf.space/ch/8483?key=AB001829BB
 #EXTINF:-1 group-title="Cinema +",GoldLine Сериал
 http://stream-tv-prostar.hf.space/ch/8533?key=AB001829BB
 
-#EXTINF:-1 group-title="Infinity",Infinity: Просто Мария
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Просто Мария
 https://cdn.kinolar.workers.dev/jk_Prosto_mariya/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Хороший доктор
-https://cdn.kinolar.workers.dev/inf_Good_Doctor/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Агенты Агенты Щ.И.Т.
-https://cdn.kinolar.workers.dev/inf_Agents_of_SHIELD/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Викинги
-https://cdn.kinolar.workers.dev/inf_Vikings/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Комедия
-https://cdn.kinolar.workers.dev/inf_comedy/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Аль Пачино
-https://cdn.kinolar.workers.dev/inf_Goof/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Ретро комедии. Европа
-https://cdn.kinolar.workers.dev/inf_retro_eu/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Ретро комедии. Америка
-https://cdn.kinolar.workers.dev/inf_retro_usa/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Рабыня Изаура
-https://cdn.kinolar.workers.dev/jk_Izaura/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Коломбо
-https://cdn.kinolar.workers.dev/inf_word_clac/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Люди и животные
-https://cdn.kinolar.workers.dev/inf_animov/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Топ Гир
-https://cdn.kinolar.workers.dev/inf_Top_Gear/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Сверхъестественное
-https://cdn.kinolar.workers.dev/jk_FinF/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Спартак
-https://cdn.kinolar.workers.dev/inf_Spartacus/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Infinity",Infinity: Клон
-https://cdn.kinolar.workers.dev/inf_clone/mono.m3u8?key=halvatv
-
-#EXTINF:-1 group-title="Joker",Joker: Флінстоуни
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Флінстоуни
 https://cdn.kinolar.workers.dev/jk_Flintstones/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Гра престолів
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Гра престолів
 https://cdn.kinolar.workers.dev/jk_GoT/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Щенячий патруль
-https://cdn.kinolar.workers.dev/jk_PAW_Patrol/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Леді Баг і Супер кіт
-https://cdn.kinolar.workers.dev/jk_ledi_Bag/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Гравіті Фолз
-https://cdn.kinolar.workers.dev/jk_Gravity_Falls/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Свинка Пепа
-https://cdn.kinolar.workers.dev/jk_Pepa_pig/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Темний плащ
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Хороший доктор
+https://cdn.kinolar.workers.dev/inf_Good_Doctor/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Агенты Агенты Щ.И.Т.
+https://cdn.kinolar.workers.dev/inf_Agents_of_SHIELD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Темний плащ
 https://cdn.kinolar.workers.dev/jk_black_cloak/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Фантастика
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Фантастика
 https://cdn.kinolar.workers.dev/fantastika/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Беверлі Хілс 90210
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Беверлі Хілс 90210
 https://cdn.kinolar.workers.dev/jk_90210/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker:  CSI: Місце злочину Нью-Йорк
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Викинги
+https://cdn.kinolar.workers.dev/inf_Vikings/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker:  CSI: Місце злочину Нью-Йорк
 https://cdn.kinolar.workers.dev/jk_csi_NY/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker:  Футурама
+#EXTINF:-1 group-title="Кинозал плюс",Joker:  Футурама
 https://cdn.kinolar.workers.dev/jk_futurama/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Як я зустрів вашу маму
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Як я зустрів вашу маму
 https://cdn.kinolar.workers.dev/jk_Your_mother/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Simpsons UA
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Simpsons UA
 https://cdn.kinolar.workers.dev/Simson/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Останні з нас
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Останні з нас
 https://cdn.kinolar.workers.dev/The_Last_of_Us/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Kids
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Kids
 https://cdn.kinolar.workers.dev/jk_kids/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Cinema2
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Cinema2
 https://cdn.kinolar.workers.dev/jk_Cinema2/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Шерлок
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Комедия
+https://cdn.kinolar.workers.dev/inf_comedy/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Шерлок
 https://cdn.kinolar.workers.dev/jk_Sherlock/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Альф
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Альф
 https://cdn.kinolar.workers.dev/jk_Alf/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Губка Боб
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Губка Боб
 https://cdn.kinolar.workers.dev/gubka_bob/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: 90-ті
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Аль Пачино
+https://cdn.kinolar.workers.dev/inf_Goof/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker: 90-ті
 https://cdn.kinolar.workers.dev/jk_90/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Wednesday
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Wednesday
 https://cdn.kinolar.workers.dev/Wednesday/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Доктор Хаус
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Доктор Хаус
 https://cdn.kinolar.workers.dev/House_ukr/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Фарго
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Ретро комедии. Европа
+https://cdn.kinolar.workers.dev/inf_retro_eu/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Фарго
 https://cdn.kinolar.workers.dev/jk_fargo/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: CSI: Місце злочину Лас-Вегас
+#EXTINF:-1 group-title="Кинозал плюс",Joker: CSI: Місце злочину Лас-Вегас
 https://cdn.kinolar.workers.dev/jk_csi_vegas/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: CSI: Місце злочину Маямі
+#EXTINF:-1 group-title="Кинозал плюс",Joker: CSI: Місце злочину Маямі
 https://cdn.kinolar.workers.dev/jk_csi_m/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Качині історії
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Качині історії
 https://cdn.kinolar.workers.dev/jk_ducks/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Темрява
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Темрява
 https://cdn.kinolar.workers.dev/jk_dark/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Детектив
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Ретро комедии. Америка
+https://cdn.kinolar.workers.dev/inf_retro_usa/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Рабыня Изаура
+https://cdn.kinolar.workers.dev/jk_Izaura/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Детектив
 https://cdn.kinolar.workers.dev/jk_detektiv/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Cinema
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Cinema
 https://cdn.kinolar.workers.dev/jk_Cinema/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Друзі
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Друзі
 https://cdn.kinolar.workers.dev/jk_Friends/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Драма
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Драма
 https://cdn.kinolar.workers.dev/jk_dram/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Гей, Арнольде!
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Гей, Арнольде!
 https://cdn.kinolar.workers.dev/jk_arnold/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Пінгвіни Мадагаскару
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Пінгвіни Мадагаскару
 https://cdn.kinolar.workers.dev/jk_pingvins/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Пуститися берега
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Пуститися берега
 https://cdn.kinolar.workers.dev/jk_berega/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Тімон і Бумба
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Коломбо
+https://cdn.kinolar.workers.dev/inf_word_clac/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Люди и животные
+https://cdn.kinolar.workers.dev/inf_animov/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Тімон і Бумба
 https://cdn.kinolar.workers.dev/jk_timon/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: House Dragon
+#EXTINF:-1 group-title="Кинозал плюс",Joker: House Dragon
 https://cdn.kinolar.workers.dev/jk_House_Dragon/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Мультколекція
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Мультколекція
 https://cdn.kinolar.workers.dev/jk_Cartoon/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Fitness
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Топ Гир
+https://cdn.kinolar.workers.dev/inf_Top_Gear/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Fitness
 https://cdn.kinolar.workers.dev/jk_balance/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Твін Пікс
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Твін Пікс
 https://cdn.kinolar.workers.dev/jk_Twin_Peaks/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Бруклін 9-9
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Бруклін 9-9
 https://cdn.kinolar.workers.dev/jk_brookllyn/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Ван Дамм
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Ван Дамм
 https://cdn.kinolar.workers.dev/jk_Van_Dame/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Ліло і Стіч
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Ліло і Стіч
 https://cdn.kinolar.workers.dev/jk_Lilo/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Пуаро Агати Крісті
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Пуаро Агати Крісті
 https://cdn.kinolar.workers.dev/jk_Poirot/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Південний Парк
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Південний Парк
 https://cdn.kinolar.workers.dev/jk_South_Park/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Маленьке королівство Бена і Холлі
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Маленьке королівство Бена і Холлі
 https://cdn.kinolar.workers.dev/jk_Ben_Holly/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Чіп і Дейл
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Сверхъестественное
+https://cdn.kinolar.workers.dev/jk_FinF/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Чіп і Дейл
 https://cdn.kinolar.workers.dev/jk_Chip_Dale/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Аладдін
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Аладдін
 https://cdn.kinolar.workers.dev/jk_aladin/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Мел Гіпсон
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Мел Гіпсон
 https://cdn.kinolar.workers.dev/jk_Mel/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Декстер
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Декстер
 https://cdn.kinolar.workers.dev/jk_Dexter/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Коломбо
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Спартак
+https://cdn.kinolar.workers.dev/inf_Spartacus/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Коломбо
 https://cdn.kinolar.workers.dev/jk_Colombo/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Паралельні світи
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Паралельні світи
 https://cdn.kinolar.workers.dev/jk_Sliders/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Грімм
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Грімм
 https://cdn.kinolar.workers.dev/jk_grimm/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Герої
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Герої
 https://cdn.kinolar.workers.dev/jk_Heroes/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Про кохання
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Про кохання
 https://cdn.kinolar.workers.dev/love/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Гострі картузи
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Гострі картузи
 https://cdn.kinolar.workers.dev/jk_Gostri_Kartuz/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Вітчайдушні домогосподарки
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Вітчайдушні домогосподарки
 https://cdn.kinolar.workers.dev/jk_desperate_ukr/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Величне століття
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Величне століття
 https://cdn.kinolar.workers.dev/jk_Muhtesem/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Серіал
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Серіал
 https://cdn.kinolar.workers.dev/jk_serial/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Жахи
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Жахи
 https://cdn.kinolar.workers.dev/jk_strah/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Відьмак
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Відьмак
 https://cdn.kinolar.workers.dev/jk_Vedmak/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Панда Кун-фу
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Панда Кун-фу
 https://cdn.kinolar.workers.dev/jk_panda/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Касл
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Касл
 https://cdn.kinolar.workers.dev/jk_Castle/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Русалонька і друзі
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Русалонька і друзі
 https://cdn.kinolar.workers.dev/jk_rusaloshka/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Теорія брехні
+#EXTINF:-1 group-title="Кинозал плюс",Infinity: Клон
+https://cdn.kinolar.workers.dev/inf_clone/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Теорія брехні
 https://cdn.kinolar.workers.dev/jk_Lie_To_Me/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Секретні матеріали
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Секретні матеріали
 https://cdn.kinolar.workers.dev/jk_x_files/mono.m3u8?key=halvatv
-#EXTINF:-1 group-title="Joker",Joker: Фубар
+#EXTINF:-1 group-title="Кинозал плюс",Joker: Фубар
 https://cdn.kinolar.workers.dev/jk_FUBAR/mono.m3u8?key=halvatv
+
+
+
 
 
 
@@ -1277,6 +1993,676 @@ http://itvuz-live.hf.space/play/MTk3?key=AB001829BB
 http://itvuz-live.hf.space/play/MTk4?key=AB001829BB
 #EXTINF:-1 tvg-id="199" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/01//429841362f835018bd80861f5c487449-q-500x500.jpeg" group-title="Ру (VPN)",TRT Music
 http://itvuz-live.hf.space/play/MTk5?key=AB001829BB
+
+
+
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/737.png" group-title="Телеканал 4K",RTL UHD
+https://cdn.kinolar.workers.dev/DE_RTL_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/411.png" group-title="Телеканал 4K",Sky Sport UHD DE
+https://cdn.kinolar.workers.dev/SKY_Sport_UHD_DE/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",France 2 UHD
+https://cdn.kinolar.workers.dev/France_2_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2840.png" group-title="Телеканал 4K",Prima 4K TEST
+https://cdn.kinolar.workers.dev/RO_Prima_4k/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Planeta 4K
+https://cdn.kinolar.workers.dev/Planeta_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1389.png" group-title="Телеканал 4K",DIGI 4K
+https://cdn.kinolar.workers.dev/Digi4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1031.png" group-title="Телеканал 4K",HOME 4K
+https://cdn.kinolar.workers.dev/Home_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2775.png" group-title="Телеканал 4K",Clarity4K Netflix
+https://cdn.kinolar.workers.dev/Netflix_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1097.png" group-title="Телеканал 4K",Наша Сибирь 4K
+https://cdn.kinolar.workers.dev/NashaSibir4k/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/603.png" group-title="Телеканал 4K",Cinema UHD
+https://cdn.kinolar.workers.dev/ULTRAHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1071.png" group-title="Телеканал 4K",Кино UHD
+https://cdn.kinolar.workers.dev/TRI_KINO_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2753.png" group-title="Телеканал 4K",Eurosport 4K
+https://cdn.kinolar.workers.dev/EuAB39EE13test4K1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2776.png" group-title="Телеканал 4K",Clarity4K World Music
+https://cdn.kinolar.workers.dev/Clarity4K_World_Music/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/266.png" group-title="Телеканал 4K",Auto Motor Sport UHD
+https://cdn.kinolar.workers.dev/Automoto4k/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/580.png" group-title="Телеканал 4K",TRT 4K
+https://cdn.kinolar.workers.dev/TRT_4K_TR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1175.png" group-title="Телеканал 4K",Love Nature 4K
+https://cdn.kinolar.workers.dev/INT_LOVE_NATURE_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/210.png" group-title="Телеканал 4K",Insight UHD
+https://cdn.kinolar.workers.dev/DE_INSIGHT_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/975.png" group-title="Телеканал 4K",MyZen TV 4K
+https://cdn.kinolar.workers.dev/MyZen_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1216.png" group-title="Телеканал 4K",ULTRA REX
+https://cdn.kinolar.workers.dev/ULTRAREX/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1234.png" group-title="Телеканал 4K",Museum 4K
+https://cdn.kinolar.workers.dev/Museum4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1821.png" group-title="Телеканал 4K",Sky Sport Bundesliga UHD
+https://cdn.kinolar.workers.dev/Sky_Sport_Bundesliga_UHD_DE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2464.png" group-title="Телеканал 4K",Canal+ 4K Ultra HD (Test)
+https://cdn.kinolar.workers.dev/Canal_plus_4K_TEST/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1466.png" group-title="Телеканал 4K",Глазами туриста 4K
+https://cdn.kinolar.workers.dev/GLAZAMITURISTA4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1464.png" group-title="Телеканал 4K",TravelXP 4K
+https://cdn.kinolar.workers.dev/INT_TRAVEL_XP_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K EuroVision
+https://cdn.kinolar.workers.dev/Clarity4k_Concert/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Ukrainian music
+https://cdn.kinolar.workers.dev/Clarity4K_Ukrainian_music/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Asia
+https://cdn.kinolar.workers.dev/Clarity4K_Asia/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1841.png" group-title="Телеканал 4K",REVEL UHD
+https://cdn.kinolar.workers.dev/REVELTV_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2000.png" group-title="Телеканал 4K",FunBox UHD
+https://cdn.kinolar.workers.dev/Funbox_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Семейный
+https://cdn.kinolar.workers.dev/Clarity4K_Semeyniy/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2448.png" group-title="Телеканал 4K",V Sport Ultra HD
+https://cdn.kinolar.workers.dev/Viasat_Ultra_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2506.png" group-title="Телеканал 4K",Quadro 4K
+https://cdn.kinolar.workers.dev/Quadro_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2527.png" group-title="Телеканал 4K",Clarity4K Galaxy Films
+https://cdn.kinolar.workers.dev/Clarity_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2735.png" group-title="Телеканал 4K",Sky Sports 2 UHD
+https://cdn.kinolar.workers.dev/Sky_Sport_2_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Sky Sports Main Event UHD
+https://cdn.kinolar.workers.dev/Sky_Sport_Main_Event_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",UHD1 by ASTRA / HD+
+https://cdn.kinolar.workers.dev/ASTRA_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2723.png" group-title="Телеканал 4K",Sky Sports 1 UHD
+https://cdn.kinolar.workers.dev/Sky_Sport_1_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Korean music
+https://cdn.kinolar.workers.dev/Clarity4K_Korean_music/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Триллер
+https://cdn.kinolar.workers.dev/Clarity4K_Putesheswie/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Gamefilm
+https://cdn.kinolar.workers.dev/Clarity4K_Gamefilm/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Мультимир
+https://cdn.kinolar.workers.dev/Clarity4K_Multimir/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K HBO Series
+https://cdn.kinolar.workers.dev/Clarity4K_Relax_kamin/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Боевик (VHS)
+https://cdn.kinolar.workers.dev/Clarity4K_Retro_Hits_Channel/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Звериный мир
+https://cdn.kinolar.workers.dev/Clarity4K_Zveriniy_mir/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Космомир
+https://cdn.kinolar.workers.dev/Clarity4K_Kosmomir/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K КиноНовинки
+https://cdn.kinolar.workers.dev/Clarity4K_Istorii_vo_vremeni/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Avto Blog
+https://cdn.kinolar.workers.dev/Clarity4K_Avtomaster/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4k КиноФраншизы
+https://cdn.kinolar.workers.dev/Clarity4k_Kinofranchizi/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Комедия
+https://cdn.kinolar.workers.dev/Clarity4K_Camedi/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4k Боевик
+https://cdn.kinolar.workers.dev/Clarity4k_Boevic/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Bollywood music
+https://cdn.kinolar.workers.dev/Clarity4K_Bollywood_music/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Russian music
+https://cdn.kinolar.workers.dev/Clarity4K_Russian_music/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Фэнтези
+https://cdn.kinolar.workers.dev/Clarity4K_Fantazy/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4k Anime アニメ
+https://cdn.kinolar.workers.dev/Clarity4k_Anime/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Kинодети СССР
+https://cdn.kinolar.workers.dev/Clarity4K_Kinodeti_sssr/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K КиноСССР
+https://cdn.kinolar.workers.dev/Clarity4K_madein_sssr/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Приключения
+https://cdn.kinolar.workers.dev/Clarity4K_pricluchenia/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Ужасы
+https://cdn.kinolar.workers.dev/Clarity4K_uzasy/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Фантастика
+https://cdn.kinolar.workers.dev/Clarity4K_fantastic/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4k Драмы
+https://cdn.kinolar.workers.dev/Clarity4k_dramma/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4k Вселенная
+https://cdn.kinolar.workers.dev/Clarity4k_Woenie/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Walt Disney
+https://cdn.kinolar.workers.dev/Clarity4k_Western/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4k Единоборства
+https://cdn.kinolar.workers.dev/Clarity4k_Edinoborstva/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Телеканал 4K",Clarity4K Мультляндия
+https://cdn.kinolar.workers.dev/Clarity4K_Multilandiya/mono.m3u8?key=halvatv
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/359.png" group-title="Спорт плюс",Sportdigital Fussball HD
+https://cdn.kinolar.workers.dev/DE_SPORTDIGITAL_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/91.png" group-title="Спорт плюс",Суспільне Спорт HD
+https://cdn.kinolar.workers.dev/Suspilne_Sport_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/117.png" group-title="Спорт плюс",Setanta Sports 1 HD Baltic
+https://cdn.kinolar.workers.dev/Setanta_LV_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/106.png" group-title="Спорт плюс",Спорт 1 HD
+https://cdn.kinolar.workers.dev/Sport1_UA_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2832.png" group-title="Спорт плюс",Premier Sport 3 HD CZ
+https://cdn.kinolar.workers.dev/CZ_Premier_sport_3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Horse TV HD
+https://cdn.kinolar.workers.dev/Horse_TV_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2833.png" group-title="Спорт плюс",Sky Sport Golf HD
+https://cdn.kinolar.workers.dev/SKY_Sport_Tennis_HD_DE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2835.png" group-title="Спорт плюс",Sky Sports F1 HD UK
+https://cdn.kinolar.workers.dev/Sky_Sport_F1_HD_UK/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2838.png" group-title="Спорт плюс",Sky Sport Top Event DE
+https://cdn.kinolar.workers.dev/DE_Sky_Sport_Top_Event/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/249.png" group-title="Спорт плюс",M4 Sport HD Hungary
+https://cdn.kinolar.workers.dev/M4_Sport_HD_HU/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/625.png" group-title="Спорт плюс",Arena Sport Premium 3 HD
+https://cdn.kinolar.workers.dev/Arena_Sport_Premium_3/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/226.png" group-title="Спорт плюс",UPL.TV HD
+https://cdn.kinolar.workers.dev/UPL_1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2818.png" group-title="Спорт плюс",Go3 Sport 4 HD
+https://cdn.kinolar.workers.dev/GO3_Sport_4/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/296.png" group-title="Спорт плюс",STVR :Sport HD
+https://cdn.kinolar.workers.dev/CZ_RTSV_Sport_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1083.png" group-title="Спорт плюс",Go3 Sport Open HD
+https://cdn.kinolar.workers.dev/TV3_SPORT_OPEN_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/31.png" group-title="Спорт плюс",Nova Sport 5 HD CZ
+https://cdn.kinolar.workers.dev/CZ_NOVA_SPORT5_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/168.png" group-title="Спорт плюс",Canal+ Sport 7 CZ
+https://cdn.kinolar.workers.dev/Canal_plus_Sport_7_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/136.png" group-title="Спорт плюс",Canal+ Sport 8 CZ
+https://cdn.kinolar.workers.dev/Canal_plus_Sport_8_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2772.png" group-title="Спорт плюс",Canal+ Sport 3 CZ
+https://cdn.kinolar.workers.dev/Canal_plus_Sport_3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1092.png" group-title="Спорт плюс",Старт HD
+https://cdn.kinolar.workers.dev/STARTHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2773.png" group-title="Спорт плюс",Canal+ Sport 4 CZ
+https://cdn.kinolar.workers.dev/Canal_plus_Sport_4_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2774.png" group-title="Спорт плюс",Canal+ Sport 5 CZ
+https://cdn.kinolar.workers.dev/Canal_plus_Sport_5_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/633.png" group-title="Спорт плюс",Arena Sport Premium 2 HD
+https://cdn.kinolar.workers.dev/Arena_Sport_Premium_2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/939.png" group-title="Спорт плюс",Extreme Sports HD
+https://cdn.kinolar.workers.dev/ExtremeSportsHD_RU/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/54.png" group-title="Спорт плюс",Eurosport 1 CEE
+https://cdn.kinolar.workers.dev/Eurosport_1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2819.png" group-title="Спорт плюс",V Sport Golf HD
+https://cdn.kinolar.workers.dev/Viasat_Sport_Premium/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/57.png" group-title="Спорт плюс",Eurosport 2 CEE
+https://cdn.kinolar.workers.dev/CH_EUROSPORT2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/631.png" group-title="Спорт плюс",Спортивный HD
+https://cdn.kinolar.workers.dev/eurosportgoldhd/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/436.png" group-title="Спорт плюс",Матч! Игра
+https://cdn.kinolar.workers.dev/MATCH_IGRA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/441.png" group-title="Спорт плюс",Матч! Игра HD
+https://cdn.kinolar.workers.dev/MatchIgraHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/473.png" group-title="Спорт плюс",Матч! Арена
+https://cdn.kinolar.workers.dev/MATCH_ARENA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/438.png" group-title="Спорт плюс",Матч! Арена HD
+https://cdn.kinolar.workers.dev/MatchArenaHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/437.png" group-title="Спорт плюс",Матч! Боец
+https://cdn.kinolar.workers.dev/MATCH_BOEC/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/443.png" group-title="Спорт плюс",Матч! Планета
+https://cdn.kinolar.workers.dev/Match_Planeta/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/476.png" group-title="Спорт плюс",Матч! Футбол 1
+https://cdn.kinolar.workers.dev/MATCH_FUTBOLL_1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/431.png" group-title="Спорт плюс",Матч! Футбол 1 HD
+https://cdn.kinolar.workers.dev/MATCH_FUTBOLL_1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/430.png" group-title="Спорт плюс",Матч! Футбол 2
+https://cdn.kinolar.workers.dev/MATCH_FUTBOLL_2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/429.png" group-title="Спорт плюс",Матч! Футбол 2 HD
+https://cdn.kinolar.workers.dev/MATCH_FUTBOLL_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/434.png" group-title="Спорт плюс",Матч! Футбол 3
+https://cdn.kinolar.workers.dev/MATCH_FUTBOLL_3/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/433.png" group-title="Спорт плюс",Матч! Футбол 3 HD
+https://cdn.kinolar.workers.dev/MATCH_FUTBOLL_3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/876.png" group-title="Спорт плюс",Футбольный HD
+https://cdn.kinolar.workers.dev/MatchFutbol3HDLOW/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/432.png" group-title="Спорт плюс",Матч! Премьер
+https://cdn.kinolar.workers.dev/MATCH_PREMIER/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/435.png" group-title="Спорт плюс",Матч! Премьер HD
+https://cdn.kinolar.workers.dev/MATCH_PREMIER_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/558.png" group-title="Спорт плюс",Russian Extreme HD
+https://cdn.kinolar.workers.dev/RussianEkstrimHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/445.png" group-title="Спорт плюс",KHL
+https://cdn.kinolar.workers.dev/KXL_SD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/477.png" group-title="Спорт плюс",KHL HD
+https://cdn.kinolar.workers.dev/KHLHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/56.png" group-title="Спорт плюс",Спорт 1
+https://cdn.kinolar.workers.dev/Sport1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/736.png" group-title="Спорт плюс",Спорт 4
+https://cdn.kinolar.workers.dev/Sport_1Baltic/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/55.png" group-title="Спорт плюс",Спорт 2
+https://cdn.kinolar.workers.dev/sport2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/732.png" group-title="Спорт плюс",Спорт 1 Baltic
+https://cdn.kinolar.workers.dev/Sport_2Baltic/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/566.png" group-title="Спорт плюс",Setanta Sports 1 HD KZ
+https://cdn.kinolar.workers.dev/SetantaHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/565.png" group-title="Спорт плюс",Setanta Sports 2 HD KZ
+https://cdn.kinolar.workers.dev/SetantaEurasia2HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/475.png" group-title="Спорт плюс",Бокс ТВ
+https://cdn.kinolar.workers.dev/BOKSTV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/665.png" group-title="Спорт плюс",Телеканал Футбол
+https://cdn.kinolar.workers.dev/telekanal_football/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/684.png" group-title="Спорт плюс",Телеканал Футбол HD
+https://cdn.kinolar.workers.dev/TelekanalFootbalHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/37.png" group-title="Спорт плюс",FightBox HD
+https://cdn.kinolar.workers.dev/FightBox_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/156.png" group-title="Спорт плюс",Viju Sport
+https://cdn.kinolar.workers.dev/Viasat_SportRU/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/169.png" group-title="Спорт плюс",Viju Sport HD
+https://cdn.kinolar.workers.dev/ViasatSport/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",We Sport
+https://cdn.kinolar.workers.dev/WE_SPORTTV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1063.png" group-title="Спорт плюс",Go3 Sport 1 HD
+https://cdn.kinolar.workers.dev/LT_VIASAT_SPORT_BALTIC_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/158.png" group-title="Спорт плюс",Eurosport 4 HD Polska
+https://cdn.kinolar.workers.dev/Eurosport_4_PL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/469.png" group-title="Спорт плюс",Extreme Sports
+https://cdn.kinolar.workers.dev/Extreme_Sports/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1068.png" group-title="Спорт плюс",Sport 1 LT
+https://cdn.kinolar.workers.dev/SDI_SPORT1_LT/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/61.png" group-title="Спорт плюс",RING HD
+https://cdn.kinolar.workers.dev/RING_TV_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/444.png" group-title="Спорт плюс",MMA-TV.COM
+https://cdn.kinolar.workers.dev/M1_Global/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2414.png" group-title="Спорт плюс",NHL HD
+https://cdn.kinolar.workers.dev/NHLTVHD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Diema Sport 2 UHD
+https://cdn.kinolar.workers.dev/DIEMA_SPORT_4_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/9.png" group-title="Спорт плюс",DAZN 1 HD
+https://cdn.kinolar.workers.dev/DAZN_1_ES/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/7.png" group-title="Спорт плюс",DAZN 2 HD
+https://cdn.kinolar.workers.dev/DAZN_2_ES/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/358.png" group-title="Спорт плюс",Sport 2 HD CZ
+https://cdn.kinolar.workers.dev/CZ_SPORT2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/730.png" group-title="Спорт плюс",Бокс ТВ HD
+https://cdn.kinolar.workers.dev/Boks_Tv_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/132.png" group-title="Спорт плюс",Canal+ Sport CZ
+https://cdn.kinolar.workers.dev/Canal_plus_Sport_CZ/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/299.png" group-title="Спорт плюс",Sport 1 HD CZ
+https://cdn.kinolar.workers.dev/CZ_SPORT1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/133.png" group-title="Спорт плюс",Tennis Channel HD
+https://cdn.kinolar.workers.dev/Tennis_Channel_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1109.png" group-title="Спорт плюс",MOTORVISION +
+https://cdn.kinolar.workers.dev/MOTORVISION_plus/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/990.png" group-title="Спорт плюс",Prime Fight HD
+https://cdn.kinolar.workers.dev/PRIME_FIGHT_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/663.png" group-title="Спорт плюс",Arena Sport Premium 1 HD
+https://cdn.kinolar.workers.dev/Arena_Sport_Premium_1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1281.png" group-title="Спорт плюс",Canal+ Sport 6 CZ
+https://cdn.kinolar.workers.dev/Canal_plus_Sport_6_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1126.png" group-title="Спорт плюс",Go3 Sport 2 HD
+https://cdn.kinolar.workers.dev/SDI_TVPLAY_SPORTS_PLUS/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1124.png" group-title="Спорт плюс",Мир Баскетбола
+https://cdn.kinolar.workers.dev/MIR_BASKETBOLA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1143.png" group-title="Спорт плюс",CANAL+ Sport 2 HD PL
+https://cdn.kinolar.workers.dev/PL_CANAL_SPORT_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1144.png" group-title="Спорт плюс",CANAL+ Sport HD PL
+https://cdn.kinolar.workers.dev/PL_CANAL_SPORT_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1157.png" group-title="Спорт плюс",Eleven Sports 4 HD
+https://cdn.kinolar.workers.dev/PL_ELEVEN_SPORTS_4_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1156.png" group-title="Спорт плюс",Eleven Sports 1 HD
+https://cdn.kinolar.workers.dev/PL_Eleven_Sports_1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1155.png" group-title="Спорт плюс",Eleven Sports 2 HD
+https://cdn.kinolar.workers.dev/PL_Eleven_Sports_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1154.png" group-title="Спорт плюс",Eleven Sports 3 HD
+https://cdn.kinolar.workers.dev/PL_Eleven_Sports_3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1167.png" group-title="Спорт плюс",Eurosport 2 HD Polska
+https://cdn.kinolar.workers.dev/PL_Eurosport_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1166.png" group-title="Спорт плюс",Extreme Sports HD Polska
+https://cdn.kinolar.workers.dev/PL_Extreme_Sports_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1164.png" group-title="Спорт плюс",Fight Klub HD
+https://cdn.kinolar.workers.dev/PL_Fightklub_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1177.png" group-title="Спорт плюс",Kanal 1 Xtra HD
+https://cdn.kinolar.workers.dev/SVK_ARENA_SPORT2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1199.png" group-title="Спорт плюс",Polsat Sport Fight HD
+https://cdn.kinolar.workers.dev/PL_Polsat_Sport_Fight_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1198.png" group-title="Спорт плюс",Polsat Sport 3 HD
+https://cdn.kinolar.workers.dev/PL_Polsat_Sport_News_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1604.png" group-title="Спорт плюс",Polsat Sport Premium 1
+https://cdn.kinolar.workers.dev/PL_Polsat_Sport_Premium_1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1227.png" group-title="Спорт плюс",CBC Sport HD
+https://cdn.kinolar.workers.dev/CBCSportHD_GE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1817.png" group-title="Спорт плюс",Sport 1 LT HD
+https://cdn.kinolar.workers.dev/SDI_SPORT1_LT_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1229.png" group-title="Спорт плюс",Maincast Кіберспорт
+https://cdn.kinolar.workers.dev/Maincast/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1206.png" group-title="Спорт плюс",Удар HD
+https://cdn.kinolar.workers.dev/UFCHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1802.png" group-title="Спорт плюс",Setanta Sports + HD KZ
+https://cdn.kinolar.workers.dev/Setanta_Sport_plus_KZ/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1256.png" group-title="Спорт плюс",MAX Sport 2 HD
+https://cdn.kinolar.workers.dev/MAX_SPORT_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1271.png" group-title="Спорт плюс",MAX Sport 3 HD
+https://cdn.kinolar.workers.dev/MAX_SPORT_3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1395.png" group-title="Спорт плюс",MMA-TV.COM HD
+https://cdn.kinolar.workers.dev/M1_Global_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1273.png" group-title="Спорт плюс",MAX Sport 4 HD
+https://cdn.kinolar.workers.dev/MAX_SPORT_4_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Fight 24
+https://cdn.kinolar.workers.dev/Fight_24/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1291.png" group-title="Спорт плюс",Сила HD
+https://cdn.kinolar.workers.dev/Sila_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1306.png" group-title="Спорт плюс",Diema Sport 3 HD
+https://cdn.kinolar.workers.dev/DIEMA_SPORT_3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1305.png" group-title="Спорт плюс",Setanta Sports 2 HD Baltic
+https://cdn.kinolar.workers.dev/Setanta2_HD_Baltick/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Prima Sport HD CZ
+https://cdn.kinolar.workers.dev/Sporty_TV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1316.png" group-title="Спорт плюс",Sport 5 Gold IL
+https://cdn.kinolar.workers.dev/Sport_5_Gold_HD_IL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1315.png" group-title="Спорт плюс",Eurosport 2 BG
+https://cdn.kinolar.workers.dev/BG_Eurosport2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1314.png" group-title="Спорт плюс",Eurosport 1 BG
+https://cdn.kinolar.workers.dev/BG_Eurosport1/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",FightKlub BG HD
+https://cdn.kinolar.workers.dev/BG_FightKlub_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1359.png" group-title="Спорт плюс",Nova Sport HD BG
+https://cdn.kinolar.workers.dev/BG_Nova_Sport_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1354.png" group-title="Спорт плюс",RING
+https://cdn.kinolar.workers.dev/BG_RING/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1353.png" group-title="Спорт плюс",NFL Network HD
+https://cdn.kinolar.workers.dev/NFL_Network_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1352.png" group-title="Спорт плюс",MAX Sport 1 HD
+https://cdn.kinolar.workers.dev/MAX_SPORT_1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1369.png" group-title="Спорт плюс",Eurosport 3 HD Polska
+https://cdn.kinolar.workers.dev/Eurosport_3_PL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1374.png" group-title="Спорт плюс",Setanta Sports 3 Georgia
+https://cdn.kinolar.workers.dev/Setanta_Sports_3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1409.png" group-title="Спорт плюс",Setanta Sports + HD
+https://cdn.kinolar.workers.dev/SetantaSportsplusHDUA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1411.png" group-title="Спорт плюс",Nova Sport 6 HD CZ
+https://cdn.kinolar.workers.dev/CZ_NOVA_SPORT6_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1414.png" group-title="Спорт плюс",Setanta Sports Україна HD
+https://cdn.kinolar.workers.dev/SetantaUAHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1415.png" group-title="Спорт плюс",Equalympic
+https://cdn.kinolar.workers.dev/Equalympic/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1462.png" group-title="Спорт плюс",Trace Sport Stars HD
+https://cdn.kinolar.workers.dev/Trace_Sports_Star_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1480.png" group-title="Спорт плюс",CANAL+ Sport 3 HD PL
+https://cdn.kinolar.workers.dev/PL_CANAL_SPORT3HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1479.png" group-title="Спорт плюс",CANAL+ Sport 4 HD PL
+https://cdn.kinolar.workers.dev/PL_CANAL_SPORT4HDPL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1478.png" group-title="Спорт плюс",Diema Sport 2 HD
+https://cdn.kinolar.workers.dev/DIEMA_SPORT_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1487.png" group-title="Спорт плюс",Diema Sport HD
+https://cdn.kinolar.workers.dev/DIEMA_SPORT_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1496.png" group-title="Спорт плюс",Arena Sport 1 HD HR
+https://cdn.kinolar.workers.dev/ArenaSport1_HR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1499.png" group-title="Спорт плюс",Oneplay Sport 3 HD
+https://cdn.kinolar.workers.dev/Oneplay_Sport_3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1498.png" group-title="Спорт плюс",CANAL+ Sport 5 HD PL
+https://cdn.kinolar.workers.dev/PL_nSportPlusPL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1517.png" group-title="Спорт плюс",Eurosport 1 HD Polska
+https://cdn.kinolar.workers.dev/PL_Eurosport1HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1520.png" group-title="Спорт плюс",Fightbox HD Polska
+https://cdn.kinolar.workers.dev/PL_FIGHTBOX_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1524.png" group-title="Спорт плюс",Golf Zone
+https://cdn.kinolar.workers.dev/PL_Golf_ChannelPL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1531.png" group-title="Спорт плюс",Sportklub HD
+https://cdn.kinolar.workers.dev/PL_Sport_Klub_HD_Polska/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1542.png" group-title="Спорт плюс",TVP Sport HD
+https://cdn.kinolar.workers.dev/PL_TVP_SPORT_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1605.png" group-title="Спорт плюс",Polsat Sport Premium 2
+https://cdn.kinolar.workers.dev/PL_Polsat_Sport_Premium_2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1655.png" group-title="Спорт плюс",Q Football HD
+https://cdn.kinolar.workers.dev/Q_Football_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Auto Moto Sports
+https://cdn.kinolar.workers.dev/BG_AutoMotoSports/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1731.png" group-title="Спорт плюс",Nova Sport 2 HD CZ
+https://cdn.kinolar.workers.dev/CZ_NOVA_SPORT2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1586.png" group-title="Спорт плюс",Sky Sport F1 UHD UK
+https://cdn.kinolar.workers.dev/Sky_Sport_F1_UHD_UK/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1592.png" group-title="Спорт плюс",Мото Драйв HD
+https://cdn.kinolar.workers.dev/Moto_Drive_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1606.png" group-title="Спорт плюс",Polsat Sport Extra 3
+https://cdn.kinolar.workers.dev/PL_Polsat_Sport_Premium_3/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1630.png" group-title="Спорт плюс",Polsat Sport 2 HD
+https://cdn.kinolar.workers.dev/PL_POLSAT_SPORT_EXTRA_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1636.png" group-title="Спорт плюс",Polsat Sport 1 HD
+https://cdn.kinolar.workers.dev/PL_POLSAT_SPORT_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1639.png" group-title="Спорт плюс",Polsat Sport Extra 1
+https://cdn.kinolar.workers.dev/PL_Polsat_Sport_Premium_PPV5/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1644.png" group-title="Спорт плюс",Polsat Sport Extra 4
+https://cdn.kinolar.workers.dev/PL_Polsat_Sport_Premium_PPV4/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1645.png" group-title="Спорт плюс",Polsat Sport Extra 2
+https://cdn.kinolar.workers.dev/PL_Polsat_Sport_Premium_PPV6/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1683.png" group-title="Спорт плюс",Q Sport League HD
+https://cdn.kinolar.workers.dev/QSport_LeagueHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1710.png" group-title="Спорт плюс",Хоккейный HD
+https://cdn.kinolar.workers.dev/SM_Hokeynyi_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1726.png" group-title="Спорт плюс",Nova Sport 1 HD CZ
+https://cdn.kinolar.workers.dev/CZ_NOVA_SPORT1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Eleven Sports 4K
+https://cdn.kinolar.workers.dev/Eleven_Sport_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2444.png" group-title="Спорт плюс",DAZN Fast HD
+https://cdn.kinolar.workers.dev/MOTORVISION_PLUS/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1840.png" group-title="Спорт плюс",Спорт 1 Baltic HD
+https://cdn.kinolar.workers.dev/Sport_1_Baltic_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1748.png" group-title="Спорт плюс",Dynamo Kyiv TV HD
+https://cdn.kinolar.workers.dev/Dynamo_Kiev_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",FS1 HD
+https://cdn.kinolar.workers.dev/FS1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1771.png" group-title="Спорт плюс",Oneplay Sport 1 HD
+https://cdn.kinolar.workers.dev/Oneplay_Sport_1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1773.png" group-title="Спорт плюс",Oneplay Sport 2 HD
+https://cdn.kinolar.workers.dev/Oneplay_Sport_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",FS2 HD
+https://cdn.kinolar.workers.dev/FS2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1843.png" group-title="Спорт плюс",Старт Баскет
+https://cdn.kinolar.workers.dev/Start_Basket_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1806.png" group-title="Спорт плюс",Eurosport 1 HD CEE
+https://cdn.kinolar.workers.dev/Eurosport_1_HD_CEE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1807.png" group-title="Спорт плюс",Eurosport 2 HD CEE
+https://cdn.kinolar.workers.dev/Eurosport_2_HD_CEE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1872.png" group-title="Спорт плюс",Nova Sport BG
+https://cdn.kinolar.workers.dev/BG_Nova_Sport/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1892.png" group-title="Спорт плюс",Setanta Qazaqstan HD
+https://cdn.kinolar.workers.dev/Setantazk/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1894.png" group-title="Спорт плюс",Ziggo Sport
+https://cdn.kinolar.workers.dev/Ziggo_Sport/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1897.png" group-title="Спорт плюс",Setanta Sports 2 Georgia
+https://cdn.kinolar.workers.dev/Setanta_GE_2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1906.png" group-title="Спорт плюс",Auto Motor Sport HD
+https://cdn.kinolar.workers.dev/Auto_Motor_Sport_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1908.png" group-title="Спорт плюс",EDGESport HD
+https://cdn.kinolar.workers.dev/BG_EDGESport_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1910.png" group-title="Спорт плюс",KHL Prime HD
+https://cdn.kinolar.workers.dev/KHL_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1921.png" group-title="Спорт плюс",SPORSMART 1 HD
+https://cdn.kinolar.workers.dev/TR_SPORSMART/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",EUROSPORT 2 TR
+https://cdn.kinolar.workers.dev/TR_EUROSPORT2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1975.png" group-title="Спорт плюс",DiviSport HD
+https://cdn.kinolar.workers.dev/DiviSport_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",EUROSPORT 1 TR
+https://cdn.kinolar.workers.dev/TR_EUROSPORT1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1995.png" group-title="Спорт плюс",BOX Be on edge HD
+https://cdn.kinolar.workers.dev/BOX_Be_on_edge_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2007.png" group-title="Спорт плюс",BOX Be on edge live2 HD
+https://cdn.kinolar.workers.dev/BOX_Be_on_edge_live2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2013.png" group-title="Спорт плюс",BOX Be on edge live1 HD
+https://cdn.kinolar.workers.dev/BOX_Be_on_edge_live1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2015.png" group-title="Спорт плюс",Tivibu Spor 1 HD
+https://cdn.kinolar.workers.dev/TR_Tivibuspor1HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2031.png" group-title="Спорт плюс",Yes Sport 1 HD IL
+https://cdn.kinolar.workers.dev/Sport1_HD_IL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2032.png" group-title="Спорт плюс",Yes Sport 2 HD IL
+https://cdn.kinolar.workers.dev/Sport2_HD_IL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2033.png" group-title="Спорт плюс",Yes Sport 3 HD IL
+https://cdn.kinolar.workers.dev/Sport3_HD_IL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2034.png" group-title="Спорт плюс",Yes Sport 4 HD IL
+https://cdn.kinolar.workers.dev/Sport4_HD_IL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2035.png" group-title="Спорт плюс",Sport 5 HD IL
+https://cdn.kinolar.workers.dev/Sport5_HD_IL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2036.png" group-title="Спорт плюс",Sport 5 Plus HD IL
+https://cdn.kinolar.workers.dev/Sport5plus_HD_IL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2045.png" group-title="Спорт плюс",MATCH4 HD
+https://cdn.kinolar.workers.dev/Match4_HD_HU/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2047.png" group-title="Спорт плюс",Спорт 5 HD
+https://cdn.kinolar.workers.dev/Sport_5_HD_UA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2063.png" group-title="Спорт плюс",FUBO Sports Network
+https://cdn.kinolar.workers.dev/FUBO_Sports_Network_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2069.png" group-title="Спорт плюс",Arena Sport 6 HD HR
+https://cdn.kinolar.workers.dev/ArenaSport6_HR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2070.png" group-title="Спорт плюс",Sport1 HD DE
+https://cdn.kinolar.workers.dev/Sport1_HD_DE/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Окко Чемпионат
+https://cdn.kinolar.workers.dev/Okko_chempionat/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2073.png" group-title="Спорт плюс",Best4Sport TV HD
+https://cdn.kinolar.workers.dev/Best4Sport_HD_HVC/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2111.png" group-title="Спорт плюс",Спорт 3 HD
+https://cdn.kinolar.workers.dev/SPORT1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2126.png" group-title="Спорт плюс",Canal+ Extra 4
+https://cdn.kinolar.workers.dev/Canal_plua_Extra_4/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2127.png" group-title="Спорт плюс",Canal+ Extra 3
+https://cdn.kinolar.workers.dev/Canal_plua_Extra_3/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2128.png" group-title="Спорт плюс",Canal+ Extra 2
+https://cdn.kinolar.workers.dev/Canal_plua_Extra_2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2130.png" group-title="Спорт плюс",Prima Sport 1 HD
+https://cdn.kinolar.workers.dev/TelekomSport1HDRO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2131.png" group-title="Спорт плюс",Prima Sport 2 HD
+https://cdn.kinolar.workers.dev/TelekomSport2HDRO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2132.png" group-title="Спорт плюс",Prima Sport 3 HD
+https://cdn.kinolar.workers.dev/TelekomSport3HDRO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2133.png" group-title="Спорт плюс",Prima Sport 4 HD
+https://cdn.kinolar.workers.dev/TelekomSport4HDRO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2134.png" group-title="Спорт плюс",Digi Sport 1 HD
+https://cdn.kinolar.workers.dev/DigiSport_1_HD_RO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2135.png" group-title="Спорт плюс",Digi Sport 2 HD
+https://cdn.kinolar.workers.dev/DigiSport_2_HD_RO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2136.png" group-title="Спорт плюс",Digi Sport 3 HD
+https://cdn.kinolar.workers.dev/DigiSport3FHDRO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2137.png" group-title="Спорт плюс",Digi Sport 4 HD
+https://cdn.kinolar.workers.dev/DigiSport4FHDRO/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2139.png" group-title="Спорт плюс",Sport+ Qazaqstan
+https://cdn.kinolar.workers.dev/84416/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2278.png" group-title="Спорт плюс",A SPOR HD
+https://cdn.kinolar.workers.dev/TR_ASPORHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2281.png" group-title="Спорт плюс",Fast Sports AM
+https://cdn.kinolar.workers.dev/Fast_Sport_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2282.png" group-title="Спорт плюс",Nova Sport 3 HD CZ
+https://cdn.kinolar.workers.dev/CZ_NOVA_SPORT3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2291.png" group-title="Спорт плюс",Arena Sport 3 HD HR
+https://cdn.kinolar.workers.dev/ArenaSport3_HR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2293.png" group-title="Спорт плюс",Arena Sport 2 HD HR
+https://cdn.kinolar.workers.dev/ArenaSport2_HR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2168.png" group-title="Спорт плюс",Setanta Sports 1 Georgia
+https://cdn.kinolar.workers.dev/Setanta_GE_1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2169.png" group-title="Спорт плюс",A SPOR
+https://cdn.kinolar.workers.dev/TR_ASPOR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2170.png" group-title="Спорт плюс",5 Sport 4K
+https://cdn.kinolar.workers.dev/5Sport_4K/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Cosmosport HD
+https://cdn.kinolar.workers.dev/Cosmosport_HD_TR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2177.png" group-title="Спорт плюс",Sportdigital EDGE
+https://cdn.kinolar.workers.dev/DE_sportdigital_EDGE/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2180.png" group-title="Спорт плюс",Fast Sports 1 AM
+https://cdn.kinolar.workers.dev/Fast_Sports_1_HD_ARM/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2181.png" group-title="Спорт плюс",SPORSMART2 HD
+https://cdn.kinolar.workers.dev/TR_SPORSMART2/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",DAZN Rise HD
+https://cdn.kinolar.workers.dev/DAZN_Rise/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2201.png" group-title="Спорт плюс",Nova Sport 4 HD CZ
+https://cdn.kinolar.workers.dev/CZ_NOVA_SPORT4_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2251.png" group-title="Спорт плюс",Sky Sport Mix DE
+https://cdn.kinolar.workers.dev/SKY_Sport_Mix_DE/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Sportdigital 1+
+https://cdn.kinolar.workers.dev/Sportdigital1_plus/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2303.png" group-title="Спорт плюс",Fast Sports 2 AM
+https://cdn.kinolar.workers.dev/Fast_Sports_2_HD_ARM/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2309.png" group-title="Спорт плюс",TRT Sport HD
+https://cdn.kinolar.workers.dev/TR_TRTSPORTHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2316.png" group-title="Спорт плюс",Матч! Боец HD
+https://cdn.kinolar.workers.dev/Match_Boec_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2376.png" group-title="Спорт плюс",Ziggo Sport 6
+https://cdn.kinolar.workers.dev/Ziggo_sport_6/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2378.png" group-title="Спорт плюс",Kanal Sport HD
+https://cdn.kinolar.workers.dev/SVK_ARENA_SPORT1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2383.png" group-title="Спорт плюс",Ziggo Sport 2
+https://cdn.kinolar.workers.dev/Ziggo_sport_2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2387.png" group-title="Спорт плюс",Q Sport Arena HD
+https://cdn.kinolar.workers.dev/QSport_Arena_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2392.png" group-title="Спорт плюс",Fight Club HD
+https://cdn.kinolar.workers.dev/Fight_Club_HD_SM/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2397.png" group-title="Спорт плюс",Fight Sports HD
+https://cdn.kinolar.workers.dev/FIGHT_SPORT_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2405.png" group-title="Спорт плюс",Go3 Sport 3 HD
+https://cdn.kinolar.workers.dev/TV3_Sport3_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2411.png" group-title="Спорт плюс",NBA TV HD
+https://cdn.kinolar.workers.dev/NBATV_US/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2446.png" group-title="Спорт плюс",Sky Sport Tennis HD
+https://cdn.kinolar.workers.dev/DE_Sky_Sport_Tennis_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2447.png" group-title="Спорт плюс",Sky Sport F1
+https://cdn.kinolar.workers.dev/DE_Sky_Sport_F1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2449.png" group-title="Спорт плюс",S Sport HD
+https://cdn.kinolar.workers.dev/TR_S_Sport_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2463.png" group-title="Спорт плюс",Qazsport HD
+https://cdn.kinolar.workers.dev/QazsportHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2497.png" group-title="Спорт плюс",Setanta Sport Premium HD
+https://cdn.kinolar.workers.dev/Setanta_Sport_Premium_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2503.png" group-title="Спорт плюс",Canal+ Extra 1
+https://cdn.kinolar.workers.dev/Canal_plua_Extra_1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2504.png" group-title="Спорт плюс",Setanta Sports Moldova HD
+https://cdn.kinolar.workers.dev/SETANTAPLUS_HD_H264/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2536.png" group-title="Спорт плюс",Спорт ТВ
+https://cdn.kinolar.workers.dev/Sport_TV_BEL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2539.png" group-title="Спорт плюс",Мегого Спорт (Тест)
+https://cdn.kinolar.workers.dev/Megogo_Sport_T2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2555.png" group-title="Спорт плюс",Sky Sport Premier League HD
+https://cdn.kinolar.workers.dev/DE_Sky_Sport_Premier_League/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2596.png" group-title="Спорт плюс",GINX
+https://cdn.kinolar.workers.dev/GINX_TV/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2626.png" group-title="Спорт плюс",Tivibu Spor 2 HD
+https://cdn.kinolar.workers.dev/TR_Tivibuspor2HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2628.png" group-title="Спорт плюс",Окко Футбол
+https://cdn.kinolar.workers.dev/Okko_futbol/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2629.png" group-title="Спорт плюс",S Sport 2 HD
+https://cdn.kinolar.workers.dev/TR_S_Sport_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2630.png" group-title="Спорт плюс",Arena Sport 4 HD HR
+https://cdn.kinolar.workers.dev/ArenaSport4_HR/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Unbeaten
+https://cdn.kinolar.workers.dev/Unbeaten/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",NBC Sports Network HD
+https://cdn.kinolar.workers.dev/NBC_Sports_Network_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",L'Equipe
+https://cdn.kinolar.workers.dev/Equidia_FR/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",Diema Sport 3 UHD
+https://cdn.kinolar.workers.dev/DIEMA_SPORT_3_UHD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2676.png" group-title="Спорт плюс",Maincast Sport HD
+https://cdn.kinolar.workers.dev/Maincast_Sport_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2678.png" group-title="Спорт плюс",JOJ Sport 2 HD
+https://cdn.kinolar.workers.dev/CZ_JOJ_Sport_2_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",V Sport 1
+https://cdn.kinolar.workers.dev/V_Sport_1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2713.png" group-title="Спорт плюс",Canal+ Sport 2 CZ
+https://cdn.kinolar.workers.dev/Canal_plus_Sport_2_HD_CZ/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2717.png" group-title="Спорт плюс",Sport 5 Stars HD IL
+https://cdn.kinolar.workers.dev/Sport_5_Stars_HD_IL/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2718.png" group-title="Спорт плюс",Sport 5 Live HD IL
+https://cdn.kinolar.workers.dev/Sport_5_Live_HD_IL/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Спорт плюс",WWE Network
+https://cdn.kinolar.workers.dev/WWE_Network/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2721.png" group-title="Спорт плюс",CBS Sports Network HD
+https://cdn.kinolar.workers.dev/CBS_Sports_Network_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2725.png" group-title="Спорт плюс",Oneplay Sport 4 HD
+https://cdn.kinolar.workers.dev/Oneplay_Sport_4_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2751.png" group-title="Спорт плюс",CARS&STARSTV HD
+https://cdn.kinolar.workers.dev/CARS_STARSTV_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2768.png" group-title="Спорт плюс",Спорт 2 HD
+https://cdn.kinolar.workers.dev/Sport_2_HD_UA/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2809.png" group-title="Спорт плюс",Окко Prime
+https://cdn.kinolar.workers.dev/Okko_Prime/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2810.png" group-title="Спорт плюс",Окко Спорт
+https://cdn.kinolar.workers.dev/Okko_sport/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2811.png" group-title="Спорт плюс",Arena Sport 5 HD HR
+https://cdn.kinolar.workers.dev/ArenaSport5_HR/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2812.png" group-title="Спорт плюс",TNT Sport 1 UK TEST
+https://cdn.kinolar.workers.dev/BT_sport1/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2813.png" group-title="Спорт плюс",TNT Sport 2 UK TEST
+https://cdn.kinolar.workers.dev/BT_sport2/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2814.png" group-title="Спорт плюс",TNT Sport 3 UK TEST
+https://cdn.kinolar.workers.dev/BT_sport3/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2816.png" group-title="Спорт плюс",Premier Sport 1 HD CZ
+https://cdn.kinolar.workers.dev/CZ_Premier_sport_1_HD/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2817.png" group-title="Спорт плюс",Premier Sport 2 HD CZ
+https://cdn.kinolar.workers.dev/CZ_Premier_sport_2_HD/mono.m3u8?key=halvatv
+
+
 
 #EXTINF:-1 group-title="sport",Setanta Sports 1 HD
 http://stream-tv-prostar.hf.space/ch/8565?key=AB001829BB
@@ -2938,5 +4324,58 @@ https://v.mover.uz/PLj1Wx3m_b.mp4
 
 
 
-
+#EXTINF:-1 group-title="Радіо",K-Pop 24
+https://cdn.kinolar.workers.dev/RADIO_K_POP_24/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",TOP Longe
+https://cdn.kinolar.workers.dev/TOP_Longe/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Радіо Українських Доріг
+https://cdn.kinolar.workers.dev/Radio_Ukraina_Drive/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Радіо Шансон
+https://cdn.kinolar.workers.dev/Radio_Shanson/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Радіо Промінь
+https://cdn.kinolar.workers.dev/Radio_Promin/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",DJFM
+https://cdn.kinolar.workers.dev/Radio_DJFM/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Classic Radio
+https://cdn.kinolar.workers.dev/Radio_Classic_radio/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1788.png" group-title="Радіо",Хіт FM
+https://cdn.kinolar.workers.dev/Radio_Hit_FM/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Радіо Maximum
+https://cdn.kinolar.workers.dev/Radio_Maximum/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Kiss FM
+https://cdn.kinolar.workers.dev/Radio_Kiss_FM/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Radio ROKS
+https://cdn.kinolar.workers.dev/Radio_ROKS/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",PowerFM
+https://cdn.kinolar.workers.dev/Radio_PowerFM/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Перше Українське Радіо
+https://cdn.kinolar.workers.dev/Radio_Pershe_Ukrainian/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Радіо Relax
+https://cdn.kinolar.workers.dev/Radio_Relax/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Мелодія FM
+https://cdn.kinolar.workers.dev/Radio_Melodiya_FM/mono.m3u8?key=halvatv
+#EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/1957.png" group-title="Радіо",Ми з України
+https://cdn.kinolar.workers.dev/Radio_Ukraine/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Авторадіо
+https://cdn.kinolar.workers.dev/Radio_Avtoradio/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Єдині Новини (Радіо)
+https://cdn.kinolar.workers.dev/Radio_Edyni_Novosti/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",HIP HOP RnB
+https://cdn.kinolar.workers.dev/Radio_Nostalgie/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Retro
+https://cdn.kinolar.workers.dev/Radio_Perec/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Наше Радіо
+https://cdn.kinolar.workers.dev/Radio_Nashe/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",TOP Hit
+https://cdn.kinolar.workers.dev/KS_TOP_HIT/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Бізнес Радіо
+https://cdn.kinolar.workers.dev/Radio_Bussnis/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Радіо Культура
+https://cdn.kinolar.workers.dev/Radio_Kultura/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",TOP Rock
+https://cdn.kinolar.workers.dev/KS_ROCK/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Люкс ФМ
+https://cdn.kinolar.workers.dev/Radio_LuxFM/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Радіо",Радіо Байрактар
+https://cdn.kinolar.workers.dev/Radio_Bairaktar/mono.m3u8?key=halvatv
 
