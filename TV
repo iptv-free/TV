@@ -491,6 +491,41 @@ http://stream-tv-prostar.hf.space/ch/8483?key=AB001829BB
 #EXTINF:-1 group-title="Cinema +",GoldLine Сериал
 http://stream-tv-prostar.hf.space/ch/8533?key=AB001829BB
 
+#EXTINF:-1 group-title="Infinity",Infinity: Просто Мария
+https://cdn.kinolar.workers.dev/jk_Prosto_mariya/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Хороший доктор
+https://cdn.kinolar.workers.dev/inf_Good_Doctor/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Агенты Агенты Щ.И.Т.
+https://cdn.kinolar.workers.dev/inf_Agents_of_SHIELD/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Викинги
+https://cdn.kinolar.workers.dev/inf_Vikings/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Комедия
+https://cdn.kinolar.workers.dev/inf_comedy/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Аль Пачино
+https://cdn.kinolar.workers.dev/inf_Goof/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Ретро комедии. Европа
+https://cdn.kinolar.workers.dev/inf_retro_eu/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Ретро комедии. Америка
+https://cdn.kinolar.workers.dev/inf_retro_usa/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Рабыня Изаура
+https://cdn.kinolar.workers.dev/jk_Izaura/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Коломбо
+https://cdn.kinolar.workers.dev/inf_word_clac/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Люди и животные
+https://cdn.kinolar.workers.dev/inf_animov/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Топ Гир
+https://cdn.kinolar.workers.dev/inf_Top_Gear/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Сверхъестественное
+https://cdn.kinolar.workers.dev/jk_FinF/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Спартак
+https://cdn.kinolar.workers.dev/inf_Spartacus/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Infinity",Infinity: Клон
+https://cdn.kinolar.workers.dev/inf_clone/mono.m3u8?key=halvatv
+#EXTINF:-1 group-title="Joker",
+#EXTINF:-1 group-title="Joker",
+#EXTINF:-1 group-title="Joker",
+#EXTINF:-1 group-title="Joker",
+
 
 
 #EXTINF:-1 group-title="Free.Тв",Наука
