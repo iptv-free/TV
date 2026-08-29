@@ -492,6 +492,7 @@ http://stream-tv-prostar.hf.space/ch/8483?key=AB001829BB
 http://stream-tv-prostar.hf.space/ch/8533?key=AB001829BB
 
 
+
 #EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/178.png" group-title="Zuno⭐️Кино",4 Ever Drama HD
 https://cdn.kinolar.workers.dev/4Ever_Drama_HD/mono.m3u8?key=halvatv
 #EXTINF:-1 tvg-logo="http://portal.wisp.cat/stalker_portal/misc/logos/2563.png" group-title="Zuno⭐️Кино",4 Ever Theater HD
@@ -2839,12 +2840,6 @@ http://stream-tv-prostar.hf.space/ch/8438?key=AB001829BB
 http://stream-tv-prostar.hf.space/ch/8424?key=AB001829BB
 #EXTINF:-1 group-title="познавательный",BOX Stories HD
 http://stream-tv-prostar.hf.space/ch/8429?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",GoldLine VHS
-http://stream-tv-prostar.hf.space/ch/9492?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",GoldLine Психо
-http://stream-tv-prostar.hf.space/ch/8483?key=AB001829BB
-#EXTINF:-1 group-title="Cinema +",GoldLine Сериал
-http://stream-tv-prostar.hf.space/ch/8533?key=AB001829BB
 #EXTINF:-1 group-title="познавательный",День Победы HD
 http://stream-tv-prostar.hf.space/ch/9221?key=AB001829BB
 #EXTINF:-1 group-title="познавательный",Animal Planet
