@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz, https://itvuz-live.hf.space/epg.xml"
 #EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg",Oʻzbekiston
 https://cdn.itvuz.workers.dev/stream/2?key=zunotv
 #EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg",Yoshlar
