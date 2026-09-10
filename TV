@@ -1,4 +1,385 @@
 #EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+
+
+
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg",Oʻzbekiston
+https://cdn.itvuz.workers.dev/stream/2?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg",Yoshlar
+https://cdn.itvuz.workers.dev/stream/3?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg",Toshkent
+https://cdn.itvuz.workers.dev/stream/4?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg",iTV Cinema
+https://cdn.itvuz.workers.dev/stream/0?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg",iTV Music
+https://cdn.itvuz.workers.dev/stream/1?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg",O'zbekiston 24 HD
+https://cdn.itvuz.workers.dev/stream/5?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//f79dce2ae2bd9ef84b6888f226fbb293-q-500x500.jpeg",Sport TV
+https://cdn.itvuz.workers.dev/stream/6?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg",Futbol TV
+https://cdn.itvuz.workers.dev/stream/7?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/12//879fc874-2679-4f56-81b9-9bceb4b04ccd-q-500x500.jpeg",Zoʻr TV FHD
+https://cdn.itvuz.workers.dev/stream/8?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/12//3436bbe3-43fc-4f4d-a15f-afd586a8f7bd-q-500x500.jpeg",Zoʻr TV HD
+https://cdn.itvuz.workers.dev/stream/9?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg",Milliy TV HD
+https://cdn.itvuz.workers.dev/stream/10?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg",Milliy SD
+https://cdn.itvuz.workers.dev/stream/11?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg",MY5 HD
+https://cdn.itvuz.workers.dev/stream/12?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg",MY5 SD
+https://cdn.itvuz.workers.dev/stream/13?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/11/30//4b9b4faa5635e282bb1f3ece579c5fea-q-500x500.jpeg",Sevimli TV FHD
+https://cdn.itvuz.workers.dev/stream/14?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg",Renessans TV
+https://cdn.itvuz.workers.dev/stream/15?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/01//0e264d0a734bc52d4887a98dddd13bfa-q-500x500.jpeg",MYDAYTV
+https://cdn.itvuz.workers.dev/stream/16?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/09/18//5cf836db9faacd4b41f57e70671f942b-q-500x500.jpeg",Retro TV
+https://cdn.itvuz.workers.dev/stream/17?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/09/18//7317b6d18e305e72f6cb3c5c69212a12-q-500x500.jpeg",Qiziq TV
+https://cdn.itvuz.workers.dev/stream/18?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/03/78260dff583b8faa298b70fc3edf5e43-q-500x500.jpeg",DasturxonTV
+https://cdn.itvuz.workers.dev/stream/19?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg",Bolajon
+https://cdn.itvuz.workers.dev/stream/20?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg",Aqlvoy
+https://cdn.itvuz.workers.dev/stream/21?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg",Navo
+https://cdn.itvuz.workers.dev/stream/22?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg",Madaniyat va Marifat
+https://cdn.itvuz.workers.dev/stream/23?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg",Mahalla
+https://cdn.itvuz.workers.dev/stream/24?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg",Kinoteatr HD
+https://cdn.itvuz.workers.dev/stream/25?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg",O'zbekiston tarixi FHD
+https://cdn.itvuz.workers.dev/stream/26?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg",Dunyo bo`ylab
+https://cdn.itvuz.workers.dev/stream/27?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg",Uzreport HD
+https://cdn.itvuz.workers.dev/stream/28?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg",Taraqqiyot TV
+https://cdn.itvuz.workers.dev/stream/29?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/19//2b9d5460c300fafc6cac117e0650b4fd-q-500x500.jpeg",S-Ikbol
+https://cdn.itvuz.workers.dev/stream/30?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/26//3b502b779ef41d61b37bc535bf869f87-q-500x500.jpeg",NTV
+https://cdn.itvuz.workers.dev/stream/31?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/10/28//a29a63851d77f2b79dd890b5e888b72d-q-500x500.jpeg",Lux TV
+https://cdn.itvuz.workers.dev/stream/32?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/06//d650b7a25deeb8a4f48a899eca793598-q-500x500.jpeg",Biz TV
+https://cdn.itvuz.workers.dev/stream/33?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/24//b2e7b7a4e645fbef99b302d06b35670d-q-500x500.jpeg",Biz Cinema
+https://cdn.itvuz.workers.dev/stream/34?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/24//261595d890bd48621a89240d3d182aa2-q-500x500.jpeg",Biz Music
+https://cdn.itvuz.workers.dev/stream/35?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg",Gold Television
+https://cdn.itvuz.workers.dev/stream/36?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg",Ruxsor TV
+https://cdn.itvuz.workers.dev/stream/37?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg",Nurafshon TV
+https://cdn.itvuz.workers.dev/stream/38?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg",Andijon
+https://cdn.itvuz.workers.dev/stream/39?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg",Fargʻona
+https://cdn.itvuz.workers.dev/stream/40?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg",Navoiy
+https://cdn.itvuz.workers.dev/stream/41?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg",Qashqadaryo
+https://cdn.itvuz.workers.dev/stream/42?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg",Sirdaryo
+https://cdn.itvuz.workers.dev/stream/43?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg",Surxondaryo
+https://cdn.itvuz.workers.dev/stream/44?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg",Xorazm
+https://cdn.itvuz.workers.dev/stream/45?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg",Jizzax
+https://cdn.itvuz.workers.dev/stream/46?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg",Namangan
+https://cdn.itvuz.workers.dev/stream/47?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg",Qaraqalpaqstan
+https://cdn.itvuz.workers.dev/stream/48?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg",Buxoro
+https://cdn.itvuz.workers.dev/stream/49?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg",Samarqand
+https://cdn.itvuz.workers.dev/stream/50?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg",Vodiy TV
+https://cdn.itvuz.workers.dev/stream/51?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg",Shifo TV
+https://cdn.itvuz.workers.dev/stream/52?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg",Mimi TV
+https://cdn.itvuz.workers.dev/stream/53?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg",TTV
+https://cdn.itvuz.workers.dev/stream/54?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg",TTV Kino
+https://cdn.itvuz.workers.dev/stream/55?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg",TTV Musiqa
+https://cdn.itvuz.workers.dev/stream/56?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg",Jizzax TV 2
+https://cdn.itvuz.workers.dev/stream/57?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg",ishonch TV
+https://cdn.itvuz.workers.dev/stream/58?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/26//0cc702bdf78b38aff615d7c502dd4fe2-q-500x500.jpeg",Istiqlol TV
+https://cdn.itvuz.workers.dev/stream/59?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg",Ellikqala TV
+https://cdn.itvuz.workers.dev/stream/60?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg",8TV
+https://cdn.itvuz.workers.dev/stream/61?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg",Amudaryo TV
+https://cdn.itvuz.workers.dev/stream/62?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg",Nasaf TV
+https://cdn.itvuz.workers.dev/stream/63?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg",Jaslar TV
+https://cdn.itvuz.workers.dev/stream/64?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg",Muloqot TV
+https://cdn.itvuz.workers.dev/stream/65?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg",Makon TV HD
+https://cdn.itvuz.workers.dev/stream/66?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg",Farovon Yurt
+https://cdn.itvuz.workers.dev/stream/67?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg",Denov TV
+https://cdn.itvuz.workers.dev/stream/68?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg",HayotTV
+https://cdn.itvuz.workers.dev/stream/69?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",Asil TV
+https://cdn.itvuz.workers.dev/stream/70?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",Asil TV2
+https://cdn.itvuz.workers.dev/stream/71?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//2a8ebe8401dd495ceb7b877c9cb43d8a-q-500x500.jpeg",Первый канал HD
+https://cdn.itvuz.workers.dev/stream/72?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539667812_10_16_2018-q-500x500.jpeg",Первый канал
+https://cdn.itvuz.workers.dev/stream/73?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//3949af971384aacf7c3e45bf758dd5b0-q-500x500.jpeg",Россия 1
+https://cdn.itvuz.workers.dev/stream/74?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539673835_10_16_2018-q-500x500.jpeg",нтв
+https://cdn.itvuz.workers.dev/stream/75?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//3dac3983d4adc9be46d5e797bbff1b0a-q-500x500.jpeg",Россия 24
+https://cdn.itvuz.workers.dev/stream/76?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//279298110b85517552174518018114d4-q-500x500.jpeg",EuroNews
+https://cdn.itvuz.workers.dev/stream/77?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/26//0b8831589c48257ae66a279ebaea22f1-q-500x500.jpeg",твц
+https://cdn.itvuz.workers.dev/stream/78?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/01/29//13d43d954ad361b7e27049f3a00acda4-q-500x500.jpeg",мир
+https://cdn.itvuz.workers.dev/stream/79?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/01/29//e688f2186a13f3f3ac9a2edd471d7bf9-q-500x500.jpeg",мир 24
+https://cdn.itvuz.workers.dev/stream/80?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg",Хабар 24 KZ
+https://cdn.itvuz.workers.dev/stream/81?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539682154_10_16_2018-q-500x500.jpeg",звезда
+https://cdn.itvuz.workers.dev/stream/82?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539687134_10_16_2018-q-500x500.jpeg",т24
+https://cdn.itvuz.workers.dev/stream/83?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//51ea042d93588003e47efc4cb724f278-q-500x500.jpeg",культура
+https://cdn.itvuz.workers.dev/stream/84?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/11/19//f54e5b325ff4363adac90ef9a01675fc-q-500x500.jpeg",тнв
+https://cdn.itvuz.workers.dev/stream/85?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539671291_10_16_2018-q-500x500.jpeg",Кинопремьера
+https://cdn.itvuz.workers.dev/stream/86?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678567_10_16_2018-q-500x500.jpeg",Кинохит
+https://cdn.itvuz.workers.dev/stream/87?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//40ed58c9ef1929111e06f15b29652e87-q-500x500.jpeg",Киносемья
+https://cdn.itvuz.workers.dev/stream/88?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//6ca0afa439bff13f635a3d10820e0dd2-q-500x500.jpeg",Киномикс
+https://cdn.itvuz.workers.dev/stream/89?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678644_10_16_2018-q-500x500.jpeg",Индийское кино
+https://cdn.itvuz.workers.dev/stream/90?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//f150911ca6863e154db38355ea8c5c01-q-500x500.jpeg",Мужское кино
+https://cdn.itvuz.workers.dev/stream/91?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678907_10_16_2018-q-500x500.jpeg",Родное Кино
+https://cdn.itvuz.workers.dev/stream/92?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678706_10_16_2018-q-500x500.jpeg",Наше Новое Кино
+https://cdn.itvuz.workers.dev/stream/93?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//def52b54f333507e6969f453e2852bb1-q-500x500.jpeg",Киносериа
+https://cdn.itvuz.workers.dev/stream/94?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678189_10_16_2018-q-500x500.jpeg",Киносвидания
+https://cdn.itvuz.workers.dev/stream/95?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//1a8628a152bbee35f86d784341b25f14-q-500x500.jpeg",Кинокомедия
+https://cdn.itvuz.workers.dev/stream/96?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//efa102b22ab6603f803081b78f9f810d-q-500x500.jpeg",viju TV1000
+https://cdn.itvuz.workers.dev/stream/97?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//59907578752fdb6fd70d4f5c936554b4-q-500x500.jpeg",viju TV 1000 русское
+https://cdn.itvuz.workers.dev/stream/98?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//96e0859ce3ac2d56c949cbe1a8488837-q-500x500.jpeg",viju TV1000 Action
+https://cdn.itvuz.workers.dev/stream/99?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//a7dca3382dc15ac0335d56ad5249fc6d-q-500x500.jpeg",viju Comedy
+https://cdn.itvuz.workers.dev/stream/100?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//f3eb1e71af2b4938405ceea18ae89a49-q-500x500.jpeg",viju Serial
+https://cdn.itvuz.workers.dev/stream/101?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//e42b4b32e003f64106e46903b50eaaeb-q-500x500.jpeg",viju Premiere
+https://cdn.itvuz.workers.dev/stream/102?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//ac21fb4cccf9698688ebb185fd6affc2-q-500x500.jpeg",Кинопоказ
+https://cdn.itvuz.workers.dev/stream/103?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/28//e88246ab2540e99ee1faaad512b8f6ed-q-500x500.jpeg",Cinema
+https://cdn.itvuz.workers.dev/stream/104?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/24//4816ee6103361ac7220f83a0122e95c6-q-500x500.jpeg",Hollywood
+https://cdn.itvuz.workers.dev/stream/105?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/24//333e8170dd68c6817da6dfd427dbfd14-q-500x500.jpeg",Bollywood
+https://cdn.itvuz.workers.dev/stream/106?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/26//b1bef9dcde190b953b3f232b714435e6-q-500x500.jpeg",дорама
+https://cdn.itvuz.workers.dev/stream/107?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//b133087cbc976edcd975caa248118413-q-500x500.jpeg",Дом кино
+https://cdn.itvuz.workers.dev/stream/108?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//bef79f9a9885011ed23a506e8625153d-q-500x500.jpeg",retro
+https://cdn.itvuz.workers.dev/stream/109?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539682249_10_16_2018-q-500x500.jpeg",Карусель
+https://cdn.itvuz.workers.dev/stream/110?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//31bf5fcca9a01d7aad3e93b08b68e1ab-q-500x500.jpeg",МультТВ
+https://cdn.itvuz.workers.dev/stream/111?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/18//8282e4fb9993ec4e3c391cb1103cde78-q-500x500.jpeg",Мультиландия
+https://cdn.itvuz.workers.dev/stream/112?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//cbfdab95d862c20ce56a09f4f151ce65-q-500x500.jpeg",Nickelodeon FHD
+https://cdn.itvuz.workers.dev/stream/113?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/15//nickelodion-q-500x500.jpeg",Neckelodeon SD
+https://cdn.itvuz.workers.dev/stream/114?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//fa279c542c29b145c00c9ab49aaa66d8-q-500x500.jpeg",Nick.Jr
+https://cdn.itvuz.workers.dev/stream/115?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//603f522991233b98e8e731a9a8a7ed2b-q-500x500.jpeg",NickToons
+https://cdn.itvuz.workers.dev/stream/116?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//481adb7a8715288d24fb2ca837401d80-q-500x500.jpeg",Da Vinci
+https://cdn.itvuz.workers.dev/stream/117?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/26//d9e19de9d8e51019391dbc65bad58e48-q-500x500.jpeg",в гостях у сказки
+https://cdn.itvuz.workers.dev/stream/118?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/03/08//501bde173a2aa9320a306c9c7ad4df78-q-500x500.jpeg",Уникум
+https://cdn.itvuz.workers.dev/stream/119?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//4ed022ebadd52a92b9bbc74b08184d15-q-500x500.jpeg",капитан фантастика
+https://cdn.itvuz.workers.dev/stream/120?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/01/22//5a1f43f9bb56d6bb8e53f4d944af2830-q-500x500.jpeg",мама
+https://cdn.itvuz.workers.dev/stream/121?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//f016fd40a8af09a6891ad315d709c68e-q-500x500.jpeg",рыжий
+https://cdn.itvuz.workers.dev/stream/122?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/04//07d1397c2e5f47a5933b75ced8eb4785-q-500x500.jpeg",Смайл ТВ
+https://cdn.itvuz.workers.dev/stream/123?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/26//d6fd727284d75e047a1cb5eba0a31832-q-500x500.jpeg",DuckTV HD
+https://cdn.itvuz.workers.dev/stream/124?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/24//0d47a02f0eaa4fb71dd535e8aeabf468-q-500x500.jpeg",TiJi
+https://cdn.itvuz.workers.dev/stream/125?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/24//66e7cffea67407e5d03d80bb2df26c1b-q-500x500.jpeg",Gulli Girl
+https://cdn.itvuz.workers.dev/stream/126?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539670320_10_16_2018-q-500x500.jpeg",National Geoeraphic FHD
+https://cdn.itvuz.workers.dev/stream/127?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539685804_10_16_2018-q-500x500.jpeg",Nat Geo Wild FHD
+https://cdn.itvuz.workers.dev/stream/128?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/26//e30e9eb6c12ce4d052c040145fe7718c-q-500x500.jpeg",Animal Planet FHD
+https://cdn.itvuz.workers.dev/stream/129?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2019/07/09//0cdc39cd98bc75175ca5ef28e63471a7-q-500x500.jpeg",охота и рыбалка
+https://cdn.itvuz.workers.dev/stream/130?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/03/08//4e7987e51062fc28dfebbd36a405b4fb-q-500x500.jpeg",Zooпарк
+https://cdn.itvuz.workers.dev/stream/131?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//bccf23d746dc54cf00113e5c941df39a-q-500x500.jpeg",охотник и рыболов
+https://cdn.itvuz.workers.dev/stream/132?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//a8070ecb70f2c211cb56141cbb257237-q-500x500.jpeg",наша сибирь
+https://cdn.itvuz.workers.dev/stream/133?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//5e4715dbc4c19b8ccc109de31d4a4435-q-500x500.jpeg",В мире животных
+https://cdn.itvuz.workers.dev/stream/134?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//7d6e813cd55fd948848f41c338a8da09-q-500x500.jpeg",домашний животных
+https://cdn.itvuz.workers.dev/stream/135?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//4b9e623d37a918937f6f99ad0f5abff5-q-500x500.jpeg",Viasat Nature FHD
+https://cdn.itvuz.workers.dev/stream/136?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//5cf56449cd08b0e9dd2a70df48f3108c-q-500x500.jpeg",живая планета
+https://cdn.itvuz.workers.dev/stream/137?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//3d55ec1e40fc56bc30ca6dc23c04fa9b-q-500x500.jpeg",живая природа
+https://cdn.itvuz.workers.dev/stream/138?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//f17e4a35a1e0c26ef49448284adf81b7-q-500x500.jpeg",Усадьба
+https://cdn.itvuz.workers.dev/stream/139?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/01//36b86213c7f45bc8e13fc4e17b9159ab-q-500x500.jpeg",загородный
+https://cdn.itvuz.workers.dev/stream/140?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//653c08a04df575556112d14387461106-q-500x500.jpeg",Моя Планета
+https://cdn.itvuz.workers.dev/stream/141?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/04/21//f7262041-3b46-4e12-8b35-d82fd25ae8f0-q-500x500.jpeg",Дикий
+https://cdn.itvuz.workers.dev/stream/142?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/04/21//e4caca7c-e6d1-47b1-b0dc-cd71f863daa6-q-500x500.jpeg",дикая охота
+https://cdn.itvuz.workers.dev/stream/143?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//768357ea291f44fd23680ee68132805d-q-500x500.jpeg",дикая рыбалка
+https://cdn.itvuz.workers.dev/stream/144?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//d5f5d80e7a813a0e2dabcdad18fd42fd-q-500x500.jpeg",Discovery FHD
+https://cdn.itvuz.workers.dev/stream/145?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//28bed62d65cd84c92e602bb2289fef71-q-500x500.jpeg",Viasat History
+https://cdn.itvuz.workers.dev/stream/146?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//8734a4e8e3118b26b04fcb1a2fbdeb72-q-500x500.jpeg",365 дней
+https://cdn.itvuz.workers.dev/stream/147?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/31//a81461a14b7c6f118ff9017be9c26a41-q-500x500.jpeg",История
+https://cdn.itvuz.workers.dev/stream/148?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//db5a4e946e22c91a26e679f1e8dd7427-q-500x500.jpeg",Viasat Explore
+https://cdn.itvuz.workers.dev/stream/149?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//3f5ef83e7d0341e4d723956433906cb2-q-500x500.jpeg",Кухня
+https://cdn.itvuz.workers.dev/stream/150?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//f6eba35aee7afdb4efe797baed4176b3-q-500x500.jpeg",Доктор
+https://cdn.itvuz.workers.dev/stream/151?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/28//d818d165ab3ca5c95f88ef91bd4a7d5a-q-500x500.jpeg",Insight TV
+https://cdn.itvuz.workers.dev/stream/152?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//817cb83d560f06fdc24d699f5ec47632-q-500x500.jpeg",Арсенал ТВ
+https://cdn.itvuz.workers.dev/stream/153?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//a45deeadee9760c6d7106f9d63f2ba86-q-500x500.jpeg",Nauka
+https://cdn.itvuz.workers.dev/stream/154?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//62c6a7e1e9d0f2f365c780b35be7f419-q-500x500.jpeg",вопрос и ответ
+https://cdn.itvuz.workers.dev/stream/155?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/28//e27b67c92801d4a3e86df46068e2b70b-q-500x500.jpeg",Первый Космический
+https://cdn.itvuz.workers.dev/stream/156?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//a9d3c785328317b91fa2c1f846d4115d-q-500x500.jpeg",Здоровое ТВ
+https://cdn.itvuz.workers.dev/stream/157?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/03/08//e517ca95e509ff22a711343571995677-q-500x500.jpeg",ЖИВИ
+https://cdn.itvuz.workers.dev/stream/158?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//81d3c4eee35f3a9107f7058547aebd67-q-500x500.jpeg",живи активно
+https://cdn.itvuz.workers.dev/stream/159?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//6b6376318c6feffcb9b2ebc08d2e0880-q-500x500.jpeg",Life HD
+https://cdn.itvuz.workers.dev/stream/160?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//a4dcf6984ede6984b218c68788aaae1a-q-500x500.jpeg",приключения
+https://cdn.itvuz.workers.dev/stream/161?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//af8ae3a345d0345e5f51ddedb00f5fe9-q-500x500.jpeg",глазами туриста
+https://cdn.itvuz.workers.dev/stream/162?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://files.cinerama.uz/images/tv_channels/2026/04/30/2877d9e7-7de0-42c8-bbd4-55bc778cc5d7.png",Setanta Sports 1
+https://cdn.itvuz.workers.dev/stream/163?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://files.cinerama.uz/images/tv_channels/2026/04/30/eb700ccc-993a-444b-932a-1fe3660c679d.png",Setanta Sports 2
+https://cdn.itvuz.workers.dev/stream/164?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/04/21//e4caca7c-e6d1-47b1-b0dc-cd71f863daa6-q-500x500.jpeg",viju Sport
+https://cdn.itvuz.workers.dev/stream/165?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/06/12//63eac2c32226988efefa615c4431c8d3-q-500x500.jpeg",МАТЧ! Планета
+https://cdn.itvuz.workers.dev/stream/166?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//15df684884f1626180a5621858713890-q-500x500.jpeg",кхл
+https://cdn.itvuz.workers.dev/stream/167?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/28//b4fcec6c6e1287d9b87a3511e6a76925-q-500x500.jpeg",MMA-TV
+https://cdn.itvuz.workers.dev/stream/168?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/31//e6997a17041a3269131b53580685f497-q-500x500.jpeg",Fuel HD
+https://cdn.itvuz.workers.dev/stream/169?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/26//02b4213364cc9b80d6de09655b040143-q-500x500.jpeg",точка отрыва
+https://cdn.itvuz.workers.dev/stream/170?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/26//44d4f080aaad6dad5993b644e8b8b526-q-500x500.jpeg",Trace Sport Stars HD
+https://cdn.itvuz.workers.dev/stream/171?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//f5905d01d70965ca38335affe0955537-q-500x500.jpeg",Eurosport 1 HD
+https://cdn.itvuz.workers.dev/stream/172?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/10//9b5874b4-f57a-4656-894b-961ede33171d-q-500x500.jpeg",Eurosport 2
+https://cdn.itvuz.workers.dev/stream/173?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/03/04//b96b33c4092bae036553ac7be5576869-q-500x500.jpeg",тв3
+https://cdn.itvuz.workers.dev/stream/174?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2019/07/09//f0d4ec7c30f7791ce0fa0a37488b793c-q-500x500.jpeg",Телекафе
+https://cdn.itvuz.workers.dev/stream/175?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//8c7bd1e4d61de82e1fe7100aa959243c-q-500x500.jpeg",Сарафан
+https://cdn.itvuz.workers.dev/stream/176?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539687248_10_16_2018-q-500x500.jpeg",авто плюс
+https://cdn.itvuz.workers.dev/stream/177?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//f8889a3ab3ad7272a3a60bfa0640d097-q-500x500.jpeg",авто24
+https://cdn.itvuz.workers.dev/stream/178?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//171e4f6b988ae2b12a39678422de8516-q-500x500.jpeg",драйв
+https://cdn.itvuz.workers.dev/stream/179?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/8e24713f9b1e4e3416ee664b005b3784-q-500x500.jpeg",Fashion TV
+https://cdn.itvuz.workers.dev/stream/180?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539677465_10_16_2018-q-500x500.jpeg",RuTV
+https://cdn.itvuz.workers.dev/stream/181?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539676973_10_16_2018-q-500x500.jpeg",муз-тв
+https://cdn.itvuz.workers.dev/stream/182?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539677657_10_16_2018-q-500x500.jpeg",музыка первого
+https://cdn.itvuz.workers.dev/stream/183?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/02/2ce8e93583cbf1cbaf1553cc76ddf44f-q-500x500.jpeg",музыка live
+https://cdn.itvuz.workers.dev/stream/184?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/11/08//e9a36091c0d357e3d002512a47567846-q-500x500.jpeg",Туган Тел
+https://cdn.itvuz.workers.dev/stream/185?key=zunotv
+#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/01//429841362f835018bd80861f5c487449-q-500x500.jpeg",TRT Music
+https://cdn.itvuz.workers.dev/stream/186?key=zunotv
+
+
+
+
 #EXTINF:-1 group-title="Информационные",Первый канал
 https://ip-tv.uz-online.workers.dev/AA11W/index.m3u8?key=AB001829BB
 #EXTINF:-1 group-title="Информационные",Первый канал HD
@@ -7011,380 +7392,7 @@ https://new-rus.maxtv.workers.dev/media/hls_183_155/dialog_ribalka/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg",Oʻzbekiston
-https://cdn.itvuz.workers.dev/stream/2?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg",Yoshlar
-https://cdn.itvuz.workers.dev/stream/3?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg",Toshkent
-https://cdn.itvuz.workers.dev/stream/4?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//7c8b25dfefb8655b74b5927ca5858adf-q-500x500.jpeg",iTV Cinema
-https://cdn.itvuz.workers.dev/stream/0?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/05/01//ac76145a39e0a0e5086a5fc7d1651999-q-500x500.jpeg",iTV Music
-https://cdn.itvuz.workers.dev/stream/1?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg",O'zbekiston 24 HD
-https://cdn.itvuz.workers.dev/stream/5?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//f79dce2ae2bd9ef84b6888f226fbb293-q-500x500.jpeg",Sport TV
-https://cdn.itvuz.workers.dev/stream/6?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg",Futbol TV
-https://cdn.itvuz.workers.dev/stream/7?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/12//879fc874-2679-4f56-81b9-9bceb4b04ccd-q-500x500.jpeg",Zoʻr TV FHD
-https://cdn.itvuz.workers.dev/stream/8?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/12//3436bbe3-43fc-4f4d-a15f-afd586a8f7bd-q-500x500.jpeg",Zoʻr TV HD
-https://cdn.itvuz.workers.dev/stream/9?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg",Milliy TV HD
-https://cdn.itvuz.workers.dev/stream/10?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg",Milliy SD
-https://cdn.itvuz.workers.dev/stream/11?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg",MY5 HD
-https://cdn.itvuz.workers.dev/stream/12?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg",MY5 SD
-https://cdn.itvuz.workers.dev/stream/13?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/11/30//4b9b4faa5635e282bb1f3ece579c5fea-q-500x500.jpeg",Sevimli TV FHD
-https://cdn.itvuz.workers.dev/stream/14?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg",Renessans TV
-https://cdn.itvuz.workers.dev/stream/15?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/01//0e264d0a734bc52d4887a98dddd13bfa-q-500x500.jpeg",MYDAYTV
-https://cdn.itvuz.workers.dev/stream/16?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/09/18//5cf836db9faacd4b41f57e70671f942b-q-500x500.jpeg",Retro TV
-https://cdn.itvuz.workers.dev/stream/17?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/09/18//7317b6d18e305e72f6cb3c5c69212a12-q-500x500.jpeg",Qiziq TV
-https://cdn.itvuz.workers.dev/stream/18?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/03/78260dff583b8faa298b70fc3edf5e43-q-500x500.jpeg",DasturxonTV
-https://cdn.itvuz.workers.dev/stream/19?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg",Bolajon
-https://cdn.itvuz.workers.dev/stream/20?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg",Aqlvoy
-https://cdn.itvuz.workers.dev/stream/21?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg",Navo
-https://cdn.itvuz.workers.dev/stream/22?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg",Madaniyat va Marifat
-https://cdn.itvuz.workers.dev/stream/23?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg",Mahalla
-https://cdn.itvuz.workers.dev/stream/24?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg",Kinoteatr HD
-https://cdn.itvuz.workers.dev/stream/25?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg",O'zbekiston tarixi FHD
-https://cdn.itvuz.workers.dev/stream/26?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg",Dunyo bo`ylab
-https://cdn.itvuz.workers.dev/stream/27?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg",Uzreport HD
-https://cdn.itvuz.workers.dev/stream/28?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg",Taraqqiyot TV
-https://cdn.itvuz.workers.dev/stream/29?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/19//2b9d5460c300fafc6cac117e0650b4fd-q-500x500.jpeg",S-Ikbol
-https://cdn.itvuz.workers.dev/stream/30?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/26//3b502b779ef41d61b37bc535bf869f87-q-500x500.jpeg",NTV
-https://cdn.itvuz.workers.dev/stream/31?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/10/28//a29a63851d77f2b79dd890b5e888b72d-q-500x500.jpeg",Lux TV
-https://cdn.itvuz.workers.dev/stream/32?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/06//d650b7a25deeb8a4f48a899eca793598-q-500x500.jpeg",Biz TV
-https://cdn.itvuz.workers.dev/stream/33?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/24//b2e7b7a4e645fbef99b302d06b35670d-q-500x500.jpeg",Biz Cinema
-https://cdn.itvuz.workers.dev/stream/34?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/08/24//261595d890bd48621a89240d3d182aa2-q-500x500.jpeg",Biz Music
-https://cdn.itvuz.workers.dev/stream/35?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg",Gold Television
-https://cdn.itvuz.workers.dev/stream/36?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg",Ruxsor TV
-https://cdn.itvuz.workers.dev/stream/37?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg",Nurafshon TV
-https://cdn.itvuz.workers.dev/stream/38?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//595b563167b272fbeb4caff0c27a1581-q-500x500.jpeg",Andijon
-https://cdn.itvuz.workers.dev/stream/39?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg",Fargʻona
-https://cdn.itvuz.workers.dev/stream/40?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//95e6300e134acd2a9f037ce3c3887158-q-500x500.jpeg",Navoiy
-https://cdn.itvuz.workers.dev/stream/41?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//52d247a1c7a06b96f9092d614b939f7c-q-500x500.jpeg",Qashqadaryo
-https://cdn.itvuz.workers.dev/stream/42?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//793ae8aa37f748e74ddec8761fccd026-q-500x500.jpeg",Sirdaryo
-https://cdn.itvuz.workers.dev/stream/43?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//a0534f66a3cce9a795ff7027b1a23c94-q-500x500.jpeg",Surxondaryo
-https://cdn.itvuz.workers.dev/stream/44?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg",Xorazm
-https://cdn.itvuz.workers.dev/stream/45?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//e1c2b2bcecf5ff7855dbb0b90308776b-q-500x500.jpeg",Jizzax
-https://cdn.itvuz.workers.dev/stream/46?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//05d8f97e2f2b552b2fea0b05a78c42b9-q-500x500.jpeg",Namangan
-https://cdn.itvuz.workers.dev/stream/47?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//5098a8b805e7326ec7dc8f3bf2e180f2-q-500x500.jpeg",Qaraqalpaqstan
-https://cdn.itvuz.workers.dev/stream/48?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/26//b8ae4fe9e3795f28cdebd4b6e1993e2c-q-500x500.jpeg",Buxoro
-https://cdn.itvuz.workers.dev/stream/49?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/04/20//db56b3e322425b29a81ded37a774f83c-q-500x500.jpeg",Samarqand
-https://cdn.itvuz.workers.dev/stream/50?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg",Vodiy TV
-https://cdn.itvuz.workers.dev/stream/51?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg",Shifo TV
-https://cdn.itvuz.workers.dev/stream/52?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg",Mimi TV
-https://cdn.itvuz.workers.dev/stream/53?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg",TTV
-https://cdn.itvuz.workers.dev/stream/54?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg",TTV Kino
-https://cdn.itvuz.workers.dev/stream/55?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg",TTV Musiqa
-https://cdn.itvuz.workers.dev/stream/56?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg",Jizzax TV 2
-https://cdn.itvuz.workers.dev/stream/57?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg",ishonch TV
-https://cdn.itvuz.workers.dev/stream/58?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/26//0cc702bdf78b38aff615d7c502dd4fe2-q-500x500.jpeg",Istiqlol TV
-https://cdn.itvuz.workers.dev/stream/59?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg",Ellikqala TV
-https://cdn.itvuz.workers.dev/stream/60?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg",8TV
-https://cdn.itvuz.workers.dev/stream/61?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg",Amudaryo TV
-https://cdn.itvuz.workers.dev/stream/62?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg",Nasaf TV
-https://cdn.itvuz.workers.dev/stream/63?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg",Jaslar TV
-https://cdn.itvuz.workers.dev/stream/64?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg",Muloqot TV
-https://cdn.itvuz.workers.dev/stream/65?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg",Makon TV HD
-https://cdn.itvuz.workers.dev/stream/66?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/05/22//a5395b0b-1448-43da-a622-3a117c37ad78-q-500x500.jpeg",Farovon Yurt
-https://cdn.itvuz.workers.dev/stream/67?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg",Denov TV
-https://cdn.itvuz.workers.dev/stream/68?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/23//bfa00beb-dafa-447d-bcf7-ff2fa954bf61-q-500x500.jpeg",HayotTV
-https://cdn.itvuz.workers.dev/stream/69?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",Asil TV
-https://cdn.itvuz.workers.dev/stream/70?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",Asil TV2
-https://cdn.itvuz.workers.dev/stream/71?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//2a8ebe8401dd495ceb7b877c9cb43d8a-q-500x500.jpeg",Первый канал HD
-https://cdn.itvuz.workers.dev/stream/72?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539667812_10_16_2018-q-500x500.jpeg",Первый канал
-https://cdn.itvuz.workers.dev/stream/73?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//3949af971384aacf7c3e45bf758dd5b0-q-500x500.jpeg",Россия 1
-https://cdn.itvuz.workers.dev/stream/74?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539673835_10_16_2018-q-500x500.jpeg",нтв
-https://cdn.itvuz.workers.dev/stream/75?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//3dac3983d4adc9be46d5e797bbff1b0a-q-500x500.jpeg",Россия 24
-https://cdn.itvuz.workers.dev/stream/76?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//279298110b85517552174518018114d4-q-500x500.jpeg",EuroNews
-https://cdn.itvuz.workers.dev/stream/77?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/26//0b8831589c48257ae66a279ebaea22f1-q-500x500.jpeg",твц
-https://cdn.itvuz.workers.dev/stream/78?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/01/29//13d43d954ad361b7e27049f3a00acda4-q-500x500.jpeg",мир
-https://cdn.itvuz.workers.dev/stream/79?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/01/29//e688f2186a13f3f3ac9a2edd471d7bf9-q-500x500.jpeg",мир 24
-https://cdn.itvuz.workers.dev/stream/80?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//9ae8b2d0eae85af6fd49277616dc9b13-q-500x500.jpeg",Хабар 24 KZ
-https://cdn.itvuz.workers.dev/stream/81?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539682154_10_16_2018-q-500x500.jpeg",звезда
-https://cdn.itvuz.workers.dev/stream/82?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539687134_10_16_2018-q-500x500.jpeg",т24
-https://cdn.itvuz.workers.dev/stream/83?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//51ea042d93588003e47efc4cb724f278-q-500x500.jpeg",культура
-https://cdn.itvuz.workers.dev/stream/84?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/11/19//f54e5b325ff4363adac90ef9a01675fc-q-500x500.jpeg",тнв
-https://cdn.itvuz.workers.dev/stream/85?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539671291_10_16_2018-q-500x500.jpeg",Кинопремьера
-https://cdn.itvuz.workers.dev/stream/86?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678567_10_16_2018-q-500x500.jpeg",Кинохит
-https://cdn.itvuz.workers.dev/stream/87?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//40ed58c9ef1929111e06f15b29652e87-q-500x500.jpeg",Киносемья
-https://cdn.itvuz.workers.dev/stream/88?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//6ca0afa439bff13f635a3d10820e0dd2-q-500x500.jpeg",Киномикс
-https://cdn.itvuz.workers.dev/stream/89?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678644_10_16_2018-q-500x500.jpeg",Индийское кино
-https://cdn.itvuz.workers.dev/stream/90?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//f150911ca6863e154db38355ea8c5c01-q-500x500.jpeg",Мужское кино
-https://cdn.itvuz.workers.dev/stream/91?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678907_10_16_2018-q-500x500.jpeg",Родное Кино
-https://cdn.itvuz.workers.dev/stream/92?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678706_10_16_2018-q-500x500.jpeg",Наше Новое Кино
-https://cdn.itvuz.workers.dev/stream/93?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//def52b54f333507e6969f453e2852bb1-q-500x500.jpeg",Киносериа
-https://cdn.itvuz.workers.dev/stream/94?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539678189_10_16_2018-q-500x500.jpeg",Киносвидания
-https://cdn.itvuz.workers.dev/stream/95?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/07/20//1a8628a152bbee35f86d784341b25f14-q-500x500.jpeg",Кинокомедия
-https://cdn.itvuz.workers.dev/stream/96?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//efa102b22ab6603f803081b78f9f810d-q-500x500.jpeg",viju TV1000
-https://cdn.itvuz.workers.dev/stream/97?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//59907578752fdb6fd70d4f5c936554b4-q-500x500.jpeg",viju TV 1000 русское
-https://cdn.itvuz.workers.dev/stream/98?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//96e0859ce3ac2d56c949cbe1a8488837-q-500x500.jpeg",viju TV1000 Action
-https://cdn.itvuz.workers.dev/stream/99?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//a7dca3382dc15ac0335d56ad5249fc6d-q-500x500.jpeg",viju Comedy
-https://cdn.itvuz.workers.dev/stream/100?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//f3eb1e71af2b4938405ceea18ae89a49-q-500x500.jpeg",viju Serial
-https://cdn.itvuz.workers.dev/stream/101?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/07//e42b4b32e003f64106e46903b50eaaeb-q-500x500.jpeg",viju Premiere
-https://cdn.itvuz.workers.dev/stream/102?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//ac21fb4cccf9698688ebb185fd6affc2-q-500x500.jpeg",Кинопоказ
-https://cdn.itvuz.workers.dev/stream/103?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/28//e88246ab2540e99ee1faaad512b8f6ed-q-500x500.jpeg",Cinema
-https://cdn.itvuz.workers.dev/stream/104?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/24//4816ee6103361ac7220f83a0122e95c6-q-500x500.jpeg",Hollywood
-https://cdn.itvuz.workers.dev/stream/105?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/24//333e8170dd68c6817da6dfd427dbfd14-q-500x500.jpeg",Bollywood
-https://cdn.itvuz.workers.dev/stream/106?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/26//b1bef9dcde190b953b3f232b714435e6-q-500x500.jpeg",дорама
-https://cdn.itvuz.workers.dev/stream/107?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/10/28//b133087cbc976edcd975caa248118413-q-500x500.jpeg",Дом кино
-https://cdn.itvuz.workers.dev/stream/108?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//bef79f9a9885011ed23a506e8625153d-q-500x500.jpeg",retro
-https://cdn.itvuz.workers.dev/stream/109?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539682249_10_16_2018-q-500x500.jpeg",Карусель
-https://cdn.itvuz.workers.dev/stream/110?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//31bf5fcca9a01d7aad3e93b08b68e1ab-q-500x500.jpeg",МультТВ
-https://cdn.itvuz.workers.dev/stream/111?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/18//8282e4fb9993ec4e3c391cb1103cde78-q-500x500.jpeg",Мультиландия
-https://cdn.itvuz.workers.dev/stream/112?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//cbfdab95d862c20ce56a09f4f151ce65-q-500x500.jpeg",Nickelodeon FHD
-https://cdn.itvuz.workers.dev/stream/113?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/01/15//nickelodion-q-500x500.jpeg",Neckelodeon SD
-https://cdn.itvuz.workers.dev/stream/114?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//fa279c542c29b145c00c9ab49aaa66d8-q-500x500.jpeg",Nick.Jr
-https://cdn.itvuz.workers.dev/stream/115?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//603f522991233b98e8e731a9a8a7ed2b-q-500x500.jpeg",NickToons
-https://cdn.itvuz.workers.dev/stream/116?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//481adb7a8715288d24fb2ca837401d80-q-500x500.jpeg",Da Vinci
-https://cdn.itvuz.workers.dev/stream/117?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/26//d9e19de9d8e51019391dbc65bad58e48-q-500x500.jpeg",в гостях у сказки
-https://cdn.itvuz.workers.dev/stream/118?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/03/08//501bde173a2aa9320a306c9c7ad4df78-q-500x500.jpeg",Уникум
-https://cdn.itvuz.workers.dev/stream/119?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//4ed022ebadd52a92b9bbc74b08184d15-q-500x500.jpeg",капитан фантастика
-https://cdn.itvuz.workers.dev/stream/120?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/01/22//5a1f43f9bb56d6bb8e53f4d944af2830-q-500x500.jpeg",мама
-https://cdn.itvuz.workers.dev/stream/121?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//f016fd40a8af09a6891ad315d709c68e-q-500x500.jpeg",рыжий
-https://cdn.itvuz.workers.dev/stream/122?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/04//07d1397c2e5f47a5933b75ced8eb4785-q-500x500.jpeg",Смайл ТВ
-https://cdn.itvuz.workers.dev/stream/123?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/26//d6fd727284d75e047a1cb5eba0a31832-q-500x500.jpeg",DuckTV HD
-https://cdn.itvuz.workers.dev/stream/124?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/24//0d47a02f0eaa4fb71dd535e8aeabf468-q-500x500.jpeg",TiJi
-https://cdn.itvuz.workers.dev/stream/125?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/07/24//66e7cffea67407e5d03d80bb2df26c1b-q-500x500.jpeg",Gulli Girl
-https://cdn.itvuz.workers.dev/stream/126?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539670320_10_16_2018-q-500x500.jpeg",National Geoeraphic FHD
-https://cdn.itvuz.workers.dev/stream/127?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539685804_10_16_2018-q-500x500.jpeg",Nat Geo Wild FHD
-https://cdn.itvuz.workers.dev/stream/128?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/26//e30e9eb6c12ce4d052c040145fe7718c-q-500x500.jpeg",Animal Planet FHD
-https://cdn.itvuz.workers.dev/stream/129?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2019/07/09//0cdc39cd98bc75175ca5ef28e63471a7-q-500x500.jpeg",охота и рыбалка
-https://cdn.itvuz.workers.dev/stream/130?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/03/08//4e7987e51062fc28dfebbd36a405b4fb-q-500x500.jpeg",Zooпарк
-https://cdn.itvuz.workers.dev/stream/131?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//bccf23d746dc54cf00113e5c941df39a-q-500x500.jpeg",охотник и рыболов
-https://cdn.itvuz.workers.dev/stream/132?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//a8070ecb70f2c211cb56141cbb257237-q-500x500.jpeg",наша сибирь
-https://cdn.itvuz.workers.dev/stream/133?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//5e4715dbc4c19b8ccc109de31d4a4435-q-500x500.jpeg",В мире животных
-https://cdn.itvuz.workers.dev/stream/134?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//7d6e813cd55fd948848f41c338a8da09-q-500x500.jpeg",домашний животных
-https://cdn.itvuz.workers.dev/stream/135?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//4b9e623d37a918937f6f99ad0f5abff5-q-500x500.jpeg",Viasat Nature FHD
-https://cdn.itvuz.workers.dev/stream/136?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//5cf56449cd08b0e9dd2a70df48f3108c-q-500x500.jpeg",живая планета
-https://cdn.itvuz.workers.dev/stream/137?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//3d55ec1e40fc56bc30ca6dc23c04fa9b-q-500x500.jpeg",живая природа
-https://cdn.itvuz.workers.dev/stream/138?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//f17e4a35a1e0c26ef49448284adf81b7-q-500x500.jpeg",Усадьба
-https://cdn.itvuz.workers.dev/stream/139?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/01//36b86213c7f45bc8e13fc4e17b9159ab-q-500x500.jpeg",загородный
-https://cdn.itvuz.workers.dev/stream/140?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//653c08a04df575556112d14387461106-q-500x500.jpeg",Моя Планета
-https://cdn.itvuz.workers.dev/stream/141?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/04/21//f7262041-3b46-4e12-8b35-d82fd25ae8f0-q-500x500.jpeg",Дикий
-https://cdn.itvuz.workers.dev/stream/142?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/04/21//e4caca7c-e6d1-47b1-b0dc-cd71f863daa6-q-500x500.jpeg",дикая охота
-https://cdn.itvuz.workers.dev/stream/143?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//768357ea291f44fd23680ee68132805d-q-500x500.jpeg",дикая рыбалка
-https://cdn.itvuz.workers.dev/stream/144?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//d5f5d80e7a813a0e2dabcdad18fd42fd-q-500x500.jpeg",Discovery FHD
-https://cdn.itvuz.workers.dev/stream/145?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//28bed62d65cd84c92e602bb2289fef71-q-500x500.jpeg",Viasat History
-https://cdn.itvuz.workers.dev/stream/146?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//8734a4e8e3118b26b04fcb1a2fbdeb72-q-500x500.jpeg",365 дней
-https://cdn.itvuz.workers.dev/stream/147?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/31//a81461a14b7c6f118ff9017be9c26a41-q-500x500.jpeg",История
-https://cdn.itvuz.workers.dev/stream/148?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//db5a4e946e22c91a26e679f1e8dd7427-q-500x500.jpeg",Viasat Explore
-https://cdn.itvuz.workers.dev/stream/149?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/05/27//3f5ef83e7d0341e4d723956433906cb2-q-500x500.jpeg",Кухня
-https://cdn.itvuz.workers.dev/stream/150?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/08/19//f6eba35aee7afdb4efe797baed4176b3-q-500x500.jpeg",Доктор
-https://cdn.itvuz.workers.dev/stream/151?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/28//d818d165ab3ca5c95f88ef91bd4a7d5a-q-500x500.jpeg",Insight TV
-https://cdn.itvuz.workers.dev/stream/152?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//817cb83d560f06fdc24d699f5ec47632-q-500x500.jpeg",Арсенал ТВ
-https://cdn.itvuz.workers.dev/stream/153?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//a45deeadee9760c6d7106f9d63f2ba86-q-500x500.jpeg",Nauka
-https://cdn.itvuz.workers.dev/stream/154?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//62c6a7e1e9d0f2f365c780b35be7f419-q-500x500.jpeg",вопрос и ответ
-https://cdn.itvuz.workers.dev/stream/155?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/28//e27b67c92801d4a3e86df46068e2b70b-q-500x500.jpeg",Первый Космический
-https://cdn.itvuz.workers.dev/stream/156?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//a9d3c785328317b91fa2c1f846d4115d-q-500x500.jpeg",Здоровое ТВ
-https://cdn.itvuz.workers.dev/stream/157?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/03/08//e517ca95e509ff22a711343571995677-q-500x500.jpeg",ЖИВИ
-https://cdn.itvuz.workers.dev/stream/158?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/04/18//81d3c4eee35f3a9107f7058547aebd67-q-500x500.jpeg",живи активно
-https://cdn.itvuz.workers.dev/stream/159?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//6b6376318c6feffcb9b2ebc08d2e0880-q-500x500.jpeg",Life HD
-https://cdn.itvuz.workers.dev/stream/160?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//a4dcf6984ede6984b218c68788aaae1a-q-500x500.jpeg",приключения
-https://cdn.itvuz.workers.dev/stream/161?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//af8ae3a345d0345e5f51ddedb00f5fe9-q-500x500.jpeg",глазами туриста
-https://cdn.itvuz.workers.dev/stream/162?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://files.cinerama.uz/images/tv_channels/2026/04/30/2877d9e7-7de0-42c8-bbd4-55bc778cc5d7.png",Setanta Sports 1
-https://cdn.itvuz.workers.dev/stream/163?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://files.cinerama.uz/images/tv_channels/2026/04/30/eb700ccc-993a-444b-932a-1fe3660c679d.png",Setanta Sports 2
-https://cdn.itvuz.workers.dev/stream/164?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/04/21//e4caca7c-e6d1-47b1-b0dc-cd71f863daa6-q-500x500.jpeg",viju Sport
-https://cdn.itvuz.workers.dev/stream/165?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2021/06/12//63eac2c32226988efefa615c4431c8d3-q-500x500.jpeg",МАТЧ! Планета
-https://cdn.itvuz.workers.dev/stream/166?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//15df684884f1626180a5621858713890-q-500x500.jpeg",кхл
-https://cdn.itvuz.workers.dev/stream/167?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/28//b4fcec6c6e1287d9b87a3511e6a76925-q-500x500.jpeg",MMA-TV
-https://cdn.itvuz.workers.dev/stream/168?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/31//e6997a17041a3269131b53580685f497-q-500x500.jpeg",Fuel HD
-https://cdn.itvuz.workers.dev/stream/169?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/26//02b4213364cc9b80d6de09655b040143-q-500x500.jpeg",точка отрыва
-https://cdn.itvuz.workers.dev/stream/170?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/12/26//44d4f080aaad6dad5993b644e8b8b526-q-500x500.jpeg",Trace Sport Stars HD
-https://cdn.itvuz.workers.dev/stream/171?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/23//f5905d01d70965ca38335affe0955537-q-500x500.jpeg",Eurosport 1 HD
-https://cdn.itvuz.workers.dev/stream/172?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/06/10//9b5874b4-f57a-4656-894b-961ede33171d-q-500x500.jpeg",Eurosport 2
-https://cdn.itvuz.workers.dev/stream/173?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/03/04//b96b33c4092bae036553ac7be5576869-q-500x500.jpeg",тв3
-https://cdn.itvuz.workers.dev/stream/174?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2019/07/09//f0d4ec7c30f7791ce0fa0a37488b793c-q-500x500.jpeg",Телекафе
-https://cdn.itvuz.workers.dev/stream/175?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/06/30//8c7bd1e4d61de82e1fe7100aa959243c-q-500x500.jpeg",Сарафан
-https://cdn.itvuz.workers.dev/stream/176?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539687248_10_16_2018-q-500x500.jpeg",авто плюс
-https://cdn.itvuz.workers.dev/stream/177?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//f8889a3ab3ad7272a3a60bfa0640d097-q-500x500.jpeg",авто24
-https://cdn.itvuz.workers.dev/stream/178?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/05//171e4f6b988ae2b12a39678422de8516-q-500x500.jpeg",драйв
-https://cdn.itvuz.workers.dev/stream/179?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/8e24713f9b1e4e3416ee664b005b3784-q-500x500.jpeg",Fashion TV
-https://cdn.itvuz.workers.dev/stream/180?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539677465_10_16_2018-q-500x500.jpeg",RuTV
-https://cdn.itvuz.workers.dev/stream/181?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539676973_10_16_2018-q-500x500.jpeg",муз-тв
-https://cdn.itvuz.workers.dev/stream/182?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/1539677657_10_16_2018-q-500x500.jpeg",музыка первого
-https://cdn.itvuz.workers.dev/stream/183?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2026/02/02/2ce8e93583cbf1cbaf1553cc76ddf44f-q-500x500.jpeg",музыка live
-https://cdn.itvuz.workers.dev/stream/184?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2022/11/08//e9a36091c0d357e3d002512a47567846-q-500x500.jpeg",Туган Тел
-https://cdn.itvuz.workers.dev/stream/185?key=zunotv
-#EXTINF:-1 group-title="Inter⚡️Telecom" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/01//429841362f835018bd80861f5c487449-q-500x500.jpeg",TRT Music
-https://cdn.itvuz.workers.dev/stream/186?key=zunotv
+
 
 
 
