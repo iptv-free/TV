@@ -23,8 +23,10 @@ https://cdn.itvuz.workers.dev/stream/14?key=zunotv
 https://cdn.itvuz.workers.dev/stream/70?key=zunotv
 #EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",Asil TV2
 https://cdn.itvuz.workers.dev/stream/71?key=zunotv
-#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",ZTV Cinema
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://apps.usite.pro/ztvkino.jpg",ZTV Cinema
 https://cdn.itvuz.workers.dev/stream/72?key=zunotv
+#EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://apps.usite.pro/ztvkino.jpg",ZTV Kino
+https://cdn.itvuz.workers.dev/stream/73?key=zunotv
 #EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/06/02//d1498a17fd6850c0e7404e9487353cfc-q-500x500.jpeg",Gold Television
 https://cdn.itvuz.workers.dev/stream/36?key=zunotv
 #EXTINF:-1 group-title="🇺🇿 Узбекистан" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg",TTV
