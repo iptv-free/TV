@@ -204,18 +204,23 @@ https://cdn.itvuz.workers.dev/stream/99?key=zunotv
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2023/05/31//bef79f9a9885011ed23a506e8625153d-q-500x500.jpeg",retro
 https://cdn.itvuz.workers.dev/stream/100?key=zunotv
 
-#EXTINF:-1 group-title="Кино 24/7" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",Asil TV
-https://cdn.itvuz.workers.dev/stream/101?key=zunotv
-#EXTINF:-1 group-title="Кино 24/7" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",Asil TV2
-https://cdn.itvuz.workers.dev/stream/102?key=zunotv
-#EXTINF:-1 group-title="Кино 24/7" tvg-logo="https://apps.usite.pro/rasmlar/kids.jpg",Asil Kids
-https://cdn.itvuz.workers.dev/stream/103?key=zunotv
-#EXTINF:-1 group-title="Кино 24/7" tvg-logo="https://apps.usite.pro/rasmlar/kulgu.jpg",Asil Kulgu
-https://cdn.itvuz.workers.dev/stream/104?key=zunotv
-#EXTINF:-1 group-title="Кино 24/7" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",ZTV Cinema 
-https://cdn.itvuz.workers.dev/stream/105?key=zunotv
-#EXTINF:-1 group-title="Кино 24/7" tvg-logo="https://zvukoff.usite.pro/apps/logo.png",ZTV Kino 
-https://cdn.itvuz.workers.dev/stream/106?key=zunotv
+#EXTINF:-1 tvg-id="" tvg-name="Asil TV" tvg-logo="https://zvukoff.usite.pro/apps/logo.png" group-title="Кино 24/7",Asil TV
+https://kinostream4-asil-tv.hf.space/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Asil TV2" tvg-logo="https://zvukoff.usite.pro/apps/logo.png" group-title="Кино 24/7",Asil TV2
+https://kinostream4-asil-tv.hf.space/hls/stream2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Asil Kids" tvg-logo="https://zvukoff.usite.pro/apps/logo.png" group-title="Кино 24/7",Asil Kids
+https://kinostream4-asil-tv2.hf.space/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Asil Kulgu" tvg-logo="https://zvukoff.usite.pro/apps/logo.png" group-title="Кино 24/7",Asil Kulgu
+https://kinostream4-asil-tv2.hf.space/hls/stream2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ZTV Cinema" tvg-logo="https://zvukoff.usite.pro/apps/logo.png" group-title="Кино 24/7",ZTV Cinema
+https://itvuz-live.hf.space/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ZTV Kino" tvg-logo="https://zvukoff.usite.pro/apps/logo.png" group-title="Кино 24/7",ZTV Kino
+https://itvuz-live.hf.space/hls/stream2.m3u8
 
 #EXTINF:-1 group-title="Мульт" tvg-logo="https://iptv.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg",Bolajon
 https://cdn.itvuz.workers.dev/stream/107?key=zunotv
