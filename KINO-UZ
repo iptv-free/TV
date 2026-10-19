@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-10/1792410387_jekrana-2026-10-19-164921.jpg" group-title="Кино-уз (Party-1)",Sirli O'lim / Agadha 2026
+https://s1.kxcdn.ru/Sirli_Olim_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-10/1792385365-1005850221-matchbox-film.webp" group-title="Кино-уз (Party-1)",Matchboks : Xavfli Missiya / Matchbox 2026
+https://s1.kxcdn.ru/Matchbox_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-10/1792321904_jekrana-2026-10-18-161538.jpg" group-title="Кино-уз (Party-1)",Onasining Qizi / Ona va Opa Singillar 2026
+https://s1.kxcdn.ru/Onasining_Qizi_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-10/1792250515-494945510-florist.webp" group-title="Кино-уз (Party-1)",Florist / Gul Sotuvchisi / Gullar 2026
+https://s1.kxcdn.ru/Florist_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-10/1792150237-965949729-skitalec-2.webp" group-title="Кино-уз (Party-1)",So'nggi Buyruq 2 / Sayohatchi 2 / Sargardon 2 / Awarapan 2 2026
+https://s1.kxcdn.ru/Songgi_Buyruq_2_2026_HD_Daxshat.Net.mp4
+#EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-10/1792098061-23104953-vyshka-2.webp" group-title="Кино-уз (Party-1)",Balandlik : Ajal Nuqtasi / Minora 2: Ajal nuqtasi / Balandlik 2 / Noto'g'ri qadam 2: O'lim nuqtasi / Mudhish xato 2026
+https://s1.kxcdn.ru/Balandlik_2_Ajal_Nuqtasi_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-10/1792035357-1931801356-kurer.webp" group-title="Кино-уз (Party-1)",Kuryer / Yuk tashuvchi / Yuguruvchi 2026
 https://s1.kxcdn.ru/Kuryer_2026_HD_Daxshat.Net.mp4
 #EXTINF:-1 tvg-logo="https://daxshat.net/uploads/posts/2026-10/1791833836-6718382-chelovek-pauk-novyy-den.webp" group-title="Кино-уз (Party-1)",O'rgimchak Odam : Yangi Kun 2026
